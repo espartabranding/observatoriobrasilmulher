@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-18T16:38:24.635364+00:00",
- "total": 406,
+ "gerado_em": "2026-10-18T18:39:20.184660+00:00",
+ "total": 418,
  "fontes_lidas": 180,
- "novas": 3,
+ "novas": 12,
  "por_fonte": {
   "saude": 0,
   "agenciagov": 2,
@@ -28,8 +28,8 @@
   "mpba": "não respondeu",
   "mpce": 3,
   "mpdft": 0,
-  "mpes": 5,
-  "mpma": 1,
+  "mpes": 4,
+  "mpma": "não respondeu",
   "mppb": 1,
   "mppr": "não respondeu",
   "mppi": "não respondeu",
@@ -41,7 +41,7 @@
   "dpemg": "não respondeu",
   "dpepr": 0,
   "dpesc": "não respondeu",
-  "dpese": 0,
+  "dpese": "não respondeu",
   "sec-mulher-ba": 7,
   "sec-mulher-ce": 0,
   "sec-mulher-pr": 0,
@@ -51,7 +51,7 @@
   "aen-pr": 0,
   "agenciabahia": 1,
   "agenciace": 0,
-  "agenciapi": 2,
+  "agenciapi": 3,
   "agenciaam": "não respondeu",
   "agenciasc": 2,
   "agenciagoias": 0,
@@ -83,13 +83,13 @@
   "unfpa": 0,
   "opas": 0,
   "onubrasil": 0,
-  "g1": 7,
-  "folha": 7,
+  "g1": 6,
+  "folha": 8,
   "estadao": 3,
-  "oglobo": "feed inválido",
-  "uol": 1,
+  "oglobo": 3,
+  "uol": 0,
   "cnnbrasil": 0,
-  "metropoles": 16,
+  "metropoles": 14,
   "agenciapublica": 2,
   "marieclaire": 3,
   "claudia": 0,
@@ -103,7 +103,7 @@
   "bbcbrasil": 0,
   "terra": 0,
   "veja": 0,
-  "istoe": 0,
+  "istoe": "feed inválido",
   "exame": 0,
   "valor": 0,
   "amazonia-real": 0,
@@ -128,7 +128,7 @@
   "scielo": 0,
   "ac24horas": 14,
   "agazetaac": 11,
-  "tnh1": 1,
+  "tnh1": 2,
   "gazetaweb": 2,
   "selesnafes": 5,
   "diariodoamapa": 5,
@@ -141,7 +141,7 @@
   "infonet": 0,
   "conexaoto": 4,
   "atarde": 2,
-  "bnews": 2,
+  "bnews": 1,
   "portalodia": 2,
   "jornaldebrasilia": 9,
   "maisgoias": 4,
@@ -152,7 +152,7 @@
   "osul": 18,
   "jornalnh": 7,
   "scc10": 1,
-  "odocumento": 1,
+  "odocumento": 0,
   "dgabc": 0,
   "acidadeon": 0,
   "folhape": 2,
@@ -162,24 +162,24 @@
   "emtempo": 5,
   "diariodopara": 5,
   "acritica": 6,
-  "amazonasatual": 4,
+  "amazonasatual": 5,
   "portalamazonia": 2,
   "jc": 0,
   "movimentoeconomico": 0,
   "opovo": 0,
   "diariodonordeste": 1,
   "tribunadonorte": 1,
-  "cidadeverde": 6,
+  "cidadeverde": 8,
   "jornalopcao": 0,
   "campograndenews": 0,
   "bemparana": 0,
-  "ndmais": 6,
-  "nsctotal": 12,
+  "ndmais": 4,
+  "nsctotal": 13,
   "estadodeminas": 0,
   "diariodocomercio": 0,
-  "agazeta": 2,
-  "folhavitoria": 2,
-  "odia": 0,
+  "agazeta": 1,
+  "folhavitoria": 3,
+  "odia": 1,
   "govbr": 0,
   "mdhc-noticias": 3,
   "onumulheres-noticias": 0,
@@ -187,6 +187,223 @@
   "gdelt": 0
  },
  "noticias": [
+  {
+   "titulo": "Homem é morto e mulher fica ferida após ataque de ex-companheiro em Arapiraca",
+   "link": "https://www.tnh1.com.br/noticia/nid/homem-e-morto-e-mulher-fica-ferida-apos-ataque-de-ex-companheiro-em-arapiraca/",
+   "resumo": "None",
+   "data": "2026-10-18T18:05:00+00:00",
+   "fonte": "TNH1",
+   "fonte_id": "tnh1",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "AL",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "276aa52b0451",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "276aa52b0451",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher baleada com três tiros no rosto no Piauí está em estado grave; namorado é suspeito e segue foragido",
+   "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/18/mulher-baleada-estado-grave.ghtml",
+   "resumo": "Viatura da Polícia Civil do Piauí PC-PI A mulher identificada como Clea de Sousa Medeiros, de 33 anos, baleada com cerca de três tiros no rosto na sexta-feira (16), está internada em estado grave e precisou ser entubada. A informação foi repassada pela família da vítima ao g1 neste domingo (18). LEIA TAMBÉM: Mulher é baleada no rosto no Sul do Piauí; namorado é suspeito e fugiu Segundo a Polícia C",
+   "data": "2026-10-18T18:00:25+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PI"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "854e7028f73e",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "854e7028f73e",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Dois motoristas morrem e criança fica ferida em grave acidente na SC-285",
+   "link": "https://www.nsctotal.com.br/seguranca/carro-pega-fogo-apos-colisao-com-moto-na-sc-285-acidente-deixa-dois-mortos-e-crianca-fica-ferida",
+   "resumo": "Uma batida entre um carro e uma moto, neste domingo (18), terminou com dois homens mortos e uma criança gravemente ferida na SC-285, em Turvo, no Sul de Santa Catarina. A colisão provocou um incêndio no automóvel, que foi tomado pelas chamas às margens da rodovia. Segundo o Corpo de Bombeiros, a ocorrência foi registrada […] O post Dois motoristas morrem e criança fica ferida em grave acidente na ",
+   "data": "2026-10-18T17:45:02+00:00",
+   "fonte": "NSC Total (SC)",
+   "fonte_id": "nsctotal",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SC"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "A",
+   "id": "79854f788c35",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "79854f788c35",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem descumpre medida protetiva e é preso com R$ 100 mil em drogas no DF",
+   "link": "https://www.metropoles.com/distrito-federal/homem-descumpre-medida-protetiva-e-e-preso-com-r-100-mil-em-drogas-no-df",
+   "resumo": "Equipes da PMDF apreenderam 29 tabletes de maconha, avaliados em R$ 100 mil, em uma chácara e área de mata em São Sebastião (DF)",
+   "data": "2026-10-18T17:27:07+00:00",
+   "fonte": "Metrópoles",
+   "fonte_id": "metropoles",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "DF"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": "DF",
+   "fonte_regiao": "Centro-Oeste",
+   "editoria": "N",
+   "id": "b33c247eafc7",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "b33c247eafc7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Idosa de 84 anos é amarrada, amordaçada e agredida durante tentativa de roubo dentro de casa no interior de SP",
+   "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/18/idosa-de-84-anos-e-amarrada-amordacada-e-agredida-durante-tentativa-de-roubo-dentro-de-casa-no-interior-de-sp.ghtml",
+   "resumo": "Polícia Civil também solicitou à Justiça a conversão da prisão em flagrante em preventiva Polícia Civil/Divulgação Uma mulher de 84 anos foi encontrada amarrada, amordaçada e com ferimentos no rosto após ser agredida durante uma tentativa de roubo dentro da própria casa, na Rua Major Felício Tarabay, na Vila Nova, na manhã deste domingo (18), em Presidente Prudente (SP). Um homem de 43 anos foi pr",
+   "data": "2026-10-18T17:17:13+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "da907a89db94",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "da907a89db94",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "‘Me escondi por tempo demais’, diz Felca sobre volta às redes sociais",
+   "link": "https://amazonasatual.com.br/me-escondi-por-tempo-demais-diz-felca-sobre-volta-as-redes-sociais/",
+   "resumo": "Influenciador Felca estava afastado das mídias há sete meses, desde a denúncia sobre ‘adultização’ de crianças O post ‘Me escondi por tempo demais’, diz Felca sobre volta às redes sociais apareceu primeiro em AMAZONAS ATUAL .",
+   "data": "2026-10-18T17:10:48+00:00",
+   "fonte": "Amazonas Atual",
+   "fonte_id": "amazonasatual",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AM"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "AM",
+   "fonte_regiao": "Norte",
+   "editoria": "T",
+   "id": "c8f75f578298",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "c8f75f578298",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Procurado por homicídio e estupro em Sergipe é preso em Angra",
+   "link": "https://odia.ig.com.br/angra-dos-reis/2026/10/7313563-procurado-por-homicidio-e-estupro-em-sergipe-e-preso-em-angra.html",
+   "resumo": "Homem de 47 anos foi localizado pela Polícia Militar no bairro Nova Angra após troca de informações e confirmação de mandado judicial.",
+   "data": "2026-10-18T17:06:54+00:00",
+   "fonte": "O Dia (RJ)",
+   "fonte_id": "odia",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "RJ",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "aa68a59476d7",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "aa68a59476d7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem é preso após ameaçar atirar na cabeça de criança no ES",
+   "link": "https://www.folhavitoria.com.br/policia/homem-e-preso-apos-ameacar-atirar-na-cabeca-de-crianca-no-es/",
+   "resumo": "Delegacia Regional de Vila Velha. Foto: Reprodução/TV Vitória Caso aconteceu em Vila Velha, suspeito foi conduzido à delegacia",
+   "data": "2026-10-18T17:00:09+00:00",
+   "fonte": "Folha Vitória (ES)",
+   "fonte_id": "folhavitoria",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "ES"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "ES",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "1bf0c0c44a9b",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "1bf0c0c44a9b",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Carro pega fogo após batida com moto, deixa dois mortos e criança em estado gravíssimo em SC",
+   "link": "https://ndmais.com.br/seguranca/acidente-grave-na-sc-285-mortes-crianca/",
+   "resumo": "Acidente de trânsito mobilizou guarnições do Corpo de Bombeiros e do Samu na manhã deste domingo em Turvo; carro pegou fogo após a batida O post Carro pega fogo após batida com moto, deixa dois mortos e criança em estado gravíssimo em SC apareceu primeiro em ND Mais",
+   "data": "2026-10-18T16:57:14+00:00",
+   "fonte": "ND+ (SC)",
+   "fonte_id": "ndmais",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "A",
+   "id": "0f235ee04fe0",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "0f235ee04fe0",
+   "n_fontes": 1
+  },
   {
    "titulo": "Forte tempestade provoca inundações na Espanha e deixa uma mulher morta",
    "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/18/forte-tempestade-provoca-inundacoes-na-espanha-e-deixa-uma-mulher-morta.htm",
@@ -206,6 +423,31 @@
    "id": "6a04ce0725b7",
    "coletado_em": "2026-10-18T16:38:24.635364+00:00",
    "grupo": "6a04ce0725b7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Adolescente de 12 anos é encontrado morto no Piauí",
+   "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/adolescente-de-12-anos-e-encontrado-morto-no-piaui.shtml",
+   "resumo": "Um adolescente de 12 anos desaparecido desde terça-feira (13) foi encontrado morto no sábado (17), em Teresina (PI), com partes do corpo espalhadas por uma granja desativada no bairro Samapi, na zona leste da capital. Dois adolescentes confessaram participação no homicídio, segundo a Polícia Civil , e foram apreendidos. Leia mais (10/18/2026 - 13h38)",
+   "data": "2026-10-18T16:38:00+00:00",
+   "fonte": "Folha de S.Paulo",
+   "fonte_id": "folha",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PI"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "b40f6521fb92",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "b40f6521fb92",
    "n_fontes": 1
   },
   {
@@ -380,6 +622,33 @@
    "n_fontes": 1
   },
   {
+   "titulo": "Saiba como buscar ajuda da Patrulha Maria da Penha no Piauí",
+   "link": "https://cidadeverde.com/ultimas/464882/saiba-como-buscar-ajuda-da-patrulha-maria-da-penha-no-piaui",
+   "resumo": "Foto: Ascom PM-PI A Patrulha Maria da Penha, da Polícia Militar do Piauí (PM-PI), atua na prevenção da violência doméstica e familiar contra a mulher",
+   "data": "2026-10-18T15:05:00+00:00",
+   "fonte": "Cidade Verde (PI)",
+   "fonte_id": "cidadeverde",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [
+    "PI"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "PI",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "2436476d2ff3",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "d0ee321c770c",
+   "n_fontes": 2
+  },
+  {
    "titulo": "Menina de 14 anos é morta um dia após aniversário; suspeito é o padrasto",
    "link": "https://www.metropoles.com/distrito-federal/na-mira/menina-de-14-anos-e-morta-um-dia-apos-aniversario-suspeito-e-o-padrasto",
    "resumo": "O crime ocorreu em Floresta (PR). O padrasto suspeito de matar a enteada morreu em confronto com a PM; nome dele não foi informado",
@@ -518,6 +787,31 @@
    "n_fontes": 1
   },
   {
+   "titulo": "Dois homens são presos suspeitos de espancar adolescente no PI; Mãe pede justiça",
+   "link": "https://cidadeverde.com/ultimas/464880/dois-homens-sao-presos-suspeitos-de-espancar-adolescente-no-pi-mae-pede-justica",
+   "resumo": "Foto: PC-PI Dois homens foram presos suspeitos de participação na agressão a um adolescente de 17 anos que ficou gravemente ferido e chegou a ser internado na Unidade de Terapia Intensiva (UTI) do Hospital Regional de Valença",
+   "data": "2026-10-18T13:52:00+00:00",
+   "fonte": "Cidade Verde (PI)",
+   "fonte_id": "cidadeverde",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PI"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "PI",
+   "fonte_regiao": "Nordeste",
+   "editoria": "A",
+   "id": "80a4d7d8d472",
+   "coletado_em": "2026-10-18T18:39:20.184660+00:00",
+   "grupo": "80a4d7d8d472",
+   "n_fontes": 1
+  },
+  {
    "titulo": "Patrulha Maria da Penha acompanha mulheres com medidas protetivas no Piauí; saiba como buscar ajuda",
    "link": "https://www.pi.gov.br/patrulha-maria-da-penha-acompanha-mulheres-com-medidas-protetivas-no-piaui-saiba-como-buscar-ajuda/",
    "resumo": "A Patrulha Maria da Penha, da Polícia Militar do Piauí (PM-PI), atua na prevenção da violência doméstica e familiar contra a mulher. O serviço acompanha mulheres que possuem Medidas Protetivas de Urgência, por meio de visitas periódicas, orientações e ações de fiscalização para verificar o cumprimento das determinações judiciais. A iniciativa está presente em todas […]",
@@ -542,7 +836,7 @@
    "id": "d0ee321c770c",
    "coletado_em": "2026-10-18T14:02:45.360627+00:00",
    "grupo": "d0ee321c770c",
-   "n_fontes": 1
+   "n_fontes": 2
   },
   {
    "titulo": "Padrasto é preso suspeito de abusar sexualmente de duas enteadas no interior do Piauí",
