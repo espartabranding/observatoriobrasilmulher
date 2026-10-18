@@ -72,6 +72,8 @@ jobs:
         run: uv run coletor/curar.py
 
       - name: Projetos de lei, autores, programas e decisões
+        timeout-minutes: 12        # API da Câmara lenta não segura a publicação
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: uv run coletor/extrair.py

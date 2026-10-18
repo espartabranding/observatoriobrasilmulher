@@ -83,6 +83,7 @@ def ler_deputado(did: int) -> dict | None:
 
 FOTOS = DATA / "parlamentares-fotos"
 FOTOS_POR_RODADA = 150
+LIMITE_FOTOS_S = 90      # tempo máximo baixando fotos por rodada
 
 
 def baixar_fotos(deps: dict[int, dict]) -> int:
@@ -91,25 +92,25 @@ def baixar_fotos(deps: dict[int, dict]) -> int:
     import urllib.error
     import urllib.request
     FOTOS.mkdir(exist_ok=True)
-    feitas = 0
+    feitas, inicio = 0, time.time()
     for did, d in deps.items():
         arq = FOTOS / f"{did}.jpg"
-        if arq.exists() or not d.get("foto") or feitas >= FOTOS_POR_RODADA:
+        if arq.exists() or not d.get("foto"):
             continue
-        for espera in (0, 5, 20):
-            time.sleep(0.8 + espera)
-            try:
-                req = urllib.request.Request(d["foto"], headers={"User-Agent": "Mozilla/5.0 (compatible; ObservatorioBrasilMulherBot/0.1)"})
-                corpo = urllib.request.urlopen(req, timeout=20).read()
-                if corpo[:3] == b"\xff\xd8\xff":  # JPEG de verdade
-                    arq.write_bytes(corpo)
-                    feitas += 1
+        if feitas >= FOTOS_POR_RODADA or time.time() - inicio > LIMITE_FOTOS_S:
+            break  # o resto fica para as próximas rodadas
+        time.sleep(0.8)
+        try:
+            req = urllib.request.Request(d["foto"], headers={"User-Agent": "Mozilla/5.0 (compatible; ObservatorioBrasilMulherBot/0.1)"})
+            corpo = urllib.request.urlopen(req, timeout=15).read()
+            if corpo[:3] == b"\xff\xd8\xff":  # JPEG de verdade
+                arq.write_bytes(corpo)
+                feitas += 1
+        except urllib.error.HTTPError as e:
+            if e.code == 429:  # a Câmara pediu para esperar: para por aqui nesta rodada
                 break
-            except urllib.error.HTTPError as e:
-                if e.code != 429:
-                    break
-            except Exception:
-                break
+        except Exception:
+            continue
     return feitas
 
 
