@@ -1,0 +1,146 @@
+{
+ "hero": {
+  "artist": "Marcosleal",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg"
+ },
+ "politica": {
+  "artist": "Cayambe",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brasilia_Eixo_Monumental_Nat_Congress_Ministries_from_TV_Tower.jpg"
+ },
+ "economia": {
+  "artist": "Rafael Matsunaga",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sao_Paulo_Stock_Exchange.jpg"
+ },
+ "sociedade": {
+  "artist": "Campus Party Brasil",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Campus_Party_Brasil_2025_-_CPBR17_-_54734990542.jpg"
+ },
+ "tecnologia": {
+  "artist": "Ministério da Ciência, Tecnologia, Inovações e Comunicações",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ministro_participa_da_inaugura%C3%A7%C3%A3o_do_acelerador_de_part%C3%ADculas_Sirius._(30970744907).jpg"
+ },
+ "ambiente": {
+  "artist": "Copel",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Parque_Cutia_Freire_Neto_DJI_0048.jpg"
+ },
+ "leis": {
+  "artist": "Dasfour2022",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Federal_Court_-_Statue.jpg"
+ },
+ "centro-convencoes": {
+  "artist": "Borowskki",
+  "license": "Public domain",
+  "license_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Centro_de_Convencoes_Ulysses_Guimaraes.jpg"
+ },
+ "cidade": {
+  "artist": "Webysther Nunes",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Webysther_20150427002640_-_Edif%C3%ADcios_Terra%C3%A7o_It%C3%A1lia_e_Copan.jpg"
+ },
+ "tse": {
+  "artist": "TSE - Tribunal Superior Eleitoral",
+  "license": "Public domain",
+  "license_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Urna_eletr%C3%B4nica_brasileira_UE2020.jpg"
+ },
+ "congresso-noite": {
+  "artist": "Rodolfo Stuckert",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_do_Brasil_em_noite_de_lua_cheia.jpg"
+ },
+ "dados-rede": {
+  "artist": "Raysonho",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:EthernetSwitch.jpg"
+ },
+ "pcb": {
+  "artist": "Smial (talk)",
+  "license": "FAL",
+  "license_url": "http://artlibre.org/licence/lal/en",
+  "page": "https://commons.wikimedia.org/wiki/File:Leiterbahnen_IMGP2839_smial_wp.jpg"
+ },
+ "universidade": {
+  "artist": "Morio",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Universidade_Federal_do_Parana_4_Curitiba_Parana.jpg"
+ },
+ "seca": {
+  "artist": "Copernicus Sentinel-2 imagery, EK - GD DEFIS, EC - DG DEFIS, SPACETEC PARTNERS, ",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Drought_depletes_Lake_Tef%C3%A9,_Brazil_(P-064379-00-13).jpg"
+ },
+ "real": {
+  "artist": "Oleg Yunakov",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg"
+ },
+ "congresso": {
+  "artist": "Cayambe",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brasilia_National_Congress_Buildings.jpg"
+ },
+ "stf": {
+  "artist": "Falcão Alado",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Supremo_Tribunal_Federal_por_Henrique_Goldenstein_(01).jpg"
+ },
+ "bovespa": {
+  "artist": "Wilfredor",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bovespa,_S%C3%A3o_Paulo_city_downtown.jpg"
+ },
+ "campus2": {
+  "artist": "Campus Party Brasil",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Campus_Party_-_Aracaju_-_VIRA0348_-_54950782739.jpg"
+ },
+ "solar": {
+  "artist": "Kleber Reudo",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Usina_Fotovoltaica_de_Malta.jpg"
+ },
+ "caucaia": {
+  "artist": "MARIA LEDA S. C. DE MIRA",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lagoa_no_Cumbuco,Caucaia,Cear%C3%A1,Brasil.jpg"
+ },
+ "agro": {
+  "artist": "Tiago Firmino Boaven…",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Colheitadeira_de_soja._-_panoramio.jpg"
+ },
+ "uti": {
+  "artist": "Manu Dias / AGECOM",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:UTI_-_Hospital_M%C3%A1rio_Dourado_Sobrinho_-_Irec%C3%AA_-_BA.jpg"
+ }
+}

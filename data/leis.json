@@ -1,0 +1,665 @@
+{
+ "atualizado_em": "2026-10-18",
+ "normas": [
+  {
+   "id": "lei-11340-2006",
+   "nome": "Lei Maria da Penha (Lei 11.340/2006)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Cria mecanismos para coibir a violência doméstica e familiar contra a mulher e define cinco formas de violência: física, psicológica, sexual, patrimonial e moral. Prevê medidas protetivas de urgência, juizados especializados e a rede de atendimento. Foi alterada muitas vezes desde 2006 para ampliar a proteção.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-13827-2019",
+   "nome": "Lei 13.827/2019 — medida protetiva aplicada pela polícia",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Autoriza, nas hipóteses que especifica, que a autoridade policial aplique a medida protetiva de urgência de afastamento do agressor, com comunicação ao juiz. Determina o registro das medidas protetivas em banco de dados mantido pelo Conselho Nacional de Justiça.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13827.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14149-2021",
+   "nome": "Lei 14.149/2021 — Formulário Nacional de Avaliação de Risco",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Institui o Formulário Nacional de Avaliação de Risco, aplicado à mulher vítima de violência doméstica e familiar. O formulário ajuda polícia, Ministério Público e Justiça a medir o risco de nova agressão e a decidir as medidas de proteção.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14149.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14188-2021",
+   "nome": "Lei 14.188/2021 — violência psicológica e Sinal Vermelho",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Cria no Código Penal o crime de violência psicológica contra a mulher e transforma em lei o programa Sinal Vermelho contra a Violência Doméstica, em que a vítima pode pedir ajuda mostrando um X na mão em estabelecimentos parceiros.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14188.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14550-2023",
+   "nome": "Lei 14.550/2023 — medidas protetivas de urgência",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Altera a Lei Maria da Penha para tratar das medidas protetivas de urgência e deixa claro que a causa ou a motivação da violência e a condição do agressor ou da vítima não afastam a aplicação da lei.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14550.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-15383-2026",
+   "nome": "Lei 15.383/2026 — monitoração eletrônica do agressor",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Torna a monitoração eletrônica do agressor (tornozeleira) uma medida protetiva autônoma e fixa critérios de prioridade. A pena por descumprir medida protetiva aumenta de um terço até a metade quando o agressor viola áreas de exclusão monitoradas ou remove o equipamento sem autorização judicial.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15383.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-15384-2026",
+   "nome": "Lei 15.384/2026 — violência vicária e vicaricídio",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Inclui a violência vicária, praticada contra filhos, parentes ou pessoas próximas para atingir a mulher, entre as formas de violência doméstica. Cria o crime de vicaricídio, com pena de 20 a 40 anos de reclusão, e o inclui entre os crimes hediondos.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15384.htm",
+   "publico": "ambos"
+  },
+  {
+   "id": "lei-15409-2026",
+   "nome": "Lei 15.409/2026 — Cadastro Nacional de Condenados por Violência contra a Mulher",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Cria o Cadastro Nacional de Pessoas Condenadas por Violência contra a Mulher (CNVM), um banco de dados sobre condenados. A lei passou a valer 60 dias após a publicação; um artigo foi vetado.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15409.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-15410-2026",
+   "nome": "Lei 15.410/2026 — proteção contra agressores presos ou condenados",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Altera a Lei de Execução Penal para reforçar a proteção da mulher contra novas ameaças ou violências de agressores condenados ou em prisão provisória, e muda a Lei dos Crimes de Tortura.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15410.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-15411-2026",
+   "nome": "Lei 15.411/2026 — afastamento do agressor",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Amplia os motivos para o afastamento do agressor do lar: o risco à integridade sexual, moral ou patrimonial da mulher ou de seus dependentes também passa a justificar a medida.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15411.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-15412-2026",
+   "nome": "Lei 15.412/2026 — medidas protetivas cíveis",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Estabelece que as medidas protetivas de natureza cível valem como título executivo judicial de pleno direito e dispensam a abertura de uma ação principal, o que agiliza o cumprimento.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15412.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-13104-2015",
+   "nome": "Lei do Feminicídio (Lei 13.104/2015)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Incluiu o feminicídio, o assassinato de mulher por razões da condição do sexo feminino, como qualificadora do homicídio e no rol dos crimes hediondos. Em 2024, o pacote antifeminicídio transformou o feminicídio em crime autônomo.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13104.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14994-2024",
+   "nome": "Pacote antifeminicídio (Lei 14.994/2024)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Torna o feminicídio um crime autônomo no Código Penal (art. 121-A), com pena de 20 a 40 anos de reclusão. Também altera a Lei Maria da Penha, a Lei de Execução Penal, a Lei dos Crimes Hediondos e o Código de Processo Penal para endurecer a resposta à violência contra a mulher.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14132-2021",
+   "nome": "Lei do Stalking (Lei 14.132/2021)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Cria o crime de perseguição (art. 147-A do Código Penal): perseguir alguém de forma reiterada, por qualquer meio, inclusive pela internet, ameaçando sua integridade ou restringindo sua liberdade. A pena aumenta quando a vítima é criança, adolescente ou mulher por razões de gênero.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14132.htm",
+   "publico": "ambos"
+  },
+  {
+   "id": "lei-13718-2018",
+   "nome": "Lei 13.718/2018 — importunação sexual",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Tipifica os crimes de importunação sexual e de divulgação de cena de estupro, torna pública incondicionada a ação penal nos crimes contra a liberdade sexual e nos crimes sexuais contra vulnerável e aumenta a pena do estupro coletivo e do estupro corretivo.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13718.htm",
+   "publico": "ambos"
+  },
+  {
+   "id": "lei-13772-2018",
+   "nome": "Lei 13.772/2018 — registro não autorizado da intimidade",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Reconhece que violar a intimidade da mulher é violência doméstica e familiar e cria o crime de registrar, sem autorização, conteúdo com cena de nudez ou ato sexual de caráter íntimo e privado.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13772.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-12737-2012",
+   "nome": "Lei Carolina Dieckmann (Lei 12.737/2012)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Tipifica crimes informáticos, como invadir dispositivo de outra pessoa para obter, alterar ou destruir dados sem autorização. A lei ganhou o apelido por causa do caso da atriz, que teve fotos íntimas copiadas e divulgadas.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm",
+   "publico": "ambos"
+  },
+  {
+   "id": "lei-14245-2021",
+   "nome": "Lei Mariana Ferrer (Lei 14.245/2021)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Proíbe atos que atentem contra a dignidade da vítima e de testemunhas em audiências e julgamentos, com atenção especial aos crimes sexuais, e aumenta a pena do crime de coação no curso do processo.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14245.htm",
+   "publico": "ambos"
+  },
+  {
+   "id": "lei-14192-2021",
+   "nome": "Lei 14.192/2021 — violência política contra a mulher",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Estabelece normas para prevenir, reprimir e combater a violência política contra a mulher e altera o Código Eleitoral, a Lei dos Partidos Políticos e a Lei das Eleições, inclusive sobre a divulgação de fatos ou vídeos falsos na campanha.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14192.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-12845-2013",
+   "nome": "Lei do Minuto Seguinte (Lei 12.845/2013)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Obriga os hospitais a oferecer atendimento emergencial, integral e multidisciplinar às pessoas em situação de violência sexual, com controle e tratamento dos agravos físicos e psíquicos, incluindo a profilaxia da gravidez e de infecções sexualmente transmissíveis.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12845.htm",
+   "publico": "ambos"
+  },
+  {
+   "id": "lei-10778-2003",
+   "nome": "Notificação compulsória da violência contra a mulher (Lei 10.778/2003)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Obriga os serviços de saúde públicos e privados a notificar os casos de violência contra a mulher atendida. Desde a Lei 13.931/2019, os casos com indícios ou confirmação de violência também devem ser comunicados à polícia em até 24 horas.",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.778.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14541-2023",
+   "nome": "Lei 14.541/2023 — Delegacias da Mulher 24 horas",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Dispõe sobre a criação e o funcionamento ininterrupto das Delegacias Especializadas de Atendimento à Mulher (Deam), inclusive em feriados e fins de semana.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14541.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14611-2023",
+   "nome": "Lei da Igualdade Salarial (Lei 14.611/2023)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Dispõe sobre a igualdade salarial e de critérios de remuneração entre mulheres e homens e altera a CLT, com mecanismos de transparência salarial e fiscalização.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14457-2022",
+   "nome": "Programa Emprega + Mulheres (Lei 14.457/2022)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Institui o Programa Emprega + Mulheres, com medidas de apoio à parentalidade, flexibilização do trabalho e qualificação, e prevê ações de prevenção e combate ao assédio sexual e a outras formas de violência no trabalho.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14786-2023",
+   "nome": "Protocolo Não é Não (Lei 14.786/2023)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Cria o protocolo \"Não é Não\" para prevenir o constrangimento e a violência contra a mulher e proteger a vítima em ambientes como casas noturnas, shows e eventos esportivos, e institui o selo \"Não é Não - Mulheres Seguras\".",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14786.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-14448-2022",
+   "nome": "Agosto Lilás (Lei 14.448/2022)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Institui em todo o país o Agosto Lilás, mês de proteção à mulher e de conscientização pelo fim da violência contra a mulher.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14448.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "lei-15336-2026",
+   "nome": "Lei 15.336/2026 — relatórios sobre violência contra as mulheres",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Determina a publicação periódica de relatórios do Registro Unificado de Dados e Informações sobre Violência contra as Mulheres, previsto na Política Nacional de Dados e Informações relacionadas à Violência contra as Mulheres (Lei 14.232/2021).",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15336.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "eca-8069-1990",
+   "nome": "Estatuto da Criança e do Adolescente (Lei 8.069/1990)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Garante a proteção integral de crianças e adolescentes, com prioridade absoluta, e organiza o sistema de garantia de direitos, incluindo os Conselhos Tutelares. Também define crimes contra crianças e adolescentes, como os ligados a material de abuso sexual infantil.",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+   "publico": "criancas"
+  },
+  {
+   "id": "lei-13431-2017",
+   "nome": "Lei da Escuta Protegida (Lei 13.431/2017)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Organiza o sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência. Cria a escuta especializada e o depoimento especial, para que a criança relate o que aconteceu em ambiente protegido e sem ser revitimizada.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm",
+   "publico": "criancas"
+  },
+  {
+   "id": "lei-13010-2014",
+   "nome": "Lei Menino Bernardo (Lei 13.010/2014)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Estabelece o direito da criança e do adolescente de serem educados e cuidados sem o uso de castigos físicos ou de tratamento cruel ou degradante.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13010.htm",
+   "publico": "criancas"
+  },
+  {
+   "id": "lei-14344-2022",
+   "nome": "Lei Henry Borel (Lei 14.344/2022)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Cria mecanismos para a prevenção e o enfrentamento da violência doméstica e familiar contra crianças e adolescentes, com medidas protetivas de urgência inspiradas na Lei Maria da Penha.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
+   "publico": "criancas"
+  },
+  {
+   "id": "lei-14811-2024",
+   "nome": "Lei 14.811/2024 — violência nas escolas e abuso sexual infantil",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Institui medidas de proteção contra a violência em escolas e estabelecimentos similares, cria a Política Nacional de Prevenção e Combate ao Abuso e Exploração Sexual da Criança e do Adolescente e altera o Código Penal, a Lei dos Crimes Hediondos e o ECA.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14811.htm",
+   "publico": "criancas"
+  },
+  {
+   "id": "lei-15211-2025",
+   "nome": "ECA Digital (Lei 15.211/2025)",
+   "tipo": "Lei federal",
+   "orgao": "Congresso Nacional",
+   "situacao": "Em vigor",
+   "resumo": "Estatuto Digital da Criança e do Adolescente: define deveres de proteção de crianças e adolescentes em aplicativos, redes sociais, jogos e outros serviços digitais. Entrou em vigor em 17 de março de 2026.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm",
+   "publico": "criancas"
+  },
+  {
+   "id": "convencao-belem-do-para",
+   "nome": "Convenção de Belém do Pará (Decreto 1.973/1996)",
+   "tipo": "Tratado internacional",
+   "orgao": "Organização dos Estados Americanos (OEA)",
+   "situacao": "Em vigor",
+   "resumo": "Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher, concluída em Belém do Pará em 9 de junho de 1994 e promulgada no Brasil pelo Decreto 1.973, de 1º de agosto de 1996.",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/1996/d1973.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "cedaw",
+   "nome": "CEDAW (Decreto 4.377/2002)",
+   "tipo": "Tratado internacional",
+   "orgao": "Organização das Nações Unidas (ONU)",
+   "situacao": "Em vigor",
+   "resumo": "Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher, de 1979. O Decreto 4.377, de 13 de setembro de 2002, promulgou a convenção e revogou o decreto de 1984.",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/2002/d4377.htm",
+   "publico": "mulheres"
+  },
+  {
+   "id": "stf-adi-4424-adc-19",
+   "nome": "STF — ADI 4424 e ADC 19 (Lei Maria da Penha)",
+   "tipo": "Decisão judicial",
+   "orgao": "Supremo Tribunal Federal",
+   "situacao": "Julgado",
+   "resumo": "Em 9 de fevereiro de 2012, o STF confirmou a constitucionalidade da Lei Maria da Penha e decidiu que a lesão corporal contra a mulher no ambiente doméstico é processada por ação penal pública incondicionada, ou seja, sem depender de representação da vítima.",
+   "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=3897992",
+   "publico": "mulheres"
+  },
+  {
+   "id": "stf-adpf-779",
+   "nome": "STF — ADPF 779 (legítima defesa da honra)",
+   "tipo": "Decisão judicial",
+   "orgao": "Supremo Tribunal Federal",
+   "situacao": "Julgado",
+   "resumo": "Em 1º de agosto de 2023, o STF declarou, por unanimidade, inconstitucional a tese da legítima defesa da honra em casos de feminicídio e de agressões contra mulheres, inclusive no tribunal do júri.",
+   "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6081690",
+   "publico": "mulheres"
+  },
+  {
+   "id": "stf-adpf-54",
+   "nome": "STF — ADPF 54 (gestação de feto anencéfalo)",
+   "tipo": "Decisão judicial",
+   "orgao": "Supremo Tribunal Federal",
+   "situacao": "Julgado",
+   "resumo": "Em 12 de abril de 2012, o STF decidiu, por 8 votos a 2, que a interrupção da gestação de feto anencéfalo não é crime. Basta o diagnóstico médico, sem necessidade de autorização judicial.",
+   "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=2226954",
+   "publico": "mulheres"
+  },
+  {
+   "id": "pl-896-2023",
+   "nome": "PL 896/2023 — criminalização da misoginia",
+   "tipo": "Projeto de lei",
+   "orgao": "Câmara dos Deputados",
+   "situacao": "Em tramitação",
+   "resumo": "Inclui crimes praticados em razão de misoginia na Lei 7.716/1989 (Lei do Racismo) e altera o Código Penal. Aprovado pelo Senado em 24 de março de 2026, chegou à Câmara em 30 de março, teve requerimento de urgência aprovado e recebeu parecer preliminar de plenário em julho de 2026.",
+   "proximo_passo": "Votação no Plenário da Câmara; se o texto for alterado, volta ao Senado.",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612930",
+   "publico": "mulheres",
+   "camara_id": 2612930
+  }
+ ],
+ "marcos": [
+  {
+   "data": "1990-07-13",
+   "norma": "eca-8069-1990",
+   "titulo": "Sancionado o Estatuto da Criança e do Adolescente",
+   "descricao": "O ECA adota a proteção integral de crianças e adolescentes e cria os Conselhos Tutelares.",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+  },
+  {
+   "data": "1996-08-01",
+   "norma": "convencao-belem-do-para",
+   "titulo": "Brasil promulga a Convenção de Belém do Pará",
+   "descricao": "O Decreto 1.973 incorpora ao direito brasileiro a convenção interamericana contra a violência à mulher.",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/1996/d1973.htm"
+  },
+  {
+   "data": "2002-09-13",
+   "norma": "cedaw",
+   "titulo": "Brasil promulga a CEDAW sem as reservas de 1984",
+   "descricao": "O Decreto 4.377 promulga a convenção da ONU contra a discriminação da mulher e revoga o decreto anterior.",
+   "url": "https://www.planalto.gov.br/ccivil_03/decreto/2002/d4377.htm"
+  },
+  {
+   "data": "2003-11-24",
+   "norma": "lei-10778-2003",
+   "titulo": "Criada a notificação compulsória da violência contra a mulher",
+   "descricao": "Serviços de saúde passam a notificar os casos de violência contra mulheres atendidas.",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.778.htm"
+  },
+  {
+   "data": "2006-08-07",
+   "norma": "lei-11340-2006",
+   "titulo": "Sancionada a Lei Maria da Penha",
+   "descricao": "A Lei 11.340 cria mecanismos para coibir a violência doméstica e familiar contra a mulher.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+  },
+  {
+   "data": "2012-02-09",
+   "norma": "stf-adi-4424-adc-19",
+   "titulo": "STF confirma a Lei Maria da Penha",
+   "descricao": "No julgamento da ADI 4424 e da ADC 19, a lesão corporal doméstica passa a ser processada sem depender de representação da vítima.",
+   "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=3897992"
+  },
+  {
+   "data": "2012-04-12",
+   "norma": "stf-adpf-54",
+   "titulo": "STF decide que interromper gestação de feto anencéfalo não é crime",
+   "descricao": "Julgamento da ADPF 54 termina com 8 votos a 2.",
+   "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=2226954"
+  },
+  {
+   "data": "2012-11-30",
+   "norma": "lei-12737-2012",
+   "titulo": "Sancionada a Lei Carolina Dieckmann",
+   "descricao": "Invasão de dispositivo informático passa a ser crime.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm"
+  },
+  {
+   "data": "2013-08-01",
+   "norma": "lei-12845-2013",
+   "titulo": "Sancionada a Lei do Minuto Seguinte",
+   "descricao": "Hospitais devem oferecer atendimento emergencial e integral às vítimas de violência sexual.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12845.htm"
+  },
+  {
+   "data": "2014-06-26",
+   "norma": "lei-13010-2014",
+   "titulo": "Sancionada a Lei Menino Bernardo",
+   "descricao": "Crianças e adolescentes ganham o direito de serem educados sem castigos físicos.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13010.htm"
+  },
+  {
+   "data": "2015-03-09",
+   "norma": "lei-13104-2015",
+   "titulo": "Feminicídio entra no Código Penal",
+   "descricao": "A Lei 13.104 torna o feminicídio qualificadora do homicídio e crime hediondo.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13104.htm"
+  },
+  {
+   "data": "2017-04-04",
+   "norma": "lei-13431-2017",
+   "titulo": "Criada a escuta protegida de crianças vítimas de violência",
+   "descricao": "A Lei 13.431 institui a escuta especializada e o depoimento especial.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm"
+  },
+  {
+   "data": "2018-09-24",
+   "norma": "lei-13718-2018",
+   "titulo": "Importunação sexual vira crime",
+   "descricao": "A Lei 13.718 também torna pública incondicionada a ação penal nos crimes contra a liberdade sexual.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13718.htm"
+  },
+  {
+   "data": "2018-12-19",
+   "norma": "lei-13772-2018",
+   "titulo": "Registro não autorizado da intimidade é criminalizado",
+   "descricao": "A violação da intimidade da mulher passa a ser reconhecida como violência doméstica.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13772.htm"
+  },
+  {
+   "data": "2019-05-13",
+   "norma": "lei-13827-2019",
+   "titulo": "Polícia pode aplicar medida protetiva nas hipóteses previstas",
+   "descricao": "A Lei 13.827 também cria o registro das medidas protetivas em banco de dados do CNJ.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13827.htm"
+  },
+  {
+   "data": "2019-12-10",
+   "norma": "lei-10778-2003",
+   "titulo": "Casos de violência atendidos na saúde devem ser comunicados à polícia",
+   "descricao": "A Lei 13.931 fixa prazo de 24 horas para a comunicação à autoridade policial.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13931.htm"
+  },
+  {
+   "data": "2021-03-31",
+   "norma": "lei-14132-2021",
+   "titulo": "Perseguição (stalking) vira crime",
+   "descricao": "A Lei 14.132 cria o art. 147-A do Código Penal.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14132.htm"
+  },
+  {
+   "data": "2021-05-05",
+   "norma": "lei-14149-2021",
+   "titulo": "Instituído o Formulário Nacional de Avaliação de Risco",
+   "descricao": "O formulário padroniza a avaliação do risco de novas agressões.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14149.htm"
+  },
+  {
+   "data": "2021-07-28",
+   "norma": "lei-14188-2021",
+   "titulo": "Violência psicológica vira crime e Sinal Vermelho vira lei",
+   "descricao": "A Lei 14.188 cria o crime de violência psicológica contra a mulher.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14188.htm"
+  },
+  {
+   "data": "2021-08-04",
+   "norma": "lei-14192-2021",
+   "titulo": "Sancionada a lei contra a violência política de gênero",
+   "descricao": "A Lei 14.192 estabelece normas para combater a violência política contra a mulher.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14192.htm"
+  },
+  {
+   "data": "2021-11-22",
+   "norma": "lei-14245-2021",
+   "titulo": "Sancionada a Lei Mariana Ferrer",
+   "descricao": "Audiências não podem ter atos que atentem contra a dignidade da vítima.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14245.htm"
+  },
+  {
+   "data": "2022-05-24",
+   "norma": "lei-14344-2022",
+   "titulo": "Sancionada a Lei Henry Borel",
+   "descricao": "Crianças e adolescentes ganham mecanismos de proteção contra a violência doméstica.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm"
+  },
+  {
+   "data": "2022-09-09",
+   "norma": "lei-14448-2022",
+   "titulo": "Instituído o Agosto Lilás",
+   "descricao": "Agosto passa a ser o mês nacional de proteção à mulher.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14448.htm"
+  },
+  {
+   "data": "2022-09-21",
+   "norma": "lei-14457-2022",
+   "titulo": "Criado o Programa Emprega + Mulheres",
+   "descricao": "A lei inclui ações de prevenção ao assédio sexual no trabalho.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm"
+  },
+  {
+   "data": "2023-04-03",
+   "norma": "lei-14541-2023",
+   "titulo": "Delegacias da Mulher devem funcionar sem interrupção",
+   "descricao": "A Lei 14.541 prevê funcionamento 24 horas das Deams.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14541.htm"
+  },
+  {
+   "data": "2023-04-19",
+   "norma": "lei-14550-2023",
+   "titulo": "Medidas protetivas ganham regras mais claras",
+   "descricao": "A Lei 14.550 impede que a motivação da violência afaste a Lei Maria da Penha.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14550.htm"
+  },
+  {
+   "data": "2023-07-03",
+   "norma": "lei-14611-2023",
+   "titulo": "Sancionada a Lei da Igualdade Salarial",
+   "descricao": "Mulheres e homens na mesma função devem ter os mesmos critérios de remuneração.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm"
+  },
+  {
+   "data": "2023-08-01",
+   "norma": "stf-adpf-779",
+   "titulo": "STF derruba a tese da legítima defesa da honra",
+   "descricao": "Por unanimidade, a tese é declarada inconstitucional no julgamento de mérito da ADPF 779.",
+   "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6081690"
+  },
+  {
+   "data": "2023-12-28",
+   "norma": "lei-14786-2023",
+   "titulo": "Criado o protocolo Não é Não",
+   "descricao": "Casas noturnas, shows e eventos esportivos passam a ter deveres de proteção às mulheres.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14786.htm"
+  },
+  {
+   "data": "2024-01-12",
+   "norma": "lei-14811-2024",
+   "titulo": "Lei contra a violência nas escolas e o abuso sexual infantil",
+   "descricao": "É criada a Política Nacional de Prevenção e Combate ao Abuso e Exploração Sexual da Criança e do Adolescente.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14811.htm"
+  },
+  {
+   "data": "2024-10-09",
+   "norma": "lei-14994-2024",
+   "titulo": "Feminicídio vira crime autônomo",
+   "descricao": "O pacote antifeminicídio fixa pena de 20 a 40 anos de reclusão.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm"
+  },
+  {
+   "data": "2025-09-17",
+   "norma": "lei-15211-2025",
+   "titulo": "Sancionado o ECA Digital",
+   "descricao": "A lei define deveres de proteção de crianças e adolescentes em ambientes digitais.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm"
+  },
+  {
+   "data": "2026-01-08",
+   "norma": "lei-15336-2026",
+   "titulo": "Dados sobre violência contra mulheres terão relatórios periódicos",
+   "descricao": "A Lei 15.336 obriga a publicação de relatórios do Registro Unificado.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15336.htm"
+  },
+  {
+   "data": "2026-03-17",
+   "norma": "lei-15211-2025",
+   "titulo": "ECA Digital entra em vigor",
+   "descricao": "Serviços digitais passam a ter de cumprir as regras de proteção de crianças e adolescentes.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm"
+  },
+  {
+   "data": "2026-03-24",
+   "norma": "pl-896-2023",
+   "titulo": "Senado aprova a criminalização da misoginia",
+   "descricao": "O PL 896/2023 segue para a Câmara dos Deputados.",
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156025"
+  },
+  {
+   "data": "2026-04-09",
+   "norma": "lei-15384-2026",
+   "titulo": "Violência vicária e vicaricídio entram na lei",
+   "descricao": "A Lei 15.384 cria o crime de vicaricídio, com pena de 20 a 40 anos.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15384.htm"
+  },
+  {
+   "data": "2026-04-09",
+   "norma": "lei-15383-2026",
+   "titulo": "Tornozeleira no agressor vira medida protetiva autônoma",
+   "descricao": "A Lei 15.383 trata da monitoração eletrônica de agressores.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15383.htm"
+  },
+  {
+   "data": "2026-05-20",
+   "norma": "lei-15409-2026",
+   "titulo": "Criado o Cadastro Nacional de Condenados por Violência contra a Mulher",
+   "descricao": "No mesmo dia foram sancionadas as Leis 15.410, 15.411 e 15.412, que reforçam a proteção às vítimas.",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15409.htm"
+  }
+ ]
+}

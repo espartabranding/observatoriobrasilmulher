@@ -1,0 +1,156 @@
+[
+ {
+  "nome": "XVIII Fonavid – Fórum Nacional de Juízas e Juízes de Violência Doméstica e Familiar contra a Mulher",
+  "inicio": "2026-11-09",
+  "fim": "2026-11-13",
+  "cidade": "Fortaleza",
+  "uf": "CE",
+  "formato": "Presencial",
+  "organizador": "Tribunal de Justiça do Ceará (TJCE) e Fonavid",
+  "descricao": "Encontro anual de magistradas, magistrados e equipes multidisciplinares, com o tema \"Estratégias institucionais aplicadas à construção de respostas estruturais no enfrentamento à violência doméstica e familiar contra a mulher\".",
+  "url": "https://www.tjce.jus.br/noticias/fonavid-em-fortaleza-esta-com-inscricoes-abertas-confira-a-programacao/"
+ },
+ {
+  "nome": "21 Dias de Ativismo pelo Fim da Violência contra as Mulheres",
+  "inicio": "2026-11-20",
+  "fim": "2026-12-10",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Ministério das Mulheres e rede de enfrentamento",
+  "descricao": "No Brasil, a campanha começa em 20 de novembro, Dia da Consciência Negra, e termina em 10 de dezembro, Dia Internacional dos Direitos Humanos.",
+  "url": "https://agenciagov.ebc.com.br/noticias/202512/dia-internacional-dos-direitos-humanos-encerra-21-dias-de-ativismo-pelo-fim-da-violencia-contra-as-mulheres-nesta-quarta-feira-10"
+ },
+ {
+  "nome": "Dia Internacional pela Eliminação da Violência contra a Mulher",
+  "inicio": "2026-11-25",
+  "fim": "2026-11-25",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Organização das Nações Unidas",
+  "descricao": "Data instituída pela ONU para mobilizar governos e sociedade pelo fim da violência contra mulheres e meninas.",
+  "url": "https://www.un.org/en/observances/ending-violence-against-women-day"
+ },
+ {
+  "nome": "Dia Nacional de Mobilização dos Homens pelo Fim da Violência contra as Mulheres",
+  "inicio": "2026-12-06",
+  "fim": "2026-12-06",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Lei 11.489/2007",
+  "descricao": "Data instituída pela Lei 11.489/2007 para envolver os homens no enfrentamento da violência contra as mulheres.",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11489.htm"
+ },
+ {
+  "nome": "Dia Internacional dos Direitos Humanos",
+  "inicio": "2026-12-10",
+  "fim": "2026-12-10",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Organização das Nações Unidas",
+  "descricao": "Marca a adoção da Declaração Universal dos Direitos Humanos, em 1948, e encerra os 21 Dias de Ativismo.",
+  "url": "https://www.un.org/en/observances/human-rights-day"
+ },
+ {
+  "nome": "Dia Internacional da Mulher",
+  "inicio": "2027-03-08",
+  "fim": "2027-03-08",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Organização das Nações Unidas",
+  "descricao": "Data da ONU dedicada aos direitos das mulheres e à igualdade de gênero.",
+  "url": "https://www.un.org/en/observances/womens-day"
+ },
+ {
+  "nome": "Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes",
+  "inicio": "2027-05-18",
+  "fim": "2027-05-18",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Lei 9.970/2000",
+  "descricao": "Data instituída pela Lei 9.970/2000 para mobilizar a sociedade contra a violência sexual infantil.",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l9970.htm"
+ },
+ {
+  "nome": "Dia Nacional de Combate ao Trabalho Infantil",
+  "inicio": "2027-06-12",
+  "fim": "2027-06-12",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Lei 11.542/2007",
+  "descricao": "Data instituída pela Lei 11.542/2007.",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11542.htm"
+ },
+ {
+  "nome": "Aniversário do Estatuto da Criança e do Adolescente",
+  "inicio": "2027-07-13",
+  "fim": "2027-07-13",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Lei 8.069/1990",
+  "descricao": "O ECA (Lei 8.069) foi sancionado em 13 de julho de 1990.",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+ },
+ {
+  "nome": "Dia Nacional de Tereza de Benguela e da Mulher Negra",
+  "inicio": "2027-07-25",
+  "fim": "2027-07-25",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Lei 12.987/2014",
+  "descricao": "Data instituída pela Lei 12.987/2014.",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12987.htm"
+ },
+ {
+  "nome": "Agosto Lilás",
+  "inicio": "2027-08-01",
+  "fim": "2027-08-31",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Lei 14.448/2022",
+  "descricao": "Mês nacional de proteção à mulher e de conscientização pelo fim da violência contra a mulher, instituído pela Lei 14.448/2022.",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14448.htm"
+ },
+ {
+  "nome": "Aniversário da Lei Maria da Penha",
+  "inicio": "2027-08-07",
+  "fim": "2027-08-07",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Lei 11.340/2006",
+  "descricao": "A Lei 11.340 foi sancionada em 7 de agosto de 2006.",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+ },
+ {
+  "nome": "Dia Nacional de Luta contra a Violência à Mulher",
+  "inicio": "2027-10-10",
+  "fim": "2027-10-10",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Movimento de mulheres",
+  "descricao": "A data lembra o ato de mulheres nas escadarias do Teatro Municipal de São Paulo, em 10 de outubro de 1980, contra o aumento dos crimes de gênero.",
+  "url": "https://www.tjes.jus.br/dia-nacional-de-luta-contra-a-violencia-a-mulher-44-anos-de-combate-a-desigualdade-e-a-violencia-de-genero"
+ },
+ {
+  "nome": "Dia Internacional da Menina",
+  "inicio": "2027-10-11",
+  "fim": "2027-10-11",
+  "cidade": "Brasil",
+  "uf": "",
+  "formato": "Nacional",
+  "organizador": "Organização das Nações Unidas",
+  "descricao": "Data da ONU dedicada aos direitos das meninas.",
+  "url": "https://www.un.org/en/observances/girl-child-day"
+ }
+]

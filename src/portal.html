@@ -1,0 +1,1769 @@
+<title>Observatório Brasil Mulher · Defesa de mulheres e crianças</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Observatório Brasil Mulher: notícias, leis, dados e canais de ajuda sobre a defesa de mulheres e crianças no Brasil, com fonte em cada notícia, dez editorias e edições regionais.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;500;700;800;900&family=Red+Hat+Text:wght@400;500;600&family=Red+Hat+Mono:wght@400&display=swap">
+<style>
+/* Layout: portal de notícias — slider de largura total com texto sobre a foto, seções abertas em largura total
+   (cabeçalho de seção em cima, conteúdo embaixo), mosaicos de cartões com texto sobre imagem; Plex, cantos retos, azul IBM, setas */
+:root{
+  --bg:#FFFFFF; --layer:#F4F4F4; --layer-hover:#E8E8E8; --card:#FFFFFF; --text:#121212; --text-2:#3D3D3D; --text-3:#5A5A5A;
+  --border:#D4D2DC; --border-strong:#7A7A85; --blue:#8A3FFC; --blue-hover:#6929C4; --link:#6929C4;
+  --p:#002D9C; --e:#8A3800; --s:#9F1853; --t:#0072C3; --a:#198038; --l:#A2191F; --h:#005D5D; --n:#8E6A00; --i:#4D5358; --g:#4F6B00;
+  --font:"Red Hat Text", "Helvetica Neue", Arial, sans-serif;
+  --display:"Red Hat Display", "Helvetica Neue", Arial, sans-serif;
+  --mono:"Red Hat Mono", Menlo, Consolas, monospace;
+  --maxw:1440px; --gap:24px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#161616; --layer:#1F1F1F; --layer-hover:#333333; --card:#262626; --text:#F4F4F4; --text-2:#C6C6C6; --text-3:#A8A8A8;
+    --border:#393939; --border-strong:#6F6F6F; --link:#BE95FF;
+    --p:#78A9FF; --e:#FF832B; --s:#FF7EB6; --t:#33B1FF; --a:#42BE65; --l:#FF8389; --h:#3DDBD9; --n:#F1C21B; --i:#C1C7CD; --g:#B4D455;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#161616; --layer:#1F1F1F; --layer-hover:#333333; --card:#262626; --text:#F4F4F4; --text-2:#C6C6C6; --text-3:#A8A8A8;
+  --border:#393939; --border-strong:#6F6F6F; --link:#BE95FF;
+  --p:#78A9FF; --e:#FF832B; --s:#FF7EB6; --t:#33B1FF; --a:#42BE65; --l:#FF8389; --h:#3DDBD9; --n:#F1C21B; --i:#C1C7CD; --g:#B4D455;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:120px}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:40;background:var(--bg)}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit}
+:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+img{display:block;max-width:100%}
+h1,h2,h3,h4{margin:0;font-weight:400;text-wrap:balance}
+p{margin:0}
+.wrap{max-width:var(--maxw);margin-inline:auto;padding-left:max(24px,env(safe-area-inset-left,0px));padding-right:max(24px,env(safe-area-inset-right,0px))}
+.num{font-variant-numeric:tabular-nums}
+.sr{position:absolute;left:-9999px}
+svg.ic{width:16px;height:16px;flex:none}
+
+/* etiqueta de editoria e data */
+.tag{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:600;letter-spacing:.3px;line-height:1;color:var(--c,var(--text-2));white-space:nowrap}
+.tag::before{content:"";width:8px;height:8px;background:var(--c,var(--text-2))}
+.tag.solid{color:#fff;background:var(--c);padding:6px 12px;border-radius:999px}
+.tag.solid::before{display:none}
+.when{font-size:12px;color:var(--text-3);white-space:nowrap}
+.meta{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+
+/* imagem com crédito */
+.ph{position:relative;overflow:hidden;background:var(--layer)}
+.ph img{width:100%;height:100%;object-fit:cover;transition:transform .6s ease}
+.credit{position:absolute;right:8px;bottom:6px;font-size:10px;color:#fff;opacity:.8;text-shadow:0 1px 2px #000;z-index:4}
+.credit a:hover{text-decoration:underline}
+
+/* botões (Carbon) */
+.btn{display:inline-flex;align-items:center;justify-content:space-between;gap:24px;min-height:48px;padding:13px 22px 13px 24px;border-radius:999px;font:400 14px/1.3 var(--font);letter-spacing:.16px;background:var(--blue);color:#fff;border:1px solid transparent;cursor:pointer;text-align:left}
+.btn:hover{background:var(--blue-hover)}
+.btn.ghost{background:transparent;color:var(--link);border-color:var(--link)}
+.btn.ghost:hover{background:var(--blue);color:#fff;border-color:var(--blue)}
+.btn.white{background:#fff;color:#161616}
+.btn.white:hover{background:#E8E8E8}
+.btn.line-w{background:transparent;color:#fff;border-color:#fff}
+.btn.line-w:hover{background:#fff;color:#161616}
+.btns{display:flex;gap:12px;flex-wrap:wrap}
+
+/* ---------- cabeçalho ---------- */
+.mast{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:var(--bg);border-bottom:1px solid var(--border)}
+.mast .wrap{display:flex;align-items:center;height:64px;gap:8px}
+.brand{display:flex;align-items:center;gap:10px;white-space:nowrap;margin-right:20px}
+.brand .mk{width:30px;height:30px;border-radius:50%;background:var(--blue);color:#fff;display:grid;place-items:center;font-weight:600;font-size:13px}
+.brand b{font-size:18px;font-weight:600}
+.brand span{color:var(--text-2);font-size:13px;border-left:1px solid var(--border);padding-left:10px}
+.mnav{display:flex;height:100%;flex:1}
+.mnav > a,.mnav .dd > button{display:flex;align-items:center;gap:6px;height:100%;padding:0 12px;white-space:nowrap;font-size:14px;color:var(--text-2);background:none;border:0;cursor:pointer}
+.mnav > a:hover,.mnav .dd > button:hover{background:var(--layer);color:var(--text)}
+.dd{position:relative;height:100%}
+.dd-menu{position:absolute;top:100%;left:0;min-width:270px;background:var(--card);box-shadow:0 2px 6px rgba(0,0,0,.3);display:none;padding:8px 0}
+.dd:hover .dd-menu,.dd:focus-within .dd-menu,.dd.open .dd-menu{display:block}
+.dd-menu a{display:flex;align-items:center;gap:10px;padding:11px 16px;font-size:14px}
+.dd-menu a:hover{background:var(--layer-hover)}
+.dd-menu a i{width:8px;height:8px;background:var(--c)}
+.htools{display:flex;align-items:center;height:100%}
+.ibtn{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:none;border:0;color:var(--text);cursor:pointer}
+.ibtn:hover{background:var(--layer)}
+.ibtn svg{width:20px;height:20px}
+.menu-btn{display:none}
+.searchbar{border-top:1px solid var(--border);background:var(--bg)}
+.searchbar input{width:100%;font:400 16px var(--font);padding:16px 24px;border:0;border-bottom:1px solid var(--border-strong);background:var(--layer);color:var(--text)}
+.results{list-style:none;margin:0;padding:0;max-height:320px;overflow:auto}
+.results li button{width:100%;display:flex;gap:12px;align-items:center;padding:12px 24px;border:0;border-bottom:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;text-align:left;font-size:14px}
+.results li button:hover{background:var(--layer)}
+.mobile-nav{border-top:1px solid var(--border);background:var(--bg)}
+.mobile-nav a{display:block;padding:12px 24px;border-bottom:1px solid var(--border);font-size:14px}
+.lnav{border-bottom:1px solid var(--border);background:var(--bg)}
+.lnav .wrap{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+.lnav .wrap::-webkit-scrollbar{display:none}
+.lnav a{flex:none;padding:12px 14px 10px;font-size:14px;font-weight:600;color:var(--c,var(--text-2));border-bottom:2px solid transparent;white-space:nowrap}
+.lnav a:hover{background:var(--layer)}
+.lnav a.on{border-bottom-color:var(--c,var(--blue))}
+.lnav small{align-self:center;font-size:12px;color:var(--text-3);margin-right:8px;white-space:nowrap}
+
+/* ---------- slider ---------- */
+.hero{position:relative;height:clamp(540px,76vh,760px);background:#000;color:#fff;overflow:hidden}
+.slide{position:absolute;inset:0;opacity:0;visibility:hidden;transition:opacity .8s ease,visibility .8s}
+.slide.on{opacity:1;visibility:visible}
+.slide > .ph{position:absolute;inset:0;background:#000}
+.slide > .ph img{transform:scale(1.04);transition:transform 8s ease}
+.slide.on > .ph img{transform:scale(1)}
+.slide > .ph::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.9) 0%,rgba(0,0,0,.72) 50%,rgba(0,0,0,.35) 100%),linear-gradient(0deg,rgba(0,0,0,.8) 0%,rgba(0,0,0,0) 50%)}
+.slide .wrap{position:relative;z-index:2;height:100%;display:flex;flex-direction:column;justify-content:center;padding-bottom:110px}
+.slide .txt{max-width:760px;display:flex;flex-direction:column;gap:22px}
+.slide h1,.slide h2{font-size:clamp(34px,5vw,64px);font-weight:300;line-height:1.1;letter-spacing:-.5px}
+.slide p.ld{font-size:clamp(16px,1.5vw,20px);color:rgba(255,255,255,.86);max-width:56ch;line-height:1.5}
+.slide .when{color:rgba(255,255,255,.8)}
+.slide .credit{top:10px;bottom:auto}
+.hero-ctrl{position:absolute;left:0;right:0;bottom:0;z-index:5;background:linear-gradient(0deg,rgba(0,0,0,.6),rgba(0,0,0,0))}
+.hero-ctrl .wrap{display:flex;align-items:stretch;gap:24px}
+.dots{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;flex:1;min-width:0}
+.dot{background:none;border:0;color:rgba(255,255,255,.65);text-align:left;padding:14px 0 22px;cursor:pointer;font-size:13px;line-height:1.35;position:relative;min-width:0}
+.dot::before{content:"";position:absolute;left:0;right:0;top:0;height:3px;background:rgba(255,255,255,.3)}
+.dot i{position:absolute;left:0;top:0;height:3px;width:0;background:#fff}
+.dot.on{color:#fff}
+.dot.on i{animation:prog var(--dur,7s) linear forwards}
+.hero.paused .dot.on i{animation-play-state:paused}
+.dot span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.dot b{display:block;font-size:11px;font-weight:600;letter-spacing:.3px;margin-bottom:4px}
+@keyframes prog{to{width:100%}}
+.hbtns{display:flex;align-items:flex-start;gap:8px;padding-top:14px}
+.hbtns button{width:48px;height:48px;border-radius:50%;background:rgba(255,255,255,.14);border:0;color:#fff;cursor:pointer;display:grid;place-items:center}
+.hbtns button:hover{background:#fff;color:#161616}
+.hbtns svg{width:18px;height:18px}
+
+/* ---------- seções ---------- */
+.sec{padding-block:80px}
+.sec.gray{background:var(--layer)}
+.sh{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;flex-wrap:wrap;margin-bottom:32px}
+.sh .eye{font-size:14px;color:var(--text-2);margin-bottom:8px;display:block}
+.sh h2{font-size:clamp(28px,3vw,40px);font-weight:300;line-height:1.2}
+.sh p{color:var(--text-2);max-width:60ch;margin-top:8px}
+.sh .lnk{display:inline-flex;align-items:center;gap:8px;color:var(--link);font-size:14px}
+.sh .lnk:hover{text-decoration:underline}
+
+/* tabs */
+.tabs{display:flex;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid var(--border)}
+.tabs::-webkit-scrollbar{display:none}
+.tabs button{flex:none;background:none;border:0;border-bottom:2px solid transparent;margin-bottom:-1px;padding:12px 16px;font-size:14px;color:var(--text-2);cursor:pointer}
+.tabs button:hover{color:var(--text);border-bottom-color:var(--border-strong)}
+.tabs button[aria-selected="true"]{color:var(--link);font-weight:600;border-bottom-color:var(--blue)}
+
+/* cartão com texto sobre imagem */
+.ov{position:relative;display:block;width:100%;min-height:280px;color:#fff;background:#000;border:0;padding:0;cursor:pointer;text-align:left;overflow:hidden;font:inherit}
+.ov > .ph{position:absolute;inset:0}
+.ov > .ph::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.25) 0%,rgba(0,0,0,.6) 40%,rgba(0,0,0,.93) 100%)}
+.ov .in{position:absolute;left:0;right:0;bottom:0;padding:24px;z-index:2;display:flex;flex-direction:column;gap:12px}
+.ov h3{font-size:22px;font-weight:400;line-height:1.3}
+.ov.xl h3{font-size:clamp(26px,2.6vw,36px);font-weight:300}
+.ov p{font-size:15px;color:rgba(255,255,255,.85)}
+.ov .when{color:rgba(255,255,255,.8)}
+.ov:hover > .ph img{transform:scale(1.05)}
+.ov:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+.ov .arr{position:absolute;right:20px;top:20px;z-index:2;width:40px;height:40px;border-radius:50%;background:var(--blue);display:grid;place-items:center;opacity:0;transition:opacity .2s}
+.ov:hover .arr,.ov:focus-visible .arr{opacity:1}
+
+/* cartão padrão: imagem em cima, texto embaixo */
+.card{display:flex;flex-direction:column;gap:12px;background:var(--card);color:var(--text);text-align:left;border:0;padding:0 0 24px;font:inherit;cursor:pointer;width:100%;min-width:0}
+.card > .ph{aspect-ratio:16/10}
+.card > *:not(.ph){padding-inline:20px}
+.card .meta{margin-top:8px}
+.card h3{font-size:20px;line-height:1.35}
+.card h4{font-size:17px;line-height:1.4}
+.card p{font-size:14.5px;color:var(--text-2);line-height:1.5}
+.card .go{margin-top:auto;color:var(--link);display:flex;align-items:center;gap:8px;font-size:14px;padding-top:8px}
+.card:hover > .ph img{transform:scale(1.04)}
+.card:hover h3,.card:hover h4{color:var(--link)}
+.sec:not(.gray) .card{background:var(--layer)}
+.card .cico{width:30px;height:30px;color:var(--c);padding-inline:20px;box-sizing:content-box}
+.card.static{cursor:default}
+.card.static:hover h4{color:inherit}
+
+/* grades */
+.g2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--gap)}
+.g3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--gap)}
+.g4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--gap)}
+.mosaic{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr) minmax(0,1fr);grid-template-rows:280px 280px;gap:var(--gap)}
+.mosaic > :first-child{grid-row:1/3}
+.mosaic .ov{min-height:0;height:100%}
+
+/* indicadores */
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--gap)}
+.stat{border-top:2px solid var(--c);padding-top:20px;display:flex;flex-direction:column;gap:10px}
+.stat b{font-size:clamp(36px,3.6vw,52px);font-weight:300;line-height:1;letter-spacing:-.5px;font-variant-numeric:tabular-nums}
+.stat p{font-size:14.5px;color:var(--text-2)}
+
+/* editorias */
+.edblock{padding-block:72px}
+.edblock:nth-child(even){background:var(--layer)}
+.edblock:nth-child(odd) .card{background:var(--layer)}
+.eh{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:24px;align-items:end;margin-bottom:32px;padding-bottom:20px;border-bottom:2px solid var(--c)}
+.eh .hash{font-size:15px;font-weight:600;color:var(--c)}
+.eh h2{font-size:clamp(28px,3vw,40px);font-weight:300;line-height:1.2;margin-top:4px}
+.eh p{color:var(--text-2);margin-top:8px;max-width:66ch}
+.chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:flex-end}
+.chips span{font-size:12px;border:1px solid var(--border-strong);color:var(--text-2);padding:4px 12px;border-radius:24px}
+.edgrid{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:var(--gap)}
+.edgrid .ov{min-height:460px}
+.edside{display:flex;flex-direction:column;gap:var(--gap)}
+.hcard{display:grid;grid-template-columns:140px minmax(0,1fr);gap:16px;background:var(--card);border:0;padding:0;text-align:left;cursor:pointer;font:inherit;color:var(--text);flex:1;min-height:0}
+.edblock:nth-child(odd) .hcard{background:var(--layer)}
+.hcard .ph{height:100%;min-height:150px}
+.hcard div.b{padding:16px 16px 16px 0;display:flex;flex-direction:column;gap:8px}
+.hcard h4{font-size:16px;line-height:1.4}
+.hcard:hover h4{color:var(--link)}
+.edfoot{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:var(--gap);margin-top:var(--gap)}
+.box{background:var(--card);padding:20px;display:flex;flex-direction:column;gap:8px}
+.edblock:nth-child(odd) .box{background:var(--layer)}
+.box.ph img{position:absolute;inset:0}
+.box .eye{font-size:12px;font-weight:600;color:var(--c);letter-spacing:.3px}
+.box h4{font-size:17px;line-height:1.35}
+.box p{font-size:14px;color:var(--text-2)}
+.colav{width:40px;height:40px;border-radius:50%;border:1px dashed var(--c);display:grid;place-items:center;color:var(--c);font-weight:600}
+.badge{font-size:12px;color:#0E6027;background:#DEFBE6;padding:2px 8px;border-radius:24px}
+.rede h4{font-size:13px;font-weight:600;margin-bottom:4px}
+.rlist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 32px}
+.rlist.one{grid-template-columns:minmax(0,1fr)}
+.rlist.three{grid-template-columns:repeat(3,minmax(0,1fr))}
+.ri{display:grid;grid-template-columns:24px minmax(0,1fr);column-gap:12px;row-gap:3px;padding:12px 0;border-top:1px solid var(--border)}
+.ri > .rico{grid-row:1/3;color:var(--c,var(--link));padding-top:2px}
+.ri > .rico svg{width:22px;height:22px;display:block}
+.ri a{font-size:14.5px;line-height:1.4;color:var(--text)}
+.ri a:hover{color:var(--link);text-decoration:underline}
+.ri small{font-size:12px;color:var(--text-3)}
+
+/* radar */
+.filters{display:flex;gap:1px;flex-wrap:wrap;margin-bottom:20px;background:var(--border);border:1px solid var(--border)}
+.filters input[type=search],.filters select{font:400 14px var(--font);padding:14px 16px;border:0;background:var(--card);color:var(--text);min-width:0}
+.filters input[type=search]{flex:1 1 320px}
+.filters label.ck{display:flex;align-items:center;gap:8px;padding:0 16px;font-size:14px;color:var(--text-2);background:var(--card)}
+.rmeta{font-size:14px;color:var(--text-2);margin-bottom:8px}
+.more{margin-top:28px}
+
+/* conselho */
+.q{font-size:18px;font-weight:300;line-height:1.45;border-left:2px solid var(--c);padding-left:16px}
+/* ---------- verticais ---------- */
+.verts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--gap)}
+.vert{position:relative;border-radius:20px;overflow:hidden;min-height:440px;display:flex;color:#fff;background:#0b0d17}
+.vert > img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .6s}
+@media (hover:hover){.vert:hover > img{transform:scale(1.04)}}
+.vert::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,9,20,.55) 0%,rgba(7,9,20,.82) 45%,rgba(7,9,20,.96) 100%)}
+.vin{position:relative;z-index:1;margin-top:auto;padding:28px;display:flex;flex-direction:column;gap:10px;width:100%}
+.vin .eye{color:#9fe3ff}
+.vin h3{font-family:var(--display);font-size:32px;font-weight:300;margin:0}
+.vin h3 a{color:#fff}
+.vin > p{margin:0;color:#d5d9ee;font-size:15px;line-height:1.5}
+.vin ul{list-style:none;margin:6px 0 4px;padding:0;display:flex;flex-direction:column;gap:9px}
+.vin li{display:flex;flex-direction:column;gap:2px;border-top:1px solid rgba(255,255,255,.14);padding-top:9px}
+.vin li a{color:#fff;font-size:14.5px;line-height:1.4}
+.vin li a:hover{text-decoration:underline}
+.vin li small{color:#aab2d6;font-size:12px}
+.vin .btn{align-self:flex-start;margin-top:6px}
+@media (max-width:900px){.verts{grid-template-columns:minmax(0,1fr)}}
+/* ---------- quem protege (cards da rede de proteção) ---------- */
+.xllm{padding-block:var(--sec,72px)}
+.xgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--gap)}
+.xcard{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:20px;display:flex;flex-direction:column;gap:12px;
+  -webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);box-shadow:0 18px 40px rgba(0,0,0,.35);transition:border-color .25s,box-shadow .25s,transform .25s}
+@media (hover:hover){.xcard:hover{border-color:rgba(190,149,255,.6);box-shadow:0 0 30px rgba(138,63,252,.3),0 18px 40px rgba(0,0,0,.4);transform:translateY(-3px)}}
+.xcard header{display:flex;gap:12px;align-items:center}
+.xlogo{width:52px;height:52px;border-radius:14px;background:#fff;display:flex;align-items:center;justify-content:center;flex:none;overflow:hidden}
+.xlogo img{width:34px;height:34px;object-fit:contain}
+.xlogo b{font:800 18px var(--display);color:#0d1020}
+.xcard h3{font-family:var(--display);font-size:21px;font-weight:700;margin:0;color:#fff}
+.xcard header small{color:var(--text-3);font-size:13px}
+.xcard .xtop{margin:0;font:300 22px/1.2 var(--display);color:#fff}
+.xtop small,.xbar small,.xult small{display:block;font:600 11.5px var(--font,inherit);letter-spacing:.06em;text-transform:uppercase;color:#BE95FF;margin-bottom:3px}
+.xchips{display:flex;flex-wrap:wrap;gap:8px}
+.xchips span{display:flex;flex-direction:column;background:rgba(138,63,252,.12);border:1px solid rgba(190,149,255,.28);border-radius:10px;padding:6px 10px;font-size:14px;font-weight:600;color:#D4BBFF}
+.xchips span small{font-size:10.5px;font-weight:500;color:var(--text-3);text-transform:uppercase;letter-spacing:.04em}
+.xcard ul{margin:0;padding-left:18px;color:var(--text-2);font-size:14px;line-height:1.5}
+.xcard > p{margin:0;color:var(--text-2);font-size:14px;line-height:1.5}
+.xbar{font-size:13.5px!important}
+.xbar small{display:inline!important;margin-right:4px}
+.xult{margin-top:auto;padding-top:12px;border-top:1px solid var(--border);color:var(--text);font-size:14px;line-height:1.4}
+.xult:hover{color:var(--link)}
+.xllm .sh a{color:var(--link);text-decoration:underline}
+@media (max-width:1100px){.xgrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:672px){.xgrid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:12px;margin-inline:-16px;padding:0 16px 8px;scrollbar-width:none}
+  .xgrid::-webkit-scrollbar{display:none}.xcard{flex:0 0 84%;scroll-snap-align:start}}
+/* ---------- logos nas abas ---------- */
+#llmTabs button{display:inline-flex;align-items:center;gap:7px}
+.ltab{height:16px;width:auto;max-width:56px;object-fit:contain}
+.ltab.marca{height:15px;max-width:90px}
+.ri.lli{grid-template-columns:32px minmax(0,1fr)}
+.lli .lbox{grid-row:1/3;width:32px;height:32px;border-radius:8px;background:#fff;border:1px solid var(--border);display:flex;align-items:center;justify-content:center;overflow:hidden}
+.lico{width:22px;height:22px;object-fit:contain}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .ltab.mono{filter:invert(1)}}
+:root[data-theme="dark"] .ltab.mono{filter:invert(1)}
+/* ---------- painel da IA no Brasil ---------- */
+.tech{position:relative;overflow:hidden;isolation:isolate;color:#F4F4F4;
+  background:radial-gradient(90% 120% at 100% 0%,rgba(138,63,252,.22) 0%,transparent 55%),#0B0B10;
+  --bg:#0B0B10;--layer:#17171F;--card:rgba(23,23,31,.78);--text:#F4F4F4;--text-2:#C6C6CF;--text-3:#9A9AA6;
+  --border:#2A2A35;--border-strong:#55555F;--link:#BE95FF;--blue:#8A3FFC}
+.tech > .wrap,.tech > main{position:relative;z-index:1}
+.tech > .techbg{z-index:0}
+.tech .eye{color:var(--link)}
+.tech h2{color:#fff}
+.tech .sh p{color:var(--text-2)}
+.tech .pcard{background:var(--card);border-color:var(--border);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);
+  box-shadow:0 0 0 1px rgba(255,255,255,.02) inset,0 18px 40px rgba(0,0,0,.35);transition:border-color .25s,box-shadow .25s,transform .25s}
+@media (hover:hover){.tech .pcard:hover{border-color:rgba(190,149,255,.6);box-shadow:0 0 28px rgba(138,63,252,.28),0 18px 40px rgba(0,0,0,.4);transform:translateY(-2px)}}
+.tech .pcard .ph2{border-bottom-color:transparent;background:linear-gradient(90deg,#8A3FFC,#BE95FF,#4589FF) bottom/100% 2px no-repeat}
+.tech .pl a{color:var(--text)}
+.tech .pl .pv{color:#BE95FF}
+.tech .sit{border-color:#f1c21b;color:#f1c21b}
+.tech .lg{border-color:rgba(255,255,255,.12)}
+
+
+.painel{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--gap)}
+.pcard{background:var(--card,var(--bg));border:1px solid var(--border);border-radius:16px;padding:20px;display:flex;flex-direction:column;gap:10px}
+.pcard .ph2{border-bottom:2px solid var(--blue);padding-bottom:10px}
+.pcard h3{font-family:var(--display);font-size:20px;font-weight:700;margin:0}
+.pcard .ph2 a:hover h3{color:var(--link)}
+.pcard .ph2 span{font-size:13px;color:var(--text-2)}
+.pl{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.pl li{display:flex;flex-direction:column;gap:2px;font-size:14.5px;line-height:1.4}
+.pl a:hover{color:var(--link)}
+.pl small{font-size:12.5px;color:var(--text-3)}
+.pl li.plg{flex-direction:row;gap:10px;align-items:center}
+.pl li.plg > div{display:flex;flex-direction:column;gap:2px;min-width:0}
+.lg{width:48px;height:48px;border-radius:10px;background:#fff;border:1px solid var(--border);display:inline-flex;align-items:center;justify-content:center;overflow:hidden;flex:none;font:700 13px var(--display);color:#fff}
+.lg img{width:100%;height:100%;object-fit:contain;padding:4px}
+.lg.ini{border:0}
+.pl .pv{color:var(--link);font-weight:700;white-space:nowrap}
+.pst{margin:0;font-size:14.5px}.pmeta{margin:0;font-size:13.5px;color:var(--text-2);line-height:1.45}
+.sit{display:inline-block;font-size:12px;font-weight:600;padding:2px 10px;border-radius:999px;border:1px solid #f1c21b;color:#8e6a00}
+.pmais{margin-top:auto;font-size:14px;font-weight:600;color:var(--link)}
+@media (max-width:1100px){.painel{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:672px){.painel{grid-template-columns:minmax(0,1fr)}}
+/* ---------- dados e guias ---------- */
+.dados-g{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--gap)}
+.card.dado{display:block;background:var(--card,var(--bg));border-radius:16px;padding:20px;text-decoration:none;color:var(--text);border:1px solid var(--border)}
+.card.dado h3{font-family:var(--display);font-size:18px;font-weight:700;margin:0 0 6px}
+.card.dado p{font-size:14px;line-height:1.5;color:var(--text-2);margin:0}
+.card.dado:hover{border-color:var(--blue)}
+.card.dado:hover h3{color:var(--link)}
+@media (max-width:1100px){.dados-g{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:520px){.dados-g{grid-template-columns:minmax(0,1fr)}}
+/* ---------- direitos que você tem ---------- */
+.vqs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--gap)}
+.vq{margin:0;background:var(--layer);border-radius:16px;padding:24px;display:flex;flex-direction:column;gap:18px}
+.vq blockquote{margin:0;font-size:17px;font-weight:300;line-height:1.5;border-left:2px solid var(--blue);padding-left:14px}
+.vq figcaption{display:flex;flex-direction:column;gap:4px;margin-top:auto;font-size:14px}
+.vq figcaption span{color:var(--text-2)}
+.vq figcaption small{color:var(--text-3);font-size:12.5px;line-height:1.4}
+.vq figcaption a{font-size:12.5px;color:var(--link);margin-top:4px}
+@media (max-width:1100px){.vqs{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:672px){.vqs{grid-template-columns:minmax(0,1fr)}}
+
+/* faixa com foto (fórum e newsletter) */
+.band{position:relative;color:#fff;overflow:hidden;background:#000}
+.band > .ph{position:absolute;inset:0}
+.band > .ph::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.93) 0%,rgba(0,0,0,.8) 55%,rgba(0,0,0,.6) 100%)}
+.band .wrap{position:relative;z-index:2;padding-block:96px}
+.band h2{font-size:clamp(32px,4vw,52px);font-weight:300;line-height:1.15;max-width:18ch}
+.band p.ld{font-size:18px;color:rgba(255,255,255,.85);max-width:60ch;margin-top:16px}
+.forum{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:start}
+.steps{list-style:none;margin:0;padding:0}
+.steps li{display:grid;grid-template-columns:72px minmax(0,1fr);gap:12px;padding:14px 0;border-top:1px solid rgba(255,255,255,.3);font-size:15px}
+.steps b{font-family:var(--mono);font-weight:400;font-size:14px;color:rgba(255,255,255,.7)}
+.cal{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:1px;background:rgba(255,255,255,.25);border:1px solid rgba(255,255,255,.25);margin-top:48px}
+.cal article{background:rgba(22,22,22,.78);padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0;backdrop-filter:blur(6px)}
+.cal .m{font-family:var(--mono);font-size:12px;color:rgba(255,255,255,.7)}
+.cal h4{font-size:14px;line-height:1.4}
+.note{font-size:12px;color:var(--text-3);margin-top:12px}
+.band .note{color:rgba(255,255,255,.7)}
+.nl{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:center}
+.nl-form{display:flex;flex-direction:column;gap:16px}
+.nl-row{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:12px}
+.nl-form input,.nl-form select{width:100%;font:400 15px var(--font);padding:15px 22px;border:0;border-radius:999px;background:#fff;color:#161616;min-width:0}
+.fl{display:flex;flex-direction:column}
+.msg{font-size:14px;color:rgba(255,255,255,.85);min-height:1.4em}
+
+/* explorar */
+.explore{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--gap)}
+.explore a{background:var(--layer);padding:24px 20px;display:flex;flex-direction:column;justify-content:space-between;gap:32px;font-size:18px;min-height:150px}
+.explore a:hover{background:var(--layer-hover)}
+.explore svg{width:28px;height:28px;color:var(--link)}
+.explore span{display:flex;justify-content:space-between;align-items:center}
+
+/* rodapé */
+footer{background:#161616;color:#C6C6C6}
+footer .wrap{padding-block:56px 24px}
+.fgrid{display:grid;grid-template-columns:1.4fr repeat(4,minmax(0,1fr));gap:32px;padding-bottom:40px}
+footer h4{color:#F4F4F4;font-size:14px;font-weight:600;margin-bottom:16px}
+footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px;font-size:14px}
+footer ul a:hover{color:#fff;text-decoration:underline}
+footer .brand b{color:#F4F4F4}
+footer .brand span{color:#C6C6C6;border-color:#525252}
+.about-f{font-size:14px;margin-top:16px;max-width:36ch}
+.credits{font-size:12px;line-height:1.7;border-top:1px solid #393939;padding-top:20px;color:#A8A8A8}
+.credits a{text-decoration:underline}
+.credits summary{cursor:pointer;width:max-content;max-width:100%}
+.credits summary:hover{color:#fff}
+.credits details p{margin-top:8px}
+.legal{display:flex;gap:16px;flex-wrap:wrap}.legal a:hover{color:#fff;text-decoration:underline}
+.copy{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:12px;padding-top:16px;color:#A8A8A8}
+
+/* leitor */
+[hidden]{display:none!important}
+.reader{position:fixed;inset:0;z-index:60;background:rgba(22,22,22,.6);display:flex;justify-content:center;align-items:flex-start;overflow:auto;padding:max(48px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) 32px max(16px,env(safe-area-inset-left,0px))}
+.reader-box{background:var(--card);color:var(--text);max-width:820px;width:100%;position:relative;margin-block:auto}
+.rhead{position:relative;min-height:340px;color:#fff;display:flex;align-items:flex-end;background:#000}
+.rhead > .ph{position:absolute;inset:0}
+.rhead > .ph::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.4) 0%,rgba(0,0,0,.92) 100%)}
+.rhead .in{position:relative;z-index:2;padding:28px 32px;display:flex;flex-direction:column;gap:12px}
+.rhead h2{font-size:clamp(24px,3vw,34px);font-weight:300;line-height:1.25}
+.rhead .when{color:rgba(255,255,255,.8)}
+.rbody{padding:28px 32px 32px;display:flex;flex-direction:column;gap:16px}
+.rbody .txt{font-size:17px;line-height:1.65}
+.rbody .ran p{font-size:16.5px;line-height:1.7;margin:0 0 16px;color:var(--text-2)}
+.why{background:var(--layer);border-left:3px solid var(--blue);padding:16px}
+.why b{display:block;font-size:12px;font-weight:600;color:var(--link);margin-bottom:4px}
+.srcs{font-size:14px;color:var(--text-2)}
+.srcs a{color:var(--link);text-decoration:underline}
+.rh{font-family:var(--display);font-size:13px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--link);margin-top:8px;display:block}
+.rk{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.rk div{background:var(--layer);padding:14px 16px;border-radius:12px;display:flex;flex-direction:column;gap:4px}
+.rk b{font-family:var(--display);font-size:24px;font-weight:300;line-height:1.1;font-variant-numeric:tabular-nums}
+.rk span{font-size:13px;color:var(--text-2);line-height:1.4}
+.rbl{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px;font-size:15.5px}
+.rof{border:1px solid var(--border);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:10px}
+.rof blockquote{margin:0;font-family:var(--display);font-size:20px;font-weight:300;line-height:1.4;border-left:3px solid var(--blue);padding-left:14px}
+.rof p{font-size:15px;color:var(--text-2)}
+.lnkp{display:inline-flex;align-items:center;gap:8px;color:var(--link);font-size:14px;font-weight:600}
+.lnkp:hover{text-decoration:underline}
+.rtl{list-style:none;margin:0;padding:0;border-left:2px solid var(--border);margin-left:6px}
+.rtl li{position:relative;padding:0 0 14px 20px;display:flex;flex-direction:column;gap:2px;font-size:15px}
+.rtl li::before{content:"";position:absolute;left:-7px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--blue)}
+.rtl b{font-family:var(--display);font-size:13px;font-weight:800;color:var(--link)}
+.rnx{background:var(--layer);border-radius:12px;padding:16px;font-size:15px}
+.rnx b{display:block;font-family:var(--display);font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;margin-bottom:4px}
+.rsrc{display:flex;flex-wrap:wrap;gap:8px}
+.rsrc a{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--border-strong);border-radius:999px;padding:8px 14px;font-size:14px;font-weight:600}
+.rsrc a:hover{border-color:var(--link);color:var(--link)}
+.bt .btn-num{font-family:var(--display);font-size:34px;font-weight:300;line-height:1;letter-spacing:-.02em;color:var(--link);font-variant-numeric:tabular-nums}
+.card.bt > .logo{height:56px;display:flex;align-items:center;margin-top:6px}
+.card.bt > .logo img{width:var(--w,auto);height:var(--h,32px);max-width:100%;object-fit:contain;object-position:left center;display:block}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .card.bt > .logo img.mono{filter:invert(1)}}
+:root[data-theme="dark"] .card.bt > .logo img.mono{filter:invert(1)}
+.card.bt > .logo.txt span{font-family:var(--display);font-weight:800;font-size:24px;letter-spacing:-.01em;color:var(--text)}
+.bt h3{font-size:22px}
+.btlink{background:none;border:0;cursor:pointer;font:inherit;text-align:left;font-weight:600}
+.rlegal{font-size:12px;color:var(--text-3);border-top:1px solid var(--border);padding-top:12px}
+.close{position:absolute;top:12px;right:12px;z-index:5;width:44px;height:44px;border-radius:50%;border:0;background:rgba(0,0,0,.5);color:#fff;cursor:pointer;display:grid;place-items:center}
+.close:hover{background:#000}
+
+/* ---------- tipografia: Red Hat com contraste de pesos ---------- */
+h1,h2,h3,h4,.brand b,.stat b,.dot b{font-family:var(--display)}
+.slide h2,.sh h2,.eh h2,.band h2,.ov.xl h3,.rhead h2,.stat b{font-weight:300;letter-spacing:-.02em}
+.slide h2 b,.sh h2 b{font-weight:900}
+.ov h3,.card h3,.card h4,.hcard h4,.box h4,.explore a span{font-weight:700;letter-spacing:-.01em}
+.ov.xl h3{font-weight:300}
+.eh .hash,.lnav a,.sh .eye,.box .eye{font-family:var(--display);font-weight:800;letter-spacing:.02em}
+.sh .eye{text-transform:uppercase;font-size:12px;letter-spacing:.12em;color:var(--link)}
+.eh .hash{font-size:18px}
+.tag{font-family:var(--display);font-weight:800}
+.brand b{font-weight:900;letter-spacing:-.02em}
+.brand .mk{font-family:var(--display);font-weight:900}
+.btn{font-family:var(--display);font-weight:700;letter-spacing:.01em}
+.tabs button{font-family:var(--display);font-weight:500}
+.tabs button[aria-selected="true"]{font-weight:800}
+.dot b{font-weight:800}
+.mnav > a,.mnav .dd > button{font-weight:500}
+footer h4{font-family:var(--display);font-weight:800}
+
+/* ---------- IA pelo Brasil ---------- */
+:root{--rN:#198038;--rNE:#B8510D;--rCO:#8E6A00;--rSE:#6929C4;--rS:#0072C3}
+.reg{display:grid;grid-template-columns:minmax(0,380px) minmax(0,1fr);gap:48px;align-items:start}
+.reg-side{position:sticky;top:120px;display:flex;flex-direction:column;gap:16px}
+.reg-sel{font:600 15px var(--display);padding:14px 20px;border:1px solid var(--border-strong);border-radius:999px;background:var(--bg);color:var(--text);width:100%}
+.tmap{width:100%;height:auto;display:block}
+.tmap g{cursor:pointer}
+.tmap rect{fill:color-mix(in srgb,var(--rc) 14%,var(--bg));stroke:color-mix(in srgb,var(--rc) 45%,var(--bg));stroke-width:1;transition:fill .25s,transform .25s}
+.tmap text{font:600 12px var(--display);fill:var(--rc);pointer-events:none}
+.tmap text.n{font:400 10px var(--font);fill:var(--text-2)}
+.tmap g:hover rect{fill:color-mix(in srgb,var(--rc) 30%,var(--bg))}
+.tmap g.reg-on rect{fill:color-mix(in srgb,var(--rc) 28%,var(--bg));stroke:var(--rc)}
+.tmap g.uf-on rect{fill:var(--rc)}
+.tmap g.uf-on text{fill:#fff}
+.tmap g:focus-visible rect{stroke:var(--text);stroke-width:2}
+.reg-leg{display:flex;flex-wrap:wrap;gap:8px}
+.reg-leg button{display:inline-flex;align-items:center;gap:6px;font:500 13px var(--display);border:1px solid var(--border);background:none;color:var(--text);border-radius:999px;padding:6px 12px;cursor:pointer}
+.reg-leg button i{width:10px;height:10px;border-radius:50%;background:var(--rc)}
+.reg-leg button[aria-pressed="true"]{border-color:var(--rc);background:color-mix(in srgb,var(--rc) 12%,transparent)}
+.reg-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;border-bottom:2px solid var(--blue);padding-bottom:12px;margin-bottom:8px}
+.reg-head h3{font-family:var(--display);font-size:32px;font-weight:300}
+.reg-list{display:flex;flex-direction:column}
+.reg-it{display:grid;grid-template-columns:96px minmax(0,1fr);gap:16px;padding:16px 0;border-bottom:1px solid var(--border);text-align:left;background:none;border-left:0;border-right:0;border-top:0;color:var(--text);font:inherit;cursor:pointer;width:100%}
+.reg-it .ph{width:96px;height:72px;border-radius:8px}
+.reg-it.noimg{grid-template-columns:minmax(0,1fr)}
+.reg-it h4{font-family:var(--display);font-size:17px;font-weight:700;line-height:1.35;margin-top:6px}
+.reg-it:hover h4{color:var(--link)}
+.ufs{display:inline-flex;gap:4px}
+.ufs span{font:600 11px var(--display);padding:2px 7px;border-radius:999px;background:color-mix(in srgb,var(--rc) 14%,transparent);color:var(--rc)}
+.kind{font:800 11px var(--display);letter-spacing:.08em;text-transform:uppercase;color:var(--text-3)}
+.reg-empty{padding:24px 0;color:var(--text-2)}
+
+/* logotipo: proporção original 2,64:1 */
+.logo-img{display:block;height:44px;width:auto;aspect-ratio:1400/530}
+.brand-f .logo-img{height:56px}
+.lg-on-dark{display:none}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .lg-on-light{display:none}:root:not([data-theme="light"]) .lg-on-dark{display:block}}
+:root[data-theme="dark"] .lg-on-light{display:none}
+:root[data-theme="dark"] .lg-on-dark{display:block}
+@media (max-width:672px){.logo-img{height:36px}}
+
+/* ---------- perguntas frequentes ---------- */
+.faq{display:flex;flex-direction:column;border-top:1px solid var(--border);max-width:960px}
+.faq details{border-bottom:1px solid var(--border)}
+.faq summary{cursor:pointer;list-style:none;padding:22px 40px 22px 0;font-family:var(--display);font-size:clamp(18px,1.8vw,22px);font-weight:700;position:relative}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";position:absolute;right:4px;top:16px;font-size:28px;font-weight:300;color:var(--link)}
+.faq details[open] summary::after{content:"–"}
+.faq p{padding:0 0 24px;max-width:72ch;color:var(--text-2);font-size:16.5px;line-height:1.65}
+.consent{display:flex;gap:10px;align-items:flex-start;font-size:13.5px;color:rgba(255,255,255,.85);line-height:1.45}
+.consent input{margin-top:3px;width:18px;height:18px;flex:none;accent-color:#8A3FFC}
+.consent a{color:#fff;text-decoration:underline}
+
+/* ---------- seletor de região e edição regional ---------- */
+.regbar{background:var(--layer);border-bottom:1px solid var(--border)}
+.regbar .wrap{display:flex;align-items:center;gap:12px;padding-block:10px}
+.regbar-l{flex:none;display:inline-flex;align-items:center;gap:6px;font:800 13px var(--display);text-transform:uppercase;letter-spacing:.06em;color:var(--link)}
+.regbar-o{display:flex;flex-wrap:wrap;gap:8px}
+.regbar-o a,.rdd-menu a{display:inline-flex;align-items:center;justify-content:center;padding:9px 18px;border-radius:999px;border:1.5px solid var(--c,var(--text));font:700 14px var(--display);color:var(--text);background:var(--bg);white-space:nowrap;transition:background .2s,color .2s}
+.regbar-o a:hover,.regbar-o a.on,.rdd-menu a.on{background:var(--c,var(--text));color:var(--on,var(--bg))}
+/* celular: dropdown fixo no cabeçalho no lugar da faixa */
+.rdd{display:none}
+.rdd-btn{display:inline-flex;align-items:center;gap:6px;height:38px;max-width:46vw;padding:0 12px;border-radius:999px;border:1.5px solid var(--rc,var(--text));background:var(--bg);color:var(--text);font:700 13.5px var(--display);cursor:pointer}
+.rdd-btn span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rdd-btn .ic:first-child{color:var(--rc,var(--link))}
+.rdd-btn[aria-expanded="true"] .ic:last-child{transform:rotate(180deg)}
+.rdd-menu{position:absolute;left:0;right:0;top:100%;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:14px max(16px,env(safe-area-inset-left,0px)) 18px;background:var(--bg);border-bottom:1px solid var(--border);box-shadow:0 16px 24px -16px rgba(0,0,0,.4)}
+.rdd-menu[hidden]{display:none}
+.rdd-t{grid-column:1/-1;font:800 12px var(--display);text-transform:uppercase;letter-spacing:.06em;color:var(--link)}
+.rdd-menu a{padding:12px 8px}
+@media (max-width:1100px){.regbar{display:none}.rdd{display:block;margin-right:4px}}
+.redbar{background:var(--layer);border-bottom:1px solid var(--border)}
+.redbar .wrap{display:flex;align-items:center;gap:16px;flex-wrap:wrap;padding-block:18px}
+.redbar h2{font-family:var(--display);font-size:clamp(22px,2.4vw,30px);font-weight:300}
+.redbar h2 b{font-weight:800;color:var(--rc)}
+.redbar .ufs span{font-size:12px;padding:3px 9px}
+.redbar .sp{flex:1}
+.redbar select{font:600 14px var(--display);padding:10px 16px;border:1px solid var(--border-strong);border-radius:999px;background:var(--bg);color:var(--text)}
+.edstrip{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.edstrip a{display:inline-flex;align-items:center;gap:8px;border:1px dashed var(--border-strong);border-radius:999px;padding:8px 14px;font-size:13.5px;color:var(--text-2)}
+.edstrip a:hover{color:var(--c);border-color:var(--c)}
+.edstrip svg{width:16px;height:16px;color:var(--c)}
+.rmos{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr) minmax(0,1fr);grid-auto-rows:260px;gap:var(--gap)}
+.rmos > :first-child{grid-row:span 2}
+.rmos .ov{min-height:0;height:100%}
+.rmos.few{grid-template-columns:repeat(auto-fit,minmax(280px,1fr));grid-auto-rows:340px}
+.rmos.few > :first-child{grid-row:auto}
+.rempty{background:var(--layer);border-radius:16px;padding:28px;color:var(--text-2)}
+@media (max-width:1100px){.rmos{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.rmos > :first-child{grid-column:1/-1;grid-row:auto}}
+@media (max-width:672px){.rmos{grid-template-columns:minmax(0,1fr);grid-auto-rows:280px}}
+
+/* ---------- ícones e animações ---------- */
+.edi{width:18px;height:18px;flex:none}
+.lnav a{display:inline-flex;align-items:center;gap:8px}
+.dd-menu a svg{width:18px;height:18px;color:var(--c)}
+.eh .icowrap{display:block;color:var(--c);margin-bottom:12px}
+.eh .icowrap svg{width:40px;height:40px;display:block}
+.stat .si{display:block;color:var(--c)}
+.stat .si svg{width:28px;height:28px;display:block}
+/* faixa ao vivo */
+.live{display:flex;align-items:center;background:#161616;color:#F4F4F4;height:40px;overflow:hidden;font-size:13.5px}
+.live-b{flex:none;display:flex;align-items:center;gap:8px;padding:0 16px 0 max(24px,env(safe-area-inset-left,0px));height:100%;background:var(--blue);font-family:var(--display);font-weight:800;letter-spacing:.08em;text-transform:uppercase;font-size:12px}
+.live-b i{width:8px;height:8px;border-radius:50%;background:#fff;animation:pulse 1.6s ease-out infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(255,255,255,.7)}100%{box-shadow:0 0 0 10px rgba(255,255,255,0)}}
+.live-track{flex:1;overflow:hidden;min-width:0;mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
+.live-run{display:flex;gap:40px;width:max-content;animation:run 300s linear infinite;padding-left:24px}
+.live:hover .live-run{animation-play-state:paused}
+.live-run a{white-space:nowrap;color:#F4F4F4}
+.live-run a:hover{text-decoration:underline}
+.live-run a b{color:#BE95FF;font-weight:600;margin-right:8px}
+@keyframes run{to{transform:translateX(-50%)}}
+/* barra de progresso */
+.progress{position:fixed;left:0;right:0;top:env(safe-area-inset-top,0px);height:3px;z-index:50;pointer-events:none}
+.progress i{display:block;height:100%;width:100%;background:linear-gradient(90deg,var(--blue),#EE5396);transform-origin:0 50%;transform:scaleX(0)}
+/* rede neural no slider */
+.net{position:absolute;inset:0;width:100%;height:100%;z-index:1;pointer-events:none;opacity:.55;mix-blend-mode:screen}
+.slide .wrap{z-index:3}
+.slide .txt > *{animation:none}
+.slide.on .txt > *{animation:rise .9s cubic-bezier(.2,.8,.2,1) both}
+.slide.on .txt > :nth-child(2){animation-delay:.08s}
+.slide.on .txt > :nth-child(3){animation-delay:.16s}
+.slide.on .txt > :nth-child(4){animation-delay:.24s}
+@keyframes rise{from{transform:translateY(24px)}to{transform:none}}
+/* micro-interações */
+.card,.hcard,.box,.explore a,.ov{transition:transform .35s cubic-bezier(.2,.8,.2,1),box-shadow .35s,background .2s}
+@media (hover:hover){.card:not(.static):hover,.hcard:hover,.explore a:hover{transform:translateY(-6px);box-shadow:0 16px 32px -16px rgba(105,41,196,.45)}}
+.ov:hover{box-shadow:0 20px 40px -18px rgba(105,41,196,.6)}
+.go svg,.btn svg{transition:transform .25s}
+.card:hover .go svg,.btn:hover svg,.ov:hover .arr svg{transform:translateX(4px)}
+
+.sh h2{position:relative}
+.sh h2::after{content:"";position:absolute;left:0;bottom:-10px;height:3px;width:48px;background:linear-gradient(90deg,var(--blue),#EE5396);transition:width .6s}
+.sec:hover .sh h2::after{width:96px}
+
+@media (prefers-reduced-motion: reduce){.net{display:none}.live-run{animation:none}}
+
+@media (max-width:1600px){.brand span{display:none}}
+@media (max-width:1100px){
+  .mnav{display:none}
+  .menu-btn{display:grid}
+  .mast .wrap{justify-content:space-between}
+  .mosaic{grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-rows:auto}
+  .mosaic > :first-child{grid-column:1/-1;grid-row:auto;min-height:420px}
+  .mosaic .ov{min-height:260px}
+  .g4,.stats,.explore{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .edgrid,.forum,.nl{grid-template-columns:minmax(0,1fr)}
+  .edfoot{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  .edfoot .rede{grid-column:1/-1}
+  .cal{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .fgrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .dots{grid-template-columns:repeat(5,minmax(0,1fr))}
+  .dot span{display:none}
+  .rlist.three{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:672px){
+  :root{--gap:16px}
+  .wrap{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+  .htools .btn,.brand span{display:none}
+  .hero{height:clamp(520px,82vh,640px)}
+  .slide .wrap{padding-bottom:96px}
+  .sec,.edblock{padding-block:56px}
+  .band .wrap{padding-block:64px}
+  .g2,.g3,.g4,.stats,.mosaic,.explore,.fgrid,.edfoot,.rlist,.rlist.three,.nl-row{grid-template-columns:minmax(0,1fr)}
+  .eh{grid-template-columns:minmax(0,1fr)}
+  .chips{justify-content:flex-start}
+  .edgrid .ov{min-height:360px}
+  .hcard{grid-template-columns:110px minmax(0,1fr)}
+  .cal{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .rhead .in,.rbody{padding:20px}
+  .hbtns button{width:40px;height:40px}
+}
+
+/* ---------- contraste entre seções: faixas escuras e cinza-lavanda bem marcado ---------- */
+:root{--tint:#E6E2F2}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--tint:#202027}}
+:root[data-theme="dark"]{--tint:#202027}
+.sec.gray,.edblock:nth-child(even){background:var(--tint)}
+.dark{--bg:#0B0B10;--layer:#17171F;--layer-hover:#22222C;--card:#17171F;--text:#F4F4F4;--text-2:#C6C6CF;--text-3:#9A9AA6;
+  --border:#2A2A35;--border-strong:#55555F;--link:#BE95FF;--tint:#17171F;
+  --p:#78A9FF;--e:#FF832B;--s:#FF7EB6;--t:#33B1FF;--a:#42BE65;--l:#FF8389;--h:#3DDBD9;--n:#F1C21B;--i:#C1C7CD;--g:#B4D455;
+  background:var(--bg);color:var(--text)}
+.sec.dark{background:radial-gradient(90% 120% at 100% 0%,rgba(138,63,252,.22) 0%,transparent 55%),var(--bg)}
+.dark .stat b{color:#fff}
+#indicadores{position:relative;overflow:hidden}
+#indicadores > .wrap{position:relative;z-index:1}
+.techbg{position:absolute;inset:0;width:100%;height:100%;opacity:.9;pointer-events:none;
+  -webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 30%,#000 100%);mask-image:linear-gradient(90deg,transparent 0%,#000 30%,#000 100%)}
+
+/* ---------- sub-heróis: destaques grandes entre as seções ---------- */
+.subhero{position:relative;color:#fff;background:#0b0b10;overflow:hidden;min-height:clamp(440px,64vh,640px);display:flex;align-items:flex-end}
+.subhero:empty{display:none}
+.subhero > .ph{position:absolute;inset:0}
+.subhero > .ph img{width:100%;height:100%;object-fit:cover;transform:scale(1.04);transition:transform 7s ease}
+.subhero:hover > .ph img{transform:scale(1)}
+.subhero > .ph::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(6,6,12,.95) 0%,rgba(6,6,12,.75) 50%,rgba(6,6,12,.4) 100%)}
+.subhero .credit{top:10px;bottom:auto}
+.subhero .wrap{position:relative;z-index:2;width:100%;padding-block:72px 64px;display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:56px;align-items:end}
+.subhero .k{display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-family:var(--display);font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.78)}
+.subhero .when{color:rgba(255,255,255,.75);letter-spacing:0;text-transform:none;font-weight:500}
+.subhero h2{font-size:clamp(30px,4vw,56px);font-weight:300;line-height:1.08;letter-spacing:-.02em;margin:16px 0 14px;max-width:22ch}
+.subhero p.ld{font-size:17px;line-height:1.55;color:rgba(255,255,255,.86);max-width:62ch}
+.subhero .btns{margin-top:24px}
+.subhero aside{border-left:2px solid var(--c);padding-left:22px;display:flex;flex-direction:column;gap:16px}
+.subhero aside > b{font-family:var(--display);font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.7)}
+.subhero .shl img{width:64px;height:48px;object-fit:cover;border-radius:8px;flex:none}
+.subhero .shl{display:flex;gap:12px;align-items:center;background:none;border:0;padding:0;text-align:left;font:inherit;font-size:15.5px;line-height:1.4;font-weight:600;color:#fff;cursor:pointer}
+.subhero .shl:hover{color:#D4BBFF;text-decoration:underline;text-underline-offset:3px}
+/* variante dividida: texto num painel escuro com a cor da editoria, foto ao lado */
+.subhero.split{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);min-height:clamp(420px,56vh,560px);align-items:stretch}
+.subhero.split > .ph{position:relative;inset:auto;order:2;min-height:100%}
+.subhero.split > .ph::after{background:linear-gradient(90deg,rgba(11,11,16,1) 0%,rgba(11,11,16,0) 35%)}
+.subhero.split .wrap{order:1;grid-template-columns:minmax(0,1fr);gap:32px;padding:64px max(24px,calc((100vw - var(--maxw))/2 + 24px));padding-right:40px;align-content:center;
+  background:radial-gradient(120% 90% at 0% 100%,color-mix(in srgb,var(--c) 38%,transparent) 0%,transparent 60%)}
+.subhero.split h2{font-size:clamp(28px,3.2vw,44px)}
+.subhero.split .credit{left:auto;right:12px}
+@media (max-width:1100px){
+  .subhero .wrap{grid-template-columns:minmax(0,1fr);gap:28px}
+  .subhero.split{grid-template-columns:minmax(0,1fr)}
+  .subhero.split > .ph{order:0;height:260px;min-height:0}
+  .subhero.split > .ph::after{background:linear-gradient(0deg,rgba(11,11,16,1) 0%,rgba(11,11,16,0) 60%)}
+  .subhero.split .wrap{padding:32px 24px 48px}
+}
+@media (max-width:672px){
+  .subhero{min-height:500px}
+  .subhero .wrap{padding:48px 16px 40px}
+  .subhero h2{font-size:28px}
+  .subhero p.ld{font-size:15px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .subhero .btn.line-w{display:none}
+  .subhero aside{gap:12px;padding-left:16px}
+  .subhero .shl{font-size:14.5px}
+  .subhero aside .shl:nth-of-type(n+3){display:none}
+  .subhero.split > .ph{height:220px}
+  .subhero.split .wrap{padding:24px 16px 40px}
+}
+
+/* ---------- celular: menos rolagem, mais ritmo (carrosséis de deslizar, grades 2x2, listas compactas) ---------- */
+@media (max-width:672px){
+  .sec,.edblock{padding-block:40px}
+  .sh{margin-bottom:20px;gap:12px}
+  .sh h2,.eh h2{font-size:28px}
+  .tabs{margin-inline:-16px;padding-inline:16px}
+  /* slider mais baixo e direto */
+  .hero{height:clamp(440px,70vh,540px)}
+  .slide .wrap{padding-bottom:84px}
+  .slide .txt{gap:14px}
+  .slide h1,.slide h2{font-size:30px;line-height:1.15}
+  .slide p.ld{font-size:15px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .slide .btn.line-w{display:none}
+  .dot b{display:none}
+  .dot{min-height:20px;padding-top:12px}
+  /* sem rolagem lateral: manchete principal grande e mini manchetes (foto pequena + título) */
+  .mosaic,#feat,#tecTop,#tecList,#btGrid,#redeTec{display:flex;flex-direction:column;gap:0}
+  .mosaic > :first-child,#tecTop > :first-child{grid-column:auto;grid-row:auto;height:300px!important;min-height:0!important;margin-bottom:6px}
+  .mosaic .ov.xl h3{font-size:24px}
+  .mosaic > :first-child p{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:14px}
+  .mosaic > .ov:not(:first-child),#tecTop > .ov:not(:first-child){display:grid;grid-template-columns:92px minmax(0,1fr);gap:14px;align-items:center;
+    height:auto!important;min-height:0!important;padding:12px 0;background:none;color:var(--text);border-top:1px solid var(--border);overflow:visible}
+  .mosaic > .ov:not(:first-child) > .ph,#tecTop > .ov:not(:first-child) > .ph{position:relative;inset:auto;height:72px;border-radius:10px}
+  .mosaic > .ov:not(:first-child) > .ph::after,#tecTop > .ov:not(:first-child) > .ph::after{display:none}
+  .mosaic > .ov:not(:first-child) .in,#tecTop > .ov:not(:first-child) .in{position:static;padding:0;gap:6px}
+  .mosaic > .ov:not(:first-child) :is(p,.arr),#tecTop > .ov:not(:first-child) :is(p,.arr){display:none}
+  .mosaic > .ov:not(:first-child) h3,#tecTop > .ov:not(:first-child) h3{font-size:15px;font-weight:700;line-height:1.35;color:var(--text)}
+  .mosaic > .ov:not(:first-child) .when,#tecTop > .ov:not(:first-child) .when{color:var(--text-3)}
+  #feat .card,#tecList .card{display:grid;grid-template-columns:92px minmax(0,1fr);column-gap:14px;row-gap:4px;align-items:start;
+    padding:12px 0!important;background:none!important;border-top:1px solid var(--border)}
+  #feat .card > .ph,#tecList .card > .ph{grid-row:1/3;aspect-ratio:auto;height:72px;border-radius:10px}
+  #feat .card > *:not(.ph),#tecList .card > *:not(.ph){padding-inline:0;margin:0}
+  #feat .card :is(p,.go),#tecList .card :is(p,.go){display:none}
+  #feat .card h4,#tecList .card h4{font-size:15px}
+  #btGrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  #btGrid .bt{padding:14px 0 14px!important;gap:8px}
+  #btGrid .bt > *:not(.ph){padding-inline:12px}
+  #btGrid .bt > .meta,#btGrid .bt p,#btGrid .bt .rsrc{display:none}
+  #btGrid .bt > .logo{height:40px;margin-top:0}
+  #btGrid .bt > .logo img{width:calc(var(--w,96px)*.72);height:calc(var(--h,32px)*.72)}
+  #btGrid .bt > .logo.txt span{font-size:16px}
+  #btGrid .bt h3{font-size:14px}
+  #btGrid .bt .btn-num{font-size:22px}
+  #btGrid .bt .go{font-size:12.5px}
+  #redeTec > :nth-child(n+6){display:none}
+  .cal{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  /* abas e temas quebram linha em vez de rolar para o lado */
+  .tabs{flex-wrap:wrap;overflow:visible;gap:6px;border-bottom:0;margin-inline:0;padding-inline:0}
+  .tabs button{flex:none;border:1px solid var(--border-strong);border-radius:999px;padding:6px 14px;font-size:13px}
+  .tabs button[aria-selected="true"]{background:var(--text);color:var(--bg);border-color:var(--text)}
+  .tabs button::after{display:none}
+  /* números: grade 2x2 */
+  .stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 14px}
+  .stat b{font-size:32px}
+  .stat p{font-size:13px;line-height:1.45}
+  /* editorias: temas numa linha só, foto decorativa fora */
+  .eh .icowrap svg{width:32px;height:32px}
+  .eh p{font-size:15px}
+  .chips span:nth-child(n+4){display:none}
+  .edgrid .ov{min-height:320px}
+  .edfoot .box.ph{display:none}
+  .hcard{grid-template-columns:96px minmax(0,1fr)}
+  .hcard .ph{min-height:96px}
+  .hcard h4{font-size:15px}
+  .edside .hcard:nth-of-type(n+4),.edside .box,.edfoot .box{display:none}
+  .edfoot .rlist > :nth-child(n+4){display:none}
+  .edfoot{margin-top:8px}
+}
+/* ---------- faixa de emergência ---------- */
+.sos{background:#2A0F4A;color:#E8DAFF;font-size:13.5px}
+.sos .wrap{display:flex;flex-wrap:wrap;gap:6px 22px;align-items:center;padding-block:8px}
+.sos b{color:#fff;font-family:var(--display);font-weight:800}
+.sos a{color:#fff;text-decoration:underline;margin-left:auto}
+@media (max-width:672px){.sos span:nth-child(3){display:none}.sos a{margin-left:0}}
+/* ---------- a rede de proteção (destaque da capa, fundo claro) ---------- */
+.rede-sec{background:var(--bg);border-top:4px solid var(--blue)}
+.rede-sec .sh p b{color:var(--text)}
+.rede-sub{font-family:var(--display);font-size:13px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--link);margin:8px 0 16px}
+.svcs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--gap);margin-bottom:48px}
+.svc{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--border);border-radius:18px;overflow:hidden;
+  transition:transform .3s,box-shadow .3s,border-color .3s}
+@media (hover:hover){.svc:hover{transform:translateY(-4px);border-color:var(--c);box-shadow:0 16px 32px -18px rgba(0,0,0,.35)}}
+.svc-ph{position:relative;aspect-ratio:16/9;background:var(--layer)}
+.svc-ph img{width:100%;height:100%;object-fit:cover}
+.svc-ph .credit{top:8px;bottom:auto}
+.svc-ic{position:absolute;left:18px;bottom:-24px;width:52px;height:52px;border-radius:50%;background:var(--c);color:#fff;display:grid;place-items:center;
+  box-shadow:0 0 0 4px var(--card)}
+.svc-ic svg{width:28px;height:28px}
+.svc-in{padding:36px 20px 20px;display:flex;flex-direction:column;gap:10px;flex:1}
+.svc h3{font-family:var(--display);font-size:20px;font-weight:700;line-height:1.25}
+.svc p{font-size:14.5px;line-height:1.5;color:var(--text-2)}
+.svc-ct{font-size:13.5px!important}
+.svc-ct b,.org-canal b{color:var(--text)}
+.svc-go{align-self:flex-start;margin-top:auto;display:inline-flex;align-items:center;gap:6px;padding:7px 16px;border-radius:999px;border:1.5px solid var(--c,var(--link));
+  color:var(--text);font:700 13.5px var(--display);transition:background .2s,color .2s}
+.svc-go:hover{background:var(--c,var(--link));color:#fff}
+.orgs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.org{background:var(--layer);border-radius:16px;padding:18px;display:flex;flex-direction:column;gap:10px}
+.org header{display:flex;gap:12px;align-items:center}
+.org-ic{width:44px;height:44px;border-radius:12px;background:var(--card);border:2px solid var(--c);color:var(--c);display:grid;place-items:center;flex:none}
+.org-ic svg{width:24px;height:24px}
+.org h3{font-family:var(--display);font-size:16px;font-weight:700;line-height:1.3}
+.org header small{font-size:12px;color:var(--text-3)}
+.org p{font-size:14px;line-height:1.5;color:var(--text-2)}
+.org-ult{border-top:1px solid var(--border);padding-top:10px;font-size:13.5px;line-height:1.4;color:var(--text)}
+.org-ult small{display:block;font:600 11px var(--font);text-transform:uppercase;letter-spacing:.06em;color:var(--link);margin-bottom:2px}
+.org-ult:hover{color:var(--link)}
+.rede-mais{margin-top:24px;font-size:15px}
+.rede-mais a{color:var(--link);text-decoration:underline;font-weight:600}
+@media (max-width:1100px){.svcs{grid-template-columns:repeat(2,minmax(0,1fr))}.orgs{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:672px){.svcs{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:12px;margin-inline:-16px;padding:0 16px 8px;scrollbar-width:none}
+  .svc{flex:0 0 82%;scroll-snap-align:start}.orgs{grid-template-columns:minmax(0,1fr)}}
+</style>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-arrow" viewBox="0 0 32 32"><path fill="currentColor" d="M18 6l-1.43 1.39L24.15 15H4v2h20.15l-7.58 7.57L18 26l10-10L18 6z"/></symbol>
+  <symbol id="i-left" viewBox="0 0 32 32"><path fill="currentColor" d="M14 26l1.41-1.41L7.83 17H28v-2H7.83l7.58-7.59L14 6 4 16l10 10z"/></symbol>
+  <symbol id="i-launch" viewBox="0 0 32 32"><path fill="currentColor" d="M26 28H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h10v2H6v20h20V16h2v10a2 2 0 0 1-2 2z"/><path fill="currentColor" d="M20 2v2h6.59L18 12.59 19.41 14 28 5.41V12h2V2H20z"/></symbol>
+  <symbol id="i-down" viewBox="0 0 32 32"><path fill="currentColor" d="M16 22 6 12l1.4-1.4 8.6 8.6 8.6-8.6L26 12z"/></symbol>
+  <symbol id="i-search" viewBox="0 0 32 32"><path fill="currentColor" d="M29 27.59l-7.55-7.56a11 11 0 1 0-1.41 1.41L27.59 29zM4 13a9 9 0 1 1 9 9 9 9 0 0 1-9-9z"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 32 32"><path fill="currentColor" d="M4 6h24v2H4zm0 18h24v2H4zm0-9h24v2H4z"/></symbol>
+  <symbol id="i-x" viewBox="0 0 32 32"><path fill="currentColor" d="M24 9.4 22.6 8 16 14.6 9.4 8 8 9.4l6.6 6.6L8 22.6 9.4 24l6.6-6.6 6.6 6.6 1.4-1.4-6.6-6.6z"/></symbol>
+  <symbol id="i-pause" viewBox="0 0 32 32"><path fill="currentColor" d="M12 6h-2a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2zm10 0h-2a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2z"/></symbol>
+  <symbol id="i-play" viewBox="0 0 32 32"><path fill="currentColor" d="M7 28a1 1 0 0 1-1-1V5a1 1 0 0 1 1.48-.88l20 11a1 1 0 0 1 0 1.76l-20 11A1 1 0 0 1 7 28z"/></symbol>
+  <symbol id="i-radar" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="16" cy="16" r="12" vector-effect="non-scaling-stroke"/><path d="M16 8a8 8 0 1 0 8 8" vector-effect="non-scaling-stroke"/><circle cx="16" cy="16" r="1.5" vector-effect="non-scaling-stroke"/><path d="M16 16l7-7" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-chip" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><rect x="8" y="8" width="16" height="16" rx="2" vector-effect="non-scaling-stroke"/><circle cx="16" cy="16" r="3" vector-effect="non-scaling-stroke"/><path d="M12 8V4M16 8V4M20 8V4M12 28v-4M16 28v-4M20 28v-4M8 12H4M8 16H4M8 20H4M28 12h-4M28 16h-4M28 20h-4" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-event" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><rect x="4" y="6" width="24" height="22" rx="2" vector-effect="non-scaling-stroke"/><path d="M4 12h24M10 3v6M22 3v6" vector-effect="non-scaling-stroke"/><path d="M10 18h3M15 18h3M20 18h3M10 23h3M15 23h3" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-P" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M3 25h26" vector-effect="non-scaling-stroke"/><path d="M5 21.5h22" vector-effect="non-scaling-stroke"/><path d="M6 21.5a4 3 0 0 1 8 0" vector-effect="non-scaling-stroke"/><path d="M18.5 16.5a4.75 3.2 0 0 0 9.5 0z" vector-effect="non-scaling-stroke"/><path d="M23.25 19.7v1.8" vector-effect="non-scaling-stroke"/><path d="M14.6 21.5V6h1.6v15.5M17 21.5V6h1.6v15.5M16.2 12H17" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-E" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M4 4v24h24" vector-effect="non-scaling-stroke"/><path d="M8 21l6-6 4 4 9-10" vector-effect="non-scaling-stroke"/><circle cx="14" cy="15" r="1.2" vector-effect="non-scaling-stroke"/><circle cx="18" cy="19" r="1.2" vector-effect="non-scaling-stroke"/><path d="M22 9h5v5" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-S" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="12" cy="11" r="4" vector-effect="non-scaling-stroke"/><path d="M4 26c0-4.4 3.6-8 8-8s8 3.6 8 8" vector-effect="non-scaling-stroke"/><circle cx="21.5" cy="9.5" r="3" vector-effect="non-scaling-stroke"/><path d="M22.5 16.5c3.4.5 6 3.4 6 7" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-T" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="6" cy="9" r="2" vector-effect="non-scaling-stroke"/><circle cx="6" cy="23" r="2" vector-effect="non-scaling-stroke"/><circle cx="16" cy="6" r="2" vector-effect="non-scaling-stroke"/><circle cx="16" cy="16" r="2" vector-effect="non-scaling-stroke"/><circle cx="16" cy="26" r="2" vector-effect="non-scaling-stroke"/><circle cx="26" cy="16" r="2" vector-effect="non-scaling-stroke"/><path d="M8 9.6l6-3M8 9.9l6 5.2M8 22.1l6-5.2M8 22.4l6 3M18 6.8l6 8M18 16h6M18 25.2l6-8" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-A" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M26 5C13 5 6 11 6 19c0 4 3 7 7 7 8 0 13-8 13-21z" vector-effect="non-scaling-stroke"/><path d="M4 28l14-14" vector-effect="non-scaling-stroke"/><path d="M13 19h5M16 14v4" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-H" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M16 27S4 19.5 4 11.5A6 6 0 0 1 16 8a6 6 0 0 1 12 3.5C28 19.5 16 27 16 27z" vector-effect="non-scaling-stroke"/><path d="M7 15h5l2-4 3 8 2-4h6" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-N" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M18 3L7 18h8l-2 11 12-16h-8l1-10z" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-I" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M3 28V14l7 4v-4l7 4v-4l7 4V6h5v22z" vector-effect="non-scaling-stroke"/><path d="M8 23h3M15 23h3M22 23h3" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-G" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M16 29V9" vector-effect="non-scaling-stroke"/><path d="M16 14c-5 0-8-3-8-8 5 0 8 3 8 8zM16 14c5 0 8-3 8-8-5 0-8 3-8 8zM16 22c-5 0-8-3-8-8 5 0 8 3 8 8zM16 22c5 0 8-3 8-8-5 0-8 3-8 8z" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-ed-L" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M16 4v22M10 27h12" vector-effect="non-scaling-stroke"/><path d="M6 9h20" vector-effect="non-scaling-stroke"/><circle cx="16" cy="6" r="1.2" vector-effect="non-scaling-stroke"/><path d="M6 9l-3.5 8h7z" vector-effect="non-scaling-stroke"/><path d="M2.5 17a3.5 2 0 0 0 7 0" vector-effect="non-scaling-stroke"/><path d="M26 9l-3.5 8h7z" vector-effect="non-scaling-stroke"/><path d="M22.5 17a3.5 2 0 0 0 7 0" vector-effect="non-scaling-stroke"/></g></symbol>
+  <symbol id="i-pin" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 29s-9-8.6-9-15a9 9 0 0 1 18 0c0 6.4-9 15-9 15z"/><circle cx="16" cy="14" r="3.2"/></g></symbol>
+  <symbol id="i-pulse" viewBox="0 0 32 32"><path fill="currentColor" d="M19 26h-.06a1 1 0 0 1-.9-.73L13.86 10.9l-3 8.42A1 1 0 0 1 10 20H2v-2h7.3l3.76-10.34a1 1 0 0 1 1.9.07l4.15 14.55 3.89-11.68A1 1 0 0 1 24 10h6v2h-5.28l-4.77 13.32A1 1 0 0 1 19 26z"/></symbol>
+  <symbol id="i-doc" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M8 3h11l6 6v20H8z" vector-effect="non-scaling-stroke"/><path d="M19 3v6h6" vector-effect="non-scaling-stroke"/><path d="M12 15h9M12 19h9M12 23h6" vector-effect="non-scaling-stroke"/></g></symbol>
+</svg>
+
+<!-- ============ CABEÇALHO ============ -->
+<header class="mast" id="topo">
+  <div class="wrap">
+    <a class="brand" href="#topo" aria-label="Observatório Brasil Mulher, início"><img class="logo-img lg-on-light" src="img/logo.png" srcset="img/logo.png 1x, img/logo-lg.png 2x" width="127" height="48" alt="Observatório Brasil Mulher"><img class="logo-img lg-on-dark" src="img/logo-light.png" srcset="img/logo-light.png 1x, img/logo-light-lg.png 2x" width="127" height="48" alt="Observatório Brasil Mulher"><span>Defesa de mulheres e crianças</span></a>
+    <nav class="mnav" aria-label="Principal">
+      <div class="dd" id="dd">
+        <button type="button" id="ddBtn" aria-haspopup="true" aria-expanded="false">Editorias <svg class="ic"><use href="#i-down"/></svg></button>
+        <div class="dd-menu" id="ddMenu"></div>
+      </div>
+      <a href="/leis/">Leis</a>
+      <a href="/oportunidades/">Vagas</a>
+      <a href="/briefing/">Briefing</a>
+      <a href="#oficiais">Fontes oficiais</a>
+      <a href="#dados">Dados</a>
+      <a href="#radar">Repositório</a>
+    </nav>
+    <div class="htools">
+      <div class="rdd" id="rdd"><button type="button" class="rdd-btn" id="rddBtn" aria-haspopup="true" aria-expanded="false" aria-controls="rddMenu" aria-label="Escolher a edição regional"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg><span id="rddTxt">Brasil</span><svg class="ic" aria-hidden="true"><use href="#i-down"/></svg></button><div class="rdd-menu" id="rddMenu" hidden></div></div>
+      <button type="button" class="ibtn" id="sBtn" aria-label="Buscar notícias" aria-expanded="false"><svg><use href="#i-search"/></svg></button>
+      <button type="button" class="ibtn menu-btn" id="mBtn" aria-label="Abrir menu" aria-expanded="false"><svg><use href="#i-menu"/></svg></button>
+      <a class="btn" href="/ajuda/">Buscar ajuda <svg class="ic"><use href="#i-arrow"/></svg></a>
+    </div>
+  </div>
+  <div class="searchbar" id="sBar" hidden>
+    <label for="sInput" class="sr">Buscar notícias</label>
+    <input id="sInput" type="search" placeholder="Buscar por tema: medida protetiva, feminicídio, Conselho Tutelar…" autocomplete="off">
+    <ul class="results" id="sRes"></ul>
+  </div>
+  <div class="mobile-nav" id="mNav" hidden></div>
+</header>
+<div class="sos" role="note"><div class="wrap"><span>Em perigo agora? <b>Ligue 190</b></span><span>Violência contra a mulher: <b>Ligue 180</b></span><span>Crianças e adolescentes: <b>Disque 100</b></span><a href="/ajuda/">Todos os canais de ajuda →</a></div></div>
+<nav class="regbar" aria-label="Edição regional"><div class="wrap"><span class="regbar-l"><svg class="ic" aria-hidden="true"><use href="#i-pin"/></svg>Sua região</span><div class="regbar-o" id="regBar"></div></div></nav>
+<nav class="lnav" aria-label="Editorias"><div class="wrap" id="lnav"><small class="num" id="hoje"></small></div></nav>
+<div class="live" aria-label="Últimas do Radar">
+  <span class="live-b"><i aria-hidden="true"></i>Ao vivo</span>
+  <div class="live-track"><div class="live-run" id="liveRun"></div></div>
+</div>
+<div class="progress" aria-hidden="true"><i id="prog"></i></div>
+
+<main>
+<!-- ============ SLIDER ============ -->
+<section class="hero" id="destaques" aria-roledescription="carrossel" aria-label="Destaques">
+  <div id="slides"></div>
+  <canvas class="net" id="net" aria-hidden="true"></canvas>
+  <div class="hero-ctrl">
+    <div class="wrap">
+      <div class="dots" id="dots" role="tablist" aria-label="Escolher destaque"></div>
+      <div class="hbtns">
+        <button type="button" id="hPrev" aria-label="Destaque anterior"><svg><use href="#i-left"/></svg></button>
+        <button type="button" id="hPause" aria-label="Pausar"><svg><use href="#i-pause"/></svg></button>
+        <button type="button" id="hNext" aria-label="Próximo destaque"><svg><use href="#i-arrow"/></svg></button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ EDIÇÃO REGIONAL ============ -->
+<div id="regEd" hidden></div>
+
+<!-- ============ REDE DE PROTEÇÃO (preenchida pelo main.py) ============ -->
+<!--INSTITUICOES-->
+
+<!-- ============ EM ALTA ============ -->
+<section class="sec" id="emalta">
+  <div class="wrap">
+    <div class="sh">
+      <div><span class="eye">Agora</span><h2>Em alta</h2></div>
+      <div class="tabs" role="tablist" id="trTabs"></div>
+    </div>
+    <div class="mosaic" id="mosaic"></div>
+  </div>
+</section>
+
+<!-- ============ PAINEL (preenchido pelo main.py) ============ -->
+<!--PAINEL-->
+
+
+<!-- ============ PRINCIPAIS ============ -->
+<section class="sec" id="principais">
+  <div class="wrap">
+    <div class="sh"><div><span class="eye">Seleção da redação</span><h2>Principais da semana</h2></div></div>
+    <div class="g4" id="feat"></div>
+  </div>
+</section>
+
+<section class="sec" id="oficiais">
+  <div class="wrap">
+    <div class="sh">
+      <div><span class="eye">Direto das fontes oficiais · atualizado de hora em hora</span><h2>Das fontes oficiais</h2><p>O que governo, Congresso, Justiça, Ministério Público, Defensorias, organismos internacionais e organizações da sociedade civil publicaram sobre a proteção de mulheres e crianças, com link para o original.</p></div>
+      <div class="tabs" role="tablist" id="ofiTabs"></div>
+    </div>
+    <div class="rlist three" id="ofiList"><p class="note">Carregando…</p></div>
+    <button type="button" class="btn ghost more" id="ofiMore" hidden>Mostrar mais <svg class="ic"><use href="#i-down"/></svg></button>
+  </div>
+</section>
+
+<!-- ============ NÚMEROS ============ -->
+<section class="sec dark" id="indicadores">
+  <canvas class="techbg" id="techbg" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <div class="sh"><div><span class="eye">Para entender o tamanho do problema</span><h2>Mulheres e crianças no Brasil em números</h2></div><a class="lnk" href="/indicadores/">Todos os indicadores <svg class="ic"><use href="#i-arrow"/></svg></a></div>
+    <div class="stats"><!--NUMEROS--></div>
+  </div>
+</section>
+
+<!-- ============ EDITORIAS ============ -->
+<section class="subhero" id="sh1" aria-label="Destaque"></section>
+<div id="editorias"></div>
+<section class="subhero split" id="sh2" aria-label="Destaque"></section>
+
+<!-- ============ HISTÓRIAS QUE MUDARAM A LEI ============ -->
+<section class="sec" id="historias">
+  <div class="wrap">
+    <div class="sh">
+      <div><span class="eye">Leis com nome e história</span><h2>Histórias que mudaram a lei</h2><p>Muitas leis de proteção nasceram de casos reais. Conheça a origem de cada uma e leia o texto oficial.</p></div>
+      <div class="tabs" role="tablist" id="tecTabs"></div>
+    </div>
+    <div class="g3" id="tecTop"></div>
+    <div class="g3" id="tecList" style="margin-top:var(--gap)"></div>
+    <div class="rede" style="margin-top:40px"><h4>Mais na rede · leis e Justiça</h4><div class="rlist three" id="redeTec"><p class="note">Carregando a base de notícias…</p></div></div>
+  </div>
+</section>
+
+<!-- ============ CANAIS DE AJUDA ============ -->
+<section class="subhero" id="sh3" aria-label="Destaque"></section>
+<section class="sec gray" id="canais">
+  <div class="wrap">
+    <div class="sh">
+      <div><span class="eye">Salve estes contatos</span><h2>Canais de ajuda</h2><p>Emergência, denúncia, orientação e acolhimento, de graça e em todo o Brasil. Contatos conferidos nos sites oficiais. <a href="/ajuda/">Ver todos os serviços</a>.</p></div>
+      <div class="tabs" role="tablist" id="btTabs"></div>
+    </div>
+    <div class="g3" id="btGrid"></div>
+  </div>
+</section>
+
+<!-- ============ QUEM PROPÕE (preenchido pelo main.py) ============ -->
+<!--PARLAMENTARES-->
+
+<!-- ============ DADOS E GUIAS ============ -->
+<section class="sec gray" id="dados">
+  <div class="wrap">
+    <div class="sh"><div><span class="eye">Para agir com informação</span><h2>Dados e guias</h2><p>Leis, canais de ajuda, programas públicos, decisões da Justiça, indicadores e guias práticos, atualizados a partir das notícias e de fontes oficiais.</p></div></div>
+    <div class="dados-g">
+      <a class="card dado" href="/ajuda/"><h3>Onde buscar ajuda</h3><p>Ligue 180, 190, Disque 100, delegacias, Casa da Mulher Brasileira e organizações de apoio.</p></a>
+      <a class="card dado" href="/oportunidades/"><h3>Vagas e oportunidades</h3><p>Vagas, cursos gratuitos, editais, bolsas e crédito para mulheres e jovens, de hora em hora.</p></a>
+      <a class="card dado" href="/projetos/"><h3>Projetos sociais</h3><p>Organizações que acolhem, protegem e abrem portas, em todo o país: como ajudam e como apoiar.</p></a>
+      <a class="card dado" href="/parlamentares/"><h3>Quem propõe</h3><p>Deputadas e deputados com projetos para mulheres e crianças: foto, projetos e histórico.</p></a>
+      <a class="card dado" href="/em-votacao/"><h3>Em votação</h3><p>Projetos de lei em andamento na Câmara, com link para votar na enquete oficial.</p></a>
+      <a class="card dado" href="/participe/"><h3>Participe</h3><p>Abaixo-assinados, ideias legislativas e consultas públicas abertas por leis de proteção.</p></a>
+      <a class="card dado" href="/leis/"><h3>Leis</h3><p>Maria da Penha, feminicídio, ECA, Henry Borel e outras leis explicadas, com a linha do tempo.</p></a>
+      <a class="card dado" href="/guias/"><h3>Guias práticos</h3><p>Para quem sofre violência, quem quer ajudar, famílias, escolas, empresas e gestores.</p></a>
+      <a class="card dado" href="/briefing/"><h3>Briefing do dia</h3><p>O essencial do dia em cinco minutos, com o que muda para mulheres e crianças.</p></a>
+      <a class="card dado" href="/programas/"><h3>Programas e recursos</h3><p>Programas, equipamentos e verbas públicas de proteção anunciados no país.</p></a>
+      <a class="card dado" href="/decisoes/"><h3>Decisões da Justiça</h3><p>O que STF, STJ, tribunais e Ministério Público decidiram e o que muda na prática.</p></a>
+      <a class="card dado" href="/iniciativas/"><h3>Iniciativas</h3><p>O que órgãos, escolas, empresas e organizações fazem, com os resultados divulgados.</p></a>
+      <a class="card dado" href="/instituicoes/"><h3>Quem protege</h3><p>As instituições da rede de proteção: o que cada uma faz e como acionar.</p></a>
+      <a class="card dado" href="/indicadores/"><h3>Indicadores</h3><p>Feminicídios, violência sexual e doméstica, infância e rede de proteção em números.</p></a>
+      <a class="card dado" href="/eventos/"><h3>Agenda</h3><p>Datas, campanhas e eventos, com arquivo para a sua agenda.</p></a>
+      <a class="card dado" href="/glossario/"><h3>Glossário</h3><p>Termos de violência, proteção, Justiça e rede de amparo explicados.</p></a>
+      <a class="card dado" href="/relatorio/"><h3>Relatório mensal</h3><p>O mês da proteção de mulheres e crianças, pronto para salvar em PDF.</p></a>
+      <a class="card dado" href="/busca/"><h3>Busca</h3><p>Procure em todas as notícias, leis, guias e relatórios do portal.</p></a>
+      <a class="card dado" href="/en/"><h3>English</h3><p>Women and children in Brazil: our analyses in English.</p></a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ RADAR ============ -->
+<section class="sec" id="radar">
+  <div class="wrap">
+    <div class="sh"><div><span class="eye">Radar da rede · coleta automática de centenas de fontes</span><h2>Repositório de notícias sobre mulheres e crianças</h2><p>Todas as notícias sobre a proteção de mulheres e crianças no país num só lugar, com busca e filtros por editoria, fonte e região. Cada título leva à matéria original no veículo que a publicou.</p></div></div>
+    <div class="filters">
+      <label for="rq" class="sr">Buscar no radar</label>
+      <input id="rq" type="search" placeholder="Buscar: medida protetiva, Conselho Tutelar, Casa da Mulher…">
+      <label for="red" class="sr">Editoria</label>
+      <select id="red"><option value="">Todas as editorias</option></select>
+      <label for="rtipo" class="sr">Tipo de fonte</label>
+      <select id="rtipo"><option value="">Todos os tipos de fonte</option></select>
+      <label for="rreg" class="sr">Região</label>
+      <select id="rreg"><option value="">Todas as regiões</option><option>Norte</option><option>Nordeste</option><option>Centro-Oeste</option><option>Sudeste</option><option>Sul</option></select>
+      <label class="ck"><input type="checkbox" id="rbr" checked> Só Brasil</label>
+    </div>
+    <p class="rmeta" id="rmeta">Carregando a base de notícias…</p>
+    <div class="rlist three" id="rlist"></div>
+    <button type="button" class="btn ghost more" id="rmore" hidden>Mostrar mais <svg class="ic"><use href="#i-down"/></svg></button>
+  </div>
+</section>
+
+<!-- ============ DIREITOS ============ -->
+<section class="subhero split" id="sh4" aria-label="Destaque"></section>
+<section class="sec" id="direitos">
+  <div class="wrap">
+    <div class="sh"><div><span class="eye">Está na lei · com link para o texto oficial</span><h2>Direitos que você tem</h2><p>Garantias que valem em todo o Brasil e que muita gente não conhece. Cada uma traz a lei ou a decisão que a criou.</p></div></div>
+    <div class="vqs">
+      <figure class="vq"><blockquote>A medida protetiva pode ser concedida sem boletim de ocorrência, sem inquérito e sem processo.</blockquote><figcaption><b>Lei 14.550/2023</b><span>Altera a Lei Maria da Penha</span><small>As medidas protetivas de urgência independem da tipificação penal, de ação penal ou cível, de inquérito ou de boletim de ocorrência.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14550.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+      <figure class="vq"><blockquote>Hospitais do SUS devem dar atendimento emergencial, integral e gratuito a vítimas de violência sexual.</blockquote><figcaption><b>Lei 12.845/2013</b><span>Lei do Minuto Seguinte</span><small>Inclui amparo médico, psicológico e social, profilaxia da gravidez e de infecções sexualmente transmissíveis.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12845.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+      <figure class="vq"><blockquote>As Delegacias de Atendimento à Mulher devem funcionar 24 horas, inclusive em feriados e fins de semana.</blockquote><figcaption><b>Lei 14.541/2023</b><span>Delegacias da Mulher</span><small>A lei trata da criação e do funcionamento ininterrupto das delegacias especializadas.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14541.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+      <figure class="vq"><blockquote>Toda gestante tem direito a um acompanhante de sua escolha no trabalho de parto, no parto e no pós-parto imediato.</blockquote><figcaption><b>Lei 11.108/2005</b><span>Lei do Acompanhante</span><small>Vale para os serviços do SUS, próprios ou conveniados.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11108.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+      <figure class="vq"><blockquote>Mulheres e homens que fazem trabalho de igual valor ou na mesma função devem receber o mesmo salário.</blockquote><figcaption><b>Lei 14.611/2023</b><span>Igualdade salarial</span><small>Prevê transparência salarial, canais de denúncia e multa para a empresa que discriminar.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+      <figure class="vq"><blockquote>Crianças e adolescentes vítimas ou testemunhas de violência são ouvidos por escuta especializada e depoimento especial.</blockquote><figcaption><b>Lei 13.431/2017</b><span>Escuta protegida</span><small>O objetivo é evitar que a criança tenha de repetir a violência várias vezes a pessoas diferentes.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+      <figure class="vq"><blockquote>Crianças e adolescentes têm o direito de ser educados sem castigo físico nem tratamento cruel ou degradante.</blockquote><figcaption><b>Lei 13.010/2014</b><span>Lei Menino Bernardo</span><small>O direito foi incluído no Estatuto da Criança e do Adolescente.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13010.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+      <figure class="vq"><blockquote>Em audiências, a dignidade da vítima de crime sexual deve ser respeitada.</blockquote><figcaption><b>Lei 14.245/2021</b><span>Lei Mariana Ferrer</span><small>Proíbe referências a fatos alheios ao caso e linguagem que ofenda a vítima ou as testemunhas.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14245.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+      <figure class="vq"><blockquote>Em casas noturnas, shows e eventos, a mulher que diz “não” deve ser protegida e apoiada pelo estabelecimento.</blockquote><figcaption><b>Lei 14.786/2023</b><span>Protocolo Não é Não</span><small>Cria o protocolo para prevenir o constrangimento e a violência e proteger a vítima.</small><a href="https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14786.htm" target="_blank" rel="noopener">Texto oficial no Planalto</a></figcaption></figure>
+    </div>
+  </div>
+</section>
+<section class="sec" id="comunidade">
+  <div class="wrap">
+    <div class="sh"><div><span class="eye">Para levar à próxima reunião</span><h2>Perguntas para a sua comunidade</h2></div></div>
+    <div class="g3">
+      <div class="card static" style="--c:var(--a);padding-top:24px"><svg class="cico" aria-hidden="true"><use href="#i-ed-A"/></svg><span class="tag">#Infância</span><h3>A escola sabe o que fazer ao suspeitar de violência?</h3><p class="q">“Existe um fluxo escrito para comunicar o Conselho Tutelar e proteger a criança, sem expô-la?”</p><p>Boa resposta: equipe capacitada, fluxo de comunicação conhecido por todos e escuta que não revitimiza, como prevê a Lei 13.431/2017.</p></div>
+      <div class="card static" style="--c:var(--e);padding-top:24px"><svg class="cico" aria-hidden="true"><use href="#i-ed-E"/></svg><span class="tag">#Trabalho</span><h3>A empresa previne o assédio?</h3><p class="q">“Temos canal de denúncia, treinamento e regras contra assédio e outras formas de violência no trabalho?”</p><p>Boa resposta: ações da CIPA contra assédio, como pede a Lei 14.457/2022, canal sigiloso e apuração com prazo e retorno a quem denunciou.</p></div>
+      <div class="card static" style="--c:var(--i);padding-top:24px"><svg class="cico" aria-hidden="true"><use href="#i-ed-I"/></svg><span class="tag">#Amparo</span><h3>A cidade tem onde acolher?</h3><p class="q">“Onde uma mulher em situação de violência é atendida aqui, de dia e de noite, e para onde vai se não puder voltar para casa?”</p><p>Boa resposta: organismo de políticas para mulheres, centro de referência, delegacia ou sala especializada, casa-abrigo ou convênio e fluxo integrado com saúde e assistência social.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PERGUNTAS FREQUENTES ============ -->
+<section class="sec" id="faq">
+  <div class="wrap">
+    <div class="sh"><div><span class="eye">Respostas diretas, com a lei</span><h2>Perguntas frequentes</h2></div></div>
+    <div class="faq">
+      <details open><summary>O que é o Observatório Brasil Mulher?</summary><p>É um observatório e repositório de notícias sobre a defesa de mulheres e crianças no Brasil. Reúne, de hora em hora, o que governos, Justiça, Ministério Público, Defensorias, polícias, pesquisadores, organizações da sociedade civil e a imprensa de todas as regiões publicam sobre violência contra a mulher, leis de proteção, rede de amparo e proteção da infância, com link para o original, e destaca as notícias mais relevantes com resumo e análise próprios, em dez editorias e cinco edições regionais.</p></details>
+      <details><summary>Como pedir uma medida protetiva?</summary><p>A mulher pode pedir na delegacia (de preferência na Delegacia da Mulher), no Ministério Público, na Defensoria Pública ou diretamente à Justiça. O juiz tem até 48 horas para decidir (Lei Maria da Penha, art. 18). Desde a Lei 14.550/2023, a medida pode ser concedida mesmo sem boletim de ocorrência, inquérito ou processo. Em situação de perigo imediato, ligue 190.</p></details>
+      <details><summary>Qual a diferença entre o 190 e o Ligue 180?</summary><p>O 190 é o telefone da Polícia Militar, para emergências: violência acontecendo agora ou risco imediato. O Ligue 180 é a Central de Atendimento à Mulher: orienta sobre direitos e serviços, recebe denúncias e encaminha aos órgãos competentes, 24 horas, de graça e com sigilo. Para violações de direitos de crianças e adolescentes, o canal é o Disque 100.</p></details>
+      <details><summary>O que é feminicídio?</summary><p>É o assassinato de uma mulher por razões da condição do sexo feminino, o que inclui a violência doméstica e familiar e o menosprezo ou a discriminação à condição de mulher. Desde a Lei 14.994/2024, é um crime próprio no Código Penal (art. 121-A), com pena de 20 a 40 anos de reclusão.</p></details>
+      <details><summary>Como denunciar violência contra uma criança ou um adolescente?</summary><p>Em emergência, ligue 190. Para denunciar, use o Disque 100, que é gratuito, funciona 24 horas e aceita denúncia anônima, ou procure o Conselho Tutelar da sua cidade, a delegacia ou o Ministério Público. Quem suspeita não precisa ter provas: a apuração cabe às autoridades. Profissionais de saúde e de educação são obrigados a comunicar casos suspeitos ou confirmados ao Conselho Tutelar (ECA, arts. 13 e 245).</p></details>
+      <details><summary>Em que casos o aborto é legal no Brasil?</summary><p>Em três situações: quando a gravidez resulta de estupro e quando não há outro meio de salvar a vida da gestante (Código Penal, art. 128), e na gestação de feto anencéfalo, por decisão do STF na ADPF 54, de 2012. O atendimento é oferecido pelo SUS.</p></details>
+      <details><summary>Preciso de advogado para me proteger?</summary><p>Não para pedir a medida protetiva, que pode ser solicitada na delegacia. A Lei Maria da Penha garante a toda mulher em situação de violência doméstica e familiar o acesso à Defensoria Pública ou à assistência judiciária gratuita (art. 28), e a Defensoria atende de graça quem não pode pagar um advogado.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ EXPLORAR ============ -->
+<section class="sec" id="explorar">
+  <div class="wrap">
+    <div class="sh"><div><h2>Outras maneiras de explorar</h2></div></div>
+    <div class="explore">
+      <a href="/ajuda/"><svg><use href="#i-pulse"/></svg><span>Onde buscar ajuda <svg class="ic" style="width:20px;height:20px"><use href="#i-arrow"/></svg></span></a>
+      <a href="#radar"><svg><use href="#i-radar"/></svg><span>Radar da rede <svg class="ic" style="width:20px;height:20px"><use href="#i-arrow"/></svg></span></a>
+      <a href="#historias"><svg><use href="#i-doc"/></svg><span>Histórias que mudaram a lei <svg class="ic" style="width:20px;height:20px"><use href="#i-arrow"/></svg></span></a>
+      <a href="#dados"><svg><use href="#i-event"/></svg><span>Dados e guias <svg class="ic" style="width:20px;height:20px"><use href="#i-arrow"/></svg></span></a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="fgrid">
+      <div>
+        <a class="brand brand-f" href="#topo" aria-label="Observatório Brasil Mulher, início"><img class="logo-img" src="img/logo-light.png" srcset="img/logo-light.png 1x, img/logo-light-lg.png 2x" width="148" height="56" alt="Observatório Brasil Mulher"></a>
+        <p class="about-f">Notícias, leis, dados e canais de ajuda sobre a defesa de mulheres e crianças no Brasil, com fonte em toda notícia. Em perigo, ligue 190. Violência contra a mulher: Ligue 180. Crianças e adolescentes: Disque 100.</p>
+      </div>
+      <div><h4>Editorias</h4><ul id="fEd"></ul></div>
+      <div><h4>Portal</h4><ul><li><a href="/sobre/">Sobre nós</a></li><li><a href="/ajuda/">Onde buscar ajuda</a></li><li><a href="#emalta">Em alta</a></li><li><a href="#historias">Histórias que mudaram a lei</a></li><li><a href="#radar">Repositório de notícias</a></li><li><a href="#direitos">Direitos que você tem</a></li><li><a href="/orgaos/">Instituições nas notícias</a></li></ul></div>
+      <div><h4>Dados e guias</h4><ul><li><a href="/oportunidades/">Vagas e oportunidades</a></li><li><a href="/projetos/">Projetos sociais</a></li><li><a href="/infancia/">Infância</a></li><li><a href="/seguranca/">Segurança</a></li><li><a href="/amparo/">Amparo</a></li><li><a href="/saude/">Saúde</a></li><li><a href="/briefing/">Briefing do dia</a></li><li><a href="/leis/">Leis</a></li><li><a href="/em-votacao/">Em votação</a></li><li><a href="/parlamentares/">Quem propõe</a></li><li><a href="/participe/">Participe</a></li><li><a href="/programas/">Programas e recursos</a></li><li><a href="/decisoes/">Decisões da Justiça</a></li><li><a href="/iniciativas/">Iniciativas</a></li><li><a href="/instituicoes/">Quem protege</a></li><li><a href="/guias/">Guias práticos</a></li><li><a href="/indicadores/">Indicadores</a></li><li><a href="/eventos/">Agenda</a></li><li><a href="/glossario/">Glossário</a></li><li><a href="/relatorio/">Relatório mensal</a></li><li><a href="/busca/">Busca</a></li><li><a href="/en/">English</a></li></ul></div>
+      <div><h4>Princípios editoriais</h4><ul><li>Fonte em toda notícia</li><li>Vítimas nunca identificadas</li><li>Sem fotos de pessoas</li><li>Uso de IA declarado</li><li>Correções visíveis</li></ul></div>
+    </div>
+    <div class="copy"><span>© 2026 Observatório Brasil Mulher · observatoriobrasilmulher.com.br</span><nav class="legal" aria-label="Institucional"><a href="/sobre/">Sobre e princípios editoriais</a><a href="/privacidade/">Política de Privacidade</a><a href="/termos/">Termos de Uso</a></nav></div>
+  </div>
+</footer>
+
+<!-- ============ LEITOR ============ -->
+<div class="reader" id="reader" role="dialog" aria-modal="true" aria-labelledby="rTitle" hidden>
+  <div class="reader-box">
+    <button type="button" class="close" id="rClose" aria-label="Fechar"><svg class="ic"><use href="#i-x"/></svg></button>
+    <div id="rBody"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  /* HTML pré-renderizado no build: limpa o que o script acrescenta, para não duplicar */
+  if(document.documentElement.hasAttribute("data-pre")){
+    document.querySelectorAll('#lnav a,.stat .si,#red option+option,#rtipo option+option').forEach(function(e){e.remove();});
+  }
+  var NEW=' target="_blank" rel="noopener"';
+  var $=function(id){return document.getElementById(id);};
+  var ARROW='<svg class="ic"><use href="#i-arrow"/></svg>', LAUNCH='<svg class="ic"><use href="#i-launch"/></svg>';
+
+  /* ---------- créditos das fotos (Wikimedia Commons) ---------- */
+  var CR={
+    "f-hc-centro-cirurgico":["Governo do Estado de São Paulo", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Hospital_das_Cl%C3%ADnicas_(43616006911).jpg"],
+    "f-hc-instituto-central":["Governo do Estado de São Paulo", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Hospital_das_Cl%C3%ADnicas_(43616003771).jpg"],
+    "f-sirio-libanes":["Sturm", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Hospital_S%C3%ADrio-Liban%C3%AAs_02.jpg"],
+    "f-sarah-fortaleza":["Joelkaula", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Hospital_SARAH_Fortaleza_04.jpg"],
+    "f-fiocruz-castelo":["Econt", "CC BY 3.0", "https://commons.wikimedia.org/wiki/File:Castelo_fiocruz.JPG"],
+    "f-butantan-sede":["Joalpe", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Instituto_Butantan_-_S%C3%A3o_Paulo_-_20240531144012.jpg"],
+    "f-uti-leitos":["Manu Dias / AGECOM", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:UTI_-_Hospital_M%C3%A1rio_Dourado_Sobrinho_-_Irec%C3%AA_-_BA.jpg"],
+    "f-tomografo":["Agência Brasília", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Instituto_Hospital_de_Base_do_DF_(40785895815).jpg"],
+    "f-vacina-frascos":["Agência Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Barros_inaugura_linha_de_produ%C3%A7%C3%A3o_da_vacina_de_febre_amarela_(28118409009).jpg"],
+    "f-samu-ambulancia":["Moacir Ximenes", "Domínio público", "https://commons.wikimedia.org/wiki/File:SAMU_de_Campo_Maior,_Piau%C3%AD.JPG"],
+    "f-sala-cirurgia-hab":["Mauriciopinheirobrito", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Sala_do_Centro_Cir%C3%BArgico_do_HAB.jpg"],
+    "f-esplanada-aerea":["Edilson Rodrigues/Agência Senado", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_em_2018.jpg"],
+    "f-esplanada-cc0":["Daderot", "CC0", "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_-_Brasilia_-_DSC00261.JPG"],
+    "f-ministerios-fachadas":["Senado Federal", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_(fachada_minist%C3%A9rios).jpg"],
+    "f-planalto-2020":["Senado Federal", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Planalto_em_2020.jpg"],
+    "f-planalto-reflexo":["Gisele Pasquali", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Planalto_de_Bras%C3%ADlia.jpg"],
+    "f-itamaraty":["Fwsbsb", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Itamaraty_2.jpg"],
+    "f-itamaraty-noite":["Dlaurini", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Itamaraty,_Bras%C3%ADlia,_noite.jpg"],
+    "f-alepe-sergipe":["W.SE", "CC BY 3.0", "https://commons.wikimedia.org/wiki/File:Assembleia_Legislativa_de_Sergipe.JPG"],
+    "f-aleam":["Assembleia Legislativa do Amazonas", "Public domain", "https://commons.wikimedia.org/wiki/File:Assembleia_Legislativa_do_Estado_do_Amazonas_(ALEAM).jpg"],
+    "f-esplanada-noite":["Dasfour2022", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Ministerios_a_noite.jpg"],
+    "f-banco-central":["Senado Federal", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_(16011634694).jpg"],
+    "f-banco-do-brasil":["Agência Senado", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Fachada_do_edif%C3%ADcio_sede_do_Banco_do_Brasil_em_Bras%C3%ADlia.jpg"],
+    "f-paulista-edificio":["Boaventuravinicius", "CC BY 4.0", "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Horsa_na_Avenida_Paulista.jpg"],
+    "f-paulista-noite":["Ricardo Migliani", "CC BY 3.0", "https://commons.wikimedia.org/wiki/File:Avenida_Paulista,_S%C3%A3o_Paulo,_Brasil_-_panoramio_-_Ricardo_Migliani_(1).jpg"],
+    "f-vila-olimpia":["CORRETOR-CARVALHO", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Spazio_JK_-_Av._Pres._Juscelino_Kubitschek,_1726_%E2%80%93_Esta%C3%A7%C3%A3o_Vila_Ol%C3%ADmpia_-_panoramio.jpg"],
+    "f-ufmg-aerea":["Carlos Basílio Pinheiro", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:VISTA_AEREA_CAMPUS_PAMPULHA_UFMG_-_FOTO_FOCA_LISBOA.jpg"],
+    "f-ufmg-reitoria":["Galabel Morea", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Entranda_principal_da_Reitoria_UFMG_2023.jpg"],
+    "f-usp-reitoria":["Mike Peel", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:University_of_Sao_Paulo_campus_2016_008.jpg"],
+    "f-usp-fea":["Mike Peel", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:At_Cidade_Universit%C3%A1ria_Armando_de_Salles_Oliveira_2023_069.jpg"],
+    "f-biblioteca-nacional":["Halleypo", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Biblioteca_nacional_rio_janeiro.jpg"],
+    "f-biblioteca-vitral":["Donatas Dabravolskas", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional_do_Brasil_-_Rio_de_Janeiro_-_20230921132823.jpg"],
+    "f-hospital-estadual":["HVL", "CC BY 4.0", "https://commons.wikimedia.org/wiki/File:Fachada_do_Hospital_Estadual_Jo%C3%A3o_dos_Santos_Neves,_Baixo_Guandu_ES2.JPG"],
+    "f-escola-estadual":["HVL", "CC BY 4.0", "https://commons.wikimedia.org/wiki/File:Fachada_da_Escola_Estadual_Get%C3%BAlio_Vargas,_Tim%C3%B3teo_MG2.JPG"],
+    "f-metro-vila-mariana":["Geogast", "CC BY 4.0", "https://commons.wikimedia.org/wiki/File:Esta%C3%A7%C3%A3o_Vila_Mariana_%E2%80%A2_Linha_1_Azul_%E2%80%A2_Metr%C3%B4_de_S%C3%A3o_Paulo_%E2%80%A2_plataforma_com_trilhos.jpg"],
+    "f-servidores-rack":["NOIRLab/NSF/AURA/T. Slovinský", "CC BY 4.0", "https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0375-CC).jpg"],
+    "f-recife-antigo":["Portal da Copa/ME", "CC BY 3.0 br", "https://commons.wikimedia.org/wiki/File:Recife_Antigo,_Recife_(PE).jpg"],
+    "f-servidores-cern":["Florian Hirzinger - www.fh-ap.com", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:CERN_Server_03.jpg"],
+    "f-amazonia-aerea":["Neil Palmer", "CC BY-SA 2.0", "https://commons.wikimedia.org/wiki/File:Amazon_CIAT.jpg"],
+    "f-amazonia-rio":["Neil Palmer/CIAT", "CC BY-SA 2.0", "https://commons.wikimedia.org/wiki/File:Brazilian_Amazon.jpg"],
+    "f-floresta-alagada":["Artur Warchavchik", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Floresta_Alagada_II.jpg"],
+    "f-cerrado-veadeiros":["Aline Marcele Ghilardi", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Chapada_dos_Veadeiros_III.JPG"],
+    "f-cerrado-arvore":["Isadora Farias Minarini", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:%C3%81rvore_de_Cerrado.jpg"],
+    "f-stj-sede":["STJNoticias", "CC BY 4.0", "https://commons.wikimedia.org/wiki/File:DF_%E2%80%93_Edif%C3%ADcio_Sede_do_STJ.jpg"],
+    "f-stj-ipes":["Superior Tribunal de Justiça STJ from Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Sede_do_STJ_(54057687151).jpg"],
+    "f-tse-sede":["O Tribunal da Democracia", "Public domain", "https://commons.wikimedia.org/wiki/File:2025-12-26_Fotografia_da_sede_do_TSE_em_Bras%C3%ADlia_-_DF_-_03.jpg"],
+    "f-tjdft":["Borowskki", "Public domain", "https://commons.wikimedia.org/wiki/File:TJDFT_2012.jpg"],
+    "f-tjsp":["CORRETOR-CARVALHO", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Tribunal_de_Justi%C3%A7a_do_Estado_de_S%C3%A3o_Paulo_-_panoramio.jpg"],
+    "f-senado-cupula":["Senado Federal", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:C%C3%BApula_do_Senado_Federal_(17534823114).jpg"],
+    "f-congresso-fachada":["Senado Federal", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_-_50495144177.jpg"],
+    "f-palacio-justica":["Karine Spezia", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_da_Justi%C3%A7a_refletido_nas_%C3%A1guas_do_Congresso_Nacional.jpg"],
+    "f-stf-palacio":["Rodrigo Rocatto", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Supremo_Tribunal_Federal_-_Bras%C3%ADlia_-_20210206174604.jpg"],
+    "f-stf-lateral":["Dasfour2022", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Supreme_Federal_Court_-_Side.jpg"],
+    "f-senado-plenario":["Boaventuravinicius", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_Federal_3.jpg"],
+    hero:["Marcosleal","CC BY-SA 3.0","https://commons.wikimedia.org/wiki/File:Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg"],
+    politica:["Cayambe","CC BY-SA 3.0","https://commons.wikimedia.org/wiki/File:Brasilia_Eixo_Monumental_Nat_Congress_Ministries_from_TV_Tower.jpg"],
+    economia:["Rafael Matsunaga","CC BY 2.0","https://commons.wikimedia.org/wiki/File:Sao_Paulo_Stock_Exchange.jpg"],
+    sociedade:["Lucajoin","CC BY-SA 4.0","https://commons.wikimedia.org/wiki/File:Biblioteca_Brasiliana_Guita_e_Jos%C3%A9_Mindlin_05.jpg"],
+    tecnologia:["Ministério da Ciência, Tecnologia, Inovações e Comunicações","CC BY 2.0","https://commons.wikimedia.org/wiki/File:Ministro_participa_da_inaugura%C3%A7%C3%A3o_do_acelerador_de_part%C3%ADculas_Sirius._(30970744907).jpg"],
+    ambiente:["Copel","CC0","https://commons.wikimedia.org/wiki/File:Parque_Cutia_Freire_Neto_DJI_0048.jpg"],
+    leis:["Dasfour2022","CC BY-SA 4.0","https://commons.wikimedia.org/wiki/File:Supreme_Federal_Court_-_Statue.jpg"],
+    "centro-convencoes":["Borowskki", "Public domain", "https://commons.wikimedia.org/wiki/File:Centro_de_Convencoes_Ulysses_Guimaraes.jpg"],
+    cidade:["Webysther Nunes","CC BY-SA 4.0","https://commons.wikimedia.org/wiki/File:Webysther_20150427002640_-_Edif%C3%ADcios_Terra%C3%A7o_It%C3%A1lia_e_Copan.jpg"],
+    tse:["TSE","Domínio público","https://commons.wikimedia.org/wiki/File:Urna_eletr%C3%B4nica_brasileira_UE2020.jpg"],
+    "congresso-noite":["Rodolfo Stuckert", "CC BY 3.0", "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_do_Brasil_em_noite_de_lua_cheia.jpg"],
+    "dados-rede":["Raysonho", "CC0", "https://commons.wikimedia.org/wiki/File:EthernetSwitch.jpg"],
+    pcb:["Smial","FAL","https://commons.wikimedia.org/wiki/File:Leiterbahnen_IMGP2839_smial_wp.jpg"],
+    "universidade":["Morio", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Universidade_Federal_do_Parana_4_Curitiba_Parana.jpg"],
+    real:["Oleg Yunakov","CC BY-SA 4.0","https://commons.wikimedia.org/wiki/File:20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg"],
+    congresso:["Cayambe","CC BY-SA 3.0","https://commons.wikimedia.org/wiki/File:Brasilia_National_Congress_Buildings.jpg"],
+    stf:["Falcão Alado","CC BY-SA 4.0","https://commons.wikimedia.org/wiki/File:Supremo_Tribunal_Federal_por_Henrique_Goldenstein_(01).jpg"],
+    bovespa:["Wilfredor","CC BY-SA 4.0","https://commons.wikimedia.org/wiki/File:Bovespa,_S%C3%A3o_Paulo_city_downtown.jpg"],
+    campus2:["Rjcastillo","CC BY 4.0","https://commons.wikimedia.org/wiki/File:Museo_del_Ma%C3%B1ana,_R%C3%ADo_de_Janeiro_A74237820241122.jpg"],
+    caucaia:["Maria Leda S. C. de Mira","CC BY-SA 3.0","https://commons.wikimedia.org/wiki/File:Lagoa_no_Cumbuco,Caucaia,Cear%C3%A1,Brasil.jpg"],
+    uti:["Manu Dias / AGECOM","CC BY 2.0","https://commons.wikimedia.org/wiki/File:UTI_-_Hospital_M%C3%A1rio_Dourado_Sobrinho_-_Irec%C3%AA_-_BA.jpg"],
+    "cmb-fachada-df":["Agência Brasília from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Casa_da_Mulher_Brasileira_abre_as_portas_nesta_ter%C3%A7a_(2)_na_601_Norte_(18173142500).jpg"],
+    "cmb-recepcao":["Agência Brasília from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Casa_da_Mulher_Brasileira_abre_as_portas_nesta_ter%C3%A7a_(2)_na_601_Norte_(18174719369).jpg"],
+    "cmb-copa":["Agência Brasília from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Casa_da_Mulher_Brasileira_abre_as_portas_nesta_ter%C3%A7a_(2)_na_601_Norte_(18362422601).jpg"],
+    "cmb-brinquedoteca":["Agência Brasília from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Casa_da_Mulher_Brasileira_abre_as_portas_nesta_ter%C3%A7a_(2)_na_601_Norte_(18360873125).jpg"],
+    "cmb-sala-audiencias":["Agência Brasília from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Casa_da_Mulher_Brasileira_abre_as_portas_nesta_ter%C3%A7a_(2)_na_601_Norte_(18356840922).jpg"],
+    "cmb-alojamento":["Agência Brasília from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Casa_da_Mulher_Brasileira_abre_as_portas_nesta_ter%C3%A7a_(2)_na_601_Norte_(18356828982).jpg"],
+    "deam-viatura-df":["André Gustavo Stumpf from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:DEAM_(5641987956).jpg"],
+    "delegacia-predio":["Dalton Scavassa", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Delegacia_de_Pol%C3%ADcia_Civil_-_S%C3%A3o_Jo%C3%A3o_do_Oeste,_SC.jpg"],
+    "delegacia-viatura":["Agência Brasília", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Federal_District_(Brazil)_Civil_Police_Toyota_SW4.jpg"],
+    "delegacia-geral":["Imprensa PC-AM", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:FACHADA_DG_FOTOS_ERLON_RODRIGUES_(4).jpg"],
+    "viaturas-policia-civil":["André Gustavo Stumpf from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:DEMA_(5641955324).jpg"],
+    "conselho-tutelar-casarao":["Friduxa", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Conselho_Tutelar_em_Barro_Preto,_BA.jpg"],
+    "conselho-tutelar-sede":["Túllio F", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Conselho_Tutelar_-_Campos_Belos_05.jpg"],
+    "parquinho-praca":["Igor Eliezer Borges", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Castelo_de_parquinho_na_Pra%C3%A7a_Domingos_Fuglini.jpg"],
+    "balanco-ninho":["Kritzolina", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Playground_swing_03.jpg"],
+    "escola-municipal-portao":["Letícia Santos França", "CC0", "https://commons.wikimedia.org/wiki/File:Fachada_Escola_Municipal_do_Carrasco.jpg"],
+    "creche-sala-atividades":["Governo do Estado de São Paulo", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_Creche_Municipal_Professora_Julia_Duboc_(51177577335).jpg"],
+    "creche-refeitorio":["Governo do Estado de São Paulo", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_Creche_Municipal_Professora_Julia_Duboc_(51176486811).jpg"],
+    "creche-brinquedos":["Governo do Estado de São Paulo", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_Creche_Municipal_Professora_Julia_Duboc_(51175806842).jpg"],
+    "creche-bercario":["Governo do Estado de São Paulo", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_Creche_Municipal_Professora_Julia_Duboc_(51176707693).jpg"],
+    "escola-entrada":["Dea Batista", "CC BY 4.0", "https://commons.wikimedia.org/wiki/File:Fachada_da_Escola_Municipal_Nubia_Maria_Mangabeira_Guerra.jpg"],
+    "forum-sao-carlos":["Photograph by Mike Peel (www.mikepeel.net).", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:At_S%C3%A3o_Carlos_2018_056.jpg"],
+    "forum-fachada-letreiro":["Sintegrity", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:F%C3%B3rum_de_S%C3%A3o_Carlos_em_2022_(1).jpg"],
+    "tjpr-sede":["Deyvid Setti", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Tribunal_de_Justi%C3%A7a_do_Estado_do_Paran%C3%A1.JPG"],
+    "mpba-sede":["Samory Pereira Santos", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Sede_do_Minist%C3%A9rio_P%C3%BAblico_do_Estado_da_Bahia.jpg"],
+    "mpmg-sede":["Bruno Carvalho Leal", "CC BY 3.0", "https://commons.wikimedia.org/wiki/File:Novo_pr%C3%A9dio_da_sede_do_Minist%C3%A9rio_P%C3%BAblico_Estadual_-_panoramio.jpg"],
+    "hospital-leitos-novos":["Governo do Estado de São Paulo", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_do_Novo_Hospital_da_Mulher_(53032496268).jpg"],
+    "hospital-da-mulher-sbc":["Governo do Estado de São Paulo", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_do_Novo_Hospital_da_Mulher_(53031613901).jpg"],
+    "hmib-placa":["Agência Brasília from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Hospital_Materno_Infantil_(48991028081).jpg"],
+    "hmib-maternidade":["Agência Brasília from Brasília, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Hospital_Materno_Infantil_(48991027136).jpg"],
+    "hospital-materno-infantil-portao":["Túllio F", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Hospital_Materno_Infantil_de_Marab%C3%A1.jpg"],
+    "aldeia-aerea":["Pedro Biondi/ABr", "CC BY 3.0 br", "https://commons.wikimedia.org/wiki/File:Parque_Ind%C3%ADgena_do_Xingu.jpg"],
+    "chapada-diamantina-morro":["Jeilsonandrade", "CC BY-SA 3.0", "https://commons.wikimedia.org/wiki/File:Morr%C3%A3o,_no_Parque_Nacional_da_Chapada_Diamantina_-_Bahia_crop_2.jpg"],
+    "chapada-diamantina-vale":["Aq.nicolas", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:PARNA_da_Chapada_Diamantina_-_Aq.nicolas(002).jpg"],
+    "lencois-maranhenses":["Paulo Cattelan", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Parque_Nacional_dos_Len%C3%A7%C3%B3is_Maranhenses_Paulo_Cattelan_(03).jpg"],
+    "paisagem-aldeia-arvore":["Amanda  Coutinho from São Paulo, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Aldeia_ind%C3%ADgena_(51227945232).jpg"],
+    "crm-centro-referencia-mesa":["prefeitura de novo hamburgo1", "Public domain", "https://commons.wikimedia.org/wiki/File:2026-07-21_Inaugura%C3%A7%C3%A3o_do_Centro_de_Refer%C3%AAncia_da_Mulher_(CRM),_008.jpg"],
+    "cabo-fibra-monitor":["Ministério da Ciência, Tecnologia e Inovações from Brasília - DF, Brasil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Opera%C3%A7%C3%B5es_do_Cabo_Submarino_de_Fibra_%C3%93ptica_Brasil-Europa_(51234242191).jpg"],
+    "sine-sala-atendimento":["Cristine Rochol/PMPA", "Attribution", "https://commons.wikimedia.org/wiki/File:IBPA_21326_-_O_Sine_Municipal_disponibiliza,_a_partir_desta_quarta-feira,_2,_uma_-_2019-01-02_-_Cristine_Rochol-PMPA.jpg"],
+    "sine-sala-computadores":["Cristine Rochol/PMPA", "Attribution", "https://commons.wikimedia.org/wiki/File:IBPA_21325_-_O_Sine_Municipal_disponibiliza,_a_partir_desta_quarta-feira,_2,_uma_-_2019-01-02_-_Cristine_Rochol-PMPA.jpg"],
+    "esplanada-ministerio-bloco":["Agência Senado from Brasilia, Brazil", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_(52232232753).jpg"],
+    "esplanada-ministerio-letreiro":["Jefferson Rudy/Agência Senado", "CC BY 2.0", "https://commons.wikimedia.org/wiki/File:%222022%22_Esplanada_dos_Minist%C3%A9rios.jpg"],
+    "planalto-arcos":["Alex Pereira", "Public domain", "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio-Planalto-up.jpg"],
+    "teclado-ctrl":["Daniel beardsmore", "Public domain", "https://commons.wikimedia.org/wiki/File:Control_key_--_placed_after_Fn_on_laptop.jpg"],
+    "biblioteca-mario-andrade":["Wilfredor", "CC BY-SA 4.0", "https://commons.wikimedia.org/wiki/File:Biblioteca_Mario_Andrade,_S%C3%A3o_Paulo,_Brasil.jpg"]
+  };
+  CR["r-norte"]=["Ridiculopathy","CC0","https://commons.wikimedia.org/wiki/File:Porto_do_Ver-o-Peso,_Bel%C3%A9m,_Brazil._Belem_02.jpg"];
+  CR["r-nordeste"]=["Wilfredor","CC0","https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_do_Marco_Zero,_Recife,_Pernambuco,_Brasil.jpg"];
+  CR["r-co"]=["Boaventuravinicius","CC BY-SA 3.0","https://commons.wikimedia.org/wiki/File:Goi%C3%A2nia_2019.jpg"];
+  CR["r-sul"]=["Cristine Denardi Huff","CC BY-SA 4.0","https://commons.wikimedia.org/wiki/File:Porto_Alegre_por_Cristine_Huff_24.jpg"];
+  /* versões grandes usadas no slider apontam para o mesmo crédito */
+  CR["s-leis"]=CR.hero; CR["s-ambiente"]=CR.ambiente; CR["s-politica"]=CR.politica; CR["s-tecnologia"]=CR.tecnologia; CR["s-economia"]=CR.economia;
+  var LIC={"CC BY 2.0":"https://creativecommons.org/licenses/by/2.0/deed.pt","CC BY 3.0":"https://creativecommons.org/licenses/by/3.0/deed.pt","CC BY 4.0":"https://creativecommons.org/licenses/by/4.0/deed.pt",
+    "CC BY-SA 3.0":"https://creativecommons.org/licenses/by-sa/3.0/deed.pt","CC BY-SA 4.0":"https://creativecommons.org/licenses/by-sa/4.0/deed.pt",
+    "CC0":"https://creativecommons.org/publicdomain/zero/1.0/deed.pt","CC BY-SA 3.0 br":"https://creativecommons.org/licenses/by-sa/3.0/br/deed.pt","CC BY 2.5":"https://creativecommons.org/licenses/by/2.5/deed.pt","Domínio público":"https://creativecommons.org/publicdomain/mark/1.0/deed.pt","CC BY 3.0 br":"https://creativecommons.org/licenses/by/3.0/br/deed.pt","CC BY-SA 2.0":"https://creativecommons.org/licenses/by-sa/2.0/deed.pt","Public domain":"https://creativecommons.org/publicdomain/mark/1.0/deed.pt","FAL":"https://artlibre.org/licence/lal/pt/","Attribution":"https://commons.wikimedia.org/wiki/Template:Attribution"};
+  function licLink(l){return LIC[l]?'<a href="'+LIC[l]+'"'+NEW+'>'+l+'</a>':l;}
+  /* Crédito exigido pelas licenças: autor (com link para a obra) e licença (com link). */
+  function credit(k){var c=CR[k];return '<span class="credit">Foto: <a href="'+c[2]+'"'+NEW+'>'+c[0]+'</a> / '+licLink(c[1])+'</span>';}
+  function ph(k,eager){return '<div class="ph"><img src="img/'+k+'.jpg" alt=""'+(eager?'':' loading="lazy"')+'></div>';}
+  /* a mesma foto não aparece duas vezes na página: a repetida vira outra do mesmo grupo (src/fotos.json) */
+  var FPOOL=window.IAB_FOTOS||{}, USADAS={};
+  function uniq(k){if(!k)return k;if(!USADAS[k]){USADAS[k]=1;return k;}
+    var g=[];Object.keys(FPOOL).forEach(function(e){if(FPOOL[e].indexOf(k)>-1)g=g.concat(FPOOL[e]);});
+    var todas=[];Object.keys(FPOOL).forEach(function(e){todas=todas.concat(FPOOL[e]);});
+    var alt=g.concat(todas).filter(function(x){return !USADAS[x];})[0];
+    if(alt){USADAS[alt]=1;return alt;} return k;}
+
+  /* ---------- editorias ---------- */
+  var ED=[
+    {id:"politica",img:"f-esplanada-aerea",tag:"#Política",k:"P",c:"--p",name:"Política",h:"Políticas públicas",desc:"Governo, Congresso, orçamento e políticas públicas para mulheres e crianças: o que é anunciado, o que sai do papel e o que falta.",
+     topics:["Ministério das Mulheres","Congresso","Orçamento","Violência política"]},
+    {id:"trabalho",img:"sine-sala-atendimento",tag:"#Trabalho",k:"E",c:"--e",name:"Trabalho e renda",desc:"Autonomia econômica, igualdade salarial, assédio no trabalho e o cuidado não remunerado: sem renda própria, sair da violência é mais difícil.",
+     topics:["Igualdade salarial","Assédio no trabalho","Autonomia econômica","Cuidado"]},
+    {id:"sociedade",img:"biblioteca-mario-andrade",tag:"#Sociedade",k:"S",c:"--s",name:"Sociedade",desc:"Educação, cultura, campanhas e comportamento: como a sociedade enfrenta o machismo e a violência, e o que dizem as pesquisas.",
+     topics:["Educação","Campanhas","Pesquisas","Machismo"]},
+    {id:"digital",img:"teclado-ctrl",tag:"#Digital",k:"T",c:"--t",name:"Violência digital",desc:"Exposição de imagens íntimas, deepfakes, perseguição online, aliciamento de crianças e golpes: a violência que também acontece na tela.",
+     topics:["Imagens íntimas","Deepfakes","Perseguição online","Aliciamento"]},
+    {id:"infancia",img:"conselho-tutelar-sede",tag:"#Infância",k:"A",c:"--a",name:"Infância",h:"Proteção da infância",re:/crian[cç]a|infantil|inf[aâ]ncia|adolescen|\bECA\b|conselho tutelar|estupro de vulner[aá]vel|trabalho infantil/i,
+     desc:"Crianças e adolescentes: violência sexual, maus-tratos, violência online, trabalho infantil, ECA e Conselhos Tutelares.",
+     topics:["ECA","Conselho Tutelar","Violência sexual","Escola"],pagina:"/infancia/"},
+    {id:"leis",img:"leis",tag:"#Leis",k:"L",c:"--l",name:"Leis e Justiça",h:"Leis e Justiça",desc:"Lei Maria da Penha, feminicídio, ECA e novas leis; decisões do STF, do STJ e dos tribunais; o trabalho do Ministério Público e das Defensorias.",
+     topics:["Lei Maria da Penha","Feminicídio","STF e STJ","Novas leis"],pagina:"/leis/"},
+    {id:"saude",img:"hmib-maternidade",tag:"#Saúde",k:"H",c:"--h",name:"Saúde",h:"Saúde da mulher",re:/sa[uú]de|\bSUS\b|hospital|maternidade|gestante|parto|obst[eé]tric|aborto|pr[eé]-natal/i,
+     desc:"Atendimento a vítimas de violência no SUS, violência obstétrica, saúde materna, aborto nos casos previstos em lei e saúde mental.",
+     topics:["Violência sexual e SUS","Parto e maternidade","Aborto legal","Saúde mental"],pagina:"/saude/"},
+    {id:"seguranca",img:"delegacia-predio",tag:"#Segurança",k:"N",c:"--n",name:"Segurança",h:"Segurança e feminicídio",re:/feminic[ií]d|viol[eê]ncia dom[eé]stica|medidas? protetivas?|delegacia|patrulha maria da penha|tornozeleira/i,
+     desc:"Feminicídios, violência doméstica, medidas protetivas, delegacias da mulher, Patrulhas Maria da Penha e monitoramento: a resposta da segurança pública.",
+     topics:["Feminicídio","Medidas protetivas","Delegacias da Mulher","Patrulha Maria da Penha"],pagina:"/seguranca/"},
+    {id:"amparo",img:"cmb-recepcao",tag:"#Amparo",k:"I",c:"--i",name:"Amparo",h:"Rede de amparo",re:/casa da mulher brasileira|abrigo|acolhiment|centro de refer[eê]ncia|ligue 180|rede de (prote[cç][aã]o|atendimento|enfrentamento)/i,
+     desc:"Casa da Mulher Brasileira, centros de referência, casas-abrigo, Ligue 180, apoio psicológico e jurídico: quem acolhe depois da denúncia.",
+     topics:["Casa da Mulher Brasileira","Centros de referência","Abrigos","Ligue 180"],pagina:"/amparo/"},
+    {id:"diversidade",img:"aldeia-aerea",tag:"#Diversidade",k:"G",c:"--g",name:"Diversidade",desc:"Mulheres negras, indígenas, quilombolas, do campo, com deficiência, idosas e LBT: quem a violência atinge mais e como a proteção precisa chegar a todas.",
+     topics:["Mulheres negras","Indígenas e quilombolas","Mulheres do campo","Mulheres LBT"]}
+  ];
+  var EDK={}; ED.forEach(function(d){EDK[d.k]=d;});
+
+  /* ---------- notícias: a capa vem dos destaques automáticos (data/destaques.json, coletor/curar.py) ---------- */
+  var N=[];
+  /* destaques automáticos (curadoria diária do coletor): entram na frente das notícias fixas */
+  if(window.IAB_AUTO&&IAB_AUTO.length){var _ids={};IAB_AUTO.forEach(function(n){_ids[n.id]=1;});N=IAB_AUTO.concat(N.filter(function(n){return !_ids[n.id];}));}
+  var MES={jan:0,fev:1,mar:2,abr:3,mai:4,jun:5,jul:6,ago:7,set:8,out:9,nov:10,dez:11};
+  /* data comparável de cada notícia: ISO dos automáticos ou "13 ago 2026", "set 2026", "2º tri 2026", "2026" das fixas */
+  function dt(n){if(n.iso)return Date.parse(n.iso);var s=String(n.date||""),m=s.match(/(\d{1,2})?\s?(jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)\w*\s+(\d{4})/i);
+    if(m)return Date.UTC(+m[3],MES[m[2].toLowerCase()],+(m[1]||15));m=s.match(/(\d)º tri (\d{4})/);if(m)return Date.UTC(+m[2],(+m[1])*3-2,15);
+    m=s.match(/(\d{4})/);return m?Date.UTC(+m[1],5,30):0;}
+  N.sort(function(a,b){return dt(b)-dt(a);});
+  var NI={}; N.forEach(function(n){NI[n.id]=n;});
+  (function(){var h=new Date(),M=["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];$("hoje").textContent=h.getDate()+" "+M[h.getMonth()]+" "+h.getFullYear();})();
+
+  /* ---------- aprofundamento no leitor ----------
+     k: números-chave · tl: linha do tempo · of: trecho literal de ato oficial (atos oficiais não têm proteção autoral, art. 8º, IV, Lei 9.610/98)
+     nx: o que observar · rk: palavras para buscar notícias relacionadas no Radar */
+  var X={};
+  /* extras dos destaques automáticos (pontos principais, o que observar) */
+  if(window.IAB_AUTO) IAB_AUTO.forEach(function(n){if(n.x&&!X[n.id]) X[n.id]=n.x;});
+  function tag(e,solid){var d=EDK[e];return '<span class="tag'+(solid?' solid':'')+'" style="--c:var('+d.c+')">'+d.tag+'</span>';}
+  function when(s){return s?'<span class="when num">'+s+'</span>':'';}
+  function teaser(t,n){n=n||140;return t.length>n?t.slice(0,t.lastIndexOf(" ",n-2))+"…":t;}
+  function ov(n,cls,showText){return '<button type="button" class="ov '+(cls||"")+'" data-open="'+n.id+'">'+ph(uniq(n.img))+'<span class="arr" aria-hidden="true">'+ARROW+'</span><div class="in"><div class="meta">'+tag(n.e,true)+when(n.date)+'</div><h3>'+n.h+'</h3>'+(showText?'<p>'+teaser(n.t,170)+'</p>':'')+'</div></button>';}
+  function card(n,h){return '<button type="button" class="card" data-open="'+n.id+'">'+ph(uniq(n.img))+'<div class="meta">'+tag(n.e)+when(n.date)+'</div><'+(h||"h3")+'>'+n.h+'</'+(h||"h3")+'><p>'+teaser(n.t)+'</p><span class="go">Ler '+ARROW+'</span></button>';}
+
+  /* ---------- leitor ---------- */
+  var reader=$("reader"), lastFocus=null;
+  function openN(id){
+    var n=NI[id]; if(!n) return; var d=EDK[n.e];
+    lastFocus=document.activeElement;
+    var x=X[id]||{}, more="";
+    if(x.k) more+='<div class="rk">'+x.k.map(function(k){return '<div><b>'+k[0]+'</b><span>'+k[1]+'</span></div>';}).join("")+'</div>';
+    if(x.bl) more+='<h3 class="rh">Pontos principais</h3><ul class="rbl">'+x.bl.map(function(b){return '<li>'+b+'</li>';}).join("")+'</ul>';
+    if(x.of) more+='<div class="rof"><span class="rh">Na fonte oficial</span>'+(x.of.q?'<blockquote>“'+x.of.q+'…”</blockquote>':'')+
+      '<p>'+(x.of.extra||'')+'</p><a class="lnkp" href="'+x.of.u+'"'+NEW+'>'+x.of.ref+' '+LAUNCH+'</a></div>';
+    if(x.tl) more+='<h3 class="rh">Linha do tempo</h3><ol class="rtl">'+x.tl.map(function(t){return '<li><b>'+t[0]+'</b><span>'+t[1]+'</span></li>';}).join("")+'</ol>';
+    if(x.nx) more+='<div class="rnx"><b>O que observar</b>'+x.nx+'</div>';
+    var rel="";
+    if(x.rk&&NEWS&&NEWS.length){var re=new RegExp(x.rk,"i");var its=NEWS.filter(function(r){return re.test(r.titulo);}).slice(0,5);
+      if(its.length) rel='<h3 class="rh">Na rede sobre o tema</h3><div class="rlist one">'+its.map(function(r){return redeItem(r);}).join("")+'</div>';}
+    $("rBody").innerHTML='<div class="rhead">'+ph(n.img,true)+credit(n.img)+'<div class="in"><div class="meta">'+tag(n.e,true)+when(n.date)+'</div><h2 id="rTitle">'+n.h+'</h2></div></div>'+
+      '<div class="rbody"><p class="txt">'+n.t+'</p>'+(n.a?'<div class="ran">'+n.a.map(function(p){return '<p>'+esc(p)+'</p>';}).join("")+'</div>':'')+(n.w?'<div class="why"><b>Por que importa</b>'+n.w+'</div>':'')+more+
+      '<h3 class="rh">Leia nas fontes originais</h3><div class="rsrc">'+n.s.map(function(s){return '<a href="'+s[1]+'"'+NEW+'>'+s[0]+' '+LAUNCH+'</a>';}).join("")+'</div>'+rel+
+      '<p class="rlegal">Resumo e análise próprios do Observatório Brasil Mulher. Trechos de atos oficiais reproduzidos com base no art. 8º, IV, da Lei 9.610/98. Para o texto completo das reportagens, acesse os veículos acima.</p>'+'<div class="why"><b>Precisa de ajuda?</b>Em perigo agora, ligue 190. Violência contra a mulher: Ligue 180. Crianças e adolescentes: Disque 100. <a href="/ajuda/">Todos os canais</a>.</div>'+
+      '<div class="btns"><a class="btn ghost" href="#'+d.id+'" data-close>Mais em '+d.tag+' '+ARROW+'</a></div></div>';
+    reader.hidden=false; document.body.style.overflow="hidden"; $("rClose").focus();
+  }
+  function closeR(){reader.hidden=true;document.body.style.overflow="";if(lastFocus)lastFocus.focus();}
+  $("rClose").addEventListener("click",closeR);
+  reader.addEventListener("click",function(e){if(e.target===reader)closeR();});
+  document.addEventListener("keydown",function(e){if(e.key==="Escape"&&!reader.hidden)closeR();});
+  document.addEventListener("click",function(e){
+    var o=e.target.closest("[data-open]"); if(o){e.preventDefault();openN(o.getAttribute("data-open"));return;}
+    if(e.target.closest("[data-close]")&&!reader.hidden){reader.hidden=true;document.body.style.overflow="";}
+  });
+
+  /* ---------- slider ---------- */
+  var SLIMG={L:"s-leis",A:"s-ambiente",P:"s-politica",T:"s-tecnologia",E:"s-economia",S:"sociedade"};
+  var SL=(function(){var vis={},out=[];N.forEach(function(n){if(out.length<5&&!n.reg&&!vis[n.e]){vis[n.e]=1;out.push([n.id,n.img||SLIMG[n.e]]);}});return out;})(), si=0, timer=null, DUR=7000, paused=false;
+  var reduce=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+  /* monta o slider; na edição regional recebe a lista da região */
+  function buildSlides(list,regName){
+    SL=list; si=0;
+    $("slides").innerHTML=SL.map(function(s,i){var n=NI[s[0]],d=EDK[n.e];
+      var second=regName?'<a class="btn line-w" href="#radar"'+(i?' tabindex="-1"':'')+'>Mais da região '+regName+' '+ARROW+'</a>':'<a class="btn line-w" href="#'+d.id+'"'+(i?' tabindex="-1"':'')+'>Mais em '+d.tag+' '+ARROW+'</a>';
+      return '<article class="slide'+(i===0?' on':'')+'" aria-roledescription="slide" aria-label="'+(i+1)+' de '+SL.length+'"'+(i?' aria-hidden="true"':'')+'>'+
+        '<div class="ph"><img src="img/'+(USADAS[s[1]]=1,s[1])+'.jpg" alt=""'+(i?' loading="lazy"':' fetchpriority="high"')+'></div>'+credit(s[1])+
+        '<div class="wrap"><div class="txt"><div class="meta">'+(regName?'<span class="tag solid" style="--c:var(--blue)">Edição '+regName+'</span>':'')+tag(n.e,true)+when(n.date)+'</div><'+(i===0?'h1':'h2')+'>'+n.h+'</'+(i===0?'h1':'h2')+'><p class="ld">'+teaser(n.t,220)+'</p>'+
+        '<div class="btns"><button type="button" class="btn" data-open="'+n.id+'"'+(i?' tabindex="-1"':'')+'>Ler a notícia '+ARROW+'</button>'+second+'</div></div></div></article>';}).join("");
+    $("dots").style.gridTemplateColumns="repeat("+SL.length+",minmax(0,1fr))";
+    $("dots").innerHTML=SL.map(function(s,i){var n=NI[s[0]];return '<button type="button" class="dot'+(i===0?' on':'')+'" role="tab" aria-selected="'+(i===0)+'" data-i="'+i+'"><i></i><b>'+EDK[n.e].tag+'</b><span>'+n.h+'</span></button>';}).join("");
+    if(typeof restart==="function") restart();
+  }
+  var SL_NAC=SL;
+  buildSlides(SL_NAC);
+  $("dots").style.setProperty("--dur",DUR/1000+"s");
+  function go(i){
+    si=(i+SL.length)%SL.length;
+    document.querySelectorAll(".slide").forEach(function(s,j){var on=j===si;s.classList.toggle("on",on);s.setAttribute("aria-hidden",!on);
+      s.querySelectorAll("button,a").forEach(function(b){if(on)b.removeAttribute("tabindex");else b.setAttribute("tabindex","-1");});});
+    document.querySelectorAll(".dot").forEach(function(d,j){d.classList.remove("on");d.setAttribute("aria-selected",j===si);if(j===si){void d.offsetWidth;d.classList.add("on");}});
+    restart();
+  }
+  function restart(){clearTimeout(timer); if(!paused&&!reduce) timer=setTimeout(function(){go(si+1);},DUR);}
+  function setPaused(p){paused=p;$("destaques").classList.toggle("paused",p);
+    $("hPause").innerHTML='<svg><use href="#i-'+(p?"play":"pause")+'"/></svg>';$("hPause").setAttribute("aria-label",p?"Continuar":"Pausar");
+    if(p)clearTimeout(timer);else restart();}
+  $("hPrev").addEventListener("click",function(){go(si-1);});
+  $("hNext").addEventListener("click",function(){go(si+1);});
+  $("hPause").addEventListener("click",function(){setPaused(!paused);});
+  $("dots").addEventListener("click",function(e){var b=e.target.closest(".dot");if(b)go(+b.getAttribute("data-i"));});
+  var hero=$("destaques"), hoverPause=false;
+  hero.addEventListener("mouseenter",function(){if(!paused){hoverPause=true;clearTimeout(timer);hero.classList.add("paused");}});
+  hero.addEventListener("mouseleave",function(){if(hoverPause){hoverPause=false;hero.classList.remove("paused");restart();}});
+  if(reduce) setPaused(true); else restart();
+
+  /* ---------- menus e busca ---------- */
+  $("ddMenu").innerHTML=ED.map(function(d){return '<a href="#'+d.id+'" style="--c:var('+d.c+')"><svg aria-hidden="true"><use href="#i-ed-'+d.k+'"/></svg>'+d.tag+' · '+(d.h||d.name)+'</a>';}).join("");
+  $("ddBtn").addEventListener("click",function(){var dd=$("dd");var o=!dd.classList.contains("open");dd.classList.toggle("open",o);this.setAttribute("aria-expanded",o);});
+  document.addEventListener("click",function(e){if(!e.target.closest("#dd")){$("dd").classList.remove("open");$("ddBtn").setAttribute("aria-expanded","false");}});
+  function edIcon(k,cls){return '<svg class="'+(cls||"edi")+'" aria-hidden="true"><use href="#i-ed-'+k+'"/></svg>';}
+  $("lnav").insertAdjacentHTML("beforeend",ED.map(function(d){return '<a href="#'+d.id+'" style="--c:var('+d.c+')">'+edIcon(d.k)+d.tag+'</a>';}).join(""));
+  $("mNav").innerHTML=ED.map(function(d){return '<a href="#'+d.id+'">'+d.tag+'</a>';}).join("")+'<a href="/ajuda/">Onde buscar ajuda</a><a href="/oportunidades/">Vagas e oportunidades</a><a href="/projetos/">Projetos sociais</a><a href="#mercado">Painel da proteção</a><a href="/infancia/">Infância</a><a href="/seguranca/">Segurança</a><a href="/amparo/">Amparo</a><a href="/saude/">Saúde</a><a href="/leis/">Leis</a><a href="/em-votacao/">Em votação</a><a href="/parlamentares/">Quem propõe</a><a href="/participe/">Participe</a><a href="#historias">Histórias que mudaram a lei</a><a href="#canais">Canais de ajuda</a><a href="#oficiais">Das fontes oficiais</a><a href="#dados">Dados e guias</a><a href="#radar">Repositório</a><a href="/briefing/">Briefing do dia</a>';
+  $("mBtn").addEventListener("click",function(){var h=!$("mNav").hidden;$("mNav").hidden=h;this.setAttribute("aria-expanded",!h);});
+  $("mNav").addEventListener("click",function(e){if(e.target.closest("a")){$("mNav").hidden=true;$("mBtn").setAttribute("aria-expanded","false");}});
+  $("fEd").innerHTML=ED.map(function(d){return '<li><a href="#'+d.id+'">'+d.tag+'</a></li>';}).join("");
+  $("sBtn").addEventListener("click",function(){var h=!$("sBar").hidden;$("sBar").hidden=h;this.setAttribute("aria-expanded",!h);if(!h)$("sInput").focus();});
+  function norm(s){return String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");}
+  $("sInput").addEventListener("input",function(){
+    var q=norm(this.value.trim()), out="";
+    if(q.length>1){N.forEach(function(n){if(norm(n.h+" "+n.t).indexOf(q)>-1)out+='<li><button type="button" data-open="'+n.id+'">'+tag(n.e)+'<span>'+n.h+'</span></button></li>';});
+      if(!out)out='<li style="padding:12px 24px;color:var(--text-2);font-size:14px">Nenhuma notícia encontrada. Tente outro termo, como “medida protetiva” ou “Conselho Tutelar”.</li>';}
+    $("sRes").innerHTML=out;
+  });
+
+  /* ---------- em alta (mosaico) ---------- */
+  $("trTabs").innerHTML=[{k:"*",n:"Todas"}].concat(ED.map(function(d){return {k:d.k,n:d.tag};})).map(function(t,i){return '<button role="tab" type="button" aria-selected="'+(i===0)+'" data-k="'+t.k+'">'+t.n+'</button>';}).join("");
+  /* em alta: as mais recentes; principais: as 4 seguintes */
+  var NOSL={}; SL.forEach(function(s){NOSL[s[0]]=1;});
+  var ORDER=N.filter(function(n){return !n.reg&&!NOSL[n.id];}).map(function(n){return n.id;});
+  function trending(k){
+    var list=ORDER.map(function(id){return NI[id];}).filter(function(n){return k==="*"||n.e===k;});
+    var all=ORDER.map(function(id){return NI[id];});
+    if(list.length<5) list=list.concat(all.filter(function(n){return list.indexOf(n)<0;})).slice(0,5);
+    if(!list.length){$("mosaic").innerHTML='<p class="note">Os destaques aparecem aqui assim que a curadoria publicar as primeiras notícias.</p>';return;}
+    $("mosaic").innerHTML=ov(list[0],"xl",true)+list.slice(1,5).map(function(n){return ov(n);}).join("");
+  }
+  $("trTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;
+    this.querySelectorAll("button").forEach(function(x){x.setAttribute("aria-selected",x===b);});trending(b.getAttribute("data-k"));});
+  trending("*");
+
+  /* ---------- principais da semana ---------- */
+  $("feat").innerHTML=ORDER.slice(5,9).map(function(id){return card(NI[id],"h4");}).join("");
+
+  /* ---------- editorias ---------- */
+  $("editorias").innerHTML=ED.map(function(d){
+    var ns=N.filter(function(n){return (n.e===d.k||(d.re&&d.re.test(n.h+" "+n.t)))&&!n.reg;});
+    if(!ns.length) return '<section class="edblock" id="'+d.id+'" style="--c:var('+d.c+')"><div class="wrap">'+
+      '<div class="eh"><div><span class="icowrap">'+edIcon(d.k,"x")+'</span><span class="hash">'+d.tag+'</span><h2>'+(d.pagina?'<a href="'+d.pagina+'">':'')+(d.h||d.name)+(d.pagina?'</a>':'')+'</h2><p>'+d.desc+'</p></div><div class="chips">'+d.topics.map(function(t){return "<span>"+t+"</span>";}).join("")+'</div></div>'+
+      '<div class="edfoot"><div class="box ph" style="padding:0;min-height:180px"><img src="img/'+(d._im=uniq(d.img))+'.jpg" alt="" loading="lazy">'+credit(d._im)+'</div>'+
+      '<div class="rede" id="rede-'+d.id+'"><h4>Na rede · últimas sobre '+d.tag+'</h4><p class="note">Carregando…</p></div></div></div></section>';
+    var side=ns.slice(1).map(function(n){return '<button type="button" class="hcard" data-open="'+n.id+'">'+ph(uniq(n.img))+'<div class="b"><div class="meta">'+when(n.date)+'</div><h4>'+n.h+'</h4></div></button>';}).join("");
+    return '<section class="edblock" id="'+d.id+'" style="--c:var('+d.c+')"><div class="wrap">'+
+      '<div class="eh"><div><span class="icowrap">'+edIcon(d.k,"x")+'</span><span class="hash">'+d.tag+'</span><h2>'+(d.pagina?'<a href="'+d.pagina+'">':'')+(d.h||d.name)+(d.pagina?'</a>':'')+'</h2><p>'+d.desc+'</p></div><div class="chips">'+d.topics.map(function(t){return "<span>"+t+"</span>";}).join("")+'</div></div>'+
+      '<div class="edgrid">'+ov(ns[0],"xl",true)+'<div class="edside">'+side+'</div></div>'+
+      '<div class="edfoot">'+
+        '<div class="box ph" style="padding:0;min-height:180px"><img src="img/'+(d._im=uniq(d.img))+'.jpg" alt="" loading="lazy">'+credit(d._im)+'</div>'+
+        '<div class="rede" id="rede-'+d.id+'"><h4>Na rede · últimas sobre '+d.tag+'</h4><p class="note">Carregando…</p></div>'+
+      '</div></div></section>';
+  }).join("");
+
+
+
+  /* ---------- números: rede de dados em movimento lento no fundo (pausa fora da tela e com movimento reduzido) ---------- */
+  /* fundo animado em rede: script comum a todas as páginas (main.py, REDE) */
+  /* ---------- sub-heróis: destaques grandes entre as seções (sem repetir slider, Em alta e Principais) ---------- */
+  var USED={}; SL.forEach(function(s){USED[s[0]]=1;}); ORDER.slice(0,9).forEach(function(id){USED[id]=1;});
+  function pickSH(pref){var livre=N.filter(function(n){return !n.reg&&!USED[n.id];});
+    var n=livre.filter(function(m){return !pref||m.e===pref;})[0]||livre[0]; if(n) USED[n.id]=1; return n;}
+  function subhero(n){var d=EDK[n.e];
+    var rel=N.filter(function(m){return m.e===n.e&&m.id!==n.id&&!m.reg;}).slice(0,3);
+    var im=uniq(n.img); return '<div class="ph"><img src="img/'+im+'.jpg" alt="" loading="lazy"></div>'+credit(im)+
+      '<div class="wrap" style="--c:var('+d.c+')"><div><span class="k">'+tag(n.e,true)+'<span>Destaque</span>'+when(n.date)+'</span>'+
+      '<h2>'+n.h+'</h2><p class="ld">'+teaser(n.t,240)+'</p>'+
+      '<div class="btns"><button type="button" class="btn" data-open="'+n.id+'">Ler a notícia '+ARROW+'</button><a class="btn line-w" href="#'+d.id+'">Mais em '+d.tag+' '+ARROW+'</a></div></div>'+
+      (rel.length?'<aside><b>Leia também em '+d.tag+'</b>'+rel.map(function(m){return '<button type="button" class="shl" data-open="'+m.id+'"><img src="img/'+m.img+'.jpg" alt="" loading="lazy"><span>'+m.h+'</span></button>';}).join("")+'</aside>':'')+'</div>';}
+  /* cada faixa puxa uma editoria diferente: abre as editorias, fecha as editorias, antes das big techs e antes do repositório */
+  [["sh1","N"],["sh2","A"],["sh3","L"],["sh4","I"]].forEach(function(x){var el=$(x[0]),n=pickSH(x[1]); if(el) el.innerHTML=n?subhero(n):"";});
+
+  /* ---------- histórias que mudaram a lei (leis com nome de quem sofreu a violência) ---------- */
+  var TCAT={mul:"Proteção da mulher",cri:"Proteção da infância",jus:"Justiça"};
+  var TEC=[
+    {"c": "mul", "img": "cmb-fachada-df", "d": "2006", "h": "Maria da Penha: a lei que nasceu de uma condenação internacional", "t": "A farmacêutica cearense Maria da Penha Maia Fernandes sobreviveu a duas tentativas de feminicídio em 1983 e ficou paraplégica. Sem punição do agressor por anos, o caso chegou à Comissão Interamericana de Direitos Humanos, que em 2001 responsabilizou o Brasil por omissão. A Lei 11.340/2006 criou as medidas protetivas e os juizados especializados.", "f": "Lei 11.340/2006", "u": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"},
+    {"c": "cri", "img": "parquinho-praca", "d": "2022", "h": "Henry Borel: proteção à criança dentro de casa", "t": "A morte de Henry Borel, de 4 anos, em 2021, no Rio de Janeiro, investigada como violência doméstica, deu nome à Lei 14.344/2022. Ela criou mecanismos para prevenir e enfrentar a violência doméstica e familiar contra crianças e adolescentes, com medidas protetivas inspiradas na Lei Maria da Penha.", "f": "Lei 14.344/2022", "u": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm"},
+    {"c": "cri", "img": "creche-brinquedos", "d": "2014", "h": "Menino Bernardo: educar sem castigo físico", "t": "A Lei 13.010/2014 recebeu o nome de Bernardo Boldrini, menino de 11 anos assassinado no Rio Grande do Sul naquele ano. Ela incluiu no ECA o direito de crianças e adolescentes serem educados sem castigo físico e sem tratamento cruel ou degradante.", "f": "Lei 13.010/2014", "u": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13010.htm"},
+    {"c": "mul", "img": "hospital-da-mulher-sbc", "d": "2013", "h": "Lei do Minuto Seguinte: atendimento imediato à vítima de violência sexual", "t": "A Lei 12.845/2013 obriga os hospitais do SUS a oferecer atendimento emergencial, integral e multidisciplinar a pessoas em situação de violência sexual, com amparo médico, psicológico e social e profilaxia da gravidez e de infecções sexualmente transmissíveis.", "f": "Lei 12.845/2013", "u": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12845.htm"},
+    {"c": "jus", "img": "forum-sao-carlos", "d": "2021", "h": "Mariana Ferrer: respeito à vítima nas audiências", "t": "Depois da repercussão de uma audiência em Santa Catarina em que a vítima de um crime sexual foi constrangida, a Lei 14.245/2021 passou a proibir, nos processos, referências a fatos alheios ao caso e linguagem que ofenda a dignidade da vítima e das testemunhas.", "f": "Lei 14.245/2021", "u": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14245.htm"},
+    {"c": "cri", "img": "escola-entrada", "d": "2012", "h": "Joanna Maranhão: mais tempo para denunciar abuso sofrido na infância", "t": "A Lei 12.650/2012 fez a prescrição de crimes contra a dignidade sexual de crianças e adolescentes começar a contar só quando a vítima completa 18 anos. Leva o nome da nadadora olímpica pernambucana que revelou ter sofrido abuso na infância.", "f": "Lei 12.650/2012", "u": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12650.htm"},
+    {"c": "mul", "img": "teclado-ctrl", "d": "2012", "h": "Carolina Dieckmann: a invasão de dispositivo virou crime", "t": "Após a divulgação de fotos íntimas da atriz, obtidas com a invasão do seu computador, a Lei 12.737/2012 tipificou a invasão de dispositivo informático. Em 2018, a Lei 13.718 tornou crime divulgar cena de sexo ou nudez sem o consentimento da vítima.", "f": "Lei 12.737/2012", "u": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm"},
+    {"c": "mul", "img": "delegacia-predio", "d": "2024", "h": "Feminicídio: de qualificadora a crime autônomo", "t": "A Lei 13.104/2015 incluiu o feminicídio como forma qualificada de homicídio. Em 2024, o pacote antifeminicídio (Lei 14.994/2024) o transformou em crime próprio no Código Penal, com pena de 20 a 40 anos de reclusão.", "f": "Lei 14.994/2024", "u": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm"},
+    {"c": "cri", "img": "cmb-brinquedoteca", "d": "2017", "h": "Escuta protegida: a criança não precisa repetir a violência", "t": "A Lei 13.431/2017 criou a escuta especializada e o depoimento especial: crianças e adolescentes vítimas ou testemunhas de violência são ouvidos em ambiente acolhedor, por profissionais capacitados, para evitar a revitimização.", "f": "Lei 13.431/2017", "u": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm"}
+  ];
+  var TECLINKS={}; TEC.forEach(function(x){TECLINKS[x.u]=1;});
+  var TCOL={mul:"--n",cri:"--a",jus:"--l"};
+  $("tecTabs").innerHTML=[["*","Todas"],["mul",TCAT.mul],["cri",TCAT.cri],["jus",TCAT.jus]].map(function(t,i){
+    return '<button role="tab" type="button" aria-selected="'+(i===0)+'" data-k="'+t[0]+'">'+t[1]+'</button>';}).join("");
+  function tpill(c,solid){return '<span class="tag'+(solid?' solid':'')+'" style="--c:var('+TCOL[c]+')">'+TCAT[c]+'</span>';}
+  function tecRender(k){
+    var L=TEC.filter(function(x){return k==="*"||x.c===k;});
+    $("tecTop").innerHTML=L.slice(0,3).map(function(x){
+      return '<a class="ov" href="'+x.u+'"'+NEW+' style="min-height:360px">'+ph(uniq(x.img))+'<span class="arr" aria-hidden="true">'+LAUNCH+'</span><div class="in"><div class="meta">'+tpill(x.c,true)+when(x.d)+'</div><h3>'+x.h+'</h3><p>'+x.f+'</p></div></a>';}).join("");
+    $("tecList").innerHTML=L.slice(3).map(function(x){
+      return '<a class="card" href="'+x.u+'"'+NEW+'>'+ph(uniq(x.img))+'<div class="meta">'+tpill(x.c)+when(x.d)+'</div><h4>'+x.h+'</h4><p>'+x.t+'</p><span class="go">'+x.f+' '+LAUNCH+'</span></a>';}).join("");
+    $("tecList").hidden=L.length<=3;
+  }
+  $("tecTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;
+    this.querySelectorAll("button").forEach(function(x){x.setAttribute("aria-selected",x===b);});tecRender(b.getAttribute("data-k"));});
+  tecRender("*");
+
+  /* ---------- canais de ajuda (data/ajuda.json, injetado pelo main.py como IAB_AJUDA) ---------- */
+  var BT=(window.IAB_AJUDA||[]).filter(function(a){return a.contato;}).map(function(a){return {c:a.categoria,n:a.nome,num:a.contato,t:a.descricao,d:a.funciona||"",s:[["Site oficial",a.url]]};});
+  var BTC={}, BTORD=[]; BT.forEach(function(b){if(!BTC[b.c]){BTC[b.c]=b.c;BTORD.push(b.c);}});
+  $("btTabs").innerHTML=[["*","Todos"]].concat(BTORD.slice(0,4).map(function(c){return [c,c];})).map(function(t,i){return '<button role="tab" type="button" aria-selected="'+(i===0)+'" data-k="'+esc(t[0])+'">'+esc(t[1])+'</button>';}).join("");
+  function btRender(k){
+    $("btGrid").innerHTML=BT.filter(function(b){return k==="*"||b.c===k;}).slice(0,k==="*"?9:30).map(function(b){
+      return '<article class="card static bt" style="padding-top:22px"><div class="meta" style="justify-content:space-between"><span class="tag" style="--c:var(--link)">'+esc(b.c)+'</span>'+when(esc(b.d))+'</div>'+
+        '<h3>'+esc(b.n)+'</h3>'+(b.num.length<=26?'<b class="btn-num">'+esc(b.num)+'</b>':'<p><b>'+esc(b.num)+'</b></p>')+'<p>'+esc(b.t)+'</p>'+
+        '<div class="rsrc">'+b.s.map(function(s){return '<a href="'+esc(s[1])+'"'+NEW+'>'+s[0]+' '+LAUNCH+'</a>';}).join("")+'</div></article>';}).join("")
+      ||'<p class="note">Veja todos os canais em <a href="/ajuda/">Onde buscar ajuda</a>.</p>';
+  }
+  var btCur="*";
+  $("btTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;
+    this.querySelectorAll("button").forEach(function(x){x.setAttribute("aria-selected",x===b);});btCur=b.getAttribute("data-k");btRender(btCur);});
+  btRender("*");
+
+  /* ---------- pelo Brasil: estados, regiões e mapa ---------- */
+  var UFN={AC:"Acre",AL:"Alagoas",AP:"Amapá",AM:"Amazonas",BA:"Bahia",CE:"Ceará",DF:"Distrito Federal",ES:"Espírito Santo",GO:"Goiás",MA:"Maranhão",MT:"Mato Grosso",MS:"Mato Grosso do Sul",MG:"Minas Gerais",PA:"Pará",PB:"Paraíba",PR:"Paraná",PE:"Pernambuco",PI:"Piauí",RJ:"Rio de Janeiro",RN:"Rio Grande do Norte",RS:"Rio Grande do Sul",RO:"Rondônia",RR:"Roraima",SC:"Santa Catarina",SP:"São Paulo",SE:"Sergipe",TO:"Tocantins"};
+  var RG=[["Norte","--rN",["AC","AM","AP","PA","RO","RR","TO"]],["Nordeste","--rNE",["AL","BA","CE","MA","PB","PE","PI","RN","SE"]],["Centro-Oeste","--rCO",["DF","GO","MT","MS"]],["Sudeste","--rSE",["ES","MG","RJ","SP"]],["Sul","--rS",["PR","RS","SC"]]];
+  var UFR={}; RG.forEach(function(r){r[2].forEach(function(u){UFR[u]=r;});});
+  /* posição de cada estado no mapa em mosaico (coluna, linha) */
+  var TILE={RR:[2,0],AP:[4,0],AM:[1,1],PA:[3,1],MA:[4,1],CE:[5,1],RN:[6,1],AC:[0,2],RO:[1,2],MT:[2,2],TO:[3,2],PI:[4,2],PE:[5,2],PB:[6,2],MS:[2,3],GO:[3,3],BA:[4,3],SE:[5,3],AL:[6,3],SP:[2,4],DF:[3,4],MG:[4,4],ES:[5,4],RJ:[3,5],PR:[2,5],SC:[2,6],RS:[2,7]};
+  /* lugares dos itens em destaque */
+  var NUF={};
+  var TUF={"0": ["CE"], "1": ["RJ"], "2": ["RS"], "4": ["SC"], "5": ["PE"]};
+  var BUF={};
+  function regItems(){
+    var L=[];
+    N.forEach(function(n){var u=NUF[n.id]||n.uf;if(u)L.push({k:"Notícia",ufs:u,h:n.h,img:n.img,open:n.id,d:n.date});});
+    TEC.forEach(function(x,i){if(TUF[i])L.push({k:"Lei",ufs:TUF[i],h:x.h,img:x.img,url:x.u,d:x.d});});
+    BT.forEach(function(b){if(BUF[b.n])L.push({k:"Empresa · "+b.n,ufs:BUF[b.n],h:b.t,url:b.s[0][1],d:b.d});});
+    (NEWS||[]).forEach(function(r){if(r.ufs&&r.ufs.length)L.push({k:"Radar · "+r.fonte,ufs:r.ufs,h:r.titulo,url:r.link,d:quando(r.data)});});
+    return L;
+  }
+  var regCur={t:"all"};
+  function regMatch(it){if(regCur.t==="all")return true;if(regCur.t==="uf")return it.ufs.indexOf(regCur.v)>-1;
+    var r=RG.filter(function(x){return x[0]===regCur.v;})[0];return it.ufs.some(function(u){return r[2].indexOf(u)>-1;});}
+  function ufChips(ufs){return '<span class="ufs">'+ufs.map(function(u){return '<span style="--rc:var('+UFR[u][1]+')">'+u+'</span>';}).join("")+'</span>';}
+  function regRender(){
+    if(!$("tmap")) return;
+    var all=regItems(), cnt={}; all.forEach(function(it){it.ufs.forEach(function(u){cnt[u]=(cnt[u]||0)+1;});});
+    $("tmap").innerHTML=Object.keys(TILE).map(function(u){var p=TILE[u],x=p[0]*48+2,y=p[1]*48+2,r=UFR[u];
+      var on=(regCur.t==="uf"&&regCur.v===u)?" uf-on":(regCur.t==="reg"&&regCur.v===r[0])?" reg-on":"";
+      return '<g class="'+on+'" style="--rc:var('+r[1]+')" data-uf="'+u+'" tabindex="0" role="button" aria-label="'+UFN[u]+(cnt[u]?", "+cnt[u]+" itens":"")+'">'+
+        '<rect x="'+x+'" y="'+y+'" width="44" height="44" rx="10"/><text x="'+(x+22)+'" y="'+(y+(cnt[u]?20:27))+'" text-anchor="middle">'+u+'</text>'+
+        (cnt[u]?'<text class="n" x="'+(x+22)+'" y="'+(y+34)+'" text-anchor="middle">'+cnt[u]+'</text>':'')+'</g>';}).join("");
+    document.querySelectorAll("#regLeg button").forEach(function(b){b.setAttribute("aria-pressed",regCur.t==="reg"&&b.getAttribute("data-r")===regCur.v);});
+    $("regSel").value=regCur.t==="all"?"all":(regCur.t==="uf"?"uf:":"reg:")+regCur.v;
+    var L=all.filter(regMatch);
+    $("regTitle").textContent=regCur.t==="all"?"Brasil":(regCur.t==="uf"?UFN[regCur.v]:regCur.v);
+    $("regCount").textContent=L.length+(L.length===1?" item":" itens");
+    $("regList").innerHTML=L.slice(0,30).map(function(it){
+      var inner=(it.img?ph(uniq(it.img)):'')+'<div><div class="meta"><span class="kind">'+esc(it.k)+'</span>'+ufChips(it.ufs)+(it.d?'<span class="when">'+it.d+'</span>':'')+'</div><h4>'+esc(it.h)+'</h4></div>';
+      return it.open?'<button type="button" class="reg-it" data-open="'+it.open+'">'+inner+'</button>':'<a class="reg-it'+(it.img?'':' noimg')+'" href="'+esc(it.url)+'"'+NEW+'>'+inner+'</a>';}).join("")
+      ||'<p class="reg-empty">Ainda não há itens marcados para este lugar. A base marca o estado quando a notícia cita a cidade ou o estado; à medida que a coleta roda, a lista cresce.</p>';
+  }
+  regRender();
+
+  /* ---------- edição regional: a capa inteira filtrada por região ---------- */
+  var REGIMG={"Norte":"r-norte","Nordeste":"r-nordeste","Centro-Oeste":"r-co","Sudeste":"s-leis","Sul":"r-sul"};
+  var REGSLUG={"norte":"Norte","nordeste":"Nordeste","centro-oeste":"Centro-Oeste","sudeste":"Sudeste","sul":"Sul"};
+  var NAC_SECS=["direitos","comunidade","emalta","indicadores","principais","editorias","historias","canais","oficiais","mercado","dados","sh1","sh2","sh3","sh4"];
+  var REGION=null;
+  function inReg(ufs,r){return (ufs||[]).some(function(u){return r[2].indexOf(u)>-1;});}
+  function nUfs(n){return NUF[n.id]||n.uf||[];}
+  function linkCard(x,kind){return '<a class="ov" href="'+esc(x.u)+'"'+NEW+'>'+ph(uniq(x.img))+'<span class="arr" aria-hidden="true">'+LAUNCH+'</span><div class="in"><div class="meta"><span class="tag solid" style="--c:var(--blue)">'+kind+'</span>'+(x.d?when(x.d):'')+'</div><h3>'+esc(x.h)+'</h3></div></a>';}
+  function renderRegional(r){
+    var name=r[0], ns=N.filter(function(n){return inReg(nUfs(n),r);}).sort(function(a,b){return (b.reg?1:0)-(a.reg?1:0);});
+    var tec=TEC.filter(function(x,i){return TUF[i]&&inReg(TUF[i],r);}), bts=BT.filter(function(b){return BUF[b.n]&&inReg(BUF[b.n],r);});
+    var rede=(NEWS||[]).filter(function(x){return (x.regioes||[]).indexOf(name)>-1||x.fonte_regiao===name;});
+    rede.sort(function(a,b){return ((b.regioes||[]).indexOf(name)>-1?1:0)-((a.regioes||[]).indexOf(name)>-1?1:0);});
+    /* slider da região */
+    var slides=ns.slice(0,5).map(function(n,i){return [n.id,i===0?REGIMG[name]:n.img];});
+    if(slides.length) buildSlides(slides,name);
+    /* barra da edição */
+    var h='<div class="redbar" style="--rc:var('+r[1]+')"><div class="wrap"><h2>Edição <b>'+name+'</b></h2>'+ufChips(r[2])+'<span class="sp"></span>'+
+      '<button type="button" class="btn ghost" data-reg="">Voltar à edição Brasil '+ARROW+'</button></div></div>';
+    /* em alta na região */
+    var cards=ns.map(function(n,i){return ov(n,i===0?"xl":"",i===0);}).concat(tec.map(function(x){return linkCard(x,"Lei");}))
+      .concat(rede.map(function(x){return linkCard({u:x.link,h:x.titulo,img:REGIMG[name],d:quando(x.data)},"Na rede · "+x.fonte);})).slice(0,5);
+    h+='<section class="sec"><div class="wrap"><div class="sh"><div><span class="eye">Edição '+name+'</span><h2>Em alta no '+name+'</h2></div></div>'+
+      (cards.length?'<div class="rmos'+(cards.length<4?' few':'')+'">'+cards.join("")+'</div>':'<p class="rempty">Ainda não há destaques marcados para o '+name+'. A redação e o coletor marcam o estado quando a notícia cita o lugar.</p>')+'</div></section>';
+    /* editorias da região */
+    function redeEd(k){return rede.filter(function(x){return x.editoria===k;});}
+    var withEd=ED.filter(function(d){return ns.some(function(n){return n.e===d.k;})||redeEd(d.k).length;}), without=ED.filter(function(d){return withEd.indexOf(d)<0;});
+    h+='<section class="sec gray"><div class="wrap"><div class="sh"><div><span class="eye">As editorias, no '+name+'</span><h2>Editorias da região</h2></div></div>'+
+      withEd.map(function(d){var its=ns.filter(function(n){return n.e===d.k;});
+        return '<div style="--c:var('+d.c+');margin-bottom:40px"><div class="eh"><div><span class="icowrap">'+edIcon(d.k,"x")+'</span><span class="hash">'+d.tag+'</span><h2>'+(d.h||d.name)+' no '+name+'</h2></div></div>'+
+          (its.length?'<div class="g3">'+its.map(function(n){return card(n,"h4");}).join("")+'</div>':'')+
+          (redeEd(d.k).length?'<div class="rede" style="margin-top:20px"><h4>Na rede · '+d.tag+' no '+name+'</h4><div class="rlist">'+redeEd(d.k).slice(0,6).map(function(x){return redeItem(x);}).join("")+'</div></div>':'')+'</div>';}).join("")+
+      (without.length?'<div class="edstrip">'+without.map(function(d){return '<a href="#radar" data-edfilter="'+d.k+'" style="--c:var('+d.c+')">'+edIcon(d.k,"x")+'Sem notícias de '+d.tag+' no '+name+' ainda · ver no Radar</a>';}).join("")+'</div>':'')+
+      '</div></section>';
+    /* tecnologia e empresas da região */
+    if(tec.length||bts.length){
+      h+='<section class="sec"><div class="wrap"><div class="sh"><div><span class="eye">Histórias do '+name+'</span><h2>Leis que nasceram no '+name+'</h2></div></div><div class="g3">'+
+        tec.map(function(x){return '<a class="card" href="'+x.u+'"'+NEW+' style="padding-top:20px"><div class="meta">'+tpill(x.c)+when(x.d)+'</div><h4>'+x.h+'</h4><p>'+x.t+'</p><span class="go">'+x.f+' '+LAUNCH+'</span></a>';}).join("")+
+        bts.map(function(b){return '<article class="card static bt" style="padding-top:22px"><div class="meta" style="justify-content:space-between"><span class="tag" style="--c:var(--link)">'+BTC[b.c]+'</span>'+when(b.d)+'</div><h3>'+b.n+'</h3><b class="btn-num">'+b.num+'</b><p>'+b.t+'</p><div class="rsrc">'+b.s.map(function(s){return '<a href="'+s[1]+'"'+NEW+'>'+s[0]+' '+LAUNCH+'</a>';}).join("")+'</div></article>';}).join("")+
+        '</div></div></section>';
+    }
+    /* na rede, na região */
+    h+='<section class="sec gray"><div class="wrap"><div class="sh"><div><span class="eye">Coleta automática</span><h2>Na rede · '+name+'</h2></div><a class="lnk" href="#radar">Abrir o Radar da região '+ARROW+'</a></div>'+
+      (rede.length?'<div class="rlist three">'+rede.slice(0,12).map(function(x){return redeItem(x,true);}).join("")+'</div>':'<p class="rempty">A base ainda não tem notícias coletadas do '+name+'. Com a coleta diária, esta lista cresce.</p>')+'</div></section>';
+    $("regEd").innerHTML=h;
+  }
+  function setRegion(name,scroll){
+    var r=name?RG.filter(function(x){return x[0]===name;})[0]:null; REGION=r; if(r) USADAS={};
+    NAC_SECS.forEach(function(id){var el=$(id); if(el) el.hidden=!!r;});
+    $("regEd").hidden=!r;
+    if(r){renderRegional(r);} else {$("regEd").innerHTML="";buildSlides(SL_NAC);}
+    $("rddTxt").textContent=r?r[0]:"Brasil";
+    $("rddBtn").style.setProperty("--rc",r?"var("+r[1]+")":"");
+    document.querySelectorAll("#regBar a,#rddMenu a").forEach(function(a){a.classList.toggle("on",(a.getAttribute("data-reg")||"")===(name||""));});
+    /* Radar acompanha a edição */
+    $("rreg").value=r?r[0]:""; if(r) $("rbr").checked=false; shown=24; if(NEWS&&NEWS.length) radar();
+    if(scroll&&window.gtag) gtag("event","escolher_regiao",{regiao:name||"Brasil"});
+    if(scroll) window.scrollTo({top:0,behavior:REDUCE_M?"auto":"smooth"});
+  }
+  var REDUCE_M=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+  $("regBar").innerHTML='<a href="#topo" data-reg="" class="on">Brasil</a>'+RG.map(function(r){return '<a href="#topo" data-reg="'+r[0]+'" title="'+r[2].join(", ")+'" style="--c:var('+r[1]+');--on:#fff">'+r[0]+'</a>';}).join("");
+  $("rddMenu").innerHTML='<span class="rdd-t">Escolha a edição</span>'+$("regBar").innerHTML;
+  function rddOpen(o){$("rddMenu").hidden=!o;$("rddBtn").setAttribute("aria-expanded",o);}
+  $("rddBtn").addEventListener("click",function(){rddOpen($("rddMenu").hidden);});
+  document.addEventListener("keydown",function(e){if(e.key==="Escape")rddOpen(false);});
+  $("mNav").insertAdjacentHTML("afterbegin",'<a href="#topo" data-reg="" style="font-weight:700">📍 Edição Brasil</a>'.replace("📍 ","")+RG.map(function(r){return '<a href="#topo" data-reg="'+r[0]+'">Edição '+r[0]+'</a>';}).join(""));
+  document.addEventListener("click",function(e){
+    if(!e.target.closest("#rdd")) rddOpen(false);
+    var a=e.target.closest("[data-reg]"); if(a){e.preventDefault();rddOpen(false);setRegion(a.getAttribute("data-reg")||null,true);}
+    var f=e.target.closest("[data-edfilter]"); if(f){$("red").value=f.getAttribute("data-edfilter");shown=24;radar();}
+  });
+  /* abre direto pelo endereço (/nordeste/) ou pela âncora (#nordeste); a escolha não fica gravada no aparelho */
+  (function(){var hs=(location.hash||"").slice(1).toLowerCase(), saved=null, ps=(location.pathname||"").replace(/\//g,"").toLowerCase();
+    if(REGSLUG[ps]){setRegion(REGSLUG[ps]);return;}
+    if(REGSLUG[hs]) setRegion(REGSLUG[hs]); else if(saved) setRegion(saved);})();
+
+  /* ---------- créditos ---------- */
+  /* Exigido pelas licenças CC: crédito de cada foto, recolhido num link discreto */
+  /* créditos das fotos: na legenda de cada foto e na página /creditos/ (exigência das licenças CC) */
+
+  /* ---------- base de notícias (data/noticias.json) ---------- */
+  function quando(iso){if(!iso)return "";var d=new Date(iso),h=(Date.now()-d)/36e5;
+    if(h<1)return "agora"; if(h<24)return "há "+Math.floor(h)+" h"; if(h<48)return "ontem";
+    return d.toLocaleDateString("pt-BR",{day:"2-digit",month:"short"});}
+  function esc(s){return String(s||"").replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+  function redeItem(n,showEd){var d=EDK[n.editoria];
+    return '<div class="ri" style="--c:var('+(d?d.c:"--blue")+')"><span class="rico" aria-hidden="true">'+(d?edIcon(d.k):"")+'</span><a href="'+esc(n.link)+'"'+NEW+'>'+esc(n.titulo)+'</a><small>'+(showEd&&d?d.tag+' · ':'')+esc(n.fonte)+(n.idioma==="en"?' · traduzido do inglês':'')+' · '+quando(n.data)+'</small></div>';}
+  var NEWS=[], shown=24, RADAR_DT="";
+  /* ---------- das fontes oficiais: o que órgãos públicos e organizações publicaram ---------- */
+  var OFI=[["*","Todas",/^(Governo|Legislativo|Judiciário|Ministério Público|Defensoria|Controle|Agência pública|Estatística|Organismo internacional|Terceiro setor|Academia|Pesquisa|Observatório)/],
+    ["gov","Governo",/^(Governo|Agência pública|Estatística)/],["leg","Congresso",/^Legislativo/],
+    ["jus","Justiça, MP e Defensoria",/^(Judiciário|Ministério Público|Defensoria|Controle)/],
+    ["int","Organismos internacionais",/^Organismo internacional/],["soc","Sociedade civil e pesquisa",/^(Terceiro setor|Academia|Pesquisa|Observatório)/]];
+  var ofiCur="*", ofiShown=12;
+  $("ofiTabs").innerHTML=OFI.map(function(t,i){return '<button role="tab" type="button" aria-selected="'+(i===0)+'" data-k="'+t[0]+'">'+t[1]+'</button>';}).join("");
+  function ofiRender(){
+    var re=null; OFI.forEach(function(t){if(t[0]===ofiCur) re=t[2];});
+    var f=NEWS.filter(function(n){return re.test(n.tipo||"");});
+    $("ofiList").innerHTML=f.slice(0,ofiShown).map(function(n){return redeItem(n,true);}).join("")||'<p class="note">Sem publicações deste grupo na base agora.</p>';
+    $("ofiMore").hidden=f.length<=ofiShown;
+  }
+  $("ofiTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;
+    this.querySelectorAll("button").forEach(function(x){x.setAttribute("aria-selected",x===b);});ofiCur=b.getAttribute("data-k");ofiShown=12;ofiRender();});
+  $("ofiMore").addEventListener("click",function(){ofiShown+=12;ofiRender();});
+  function radar(){
+    var q=norm($("rq").value.trim()), e=$("red").value, t=$("rtipo").value, br=$("rbr").checked, rg=$("rreg").value;
+    var f=NEWS.filter(function(n){return (!e||n.editoria===e)&&(!t||n.tipo===t)&&(!br||n.brasil)&&(!rg||(n.regioes||[]).indexOf(rg)>-1)&&(!q||norm(n.titulo+" "+n.fonte).indexOf(q)>-1);});
+    $("rlist").innerHTML=f.slice(0,shown).map(function(n){return redeItem(n,true);}).join("")||'<p class="note">Nada encontrado com esses filtros. Tente outro termo ou desmarque "Só Brasil".</p>';
+    $("rmore").hidden=f.length<=shown;
+    $("rmeta").textContent=f.length+" notícias de "+NEWS.length+" na base · atualizada em "+RADAR_DT;
+  }
+  ["rq","red","rtipo","rbr","rreg"].forEach(function(id){$(id).addEventListener("input",function(){shown=24;radar();});});
+  $("rmore").addEventListener("click",function(){shown+=24;radar();});
+  $("red").insertAdjacentHTML("beforeend",ED.map(function(d){return '<option value="'+d.k+'">'+d.tag+'</option>';}).join(""));
+  fetch("data/noticias.json").then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(d){
+    NEWS=d.noticias||[]; RADAR_DT=new Date(d.gerado_em).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+    var tipos={}; NEWS.forEach(function(n){tipos[n.tipo]=1;});
+    $("rtipo").insertAdjacentHTML("beforeend",Object.keys(tipos).sort().map(function(t){return '<option>'+esc(t)+'</option>';}).join(""));
+    radar(); btRender(btCur); ofiRender(); regRender(); if(REGION) renderRegional(REGION);
+    var liveItems=NEWS.filter(function(r){return r.brasil;}).slice(0,24);
+    if(liveItems.length>5) liveFill(liveItems.map(function(r){var d=EDK[r.editoria];return {href:r.link,ext:true,tag:(d?d.tag:"")+" · "+r.fonte,t:r.titulo};}));
+    $("redeTec").innerHTML=NEWS.filter(function(n){return n.editoria==="L"&&n.brasil;}).slice(0,9).map(function(n){return redeItem(n);}).join("")||'<p class="note">Sem novidades novas na base agora.</p>';
+    ED.forEach(function(d){var box=$("rede-"+d.id); if(!box)return;
+      var it=NEWS.filter(function(n){return n.editoria===d.k&&n.brasil;}).slice(0,4);
+      if(!it.length) it=NEWS.filter(function(n){return n.editoria===d.k;}).slice(0,4);
+      box.innerHTML='<h4>Na rede · últimas sobre '+d.tag+'</h4>'+(it.length?'<div class="rlist one">'+it.map(function(n){return redeItem(n);}).join("")+'</div>':'<p class="note">Sem itens novos agora.</p>');});
+  }).catch(function(){
+    $("rmeta").textContent="A base de notícias ainda não foi gerada. Rode: uv run coletor/coletar.py";
+    $("redeTec").innerHTML='<p class="note">A base de notícias ainda não foi gerada.</p>';
+    ED.forEach(function(d){var b=$("rede-"+d.id); if(b) b.innerHTML='';});
+  });
+
+  /* ---------- faixa de editorias: destaca a seção visível ---------- */
+  if("IntersectionObserver" in window){
+    var links={}; document.querySelectorAll("#lnav a").forEach(function(a){links[a.getAttribute("href").slice(1)]=a;});
+    var io=new IntersectionObserver(function(es){es.forEach(function(en){if(!en.isIntersecting)return;var id=en.target.id;
+      Object.keys(links).forEach(function(k){links[k].classList.toggle("on",k===id);});});},{rootMargin:"-45% 0px -50% 0px"});
+    Object.keys(links).forEach(function(id){var el=$(id); if(el) io.observe(el);});
+  }
+
+  /* ---------- faixa ao vivo ---------- */
+  function liveFill(items){
+    var h=items.map(function(i){return '<a href="'+i.href+'"'+(i.ext?NEW:'')+(i.open?' data-open="'+i.open+'"':'')+'><b>'+i.tag+'</b>'+esc(i.t)+'</a>';}).join("");
+    var run=$("liveRun"); run.innerHTML=h+h.replace(/<a /g,'<a tabindex="-1" aria-hidden="true" ');
+    /* velocidade constante de leitura (~35 px/s), qualquer que seja o número de manchetes */
+    requestAnimationFrame(function(){var w=run.scrollWidth/2; if(w) run.style.animationDuration=Math.round(w/35)+"s";});
+  }
+  liveFill(N.map(function(n){return {href:"#",open:n.id,tag:EDK[n.e].tag,t:n.h};}));
+
+  /* ---------- barra de progresso ---------- */
+  var prog=$("prog"), ticking=false;
+  addEventListener("scroll",function(){if(ticking)return;ticking=true;requestAnimationFrame(function(){
+    var h=document.documentElement, p=h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight);prog.style.transform="scaleX("+p+")";ticking=false;});},{passive:true});
+
+  /* ---------- ícones nos indicadores ---------- */
+  document.querySelectorAll(".stat").forEach(function(s){var tg=s.querySelector(".tag").textContent;
+    var d=ED.filter(function(x){return x.tag===tg;})[0]; if(d) s.insertAdjacentHTML("afterbegin",'<span class="si">'+edIcon(d.k,"x")+'</span>');});
+
+  /* ---------- entrada ao rolar e contadores ---------- */
+  var REDUCE=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+  document.documentElement.classList.add("js");
+  function countUp(el){
+    var txt=el.textContent, m=txt.match(/[\d.,]+/); if(!m||REDUCE) return;
+    var raw=m[0], dec=(raw.split(",")[1]||"").length, val=parseFloat(raw.replace(/\./g,"").replace(",","."));
+    if(!isFinite(val)) return; var t0=null;
+    function step(t){t0=t0||t;var k=Math.min(1,(t-t0)/1100),e=1-Math.pow(1-k,3);
+      el.textContent=txt.replace(raw,(val*e).toLocaleString("pt-BR",{minimumFractionDigits:dec,maximumFractionDigits:dec}));
+      if(k<1)requestAnimationFrame(step);else el.textContent=txt;}
+    requestAnimationFrame(step);
+  }
+  if("IntersectionObserver" in window){
+    var rio=new IntersectionObserver(function(es){es.forEach(function(en){if(!en.isIntersecting)return;en.target.classList.add("seen");
+      if(en.target.matches(".stat")) countUp(en.target.querySelector("b"));
+      rio.unobserve(en.target);});},{rootMargin:"0px 0px -8% 0px"});
+    function watch(){document.querySelectorAll(".card,.ov,.hcard,.box,.stat,.eh,.explore a,.bt").forEach(function(el){if(!el.classList.contains("rv")){el.classList.add("rv");rio.observe(el);}});}
+    watch(); new MutationObserver(function(){watch();}).observe(document.querySelector("main"),{childList:true,subtree:true});
+  }
+
+  /* ---------- rede neural animada no slider ---------- */
+  (function(){
+    var cv=$("net"); if(!cv||REDUCE||!cv.getContext) return;
+    var ctx=cv.getContext("2d"); if(!ctx) return; var W=0, H=0, P=[], dpr=Math.min(2,window.devicePixelRatio||1), run=true;
+    function size(){var r=cv.getBoundingClientRect();W=r.width;H=r.height;cv.width=W*dpr;cv.height=H*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);
+      var n=Math.round(Math.min(90,W*H/14000));P=[];for(var i=0;i<n;i++)P.push({x:Math.random()*W,y:Math.random()*H,vx:(Math.random()-.5)*.35,vy:(Math.random()-.5)*.35});}
+    function draw(){ if(!run) return; ctx.clearRect(0,0,W,H);
+      for(var i=0;i<P.length;i++){var a=P[i];a.x+=a.vx;a.y+=a.vy;if(a.x<0||a.x>W)a.vx*=-1;if(a.y<0||a.y>H)a.vy*=-1;
+        for(var j=i+1;j<P.length;j++){var b=P[j],dx=a.x-b.x,dy=a.y-b.y,d=dx*dx+dy*dy;
+          if(d<14000){ctx.strokeStyle="rgba(190,149,255,"+(1-d/14000)*.5+")";ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();}}
+        ctx.fillStyle="rgba(214,190,255,.9)";ctx.beginPath();ctx.arc(a.x,a.y,1.6,0,6.283);ctx.fill();}
+      requestAnimationFrame(draw);}
+    size(); addEventListener("resize",size);
+    new IntersectionObserver(function(es){var v=es[0].isIntersecting;if(v&&!run){run=true;requestAnimationFrame(draw);}run=v;}).observe(cv);
+    requestAnimationFrame(draw);
+  })();
+
+
+  var h=(location.hash||"").slice(1); if(h&&$(h)) setTimeout(function(){$(h).scrollIntoView();},0);
+  window.IAB={N:N,ED:ED,X:X,CR:CR,LIC:LIC,TEC:TEC,BT:BT,NUF:NUF,SL:SL};
+})();
+</script>

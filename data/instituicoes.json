@@ -1,0 +1,206 @@
+[
+ {
+  "nome": "Ministério das Mulheres",
+  "sigla": "MMulheres",
+  "esfera": "Federal",
+  "tipo": "Governo federal",
+  "descricao": "Coordena a política nacional de enfrentamento à violência contra as mulheres e de igualdade de gênero.",
+  "atribuicoes": [
+   "Mantém a Central Ligue 180",
+   "Implanta as Casas da Mulher Brasileira",
+   "Coordena o Programa Mulher Viver sem Violência"
+  ],
+  "canal": "Ligue 180",
+  "abrangencia": "Nacional",
+  "url": "https://www.gov.br/mulheres/pt-br",
+  "padrao": "minist[eé]rio das mulheres|ministra das mulheres|ligue 180|casa da mulher brasileira",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Ministério dos Direitos Humanos e da Cidadania",
+  "sigla": "MDHC",
+  "esfera": "Federal",
+  "tipo": "Governo federal",
+  "descricao": "Responsável pelas políticas de direitos humanos, incluindo a proteção de crianças e adolescentes.",
+  "atribuicoes": [
+   "Mantém o Disque 100 e a Ouvidoria Nacional de Direitos Humanos",
+   "Apoia Conselhos Tutelares",
+   "Coordena políticas para crianças e adolescentes"
+  ],
+  "canal": "Disque 100",
+  "abrangencia": "Nacional",
+  "url": "https://www.gov.br/mdh/pt-br",
+  "padrao": "direitos humanos e da cidadania|\\bMDHC\\b|disque 100|ouvidoria nacional de direitos humanos",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Conselho Nacional de Justiça",
+  "sigla": "CNJ",
+  "esfera": "Federal",
+  "tipo": "Judiciário",
+  "descricao": "Órgão de controle e planejamento do Judiciário, com políticas para o atendimento de mulheres em situação de violência.",
+  "atribuicoes": [
+   "Mantém o banco de medidas protetivas de urgência",
+   "Define diretrizes para os juizados de violência doméstica",
+   "Promove campanhas e protocolos de julgamento com perspectiva de gênero"
+  ],
+  "canal": "Tribunal de Justiça do seu estado",
+  "abrangencia": "Nacional",
+  "url": "https://www.cnj.jus.br/programas-e-acoes/violencia-contra-a-mulher/",
+  "padrao": "\\bCNJ\\b|conselho nacional de justi[cç]a",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Supremo Tribunal Federal",
+  "sigla": "STF",
+  "esfera": "Federal",
+  "tipo": "Judiciário",
+  "descricao": "Corte constitucional, que decide a validade de leis e teses aplicadas em casos de violência de gênero.",
+  "atribuicoes": [
+   "Confirmou a constitucionalidade da Lei Maria da Penha (ADC 19 e ADI 4424)",
+   "Derrubou a tese da legítima defesa da honra (ADPF 779)",
+   "Julga ações sobre direitos de mulheres e crianças"
+  ],
+  "canal": "Portal do STF",
+  "abrangencia": "Nacional",
+  "url": "https://portal.stf.jus.br/",
+  "padrao": "\\bSTF\\b|supremo tribunal federal|\\bsupremo\\b",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Ministério Público",
+  "sigla": "MP",
+  "esfera": "Estadual",
+  "tipo": "Ministério Público",
+  "descricao": "Promove a ação penal contra o agressor e defende os direitos de mulheres, crianças e adolescentes; o CNMP coordena a atuação nacional.",
+  "atribuicoes": [
+   "Denuncia agressores à Justiça",
+   "Fiscaliza a rede de atendimento",
+   "Pede medidas protetivas e de proteção à criança"
+  ],
+  "canal": "Promotoria de Justiça da sua cidade",
+  "abrangencia": "Nacional (MPs estaduais e CNMP)",
+  "url": "https://www.cnmp.mp.br/portal/",
+  "padrao": "minist[eé]rio p[uú]blico|\\bMP[A-Z]{2}\\b|\\bCNMP\\b|promotori[ao]|promotor[a]? de justi[cç]a",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Defensoria Pública",
+  "sigla": "DP",
+  "esfera": "Estadual",
+  "tipo": "Defensoria Pública",
+  "descricao": "Garante assistência jurídica gratuita a quem não pode pagar advogado, inclusive mulheres em situação de violência.",
+  "atribuicoes": [
+   "Pede medidas protetivas",
+   "Atua em guarda, pensão e divórcio",
+   "Mantém núcleos especializados de defesa da mulher"
+  ],
+  "canal": "Defensoria Pública do seu estado",
+  "abrangencia": "Nacional (Defensorias estaduais e DPU)",
+  "url": "https://www.anadep.org.br/",
+  "padrao": "defensoria|defensor[a]? p[uú]blic[ao]|\\bDPU\\b|\\bDPE\\b|\\banadep\\b",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Polícia Civil e Delegacias da Mulher",
+  "sigla": "Deam",
+  "esfera": "Estadual",
+  "tipo": "Segurança pública",
+  "descricao": "As Polícias Civis registram ocorrências e investigam crimes; as Deams são as delegacias especializadas no atendimento à mulher.",
+  "atribuicoes": [
+   "Registra boletins de ocorrência",
+   "Investiga crimes de violência doméstica e sexual",
+   "Encaminha pedidos de medida protetiva à Justiça"
+  ],
+  "canal": "Delegacia mais próxima; em emergência, 190",
+  "abrangencia": "Estadual",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14541.htm",
+  "padrao": "pol[ií]cia civil|delegacia (da|de defesa da|especializada de atendimento [àa]) mulher|\\bDEAMs?\\b|\\bDDMs?\\b",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Observatório da Mulher contra a Violência (Senado Federal)",
+  "sigla": "OMV",
+  "esfera": "Federal",
+  "tipo": "Legislativo",
+  "descricao": "Núcleo do Senado que reúne e analisa dados sobre violência contra a mulher e, com o DataSenado, faz a Pesquisa Nacional de Violência contra a Mulher.",
+  "atribuicoes": [
+   "Publica a Pesquisa Nacional de Violência contra a Mulher",
+   "Produz painéis de dados por estado",
+   "Apoia a elaboração de leis"
+  ],
+  "canal": "Site do Observatório",
+  "abrangencia": "Nacional",
+  "url": "https://www12.senado.leg.br/institucional/omv",
+  "padrao": "observat[oó]rio da mulher contra a viol[eê]ncia|datasenado|\\bOMV\\b",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Fórum Brasileiro de Segurança Pública",
+  "sigla": "FBSP",
+  "esfera": "Sociedade civil",
+  "tipo": "Organização de pesquisa",
+  "descricao": "Organização que produz o Anuário Brasileiro de Segurança Pública, o Atlas da Violência (com o Ipea) e a pesquisa Visível e Invisível.",
+  "atribuicoes": [
+   "Reúne os registros policiais de violência contra mulheres",
+   "Publica dados sobre violência contra crianças e adolescentes",
+   "Avalia políticas de segurança pública"
+  ],
+  "canal": "Site do FBSP",
+  "abrangencia": "Nacional",
+  "url": "https://forumseguranca.org.br/",
+  "padrao": "f[oó]rum brasileiro de seguran[cç]a p[uú]blica|\\bFBSP\\b|anu[aá]rio brasileiro de seguran[cç]a|atlas da viol[eê]ncia",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "ONU Mulheres Brasil",
+  "sigla": "ONU Mulheres",
+  "esfera": "Internacional",
+  "tipo": "Organismo internacional",
+  "descricao": "Entidade das Nações Unidas para a igualdade de gênero e o empoderamento das mulheres, com escritório no Brasil.",
+  "atribuicoes": [
+   "Apoia governos na implementação de compromissos internacionais",
+   "Promove campanhas contra a violência de gênero",
+   "Produz dados e recomendações"
+  ],
+  "canal": "Site da ONU Mulheres Brasil",
+  "abrangencia": "Internacional",
+  "url": "https://brasil.unwomen.org/pt-br",
+  "padrao": "onu mulheres|un women",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "UNICEF Brasil",
+  "sigla": "UNICEF",
+  "esfera": "Internacional",
+  "tipo": "Organismo internacional",
+  "descricao": "Fundo das Nações Unidas para a Infância, que atua pelos direitos de crianças e adolescentes no Brasil.",
+  "atribuicoes": [
+   "Produz estudos sobre violência contra crianças e adolescentes",
+   "Apoia políticas públicas de proteção",
+   "Promove campanhas de prevenção"
+  ],
+  "canal": "Site do UNICEF Brasil",
+  "abrangencia": "Internacional",
+  "url": "https://www.unicef.org/brazil/",
+  "padrao": "\\bunicef\\b",
+  "verificado_em": "2026-10-18"
+ },
+ {
+  "nome": "Instituto Maria da Penha",
+  "sigla": "IMP",
+  "esfera": "Sociedade civil",
+  "tipo": "Organização da sociedade civil",
+  "descricao": "Organização dedicada à aplicação integral da Lei Maria da Penha e ao enfrentamento da violência doméstica.",
+  "atribuicoes": [
+   "Realiza campanhas de conscientização",
+   "Oferece cursos, oficinas e palestras",
+   "Apoia pesquisas sobre violência doméstica"
+  ],
+  "canal": "Site do instituto",
+  "abrangencia": "Nacional",
+  "url": "https://www.institutomariadapenha.org.br/",
+  "padrao": "instituto maria da penha",
+  "verificado_em": "2026-10-18"
+ }
+]

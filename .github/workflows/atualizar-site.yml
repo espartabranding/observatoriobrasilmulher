@@ -1,0 +1,167 @@
+# Atualiza o Observatório Brasil Mulher sozinho, de hora em hora das 7h às 22h (Brasília):
+# coleta as notícias, escolhe os destaques, lê os projetos de lei da Câmara, regera o site inteiro e publica.
+#
+# Publicação:
+#   - GitHub Pages (sempre): https://espartabranding.github.io/observatoriobrasilmulher/
+#   - Hostinger por FTP (só quando os segredos FTP_* existirem; aí troque OBM_DOMINIO pelo domínio próprio)
+#
+# Segredos do repositório (Settings > Secrets and variables > Actions), todos opcionais:
+#   ANTHROPIC_API_KEY                       com ela, o Claude redige título, resumo e "por que importa"
+#   FTP_SERVER, FTP_USERNAME, FTP_PASSWORD  hospedagem própria (hPanel > Arquivos > Contas FTP)
+name: Atualizar site
+
+on:
+  schedule:
+    - cron: "17 0-1,10-23 * * *"   # horário UTC = 7h às 22h em Brasília
+  workflow_dispatch: {}      # botão "Run workflow" para rodar na hora
+  push:
+    branches: [main]
+    paths: ["src/**", "main.py", "secoes.py", "coletor/**", "ferramentas/**", "data/fontes.json", "data/leis.json",
+            "data/instituicoes.json", "data/indicadores.json", "data/eventos.json", "data/glossario.json",
+            "data/ajuda.json", "data/guias.json", "data/oportunidades.json", "data/projetos.json", "data/participacao.json",
+            ".github/workflows/**"]
+
+permissions:
+  contents: write
+  issues: write   # abre um aviso (issue) quando a rodada falha
+  pages: write
+  id-token: write
+
+concurrency:
+  group: atualizar-site
+  cancel-in-progress: false
+
+env:
+  OBM_DOMINIO: https://espartabranding.github.io/observatoriobrasilmulher
+  FTP_SERVER: ${{ secrets.FTP_SERVER }}
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fotos já convertidas (cache)
+        uses: actions/cache@v4
+        with:
+          path: .cache/img
+          key: img-${{ hashFiles('src/img/*.jpg') }}
+          restore-keys: img-
+
+      - name: Dependências
+        run: |
+          uv sync --frozen
+          npm ci --prefix ferramentas
+
+      - name: Coletar notícias (repositório)
+        run: uv run coletor/coletar.py
+
+      - name: Curadoria dos destaques
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: uv run coletor/curar.py
+
+      - name: Projetos de lei, autores, programas e decisões
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: uv run coletor/extrair.py
+
+      - name: Gerar o site
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # traduz os destaques para /en/
+        run: uv run main.py --ci
+
+      - name: Auditar (para se houver erro)
+        run: uv run ferramentas/auditar.py
+
+      - name: Índice de busca (Pagefind)
+        run: npx -y pagefind@1.3.0 --site entrega/1-site-para-publicar
+
+      - name: Guardar o repositório de notícias no Git
+        run: |
+          git config user.name "Observatório Brasil Mulher (robô)"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "sem novidades"; exit 0; fi
+          git commit -m "Atualiza notícias $(date -u +%Y-%m-%dT%H:%MZ)"
+          # outra rodada pode ter gravado dados no meio do caminho: vale a versão desta (a mais nova);
+          # se ainda assim não der, os dados ficam para a próxima rodada e o site é publicado do mesmo jeito
+          git pull --rebase --autostash -X theirs && git push || { git rebase --abort 2>/dev/null; echo "::warning::dados não gravados no Git nesta rodada"; }
+
+      # ---------- GitHub Pages ----------
+      - name: Versão para o GitHub Pages (subpasta)
+        run: uv run ferramentas/github_pages.py observatoriobrasilmulher
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: entrega/github-pages
+
+      - name: Publicar no GitHub Pages
+        id: pages
+        uses: actions/deploy-pages@v4
+
+      # ---------- Hostinger por FTP (só com os segredos FTP_*) ----------
+      # só o que mudou sobe por FTP: o manifesto (hash + data de cada arquivo publicado) fica no cache
+      - name: Manifesto da última publicação
+        if: env.FTP_SERVER != ''
+        uses: actions/cache/restore@v4
+        with:
+          path: .deploy
+          key: deploy-${{ github.run_id }}
+          restore-keys: deploy-
+
+      - name: Marcar arquivos que não mudaram
+        if: env.FTP_SERVER != ''
+        run: uv run ferramentas/preparar_deploy.py
+
+      # lftp em vez do FTP-Deploy-Action: a Hostinger recusa a conexão de dados (425) se a sessão TLS não for reaproveitada.
+      # O login FTP já entra na public_html, por isso o destino é "./".
+      - name: Publicar na Hostinger (FTP)
+        if: env.FTP_SERVER != ''
+        timeout-minutes: 25
+        env:
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          sudo apt-get install -y -qq lftp >/dev/null
+          for tentativa in 1 2 3; do
+            if timeout 5 bash -c "</dev/tcp/$FTP_SERVER/21" 2>/dev/null && lftp -u "$FTP_USERNAME,$FTP_PASSWORD" "$FTP_SERVER" -e "
+              set ftp:ssl-force true; set ftp:ssl-protect-data true; set ssl:verify-certificate no;
+              set ftp:passive-mode true; set net:max-retries 2; set net:timeout 20;
+              mirror -R --only-newer --verbose=1 --parallel=4 entrega/1-site-para-publicar/ ./;
+              quit"; then exit 0; fi
+            echo "FTP indisponível (tentativa $tentativa de 3)"; sleep 60
+          done
+          exit 1
+
+      - name: Guardar o manifesto
+        if: env.FTP_SERVER != ''
+        uses: actions/cache/save@v4
+        with:
+          path: .deploy
+          key: deploy-${{ github.run_id }}
+
+      # aviso por e-mail: o GitHub notifica o dono do repositório a cada issue nova ou comentário
+      - name: Avisar falha
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          link="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          aberta=$(gh issue list --state open --search "Atualização do site falhou in:title" --json number -q '.[0].number')
+          if [ -n "$aberta" ]; then gh issue comment "$aberta" --body "Falhou de novo em $(date -u '+%d/%m %H:%M UTC'): $link"
+          else gh issue create --title "Atualização do site falhou" --body "A rodada de $(date -u '+%d/%m %H:%M UTC') falhou: $link
+
+          Feche esta issue quando o problema estiver resolvido."; fi

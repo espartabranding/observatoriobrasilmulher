@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ferramentas
+node_modules/
+
+# saída gerada (o GitHub Actions regera a cada rodada)
+entrega/
+public/
+ferramentas/_pre.json
+ferramentas/_src.html
+.deploy/
+
+.cache/

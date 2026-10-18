@@ -1,0 +1,227 @@
+[
+ {
+  "grupo": "Feminicídio e homicídios",
+  "valor": "1.571",
+  "rotulo": "Vítimas de feminicídio no Brasil em 2025",
+  "detalhe": "Alta de 4% sobre 2024, com taxa de 1,4 caso por 100 mil mulheres.",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Feminicídio e homicídios",
+  "valor": "4.189",
+  "rotulo": "Tentativas de feminicídio registradas em 2025",
+  "detalhe": "Alta de 5,9% em relação a 2024 (3.940 vítimas).",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Feminicídio e homicídios",
+  "valor": "65,1%",
+  "rotulo": "Vítimas de feminicídio que eram negras em 2025",
+  "detalhe": "34,0% eram brancas. Nas demais mortes violentas intencionais de mulheres, 74,6% das vítimas eram negras.",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Feminicídio e homicídios",
+  "valor": "3.642",
+  "rotulo": "Mulheres vítimas de homicídio em 2024",
+  "detalhe": "Dados do sistema de saúde; 67,5% eram mulheres negras. De 2014 a 2024 foram 46.336 mulheres assassinadas.",
+  "fonte": "Ipea e FBSP – Atlas da Violência 2026",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/05/atlas-violencia-2026-infografico.pdf",
+  "data": "2026-05"
+ },
+ {
+  "grupo": "Violência sexual",
+  "valor": "84.388",
+  "rotulo": "Vítimas de estupro e estupro de vulnerável registradas em 2025",
+  "detalhe": "Queda de 5,4% sobre 2024 (88.843), primeira redução desde a pandemia; taxa de 39,5 por 100 mil habitantes.",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Violência sexual",
+  "valor": "41.425",
+  "rotulo": "Registros de importunação sexual em 2025",
+  "detalhe": "Alta de 5,7% sobre 2024. No mesmo ano, houve 9.031 registros de assédio sexual (alta de 5,0%).",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Violência sexual",
+  "valor": "5,3 milhões",
+  "rotulo": "Mulheres que relataram abuso sexual ou relação forçada nos 12 meses anteriores",
+  "detalhe": "Equivale a 10,7% das brasileiras de 16 anos ou mais; pesquisa feita em fevereiro de 2025.",
+  "fonte": "FBSP e Datafolha – Visível e Invisível, 5ª edição (2025)",
+  "url": "https://forumseguranca.org.br/publicacoes/visivel-e-invisivel/",
+  "data": "2025-03"
+ },
+ {
+  "grupo": "Violência doméstica",
+  "valor": "286.270",
+  "rotulo": "Mulheres vítimas de lesão corporal dolosa em contexto de violência doméstica em 2025",
+  "detalhe": "Alta de 2,6% sobre 2024: pelo menos uma agressão a cada 2 minutos.",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Violência doméstica",
+  "valor": "788.531",
+  "rotulo": "Registros de ameaça contra mulheres em 2025",
+  "detalhe": "Alta de 0,5% sobre 2024 (781.162).",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Violência doméstica",
+  "valor": "123.871",
+  "rotulo": "Registros de perseguição (stalking) contra mulheres em 2025",
+  "detalhe": "Alta de 30,1% sobre 2024 (94.836).",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Violência doméstica",
+  "valor": "60.830",
+  "rotulo": "Registros de violência psicológica contra mulheres em 2025",
+  "detalhe": "Alta de 16,9% sobre 2024 (51.830).",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Violência doméstica",
+  "valor": "132.025",
+  "rotulo": "Registros de descumprimento de medida protetiva de urgência em 2025",
+  "detalhe": "Alta de 16,7% sobre 2024 (112.695).",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Violência doméstica",
+  "valor": "37,5%",
+  "rotulo": "Mulheres que sofreram algum tipo de violência nos 12 meses anteriores",
+  "detalhe": "Cerca de 21,4 milhões de brasileiras de 16 anos ou mais; 47,4% das vítimas não denunciaram nem buscaram ajuda.",
+  "fonte": "FBSP e Datafolha – Visível e Invisível, 5ª edição (2025)",
+  "url": "https://forumseguranca.org.br/publicacoes/visivel-e-invisivel/",
+  "data": "2025-03"
+ },
+ {
+  "grupo": "Violência doméstica",
+  "valor": "3,7 milhões",
+  "rotulo": "Brasileiras que sofreram violência doméstica ou familiar em 2025",
+  "detalhe": "4% das entrevistadas, ante 7% em 2023. Em 71% dos casos havia crianças presentes durante a agressão.",
+  "fonte": "Instituto DataSenado e Nexus – Pesquisa Nacional de Violência contra a Mulher 2025",
+  "url": "https://www12.senado.leg.br/noticias/materias/2025/11/24/datasenado-violencia-de-genero-atinge-3-7-milhoes-de-brasileiras",
+  "data": "2025-11"
+ },
+ {
+  "grupo": "Violência doméstica",
+  "valor": "10%",
+  "rotulo": "Mulheres que sofreram violência on-line ou por meios eletrônicos no último ano",
+  "detalhe": "Pesquisa com 21.641 mulheres de 16 anos ou mais, por telefone, entre maio e julho de 2025.",
+  "fonte": "Instituto DataSenado e Nexus – Pesquisa Nacional de Violência contra a Mulher 2025",
+  "url": "https://www12.senado.leg.br/noticias/materias/2025/11/24/datasenado-violencia-de-genero-atinge-3-7-milhoes-de-brasileiras",
+  "data": "2025-11"
+ },
+ {
+  "grupo": "Crianças e adolescentes",
+  "valor": "61.076",
+  "rotulo": "Crianças e adolescentes (0 a 17 anos) vítimas de estupro e estupro de vulnerável em 2025",
+  "detalhe": "A taxa mais alta é na faixa de 10 a 13 anos: 225,5 por 100 mil.",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Crianças e adolescentes",
+  "valor": "59,2%",
+  "rotulo": "Estupros de vulnerável de menores de 14 anos cometidos por familiares em 2025",
+  "detalhe": "Nos registros em que a relação foi informada; 36,9% foram cometidos por conhecidos e 3,9% por desconhecidos.",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Crianças e adolescentes",
+  "valor": "38.986",
+  "rotulo": "Crianças e adolescentes vítimas de maus-tratos em 2025",
+  "detalhe": "Taxa de 77,4 por 100 mil; a faixa de 5 a 9 anos tem a taxa mais alta (95,5).",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Crianças e adolescentes",
+  "valor": "21.811",
+  "rotulo": "Crianças e adolescentes vítimas de lesão corporal em contexto de violência doméstica em 2025",
+  "detalhe": "A taxa é maior entre adolescentes de 14 a 17 anos: 104 por 100 mil.",
+  "fonte": "Fórum Brasileiro de Segurança Pública – 20º Anuário Brasileiro de Segurança Pública (2026)",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/07/anuario-2026.pdf",
+  "data": "2026-07"
+ },
+ {
+  "grupo": "Crianças e adolescentes",
+  "valor": "129.784",
+  "rotulo": "Notificações de violência contra a população de 0 a 19 anos no sistema de saúde em 2024",
+  "detalhe": "Dados do Sinan reunidos no Atlas da Violência.",
+  "fonte": "Ipea e FBSP – Atlas da Violência 2026",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/05/atlas-violencia-2026-infografico.pdf",
+  "data": "2026-05"
+ },
+ {
+  "grupo": "Rede de proteção",
+  "valor": "1.088.900",
+  "rotulo": "Atendimentos da Central Ligue 180 em 2025",
+  "detalhe": "Alta de 45% sobre 2024, quase 3 mil por dia.",
+  "fonte": "Ministério das Mulheres – balanço 2025 da Central Ligue 180 (via Agência Brasil)",
+  "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-04/em-2025-70-das-agressoes-contra-mulheres-ocorreram-dentro-de-casa",
+  "data": "2026-04"
+ },
+ {
+  "grupo": "Rede de proteção",
+  "valor": "155.111",
+  "rotulo": "Denúncias de violência contra mulheres recebidas pelo Ligue 180 em 2025",
+  "detalhe": "Alta de 17,4%; quase 70% das agressões denunciadas ocorreram em ambiente doméstico.",
+  "fonte": "Ministério das Mulheres – balanço 2025 da Central Ligue 180 (via Agência Brasil)",
+  "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-04/em-2025-70-das-agressoes-contra-mulheres-ocorreram-dentro-de-casa",
+  "data": "2026-04"
+ },
+ {
+  "grupo": "Rede de proteção",
+  "valor": "187.958",
+  "rotulo": "Notificações de violência doméstica no sistema de saúde em 2024",
+  "detalhe": "Dados do Sinan reunidos no Atlas da Violência.",
+  "fonte": "Ipea e FBSP – Atlas da Violência 2026",
+  "url": "https://forumseguranca.org.br/wp-content/uploads/2026/05/atlas-violencia-2026-infografico.pdf",
+  "data": "2026-05"
+ },
+ {
+  "grupo": "Trabalho e renda",
+  "valor": "78,9%",
+  "rotulo": "Rendimento médio das mulheres em relação ao dos homens (2022)",
+  "detalhe": "R$ 2.303 contra R$ 2.920. Entre diretores e gerentes, a razão cai para 73,9%.",
+  "fonte": "IBGE – Estatísticas de Gênero, 3ª edição (PNAD Contínua 2022)",
+  "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102066_informativo.pdf",
+  "data": "2024-03"
+ },
+ {
+  "grupo": "Trabalho e renda",
+  "valor": "21,3 h",
+  "rotulo": "Horas semanais que as mulheres dedicam a cuidados de pessoas e afazeres domésticos (2022)",
+  "detalhe": "Quase o dobro dos homens (11,7 horas). No Nordeste, as mulheres dedicam 23,5 horas.",
+  "fonte": "IBGE – Estatísticas de Gênero, 3ª edição (PNAD Contínua 2022)",
+  "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102066_informativo.pdf",
+  "data": "2024-03"
+ }
+]
