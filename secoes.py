@@ -114,6 +114,14 @@ CSS = """
 .parl-top dt{color:var(--text-3)}.parl-top dd{margin:0;color:var(--text)}
 @media (max-width:1100px){.parls{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:600px){.parls{grid-template-columns:minmax(0,1fr)}}
+.parl-lista{list-style:none;padding:0;margin:12px 0;columns:3 220px;column-gap:24px}
+.parl-lista li{break-inside:avoid;padding:6px 0;border-bottom:1px solid var(--border);font-size:14.5px}
+.parl-lista a{font-weight:600;color:var(--text)!important}.parl-lista a:hover{color:var(--link)!important}
+.parl-lista small{color:var(--text-3)}
+.parl-todos summary{cursor:pointer;display:inline-flex;padding:10px 18px;border-radius:999px;border:1.5px solid var(--link);color:var(--link);font:700 14px var(--display);margin:4px 0 8px}
+@media (max-width:600px){.parls{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .parl{flex-direction:column;align-items:flex-start;gap:8px;padding:10px}.parl img,.parl-sem{width:56px;height:74px}
+  .parl-in b{font-size:14px}.parl-lista{columns:2;column-gap:14px}.parl-lista li{font-size:13.5px}}
 .contato{font-family:var(--display);font-size:22px;font-weight:700;color:var(--text);margin:4px 0 6px;line-height:1.2}
 @media print{.banda{margin:0;padding:0;background:none!important;color:#000}.banda::before,.banda::after,.banda .scan{display:none}}
 @media print{.sub > header,.sub > footer,.crumbs,.imprimir,.dados-nav,#cookies,.share{display:none!important}.art{padding:0;max-width:none}
@@ -878,13 +886,17 @@ def parlamentares(C):
              f'de mulheres e crianças nesta legislatura ({mulheres} são mulheres). Ao todo, {len(b.get("projetos") or {})} projetos do tema; '
              f'{len(leis)} já viraram lei. Clique em cada nome para ver os projetos, a situação de cada um e o histórico.</p>',
              f'<p><small>{AVISO_PARL} Fotos: Câmara dos Deputados. Atualizado em {_data(b.get("gerado_em"))}.</small></p>',
-             '<nav class="az" aria-label="Filtros"><a href="#com-leis">Com projetos que viraram lei</a><a href="#todos">Todos</a></nav>']
+             '<nav class="az" aria-label="Filtros"><a href="#com-leis">Com projetos que viraram lei</a><a href="#mais">Mais projetos</a><a href="#todos">Todos de A a Z</a></nav>']
     com_lei = [d for d in lista if d["leis"]]
     if com_lei:
         corpo.append(f'<h2 id="com-leis">Com projetos que viraram lei ({len(com_lei)})</h2><div class="parls">'
                      + "".join(_cartao_parl(C, d, fotos[d["id"]]) for d in com_lei) + "</div>")
-    corpo.append(f'<h2 id="todos">Todos, por número de projetos ({len(lista)})</h2><div class="parls">'
-                 + "".join(_cartao_parl(C, d, fotos[d["id"]]) for d in lista) + "</div>")
+    mais = [d for d in lista if not d["leis"]][:24]
+    corpo.append(f'<h2 id="mais">Mais projetos apresentados</h2><div class="parls">'
+                 + "".join(_cartao_parl(C, d, fotos[d["id"]]) for d in mais) + "</div>")
+    corpo.append(f'<h2 id="todos">Todos, em ordem alfabética ({len(lista)})</h2><details class="parl-todos"><summary>Ver os {len(lista)} nomes de A a Z</summary><ul class="parl-lista">' + "".join(
+        f'<li><a href="/parlamentares/{d["slug"]}/">{e(d["nome"])}</a> <small>{e(d["partido"])}-{e(d["uf"])} · {len(d["princ"])}</small></li>'
+        for d in sorted(lista, key=lambda d: __import__("unicodedata").normalize("NFD", d["nome"].lower()))) + "</ul></details>")
     corpo.append('<p>Veja também os <a href="/em-votacao/">projetos em votação</a>, com enquete oficial, e as <a href="/leis/">leis em vigor</a>. '
                  'Os senadores entram assim que a API de dados abertos do Senado voltar a responder.</p>')
     _gravar(C, "/parlamentares/", "Quem propõe leis para mulheres e crianças na Câmara",

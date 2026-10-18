@@ -827,6 +827,106 @@ footer h4{font-family:var(--display);font-weight:800}
 @media (max-width:1100px){.svcs{grid-template-columns:repeat(2,minmax(0,1fr))}.orgs{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:672px){.svcs{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:12px;margin-inline:-16px;padding:0 16px 8px;scrollbar-width:none}
   .svc{flex:0 0 82%;scroll-snap-align:start}.orgs{grid-template-columns:minmax(0,1fr)}}
+
+/* ---------- compacto: menos rolagem no computador ---------- */
+.sec{padding-block:60px}
+.edblock{padding-block:52px}
+.sh{margin-bottom:24px}
+.subhero{min-height:clamp(380px,54vh,540px)}
+.subhero .wrap{padding-block:56px 48px}
+.subhero.split{min-height:clamp(360px,48vh,480px)}
+.band .wrap{padding-block:72px}
+.svcs{margin-bottom:36px}
+.edgrid .ov{min-height:380px}
+.edside .hcard:nth-of-type(n+4){display:none}
+.edfoot{display:none}
+.eh{margin-bottom:22px;padding-bottom:14px}
+.edblock .eh p{max-width:80ch}
+
+/* ---------- compacto: celular ---------- */
+@media (max-width:672px){
+  .sec,.edblock{padding-block:30px}
+  .sh{margin-bottom:14px;gap:8px}
+  .sh p{font-size:14.5px;margin-top:6px}
+  .sh h2,.eh h2{font-size:25px}
+  .sh h2::after{bottom:-6px}
+  /* carrosséis de deslizar no lugar de cartões empilhados */
+  .orgs,.vqs,.painel,#parlamentares .parls,#comunidade .g3{display:flex!important;overflow-x:auto;scroll-snap-type:x mandatory;gap:12px;
+    margin-inline:-16px;padding:2px 16px 10px;scrollbar-width:none}
+  .orgs::-webkit-scrollbar,.vqs::-webkit-scrollbar,.painel::-webkit-scrollbar,#parlamentares .parls::-webkit-scrollbar,#comunidade .g3::-webkit-scrollbar{display:none}
+  .orgs > *,.vqs > *,.painel > *,#parlamentares .parls > *,#comunidade .g3 > *{flex:0 0 84%;scroll-snap-align:start}
+  #parlamentares .parls > *{flex-basis:72%}
+  /* rede de proteção */
+  .rede-sub{margin:4px 0 10px}
+  .svc{flex-basis:78%}
+  .svc-ph{aspect-ratio:16/8}
+  .svc-ic{width:44px;height:44px;bottom:-20px;left:14px}.svc-ic svg{width:24px;height:24px}
+  .svc-in{padding:28px 16px 16px;gap:8px}
+  .svc h3{font-size:17px}
+  .svc p,.org p:not(.org-canal){display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font-size:14px}
+  .svc-ct{display:none!important}
+  .svcs{margin-bottom:22px}
+  .org{padding:14px;gap:8px}
+  .rede-mais{margin-top:12px}
+  /* editorias: título, uma manchete grande e duas pequenas */
+  .eh{margin-bottom:14px;padding-bottom:10px;gap:6px}
+  .eh p,.chips,.eh .icowrap{display:none}
+  .eh .hash{font-size:15px}
+  .edgrid .ov{min-height:270px}
+  .edgrid .ov p{display:none}
+  .edgrid .ov h3,.hcard h4,.subhero h2{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+  .edgrid .ov.xl h3{font-size:22px;line-height:1.2}
+  .edside .hcard:nth-of-type(n+3),.edfoot{display:none!important}
+  .hcard .ph{min-height:84px}
+  /* faixas de destaque: duas no celular */
+  #sh2,#sh4{display:none}
+  .subhero{min-height:400px}
+  .subhero .wrap{padding:36px 16px 30px}
+  .subhero aside{display:none}
+  /* painel e números */
+  .pcard{padding:16px;gap:8px}
+  .stats{gap:16px 12px}
+  .stat{padding-top:12px;gap:6px}
+  .stat p{font-size:12.5px;line-height:1.4}
+  /* histórias: quatro, sem a lista da rede */
+  #tecList > :nth-child(n+2),#historias .rede{display:none!important}
+  /* dados e guias: grade 2x2 só com títulos */
+  .dados-g{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .card.dado{padding:14px;border-radius:12px}
+  .card.dado h3{font-size:15px;margin:0}
+  .card.dado p{display:none}
+  /* direitos e comunidade */
+  .vq{padding:18px;gap:12px}
+  .vq blockquote{font-size:15.5px}
+  #comunidade .card p:not(.q){display:none}
+  #comunidade .card{padding-bottom:16px}
+  /* repositório e perguntas */
+  .filters input[type=search],.filters select{padding:12px 14px}
+  .faq summary{padding:15px 34px 15px 0;font-size:16.5px}
+  .faq summary::after{top:10px}
+  .faq p{font-size:15px;padding-bottom:16px}
+  #explorar{display:none}
+  #btGrid .bt{min-width:0}
+  #btGrid .btn-num,#btGrid h3,#btGrid p{overflow-wrap:anywhere}
+  #btGrid .btn-num{font-size:19px!important;line-height:1.2}
+  /* rodapé enxuto */
+  footer .wrap{padding-block:32px 18px}
+  .fgrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px 16px;padding-bottom:20px}
+  .fgrid > :first-child,.fgrid > :nth-child(4){grid-column:1/-1}
+  .fgrid > :nth-child(4) ul{display:block;columns:2;column-gap:16px}
+  .fgrid > :nth-child(4) li{margin-bottom:6px}
+  .fgrid > :nth-child(5){display:none}
+  footer ul{gap:6px;font-size:13.5px}
+  .about-f{margin-top:10px}
+  /* páginas internas */
+  .art{padding-block:22px 48px}
+  .art h1{font-size:28px;margin:8px 0 12px}
+  .prose h2{font-size:21px;margin:26px 0 8px}
+  .cards-d{margin:14px 0}
+  .cards-d > div{padding:14px;margin-bottom:12px}
+  .urgente{padding:14px 16px;margin:14px 0;gap:6px}
+  .urgente b{font-size:17px}
+}
 </style>
 
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -1134,6 +1234,8 @@ footer h4{font-family:var(--display);font-weight:800}
     document.querySelectorAll('#lnav a,.stat .si,#red option+option,#rtipo option+option').forEach(function(e){e.remove();});
   }
   var NEW=' target="_blank" rel="noopener"';
+  /* no celular as listas abrem menores (o botão "Mostrar mais" continua) */
+  var CEL=!!(window.matchMedia&&matchMedia("(max-width:672px)").matches), PAG=CEL?6:24, OPAG=CEL?6:12;
   var $=function(id){return document.getElementById(id);};
   var ARROW='<svg class="ic"><use href="#i-arrow"/></svg>', LAUNCH='<svg class="ic"><use href="#i-launch"/></svg>';
 
@@ -1622,7 +1724,7 @@ footer h4{font-family:var(--display);font-weight:800}
     $("rddBtn").style.setProperty("--rc",r?"var("+r[1]+")":"");
     document.querySelectorAll("#regBar a,#rddMenu a").forEach(function(a){a.classList.toggle("on",(a.getAttribute("data-reg")||"")===(name||""));});
     /* Radar acompanha a edição */
-    $("rreg").value=r?r[0]:""; if(r) $("rbr").checked=false; shown=24; if(NEWS&&NEWS.length) radar();
+    $("rreg").value=r?r[0]:""; if(r) $("rbr").checked=false; shown=PAG; if(NEWS&&NEWS.length) radar();
     if(scroll&&window.gtag) gtag("event","escolher_regiao",{regiao:name||"Brasil"});
     if(scroll) window.scrollTo({top:0,behavior:REDUCE_M?"auto":"smooth"});
   }
@@ -1636,7 +1738,7 @@ footer h4{font-family:var(--display);font-weight:800}
   document.addEventListener("click",function(e){
     if(!e.target.closest("#rdd")) rddOpen(false);
     var a=e.target.closest("[data-reg]"); if(a){e.preventDefault();rddOpen(false);setRegion(a.getAttribute("data-reg")||null,true);}
-    var f=e.target.closest("[data-edfilter]"); if(f){$("red").value=f.getAttribute("data-edfilter");shown=24;radar();}
+    var f=e.target.closest("[data-edfilter]"); if(f){$("red").value=f.getAttribute("data-edfilter");shown=PAG;radar();}
   });
   /* abre direto pelo endereço (/nordeste/) ou pela âncora (#nordeste); a escolha não fica gravada no aparelho */
   (function(){var hs=(location.hash||"").slice(1).toLowerCase(), saved=null, ps=(location.pathname||"").replace(/\//g,"").toLowerCase();
@@ -1654,13 +1756,13 @@ footer h4{font-family:var(--display);font-weight:800}
   function esc(s){return String(s||"").replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
   function redeItem(n,showEd){var d=EDK[n.editoria];
     return '<div class="ri" style="--c:var('+(d?d.c:"--blue")+')"><span class="rico" aria-hidden="true">'+(d?edIcon(d.k):"")+'</span><a href="'+esc(n.link)+'"'+NEW+'>'+esc(n.titulo)+'</a><small>'+(showEd&&d?d.tag+' · ':'')+esc(n.fonte)+(n.idioma==="en"?' · traduzido do inglês':'')+' · '+quando(n.data)+'</small></div>';}
-  var NEWS=[], shown=24, RADAR_DT="";
+  var NEWS=[], shown=PAG, RADAR_DT="";
   /* ---------- das fontes oficiais: o que órgãos públicos e organizações publicaram ---------- */
   var OFI=[["*","Todas",/^(Governo|Legislativo|Judiciário|Ministério Público|Defensoria|Controle|Agência pública|Estatística|Organismo internacional|Terceiro setor|Academia|Pesquisa|Observatório)/],
     ["gov","Governo",/^(Governo|Agência pública|Estatística)/],["leg","Congresso",/^Legislativo/],
     ["jus","Justiça, MP e Defensoria",/^(Judiciário|Ministério Público|Defensoria|Controle)/],
     ["int","Organismos internacionais",/^Organismo internacional/],["soc","Sociedade civil e pesquisa",/^(Terceiro setor|Academia|Pesquisa|Observatório)/]];
-  var ofiCur="*", ofiShown=12;
+  var ofiCur="*", ofiShown=OPAG;
   $("ofiTabs").innerHTML=OFI.map(function(t,i){return '<button role="tab" type="button" aria-selected="'+(i===0)+'" data-k="'+t[0]+'">'+t[1]+'</button>';}).join("");
   function ofiRender(){
     var re=null; OFI.forEach(function(t){if(t[0]===ofiCur) re=t[2];});
@@ -1669,8 +1771,8 @@ footer h4{font-family:var(--display);font-weight:800}
     $("ofiMore").hidden=f.length<=ofiShown;
   }
   $("ofiTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;
-    this.querySelectorAll("button").forEach(function(x){x.setAttribute("aria-selected",x===b);});ofiCur=b.getAttribute("data-k");ofiShown=12;ofiRender();});
-  $("ofiMore").addEventListener("click",function(){ofiShown+=12;ofiRender();});
+    this.querySelectorAll("button").forEach(function(x){x.setAttribute("aria-selected",x===b);});ofiCur=b.getAttribute("data-k");ofiShown=OPAG;ofiRender();});
+  $("ofiMore").addEventListener("click",function(){ofiShown+=OPAG;ofiRender();});
   function radar(){
     var q=norm($("rq").value.trim()), e=$("red").value, t=$("rtipo").value, br=$("rbr").checked, rg=$("rreg").value;
     var f=NEWS.filter(function(n){return (!e||n.editoria===e)&&(!t||n.tipo===t)&&(!br||n.brasil)&&(!rg||(n.regioes||[]).indexOf(rg)>-1)&&(!q||norm(n.titulo+" "+n.fonte).indexOf(q)>-1);});
@@ -1678,8 +1780,8 @@ footer h4{font-family:var(--display);font-weight:800}
     $("rmore").hidden=f.length<=shown;
     $("rmeta").textContent=f.length+" notícias de "+NEWS.length+" na base · atualizada em "+RADAR_DT;
   }
-  ["rq","red","rtipo","rbr","rreg"].forEach(function(id){$(id).addEventListener("input",function(){shown=24;radar();});});
-  $("rmore").addEventListener("click",function(){shown+=24;radar();});
+  ["rq","red","rtipo","rbr","rreg"].forEach(function(id){$(id).addEventListener("input",function(){shown=PAG;radar();});});
+  $("rmore").addEventListener("click",function(){shown+=PAG;radar();});
   $("red").insertAdjacentHTML("beforeend",ED.map(function(d){return '<option value="'+d.k+'">'+d.tag+'</option>';}).join(""));
   fetch("data/noticias.json").then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(d){
     NEWS=d.noticias||[]; RADAR_DT=new Date(d.gerado_em).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
