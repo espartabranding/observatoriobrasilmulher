@@ -1,5 +1,78 @@
 [
  {
+  "id": "a9d795d1ce",
+  "grupo": "9d795d1cef70",
+  "e": "A",
+  "img": "r-nordeste",
+  "iso": "2026-10-19T19:50:00+00:00",
+  "date": "19 out 2026",
+  "h": "Com apoio do MPT, município de Arapiraca (AL) realiza corrida pela proteção de crianças e adolescentes",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 19 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/com-apoio-do-mpt-municipio-de-arapiraca-al-realiza-corrida-pela-protecao-de-criancas-e-adolescentes-1"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-19T21:33:05.351286+00:00",
+  "uf": [
+   "AL"
+  ]
+ },
+ {
+  "id": "ad2689fdb7",
+  "grupo": "d2689fdb793d",
+  "e": "A",
+  "img": "f-paulista-edificio",
+  "iso": "2026-10-19T17:35:00+00:00",
+  "date": "19 out 2026",
+  "h": "MPT-MT marca presença no Festival de Pipas em ação de combate ao trabalho infantil",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 19 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/mpt-mt-marca-presenca-no-festival-de-pipas-em-acao-de-combate-ao-trabalho-infantil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-19T21:33:05.351286+00:00",
+  "uf": [
+   "MT"
+  ]
+ },
+ {
+  "id": "aa1195ea69",
+  "grupo": "a1195ea69bc1",
+  "e": "N",
+  "img": "uti",
+  "iso": "2026-10-19T16:46:25+00:00",
+  "date": "19 out 2026",
+  "h": "Médico morre em troca de tiros com a polícia após ameaçar esposa no interior de São Paulo",
+  "t": "Notícia publicada por O Globo em 19 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/sao-paulo/apos-ameacar-esposa-medico-e-morto-em-troca-de-tiros-com-a-policia"
+   ],
+   [
+    "O Globo",
+    "https://oglobo.globo.com/brasil/noticia/2026/10/19/medico-morre-em-troca-de-tiros-com-a-policia-apos-ameacar-esposa-no-interior-de-sao-paulo.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-19T21:33:05.351286+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "ae931cc8e2",
   "grupo": "e931cc8e2c26",
   "e": "L",

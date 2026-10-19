@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T17:01:05.899954+00:00",
+ "gerado_em": "2026-10-19T21:34:15.959806+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -1411,6 +1411,38 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3077557"
   },
   {
+   "id": 2504604,
+   "sigla": "PL 2123/2025",
+   "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, para determinar a monitoração eletrônica do condenado em primeira instância pelo crime previsto no art. 217-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal.",
+   "apresentacao": "2025-05-06",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CCJC",
+   "data_situacao": "2026-10-19",
+   "andamento": "Designado Relator da Redação Final, Dep. Hildo Rocha (MDB-MA).",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2504604",
+   "enquete": "https://www.camara.leg.br/enquetes/2504604",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2899095"
+  },
+  {
+   "id": 2554852,
+   "sigla": "PL 4325/2025",
+   "ementa": "Modifica a Lei nº 6.437, de 20 de agosto de 1977, para incluir como infração sanitária a omissão na notificação de acidentes envolvendo crianças ou adolescentes às autoridades de saúde competentes, e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer a obrigatoriedade da comunicação desses casos às autoridades de saúde.",
+   "apresentacao": "2025-08-29",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CCJC",
+   "data_situacao": "2026-10-19",
+   "andamento": "Designado Relator da Redação Final, Dep. Ricardo Ayres (REPUBLIC-TO).",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "criancas",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554852",
+   "enquete": "https://www.camara.leg.br/enquetes/2554852",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2988867"
+  },
+  {
    "id": 2625771,
    "sigla": "PL 2466/2026",
    "ementa": "Altera a Lei nº 8.069, de 1990, e a Lei nº 9.294, de 1996, para fortalecer ações de prevenção e educação sobre o consumo de bebidas alcoólicas e produtos fumígenos por crianças e adolescentes.",
@@ -1699,22 +1731,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157782"
   },
   {
-   "id": 2504604,
-   "sigla": "PL 2123/2025",
-   "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, para determinar a monitoração eletrônica do condenado em primeira instância pelo crime previsto no art. 217-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal.",
-   "apresentacao": "2025-05-06",
-   "situacao": "Aguardando Redação Final",
-   "orgao": "CCJC",
-   "data_situacao": "2026-09-08",
-   "andamento": "Recebimento pelo(a) CCJC.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2504604",
-   "enquete": "https://www.camara.leg.br/enquetes/2504604",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2899095"
-  },
-  {
    "id": 2637124,
    "sigla": "PL 3471/2026",
    "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para admitir a decretação de prisão preventiva nos crimes de produção, comercialização, disponibilização, aquisição, posse e armazenamento de material de abuso sexual infantojuvenil e nos demais crimes correlatos previstos na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).",
@@ -1745,22 +1761,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636271",
    "enquete": "https://www.camara.leg.br/enquetes/2636271",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155147"
-  },
-  {
-   "id": 2554852,
-   "sigla": "PL 4325/2025",
-   "ementa": "Modifica a Lei nº 6.437, de 20 de agosto de 1977, para incluir como infração sanitária a omissão na notificação de acidentes envolvendo crianças ou adolescentes às autoridades de saúde competentes, e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer a obrigatoriedade da comunicação desses casos às autoridades de saúde.",
-   "apresentacao": "2025-08-29",
-   "situacao": "Aguardando Redação Final",
-   "orgao": "CCJC",
-   "data_situacao": "2026-09-08",
-   "andamento": "Recebimento pelo(a) CCJC.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554852",
-   "enquete": "https://www.camara.leg.br/enquetes/2554852",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2988867"
   },
   {
    "id": 2239388,
