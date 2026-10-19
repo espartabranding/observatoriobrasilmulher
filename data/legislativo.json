@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T00:14:43.510933+00:00",
+ "gerado_em": "2026-10-19T04:42:23.073054+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -1761,22 +1761,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554852",
    "enquete": "https://www.camara.leg.br/enquetes/2554852",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2988867"
-  },
-  {
-   "id": 2239388,
-   "sigla": "PL 669/2020",
-   "ementa": "Altera o Capítulo II do Título VI da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei 8.069 de 13 de julho de 1990 para incluir o nome jurídico \"Pedofilia\" nos  art. 240, art. 241, art. 241-A, art. 241-B, art. 241-C, art. 241-D, art. 241-E, art. 244-A.",
-   "apresentacao": "2020-03-17",
-   "situacao": "Aguardando Redação Final",
-   "orgao": "CCJC",
-   "data_situacao": "2026-09-08",
-   "andamento": "Recebimento pelo(a) CCJC.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2239388",
-   "enquete": "https://www.camara.leg.br/enquetes/2239388",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1866945"
   },
   {
    "id": 2639655,
