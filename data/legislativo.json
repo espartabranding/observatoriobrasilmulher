@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T21:32:57.586281+00:00",
+ "gerado_em": "2026-10-19T00:14:43.510933+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -5521,6 +5521,54 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2123640",
    "enquete": "https://www.camara.leg.br/enquetes/2123640",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1525663"
+  },
+  {
+   "id": 2646865,
+   "sigla": "PL 5418/2026",
+   "ementa": "Assegura às mulheres em situação de violência doméstica e familiar prioridade de acesso às ações de qualificação profissional e de intermediação de mão de obra do Sistema Nacional de Emprego.",
+   "apresentacao": "2026-09-21",
+   "situacao": "",
+   "orgao": "MESA",
+   "data_situacao": "2026-09-21",
+   "andamento": "Apresentação do PL n. 5418/2026 (Projeto de Lei), pelo Deputado Jorge Araújo (PP/BA), que \"Assegura às mulheres em situação de violência doméstica e familiar prioridade de acesso às ações de qualificação profissional e de intermediação de mão de obra do Sistema Nacional de Emprego\".",
+   "regime": ".",
+   "etapa": "Em tramitação",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646865",
+   "enquete": "https://www.camara.leg.br/enquetes/2646865",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3181424"
+  },
+  {
+   "id": 2646863,
+   "sigla": "PL 5417/2026",
+   "ementa": "Assegura prioridade na matrícula em creche, pré-escola e em escola de tempo integral das redes públicas de ensino aos filhos e dependentes de mulheres em situação de violência doméstica e familiar.",
+   "apresentacao": "2026-09-21",
+   "situacao": "",
+   "orgao": "MESA",
+   "data_situacao": "2026-09-21",
+   "andamento": "Apresentação do PL n. 5417/2026 (Projeto de Lei), pelo Deputado Jorge Araújo (PP/BA), que \"Assegura prioridade na matrícula em creche, pré-escola e em escola de tempo integral das redes públicas de ensino aos filhos e dependentes de mulheres em situação de violência doméstica e familiar\".",
+   "regime": ".",
+   "etapa": "Em tramitação",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646863",
+   "enquete": "https://www.camara.leg.br/enquetes/2646863",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3181422"
+  },
+  {
+   "id": 2646882,
+   "sigla": "PL 5430/2026",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a obrigatoriedade de instituição de centros temporários de acolhimento para crianças e adolescentes que sejam filhos de trabalhadores formais, informais, ambulantes, catadores de materiais recicláveis e demais pessoas que desempenhem atividades laborais vinculadas à realização de eventos de grande porte ou festividades populares.",
+   "apresentacao": "2026-09-21",
+   "situacao": "",
+   "orgao": "MESA",
+   "data_situacao": "2026-09-21",
+   "andamento": "Apresentação do PL n. 5430/2026 (Projeto de Lei), pelo Deputado Reimont (PT/RJ -Fdr PT-PCdoB-PV), que \"Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a obrigatoriedade de instituição de centros temporários de acolhimento para crianças e adoles",
+   "regime": ".",
+   "etapa": "Em tramitação",
+   "tema": "criancas",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646882",
+   "enquete": "https://www.camara.leg.br/enquetes/2646882",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3181518"
   },
   {
    "id": 2646828,
