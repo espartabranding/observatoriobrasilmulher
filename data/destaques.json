@@ -1,5 +1,52 @@
 [
  {
+  "id": "a13e49bc1e",
+  "grupo": "13e49bc1e085",
+  "e": "I",
+  "img": "r-co",
+  "iso": "2026-10-20T21:01:51+00:00",
+  "date": "20 out 2026",
+  "h": "Violência doméstica: MPDFT e Espaço Acolher discutem atendimento a vítimas",
+  "t": "Notícia publicada por MPDFT – Ministério Público Distrito Federal em 20 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPDFT – Ministério Público Distrito Federal",
+    "https://www.mpdft.mp.br/portal/index.php/comunicacao-menu/sala-de-imprensa/noticias/noticias-2026/18297-violencia-domestica-mpdft-e-espaco-acolher-discutem-atendimento-a-vitimas"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T22:21:23.546455+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "a1af9b5319",
+  "grupo": "1af9b5319e83",
+  "e": "A",
+  "img": "balanco-ninho",
+  "iso": "2026-10-20T18:07:15+00:00",
+  "date": "20 out 2026",
+  "h": "PF identifica 677 pagamentos ligados à venda de material de abuso sexual infantil na Grande Natal",
+  "t": "Notícia publicada por g1 em 20 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agora RN",
+    "https://agorarn.com.br/policia/pf-identifica-pagamentos-venda-material/"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/20/pf-identifica-677-pagamentos-ligados-a-venda-de-material-de-abuso-sexual-infantil-na-grande-natal.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T22:21:23.546455+00:00"
+ },
+ {
   "id": "a466195bf7",
   "grupo": "466195bf7384",
   "e": "L",
@@ -160,6 +207,30 @@
   "uf": [
    "DF"
   ]
+ },
+ {
+  "id": "a39152edf2",
+  "grupo": "39152edf2c0e",
+  "e": "N",
+  "img": "stf",
+  "iso": "2026-10-19T18:36:00+00:00",
+  "date": "19 out 2026",
+  "h": "Operação Mulher Segura, do Ministério da Justiça, prende mais de 57 mil agressores em 141 dias",
+  "t": "Notícia publicada por Agência Gov em 19 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/operacao-mulher-segura-prende-mais-de-57-mil-agressores-em-141-dias"
+   ],
+   [
+    "Agência Gov",
+    "https://agenciagov.ebc.com.br/noticias/202610/operacao-mulher-segura-prende-mais-de-57-mil-agressores-em-141-dias"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T22:21:23.546455+00:00"
  },
  {
   "id": "a5ecc84c29",
