@@ -66,6 +66,52 @@
   "criado_em": "2026-10-20T01:06:38.122271+00:00"
  },
  {
+  "id": "a871b3b3af",
+  "grupo": "871b3b3af9a2",
+  "e": "S",
+  "img": "cidade",
+  "iso": "2026-10-19T19:10:03+00:00",
+  "date": "19 out 2026",
+  "h": "Quando circular pela cidade se torna um risco: mobilidade, violência e o direito das mulheres ao território do Distrito Federal",
+  "t": "Notícia publicada por CFEMEA – Centro Feminista de Estudos e Assessoria em 19 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CFEMEA – Centro Feminista de Estudos e Assessoria",
+    "https://www.cfemea.org.br/pt/?view=article&id=11807:risco-mobilidade-mulheres&catid=562"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T06:01:35.372884+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "a5ecc84c29",
+  "grupo": "5ecc84c29528",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-10-19T17:37:05+00:00",
+  "date": "19 out 2026",
+  "h": "Menina resgatada de sequestro em São Paulo agradece policial: ‘única pessoa que me entendeu’",
+  "t": "Notícia publicada por Agência SP em 19 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/seguranca-publica/em-carta-menina-resgatada-de-sequestro-agradece-policial-unica-pessoa-que-me-entendeu/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T06:01:35.372884+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "ad2689fdb7",
   "grupo": "d2689fdb793d",
   "e": "A",
@@ -138,6 +184,30 @@
   "uf": [
    "SP"
   ]
+ },
+ {
+  "id": "af1378d594",
+  "grupo": "f1378d59469f",
+  "e": "P",
+  "img": "esplanada-ministerio-letreiro",
+  "iso": "2026-10-19T16:13:03+00:00",
+  "date": "19 out 2026",
+  "h": "Soraya diz que Bolsonaro usou transição de gênero do filho para ameaçá-la",
+  "t": "Notícia publicada por Metrópoles em 19 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Terra – Nós",
+    "https://www.terra.com.br/nos/soraya-thronicke-afirma-que-jair-bolsonaro-usou-transicao-de-genero-do-filho-para-ameaca-la,5fba013db9e2b75903644c617e410ebb1xumdzqb.html"
+   ],
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/brasil/soraya-diz-que-bolsonaro-usou-transicao-de-genero-do-filho-para-ameaca-la"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T06:01:35.372884+00:00"
  },
  {
   "id": "ae931cc8e2",
