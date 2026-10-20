@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-19T21:33:05.057675+00:00",
- "total": 564,
+ "gerado_em": "2026-10-20T01:06:37.882961+00:00",
+ "total": 594,
  "fontes_lidas": 180,
- "novas": 56,
+ "novas": 30,
  "por_fonte": {
   "saude": 0,
   "agenciagov": 2,
@@ -29,8 +29,8 @@
   "mpce": 5,
   "mpdft": 1,
   "mpes": 2,
-  "mpma": 1,
-  "mppb": 1,
+  "mpma": "não respondeu",
+  "mppb": 2,
   "mppr": "não respondeu",
   "mppi": "não respondeu",
   "mprn": 6,
@@ -46,7 +46,7 @@
   "sec-mulher-ce": 0,
   "sec-mulher-pr": 0,
   "sec-mulher-go": 0,
-  "agenciasp": 3,
+  "agenciasp": 2,
   "agenciaminas": 0,
   "aen-pr": 0,
   "agenciabahia": 0,
@@ -73,7 +73,7 @@
   "internetlab": 4,
   "antra": 4,
   "cimi": 2,
-  "anis": "não respondeu",
+  "anis": 0,
   "redemulheres": 0,
   "themis": 5,
   "cedeca": 1,
@@ -83,15 +83,15 @@
   "unfpa": 0,
   "opas": 0,
   "onubrasil": 0,
-  "g1": 12,
-  "folha": 5,
+  "g1": 10,
+  "folha": 6,
   "estadao": 2,
   "oglobo": 1,
-  "uol": 1,
+  "uol": 2,
   "cnnbrasil": 0,
-  "metropoles": 16,
+  "metropoles": 14,
   "agenciapublica": 2,
-  "marieclaire": 4,
+  "marieclaire": 3,
   "claudia": 0,
   "capricho": 0,
   "crescer": 5,
@@ -102,7 +102,7 @@
   "intercept": 2,
   "bbcbrasil": 0,
   "terra": 1,
-  "veja": 0,
+  "veja": 1,
   "istoe": "feed inválido",
   "exame": 0,
   "valor": 0,
@@ -121,35 +121,35 @@
   "drauzio": 2,
   "agenciaaids": 0,
   "radis": 0,
-  "abrasco": "não respondeu",
+  "abrasco": 0,
   "sbp": 0,
   "jornaldaUSP": 3,
   "cebrap": "robots.txt não permite",
   "scielo": 0,
-  "ac24horas": 14,
+  "ac24horas": 13,
   "agazetaac": 11,
-  "tnh1": 1,
-  "gazetaweb": 2,
+  "tnh1": 0,
+  "gazetaweb": 1,
   "selesnafes": 4,
   "diariodoamapa": 5,
   "oimparcial": 7,
   "jornaldaparaiba": 1,
   "clickpb": 1,
   "rondoniagora": 0,
-  "folhabv": 1,
+  "folhabv": 0,
   "roraimaemtempo": "não respondeu",
   "infonet": 0,
   "conexaoto": 2,
   "atarde": 0,
-  "bnews": 0,
+  "bnews": 1,
   "portalodia": 0,
   "jornaldebrasilia": 9,
   "maisgoias": 4,
-  "extra": 3,
+  "extra": 2,
   "diariodoscampos": 0,
-  "bandab": 1,
+  "bandab": 0,
   "tribunapr": 0,
-  "osul": 23,
+  "osul": 20,
   "jornalnh": 7,
   "scc10": 1,
   "odocumento": 2,
@@ -159,26 +159,26 @@
   "portalcorreio": 8,
   "agorarn": 9,
   "saibamais": "não respondeu",
-  "emtempo": 3,
-  "diariodopara": 2,
+  "emtempo": 4,
+  "diariodopara": 3,
   "acritica": 5,
   "amazonasatual": 5,
   "portalamazonia": 2,
-  "jc": 0,
+  "jc": 1,
   "movimentoeconomico": 0,
-  "opovo": 0,
+  "opovo": 1,
   "diariodonordeste": 1,
-  "tribunadonorte": 2,
+  "tribunadonorte": 1,
   "cidadeverde": 12,
   "jornalopcao": 0,
-  "campograndenews": 1,
+  "campograndenews": 2,
   "bemparana": 0,
   "ndmais": 0,
   "nsctotal": 12,
-  "estadodeminas": 0,
+  "estadodeminas": 1,
   "diariodocomercio": 0,
-  "agazeta": 1,
-  "folhavitoria": 3,
+  "agazeta": 2,
+  "folhavitoria": 5,
   "odia": 0,
   "govbr": 0,
   "mdhc-noticias": 4,
@@ -187,6 +187,586 @@
   "gdelt": 0
  },
  "noticias": [
+  {
+   "titulo": "Conselho de Segurança da ONU discute violência digital contra crianças em conflitos armados",
+   "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/19/conselho-de-seguranca-da-onu-aborda-violencia-digital-contra-criancas-em-conflitos-armados.htm",
+   "resumo": "O Conselho de Segurança da ONU aprovou por unanimidade hoje uma resolução inédita destinada a limitar a violência contra crianças por meio do uso de tecnologias digitais em contextos de conflitos armados.",
+   "data": "2026-10-20T01:06:37.882961+00:00",
+   "fonte": "UOL Notícias",
+   "fonte_id": "uol",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "179682ca874c",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "179682ca874c",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Bolsonarista é filmada chamando estudante de 'preto do caralh*' em SP",
+   "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/19/bolsonarista-e-filmada-ao-chamar-estudante-de-preto-do-caralh-em-sp.ghtm",
+   "resumo": "Uma mulher foi filmada proferindo ofensas racistas contra o estudante de direito Márcio Ferreira na estação Vila Sônia, da Linha 4-Amarela do metrô de São Paulo. O episódio ocorreu na noite de domingo, após uma discussão política, entre a mulher e outras pessoas, iniciada dentro do trem. Segundo Márcio, ele se aproximou para tentar separar uma discussão e ajudar a mulher.",
+   "data": "2026-10-20T01:06:37.882961+00:00",
+   "fonte": "UOL Notícias",
+   "fonte_id": "uol",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "5a495458d535",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "5a495458d535",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Cíntia Chagas revela intenção voto para segundo turno: \"Valores que norteiam\"",
+   "link": "https://www.bnews.com.br/noticias/entretenimento/cintia-chagas-revela-intencao-voto-para-segundo-turno-valores-que-norteiam.html",
+   "resumo": "Em vídeo, Cíntia Chagas reflete sobre seu voto e experiências pessoais, destacando a proteção das mulheres como prioridade",
+   "data": "2026-10-20T00:34:00+00:00",
+   "fonte": "BNews",
+   "fonte_id": "bnews",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "BA",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "a034fb1642f4",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "a034fb1642f4",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Justiça torna ré policial militar acusada de matar mulher durante abordagem na Zona Leste de SP",
+   "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/justica-torna-re-policial-militar-acusada-de-matar-mulher-durante-abordagem-na-zona-leste-de-sp.ghtml",
+   "resumo": "Mulher morre baleada pela PM. Reprodução A Justiça aceitou nesta segunda-feira (19) a denúncia do Ministério Público de São Paulo (MP-SP) contra uma policial militar acusada de matar uma mulher com um tiro durante uma abordagem na Zona Leste de São Paulo. A agente se tornou ré por homicídio triplamente qualificado, por motivo fútil, meio cruel e recurso que dificultou a defesa da vítima, que tinha",
+   "data": "2026-10-20T00:15:20+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "876903aaf4b6",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "876903aaf4b6",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "PM resgata bebê após vítima de violência doméstica simular pedido de pizza em SP",
+   "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/pm-resgata-bebe-apos-vitima-de-violencia-domestica-simular-pedido-de-pizza-em-sp.shtml",
+   "resumo": "A Polícia Militar resgatou um bebê de três meses e prendeu um homem sob suspeita de violência doméstica . O caso aconteceu na noite de domingo (18), em São Bernardo do Campo , na Grande São Paulo . A mãe da criança acionou o 190 e simulou um pedido de pizza para pedir socorro. Leia mais (10/19/2026 - 21h10)",
+   "data": "2026-10-20T00:10:00+00:00",
+   "fonte": "Folha de S.Paulo",
+   "fonte_id": "folha",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "031aebecb407",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "031aebecb407",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Lula defende \"saidinha\", mas diz que \"se tiver estupro, não pode ser solto\"",
+   "link": "https://www.metropoles.com/brasil/lula-defende-saidinha-mas-diz-que-se-tiver-estupro-nao-pode-ser-solto",
+   "resumo": "Em sabatina, o presidente Lula defendeu o direito à saída temporária de presos, exceto em casos de crimes graves",
+   "data": "2026-10-19T23:58:04+00:00",
+   "fonte": "Metrópoles",
+   "fonte_id": "metropoles",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "DF",
+   "fonte_regiao": "Centro-Oeste",
+   "editoria": "P",
+   "id": "83bd5be0a8e9",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "83bd5be0a8e9",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Suspeito de estupro coletivo de adolescente indígena é preso no interior do Amazonas",
+   "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/19/suspeito-de-estupro-coletivo-de-adolescente-indigena-e-preso-no-interior-do-amazonas.ghtml",
+   "resumo": "Homem identificado como Awano Kanamari foi preso suspeito de envolvimento em estupro de adolescente indígena no Amazonas. Divulgação/PC-AM Um homem, identificado como Awano Kanamari, foi preso nesta segunda-feira (19) suspeito de envolvimento no estupro coletivo de uma adolescente indígena de 15 anos, ocorrido em setembro deste ano, na Comunidade Catitu, zona rural de Itamarati. Awano se entregou ",
+   "data": "2026-10-19T23:28:28+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AM"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "G",
+   "id": "f87c4076ad9c",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "f87c4076ad9c",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Acusado de esfaquear a ex após término irá a novo júri após anulação de sentença pelo TJMT",
+   "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/19/acusado-de-esfaquear-a-ex-apos-termino-ira-a-novo-juri-apos-anulacao-de-sentenca-pelo-tjmt.ghtml",
+   "resumo": "TJMT Reprodução A Segunda Câmara Criminal do Tribunal de Justiça de Mato Grosso (TJMT) anulou o julgamento de Valteir Silva Pereira, condenado por tentar matar a ex-companheira a facadas em Sorriso, a 400 km de Cuiabá. A decisão considerou que a defesa utilizou argumentos relacionados a supostas traições e humilhações para justificar a violência e reduzir a pena do acusado. Com isso, ele deverá pa",
+   "data": "2026-10-19T23:21:52+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "MT"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "986298b6ddfd",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "986298b6ddfd",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher morre afogada enquanto tomava banho em rio com familiares no TO, diz polícia",
+   "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/19/mulher-morre-afogada-enquanto-tomava-banho-em-rio-com-familiares-no-to-diz-policia.ghtml",
+   "resumo": "Fernanda de Souza Oliveira, de 33 anos, escorregou de pedra e foi arrastada por correnteza Reprodução/Supermercado Kibarato Uma mulher de 33 anos morreu afogada enquanto tomava banho no Rio Palma, entre Taguatinga e Arraias, na região sudeste do Tocantins. Segundo a Secretaria da Segurança Pública (SSP), a vítima foi identificada como Fernanda de Souza Oliveira. De acordo com o Corpo de Bombeiros,",
+   "data": "2026-10-19T23:19:41+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "TO"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "89722cfe34c6",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "89722cfe34c6",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Filho é preso por agredir e roubar cartões de aposentadoria dos pais em Uberlândia",
+   "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/19/filho-e-preso-por-agredir-e-roubar-cartoes-de-aposentadoria-dos-pais-em-uberlandia.ghtml",
+   "resumo": "Sirene giroflex viatura Polícia Militar PM Uberlândia 16-05-2022 Reprodução/TV Integração Um homem de 53 anos foi preso suspeito de agredir os próprios pais, de 81 e 86 anos. Segundo a Polícia Militar, além de agredir e ameaçar, ele ainda roubou os cartões de aposentadoria para usar drogas. O caso foi registrado no bairro Osvaldo Rezende, em Uberlândia. A mãe, que tem deficiência visual, e o pai, ",
+   "data": "2026-10-19T22:55:06+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "MG"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "015bcc9811e9",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "015bcc9811e9",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Polícia investiga suspeita de agressão contra menino de dois anos em Araçatuba",
+   "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/policia-investiga-suspeita-de-agressao-contra-menino-de-dois-anos-em-aracatuba.ghtml",
+   "resumo": "Criança é internada em estado grave e com sinais de agressão em Araçatuba A Polícia Civil de Araçatuba (SP) investiga a suspeita de agressão contra uma criança de dois anos, que foi internada em estado grave nesta segunda-feira (19). Por conta da gravidade, o paciente foi encaminhado à Santa Casa. O Conselho Tutelar foi acionado e esteve no hospital. Em seguida, a Polícia Militar foi à casa da fam",
+   "data": "2026-10-19T22:48:43+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "5442a1ceeb38",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "5442a1ceeb38",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Operação prende três homens por violência doméstica e crimes contra patrimônio no Sertão de PE",
+   "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/19/operacao-prende-tres-homens-por-violencia-domestica-e-crimes-contra-patrimonio-no-sertao-de-pe.ghtml",
+   "resumo": "Três homens são presos durante operação contra violência doméstica e crimes contra o patrimônio no Sertão de PE Ascom / Polícia Civil Três homens foram presos nesta segunda-feira (19) durante uma operação da Polícia Civil realizada nos municípios de Salgueiro e Verdejante , no Sertão de Pernambuco. Batizada de 'Operação Tríade', a ação teve como objetivo cumprir mandados judiciais relacionados a i",
+   "data": "2026-10-19T22:47:38+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "837ca23569d3",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "837ca23569d3",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher simula pedido de pizza ao 190 e bebê de 3 meses é resgatado de suspeito de violência doméstica",
+   "link": "https://www.folhavitoria.com.br/policia/mulher-simula-pedido-de-pizza-ao-190-e-bebe-de-3-meses-e-resgatado-de-suspeito-de-violencia-domestica/",
+   "resumo": "Foto: Reprodução/PMSP Segundo a polícia, o suspeito foi detido e alegou ter deixado o bebê sozinho por um período curto",
+   "data": "2026-10-19T22:43:00+00:00",
+   "fonte": "Folha Vitória (ES)",
+   "fonte_id": "folhavitoria",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "ES",
+   "fonte_regiao": "Sudeste",
+   "editoria": "A",
+   "id": "80c826b76b7d",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "80c826b76b7d",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Bares e restaurantes de Fortaleza recebem protocolo contra violência a mulheres",
+   "link": "https://www.opovo.com.br/noticias/fortaleza/2026/10/19/bares-e-restaurantes-de-fortaleza-recebem-protocolo-contra-violencia-a-mulheres.html",
+   "resumo": "Estabelecimentos foram capacitados pelo MPCE para identificar situações de violência, acolher vítimas e adotar medidas de proteção; campanha reúne outras empresas e organizações",
+   "data": "2026-10-19T22:28:00+00:00",
+   "fonte": "O Povo (CE)",
+   "fonte_id": "opovo",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "CE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "CE",
+   "fonte_regiao": "Nordeste",
+   "editoria": "S",
+   "id": "cfbe9d9a4176",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "cfbe9d9a4176",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "PM resgata bebê e salva mulher de violência doméstica após ‘pedido de pizza’ para o 190",
+   "link": "https://www.agenciasp.sp.gov.br/seguranca-publica/pm-resgata-bebe-e-salva-mulher-de-violencia-domestica-apos-pedido-de-pizza-para-o-190/",
+   "resumo": "Criança de três meses foi encontrada sozinha, com roupas cobrindo o rosto e comprometendo a respiração",
+   "data": "2026-10-19T22:26:39+00:00",
+   "fonte": "Agência SP",
+   "fonte_id": "agenciasp",
+   "tipo": "Governo estadual",
+   "setor": "Público",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "SP",
+   "fonte_regiao": "Sudeste",
+   "editoria": "A",
+   "id": "0329b555ba83",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "0329b555ba83",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Após perícia em eletrônicos, homem é preso por armazenar e divulgar conteúdo de abuso sexual infantil",
+   "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/19/apos-pericia-em-eletronicos-homem-e-preso-por-armazenar-e-divulgar-conteudo-de-abuso-sexual-infantil.ghtml",
+   "resumo": "Homem é preso por armazenar e divulgar conteúdo de abuso sexual infantil Um homem de 42 anos foi preso em Itu (SP), na tarde desta segunda-feira (19), por compartilhar e armazenar material de abuso sexual infantil. Ele já era investigado desde o início de setembro, quando foi alvo de um mandado de busca e apreensão de seus aparelhos eletrônicos. A prisão do suspeito foi decretada após perícia feit",
+   "data": "2026-10-19T22:22:27+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "f766913ea711",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "f766913ea711",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher é encontrada morta perto de portão em rua de Presidente Prudente",
+   "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/19/mulher-e-encontrada-morta-perto-de-portao-em-rua-de-presidente-prudente.ghtml",
+   "resumo": "Idosa foi encontrada no Jardim Vale do Sol, em Presidente Prudente Reprodução/Google Maps Uma mulher de 73 anos foi encontrada morta na calçada de uma casa vizinha, na madrugada desta segunda-feira (19), no Jardim Vale do Sol, em Presidente Prudente (SP). Segundo o boletim de ocorrência, a Polícia Militar foi acionada por volta das 3h20 para atender à ocorrência na Rua José Palácio. A mulher estav",
+   "data": "2026-10-19T22:20:28+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "a8efeb579c38",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "a8efeb579c38",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher é morta a facadas em Lagarto; ex-namorado é suspeito",
+   "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/19/mulher-e-morta-a-facadas-em-lagarto-ex-namorado-e-suspeito.ghtml",
+   "resumo": "Sirene Polícia Militar de Sergipe. PMSE Uma mulher, de 45 anos, foi morta a facadas no Povoado Barro Vermelho, na Zona Rural de Lagarto, no fim da tarde desta segunda-feira (19). A informação foi confirmada pela Polícia Militar. Segundo a PM, a vítima foi encontrada com ferimentos no banheiro de uma residência e morreu no local. ✅ Clique aqui para seguir o canal do g1 SE no WhatsApp Ainda de acord",
+   "data": "2026-10-19T22:14:47+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "1eeb57755c75",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "1eeb57755c75",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Cooperação: MPPB e PC assinam termo que fortalece o combate à violência psicológica contra a mulher em CG",
+   "link": "http://www.mppb.mp.br/index.php?view=article&id=27882",
+   "resumo": "Acordo vai possibilitar laudos psicológicos de mulheres vítimas de violência, para auxiliar promotores na elaboração das denúncias contra agressores O Ministério Público da Paraíba (MPPB), por meio do procurador-geral de Justiça, Leonardo Quintans, e a Polícia Civil do Estado, representada pela delegada-geral adjunta, Cassandra Duarte Guimarães, firmaram um Termo de Cooperação Técnico-Científica q",
+   "data": "2026-10-19T22:10:24+00:00",
+   "fonte": "MPPB – Ministério Público Paraíba",
+   "fonte_id": "mppb",
+   "tipo": "Ministério Público",
+   "setor": "Público",
+   "brasil": true,
+   "empresas": [
+    "Ministério Público"
+   ],
+   "ufs": [
+    "PB"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "PB",
+   "fonte_regiao": "Nordeste",
+   "editoria": "L",
+   "id": "f50046be6d78",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "f50046be6d78",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Menina de 12 anos é agredida com martelo por colega dentro de escola em Cariacica",
+   "link": "https://www.agazeta.com.br/es/policia/menina-de-12-anos-e-agredida-com-martelo-por-colega-dentro-de-escola-em-cariacica-1026",
+   "resumo": "",
+   "data": "2026-10-19T21:56:27+00:00",
+   "fonte": "A Gazeta (ES)",
+   "fonte_id": "agazeta",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "ES",
+   "fonte_regiao": "Sudeste",
+   "editoria": "A",
+   "id": "b94b36d8f380",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "b94b36d8f380",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Internado após cateterismo, médico réu por feminicídio pede prisão domiciliar",
+   "link": "https://www.campograndenews.com.br/cidades/capital/internado-apos-cateterismo-medico-reu-por-feminicidio-pede-prisao-domiciliar",
+   "resumo": "O médico cardiologista João Jazbik Neto, de 78 anos, réu pelo feminicídio da esposa, a fisioterapeuta Fabíola Marcotti, segue internado no Hospital da Cassems, em Campo Grande. Após passar por um procedimento de cateterismo cardíaco devido a complicações de saúde registradas enquanto estava sob custódia no Centro de Triagem Anísio Lima, a defesa do réu apresentou à Justiça um pedido de prisão domi",
+   "data": "2026-10-19T21:53:00+00:00",
+   "fonte": "Campo Grande News (MS)",
+   "fonte_id": "campograndenews",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "MS"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": "MS",
+   "fonte_regiao": "Centro-Oeste",
+   "editoria": "N",
+   "id": "ccf580f046ce",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "ccf580f046ce",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "PM resgata bebê e prende suspeito de violência doméstica após mulher 'pedir pizza' ao 190 em SP; veja vídeo",
+   "link": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/19/pm-resgata-bebe-e-prende-suspeito-de-violencia-domestica-apos-mulher-pedir-pizza-ao-190-em-sp-veja-video.ghtml",
+   "resumo": "A Polícia Militar de São Paulo resgatou um bebê de três meses e deteve um homem suspeito de violência doméstica neste domingo (18), em São Bernardo do Campo, no ABC Paulista. A ocorrência teve início quando a mãe do bebê ligou para o 190 e simulou um pedido de pizza para pedir ajuda discretamente. Com a viatura próxima ao imóvel, a Central de Emergências da PM voltou a ligar para a mulher e inform",
+   "data": "2026-10-19T21:52:18+00:00",
+   "fonte": "O Globo",
+   "fonte_id": "oglobo",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "8fc5d4334b83",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "8fc5d4334b83",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Ataque russo contra parque na Ucrânia deixa seis mortos, incluindo três crianças",
+   "link": "https://veja.abril.com.br/mundo/ataque-russo-contra-parque-na-ucrania-deixa-seis-mortos-incluindo-tres-criancas/",
+   "resumo": "Presidente Volodymyr Zelensky afirmou que drone matou uma menina de pouco mais de um ano que estava em carrinho de bebê",
+   "data": "2026-10-19T21:44:19+00:00",
+   "fonte": "Veja",
+   "fonte_id": "veja",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "02cf1d863daa",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "02cf1d863daa",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Vingança após briga em adega teria motivado morte da trans Paloma no Jorge Teixeira",
+   "link": "https://emtempo.com.br/610241/amazonas/suspeito-homicidio-mulher-trans-presa-manaus/",
+   "resumo": "A Polícia Civil do Amazonas prendeu Jackson Silva dos Santos, de 26 anos, suspeito de participar do assassinato de Paloma, uma mulher trans de 28 anos, em Manaus. Os policiais cumpriram o mandado de prisão temporária na sexta-feira (16), no bairro Gilberto Mestrinho, zona leste da capital. De acordo com a Delegacia Especializada em Homicídios […] O post Vingança após briga em adega teria motivado ",
+   "data": "2026-10-19T21:40:20+00:00",
+   "fonte": "Em Tempo",
+   "fonte_id": "emtempo",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AM"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "AM",
+   "fonte_regiao": "Norte",
+   "editoria": "N",
+   "id": "c99f8422e8d2",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "c99f8422e8d2",
+   "n_fontes": 1
+  },
   {
    "titulo": "PM resgata bebê de 3 meses após mãe pedir socorro com código de pizza",
    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/19/pm-resgata-bebe-de-3-meses-apos-mae-pedir-socorro-com-codigo-de-pizza.ghtm",
@@ -213,6 +793,31 @@
    "coletado_em": "2026-10-19T21:33:05.057675+00:00",
    "grupo": "05f360dda27a",
    "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher suspeita de torturar ex de companheiro é presa durante velório no Rio",
+   "link": "https://jornaldebrasilia.com.br/nahorah/mulher-suspeita-de-torturar-ex-de-companheiro-e-presa-durante-velorio-no-rio/",
+   "resumo": "ALÉXIA SOUSA FOLHAPRESS Uma mulher suspeita de participar de uma sessão de tortura contra a ex-companheira de seu atual parceiro foi presa neste domingo (18) durante um velório no Cemitério do Caju, na zona portuária do Rio de Janeiro. A vítima teria sido agredida com pedaços de madeira e teve os cabelos raspados à força, segundo a investigação. Camilly Duarte de Jesus estava foragida e foi locali",
+   "data": "2026-10-19T21:31:38+00:00",
+   "fonte": "Jornal de Brasília",
+   "fonte_id": "jornaldebrasilia",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RJ"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "DF",
+   "fonte_regiao": "Centro-Oeste",
+   "editoria": "N",
+   "id": "f2ba4fb9399a",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "e7c1b8a3fcaa",
+   "n_fontes": 2
   },
   {
    "titulo": "PM resgata bebê de 3 meses e prende pai por suspeita de violência doméstica",
@@ -549,6 +1154,32 @@
    "n_fontes": 1
   },
   {
+   "titulo": "Jovens são 1 em cada 5 clientes do Crediamigo e Pernambuco reúne 37,4 mil empreendedores entre 18 e 29 anos no programa",
+   "link": "https://jc.uol.com.br/economia/2026/10/19/jovens-sao-1-em-cada-5-clientes-do-crediamigo-e-pernambuco-reune-374-mil-empreendedores-entre-18-e-29-anos-no-programa.html",
+   "resumo": "Mulheres são 62% dos clientes entre 18 e 29 anos do programa de microcrédito do BNB, na contramão do cenário nacional, em que homens são maioria",
+   "data": "2026-10-19T20:10:33+00:00",
+   "fonte": "Jornal do Commercio (PE)",
+   "fonte_id": "jc",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "PE",
+   "fonte_regiao": "Nordeste",
+   "editoria": "E",
+   "oport": true,
+   "id": "202497857c27",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "202497857c27",
+   "n_fontes": 1
+  },
+  {
    "titulo": "Mulher que matou marido com facada no peito após discussão é solta por 'legítima defesa' em MT",
    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/19/mulher-que-matou-marido-com-facada-no-peito-apos-discussao-e-solta-por-legitima-defesa-em-mt.ghtml",
    "resumo": "Erick Renan Gomes de Moraes, de 36 anos Reprodução A Justiça de Mato Grosso concedeu liberdade provisória a Marizangela Soares, de 28 anos, presa no último sábado (17) por esfaquear e matar o marido, Erick Renan Gomes de Moraes, de 36 anos, após uma discussão. A decisão levou em consideração indícios de que a mulher agiu em legítima defesa ao ser atacada pelo companheiro enquanto arrumava as malas",
@@ -688,6 +1319,27 @@
    "id": "664a0771db78",
    "coletado_em": "2026-10-19T21:33:05.057675+00:00",
    "grupo": "664a0771db78",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Arquiteta cobra R$ 50 mil de Ferrugem após supostas ameaças",
+   "link": "https://dol.com.br/entretenimento/fama/966005/arquiteta-cobra-r-50-mil-de-ferrugem-apos-supostas-ameacas",
+   "resumo": "A arquiteta Millena Caroline Moraes de Miranda entrou na Justiça contra o cantor Ferrugem e a esposa dele, Thaís Vasconcellos, pedindo R$ 50 mil por danos morais. A ação está relacionada a um desentendimento durante a reforma da casa do casal, que teria evoluído para mensagens ameaçadoras e publicações que, segundo a profissional, prejudicaram sua imagem.O caso já havia chegado à Justiça anteriorm",
+   "data": "2026-10-19T19:56:36+00:00",
+   "fonte": "Diário do Pará",
+   "fonte_id": "diariodopara",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "PA",
+   "fonte_regiao": "Norte",
+   "editoria": "L",
+   "id": "756c5bb5735e",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "756c5bb5735e",
    "n_fontes": 1
   },
   {
@@ -909,6 +1561,33 @@
    "n_fontes": 1
   },
   {
+   "titulo": "Criança de 2 anos é encontrada morta e polícia suspeita de homicídio",
+   "link": "https://www.gazetaweb.com/noticias/brasil/crianca-de-2-anos-e-encontrada-morta-e-policia-suspeita-de-homicidio-943493",
+   "resumo": "Uma menina, de 2 anos, morreu, na manhã desta segunda-feira (19/10), no Jardim São Luís, zona sul de São Paulo. Segundo o boletim de ocorrência (B.O), os pais a encontraram sem reação e acionaram o Serviço de Atendimento Móvel de Urgência (Samu), que constatou a morte.Durante o atendimento, a equipe médica identificou vermelhidão na região do pescoço da criança. A perícia foi acionada no local e o",
+   "data": "2026-10-19T19:16:30+00:00",
+   "fonte": "Gazeta de Alagoas",
+   "fonte_id": "gazetaweb",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "MA",
+    "SP"
+   ],
+   "regioes": [
+    "Nordeste",
+    "Sudeste"
+   ],
+   "fonte_uf": "AL",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "5a3a21297972",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "5a3a21297972",
+   "n_fontes": 1
+  },
+  {
    "titulo": "Quando circular pela cidade se torna um risco: mobilidade, violência e o direito das mulheres ao território do Distrito Federal",
    "link": "https://www.cfemea.org.br/pt/?view=article&id=11807:risco-mobilidade-mulheres&catid=562",
    "resumo": "Falar de mobilidade urbana a partir de uma perspectiva feminista exige ir além de ônibus, metrô, carros e vias. Mobilidade é sobre quem consegue acessar a cidade.",
@@ -957,6 +1636,27 @@
    "coletado_em": "2026-10-19T21:33:05.057675+00:00",
    "grupo": "f1378d59469f",
    "n_fontes": 2
+  },
+  {
+   "titulo": "PC quer medida protetiva para mulher agredida com barra de ferro por marido",
+   "link": "https://www.em.com.br/gerais/2026/10/7523712-pc-quer-medida-protetiva-para-mulher-agredida-com-barra-de-ferro-por-marido.html",
+   "resumo": "VIOLÊNCIA DOMÉSTICA",
+   "data": "2026-10-19T18:57:15+00:00",
+   "fonte": "Estado de Minas",
+   "fonte_id": "estadodeminas",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "MG",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "ce95efaa4d37",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "ce95efaa4d37",
+   "n_fontes": 1
   },
   {
    "titulo": "PM flagra mulher e criança de 2 anos fugindo pela janela para escapar de violência doméstica no Antares",
@@ -1044,6 +1744,31 @@
    "id": "16239c402c5a",
    "coletado_em": "2026-10-19T21:33:05.057675+00:00",
    "grupo": "16239c402c5a",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Casa do Menino Jesus pede ajuda para custear exame de Irmã Aurimar",
+   "link": "https://dol.com.br/noticias/para/965998/casa-do-menino-jesus-pede-ajuda-para-custear-exame-de-irma-aurimar",
+   "resumo": "Fazer o bem é um ato que aproxima e acolhe as pessoas. Ajudar com uma palavra amiga, com a doação de itens necessários ou até mesmo na luta contra um câncer, pode salvar vidas.Em Belém, a Casa do Menino Jesus, que acolhe crianças e adolescentes em tratamento oncológico, está precisando de uma ajuda ainda mais especial. A presidente da instituição, Irmã Maria Aurimar, que aos 78 anos está na luta c",
+   "data": "2026-10-19T18:29:57+00:00",
+   "fonte": "Diário do Pará",
+   "fonte_id": "diariodopara",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PA"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "PA",
+   "fonte_regiao": "Norte",
+   "editoria": "A",
+   "id": "fab472deb4df",
+   "coletado_em": "2026-10-20T01:06:37.882961+00:00",
+   "grupo": "fab472deb4df",
    "n_fontes": 1
   },
   {
@@ -1444,7 +2169,7 @@
    "id": "e7c1b8a3fcaa",
    "coletado_em": "2026-10-19T21:33:05.057675+00:00",
    "grupo": "e7c1b8a3fcaa",
-   "n_fontes": 1
+   "n_fontes": 2
   },
   {
    "titulo": "‘O milagre não aconteceu’: ex-jogador da Ucrânia é morto na guerra contra a Rússia e esposa desabafa",

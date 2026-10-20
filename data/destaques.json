@@ -1,5 +1,28 @@
 [
  {
+  "id": "af50046be6",
+  "grupo": "f50046be6d78",
+  "e": "L",
+  "img": "forum-sao-carlos",
+  "iso": "2026-10-19T22:10:24+00:00",
+  "date": "19 out 2026",
+  "h": "Cooperação: MPPB e PC assinam termo que fortalece o combate à violência psicológica contra a mulher em CG",
+  "t": "Notícia publicada por MPPB – Ministério Público Paraíba em 19 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPPB – Ministério Público Paraíba",
+    "http://www.mppb.mp.br/index.php?view=article&id=27882"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T01:06:38.122271+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
   "id": "a9d795d1ce",
   "grupo": "9d795d1cef70",
   "e": "A",
@@ -23,6 +46,26 @@
   ]
  },
  {
+  "id": "ad42d5d00d",
+  "grupo": "d42d5d00de67",
+  "e": "I",
+  "img": "cmb-copa",
+  "iso": "2026-10-19T19:17:46+00:00",
+  "date": "19 out 2026",
+  "h": "MDHC capacita profissionais do Disque 100 para acolher denúncias de violações de direitos humanos relacionadas ao meio ambiente",
+  "t": "Notícia publicada por MDHC – Notícias (Disque 100, crianças e adolescentes) em 19 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MDHC – Notícias (Disque 100, crianças e adolescentes)",
+    "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/mdhc-capacita-profissionais-do-disque-100-para-acolher-denuncias-de-violacoes-de-direitos-humanos-sobre-questoes-relacionadas-ao-meio-ambiente"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T01:06:38.122271+00:00"
+ },
+ {
   "id": "ad2689fdb7",
   "grupo": "d2689fdb793d",
   "e": "A",
@@ -43,6 +86,30 @@
   "criado_em": "2026-10-19T21:33:05.351286+00:00",
   "uf": [
    "MT"
+  ]
+ },
+ {
+  "id": "a4f4646e3c",
+  "grupo": "4f4646e3cc60",
+  "e": "A",
+  "img": "conselho-tutelar-sede",
+  "iso": "2026-10-19T17:30:00+00:00",
+  "date": "19 out 2026",
+  "h": "Seminário em Itabaiana (SE) discute estratégias de combate ao trabalho infantil",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 19 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/seminario-em-itabaiana-se-discute-estrategias-de-combate-ao-trabalho-infantil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-20T01:06:38.122271+00:00",
+  "uf": [
+   "BA",
+   "SE"
   ]
  },
  {
