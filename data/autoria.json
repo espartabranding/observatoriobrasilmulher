@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-10-20T15:07:55.090604+00:00",
+"gerado_em": "2026-10-20T19:18:50.844470+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -29787,6 +29787,23 @@
 204518
 ],
 "lido_em": "2026-10-19"
+},
+"2648420": {
+"sigla": "PL 5613/2026",
+"ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prazo para instalação de equipamento de monitoração eletrônica e incentivar ações de policiamento preventivo no enfrentamento à violência doméstica e familiar contra a mulher.",
+"apresentacao": "2026-10-20",
+"situacao": "",
+"data_situacao": "2026-10-20",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220652
+],
+"principal": [
+220652
+],
+"lido_em": "2026-10-20"
 }
 },
 "deputados": {

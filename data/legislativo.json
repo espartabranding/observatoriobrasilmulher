@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T15:07:21.217560+00:00",
+ "gerado_em": "2026-10-20T19:18:14.039974+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -3187,22 +3187,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3080998"
   },
   {
-   "id": 2516021,
-   "sigla": "PL 2526/2025",
-   "ementa": "Determina a inaplicabilidade do princípio da insignificância aos crimes ou contravenções penais praticados contra a mulher no contexto de violência doméstica e familiar.",
-   "apresentacao": "2025-05-23",
-   "situacao": "Aguardando Encaminhamento",
-   "orgao": "CCJC",
-   "data_situacao": "2026-08-12",
-   "andamento": "Aprovada a Redação Final.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516021",
-   "enquete": "https://www.camara.leg.br/enquetes/2516021",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2917343"
-  },
-  {
    "id": 2562604,
    "sigla": "PL 4684/2025",
    "ementa": "Altera a Lei 14.133, de 1º de abril de 2021, a Lei de Licitações e Contratos Administrativos, para instituir percentual mínimo de reserva de vagas para mulheres nas contratações de serviços contínuos com regime de dedicação exclusiva de  mão de obra, priorizando a contratação de vítimas de violência doméstica e familiar.",
@@ -3217,22 +3201,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562604",
    "enquete": "https://www.camara.leg.br/enquetes/2562604",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3003339"
-  },
-  {
-   "id": 2335003,
-   "sigla": "PL 2448/2022",
-   "ementa": "Altera a Lei nº 10.671, de 15 de Maio de 2003, para dispor sobre a proteção das vítimas em casos de assédio e importunação sexual ocorridas em estádios de futebol",
-   "apresentacao": "2022-09-09",
-   "situacao": "Aguardando Encaminhamento",
-   "orgao": "CCJC",
-   "data_situacao": "2026-08-12",
-   "andamento": "Aprovada a Redação Final.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2335003",
-   "enquete": "https://www.camara.leg.br/enquetes/2335003",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2206384"
   },
   {
    "id": 2599585,
@@ -5489,6 +5457,38 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2421332",
    "enquete": "https://www.camara.leg.br/enquetes/2421332",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2395791"
+  },
+  {
+   "id": 2516021,
+   "sigla": "PL 2526/2025",
+   "ementa": "Determina a inaplicabilidade do princípio da insignificância aos crimes ou contravenções penais praticados contra a mulher no contexto de violência doméstica e familiar.",
+   "apresentacao": "2025-05-23",
+   "situacao": "Aguardando Autógrafos na Mesa",
+   "orgao": "MESA",
+   "data_situacao": "2026-10-20",
+   "andamento": "Apresentação do DOC n. 1636/2026 (Ofício da Primeira-Secretaria), pelo Deputado Carlos Veras (PT/PE -Fdr PT-PCdoB-PV), que \"Of. nº 694/2026/PS-GSE, que encaminha ao Senado Federal o processado do PL n. 2526/2025, para apreciação\".",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em tramitação",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516021",
+   "enquete": "https://www.camara.leg.br/enquetes/2516021",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2917343"
+  },
+  {
+   "id": 2335003,
+   "sigla": "PL 2448/2022",
+   "ementa": "Altera a Lei nº 10.671, de 15 de Maio de 2003, para dispor sobre a proteção das vítimas em casos de assédio e importunação sexual ocorridas em estádios de futebol",
+   "apresentacao": "2022-09-09",
+   "situacao": "Aguardando Autógrafos na Mesa",
+   "orgao": "MESA",
+   "data_situacao": "2026-10-20",
+   "andamento": "Apresentação do DOC n. 1648/2026 (Ofício da Primeira-Secretaria), pelo Deputado Carlos Veras (PT/PE -Fdr PT-PCdoB-PV), que \"Of. nº 689/2026/PS-GSE, que encaminha ao Senado Federal o processado do PL n. 2.448/2022, para apreciação\".",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em tramitação",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2335003",
+   "enquete": "https://www.camara.leg.br/enquetes/2335003",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2206384"
   },
   {
    "id": 2482275,
