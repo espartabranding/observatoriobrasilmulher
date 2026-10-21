@@ -1,5 +1,74 @@
 [
  {
+  "id": "afad8ab53d",
+  "grupo": "fad8ab53d91b",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-10-21T19:19:37.949739+00:00",
+  "date": "21 out 2026",
+  "h": "Segurança fortalecida: governador entrega 48 novas viaturas à Polícia Militar e amplia proteção às mulheres",
+  "t": "Notícia publicada por Secom Bahia em 21 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secom Bahia",
+    "http://www.ba.gov.br/comunicacao/noticias/2026-10/384869/seguranca-fortalecida-governador-entrega-48-novas-viaturas-policia-militar"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T19:19:38.371023+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "ad76c2384a",
+  "grupo": "d76c2384a5ca",
+  "e": "P",
+  "img": "f-esplanada-aerea",
+  "iso": "2026-10-21T16:14:00+00:00",
+  "date": "21 out 2026",
+  "h": "Comissão debate buscas por crianças e adolescentes desaparecidos",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 21 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1312716-comissao-debate-buscas-por-criancas-e-adolescentes-desaparecidos"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T19:19:38.371023+00:00",
+  "uf": [
+   "PE"
+  ]
+ },
+ {
+  "id": "a79fe9fad8",
+  "grupo": "79fe9fad82bf",
+  "e": "L",
+  "img": "forum-fachada-letreiro",
+  "iso": "2026-10-21T15:25:13+00:00",
+  "date": "21 out 2026",
+  "h": "Crateús recebe 12ª unidade de núcleo para fortalecer a rede regional de combate à violência contra a mulher",
+  "t": "Notícia publicada por TJCE – Tribunal de Justiça do Ceará em 21 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJCE – Tribunal de Justiça do Ceará",
+    "https://www.tjce.jus.br/noticias/crateus-recebe-12a-unidade-de-nucleo-para-fortalecer-a-rede-regional-de-combate-a-violencia-contra-a-mulher/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T19:19:38.371023+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "a17a5437de",
   "grupo": "17a5437dec6d",
   "e": "I",
