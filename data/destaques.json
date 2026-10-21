@@ -1,5 +1,71 @@
 [
  {
+  "id": "a7c144f62f",
+  "grupo": "7c144f62f5ed",
+  "e": "P",
+  "img": "planalto-arcos",
+  "iso": "2026-10-20T21:20:00+00:00",
+  "date": "20 out 2026",
+  "h": "Lindbergh pede à PF proteção para mulher suspeita de ser laranja de Willer Tomaz, ligado a Flávio Bolsonaro",
+  "t": "Notícia publicada por Revista Fórum em 20 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Revista Fórum",
+    "https://revistaforum.com.br/politica/pf-protecao-mulher-laranja-willer-tomaz-flavio-bolsonaro/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T01:36:09.151226+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
+  "id": "a43d1942f3",
+  "grupo": "43d1942f3ea7",
+  "e": "P",
+  "img": "politica",
+  "iso": "2026-10-20T21:10:00+00:00",
+  "date": "20 out 2026",
+  "h": "Projeto prevê apoio a parente que acolher criança afastada dos pais",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 20 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1304642-projeto-preve-apoio-a-parente-que-acolher-crianca-afastada-dos-pais"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T01:36:09.151226+00:00"
+ },
+ {
+  "id": "a7ef026577",
+  "grupo": "7ef026577f0d",
+  "e": "H",
+  "img": "hmib-placa",
+  "iso": "2026-10-20T21:02:18+00:00",
+  "date": "20 out 2026",
+  "h": "Crianças, natureza e clima: a proteção das presentes e futuras gerações ganha novos contornos no Brasil",
+  "t": "Notícia publicada por Jornal da USP em 20 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal da USP",
+    "https://jornal.usp.br/artigos/criancas-natureza-e-clima-a-protecao-das-presentes-e-futuras-geracoes-ganha-novos-contornos-no-brasil/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T01:36:09.151226+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "a13e49bc1e",
   "grupo": "13e49bc1e085",
   "e": "I",
