@@ -1,5 +1,79 @@
 [
  {
+  "id": "a17a5437de",
+  "grupo": "17a5437dec6d",
+  "e": "I",
+  "img": "cmb-fachada-df",
+  "iso": "2026-10-21T13:11:58+00:00",
+  "date": "21 out 2026",
+  "h": "Prefeitura contrata obra de R$ 9,56 milhões para concluir Casa da Mulher Brasileira em Goiânia",
+  "t": "Notícia publicada por Jornal Opção (GO) em 21 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal Opção (GO)",
+    "https://www.jornalopcao.com.br/ultimas-noticias/prefeitura-contrata-obra-de-r-956-milhoes-para-concluir-casa-da-mulher-brasileira-em-goiania-880908/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T15:14:59.145031+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
+  "id": "a82803f71e",
+  "grupo": "82803f71e480",
+  "e": "A",
+  "img": "escola-municipal-portao",
+  "iso": "2026-10-21T12:41:49+00:00",
+  "date": "21 out 2026",
+  "h": "Adolescentes do Rio relatam exploração sexual após promessa de dinheiro no ES",
+  "t": "Notícia publicada por A Gazeta (ES) em 21 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha Vitória (ES)",
+    "https://www.folhavitoria.com.br/policia/adolescentes-do-rj-denunciam-exploracao-sexual-apos-promessa-de-dinheiro-no-es/"
+   ],
+   [
+    "A Gazeta (ES)",
+    "https://www.agazeta.com.br/es/policia/adolescentes-do-rio-relatam-exploracao-sexual-apos-promessa-de-dinheiro-no-es-1026"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T15:14:59.145031+00:00"
+ },
+ {
+  "id": "a1ebdc3cf2",
+  "grupo": "1ebdc3cf2453",
+  "e": "N",
+  "img": "r-sul",
+  "iso": "2026-10-20T22:48:26+00:00",
+  "date": "20 out 2026",
+  "h": "Mãe de dois filhos: quem era a mulher morta pelo ex-companheiro menos de uma hora após acionar botão do pânico em SC",
+  "t": "Notícia publicada por NSC Total (SC) em 20 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "SCC10",
+    "https://scc10.com.br/cotidiano/seguranca/daiana-muller-morta-ex-ipira-sc-medida-protetiva/"
+   ],
+   [
+    "NSC Total (SC)",
+    "https://www.nsctotal.com.br/seguranca/mae-de-dois-filhos-quem-era-a-mulher-morta-pelo-ex-companheiro-menos-de-uma-hora-apos-acionar-botao-do-panico-em-sc"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-21T15:14:59.145031+00:00",
+  "uf": [
+   "SC"
+  ]
+ },
+ {
   "id": "a7c144f62f",
   "grupo": "7c144f62f5ed",
   "e": "P",
