@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T19:20:55.256025+00:00",
+ "gerado_em": "2026-10-21T23:20:46.691276+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -3969,22 +3969,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2122958",
    "enquete": "https://www.camara.leg.br/enquetes/2122958",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1523675"
-  },
-  {
-   "id": 2366248,
-   "sigla": "PL 2856/2023",
-   "ementa": "Estabelece que a configuração da violência doméstica independe de coabitação ou da condição de vulnerabilidade da ofendida, e veda a aplicação do princípio da insignificância nas infrações penais praticadas com violência doméstica e familiar contra a mulher.",
-   "apresentacao": "2023-05-30",
-   "situacao": "Tramitando em Conjunto",
-   "orgao": "CPASF",
-   "data_situacao": "2026-07-15",
-   "andamento": "Designada Relatora, Dep. Chris Tonietto (PL-RJ), para o PL 7163/2014, ao qual esta proposição está apensada.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2366248",
-   "enquete": "https://www.camara.leg.br/enquetes/2366248",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2280905"
   },
   {
    "id": 2166151,
