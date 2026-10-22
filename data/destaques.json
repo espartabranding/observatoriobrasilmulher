@@ -1,5 +1,51 @@
 [
  {
+  "id": "a37593bb44",
+  "grupo": "37593bb44ae6",
+  "e": "P",
+  "img": "congresso",
+  "iso": "2026-10-22T04:43:45.936221+00:00",
+  "date": "22 out 2026",
+  "h": "Governo da Bahia reforça a importância dos homens no combate à violência contra a mulher",
+  "t": "Notícia publicada por Secom Bahia em 22 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secom Bahia",
+    "http://www.ba.gov.br/comunicacao/noticias/2026-10/384879/governo-da-bahia-reforca-importancia-dos-homens-no-combate-violencia-contra"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-22T04:43:46.343469+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "a7330c7afd",
+  "grupo": "7330c7afd324",
+  "e": "A",
+  "img": "r-co",
+  "iso": "2026-10-21T23:20:00+00:00",
+  "date": "21 out 2026",
+  "h": "MPT-MS premia estudantes que se destacaram na prevenção e no combate ao trabalho infantil",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 21 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/mpt-ms-premia-estudantes-que-se-destacaram-na-prevencao-e-no-combate-ao-trabalho-infantil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-22T04:43:46.343469+00:00",
+  "uf": [
+   "MS"
+  ]
+ },
+ {
   "id": "adbad6768d",
   "grupo": "dbad6768d422",
   "e": "L",
@@ -64,6 +110,26 @@
   "uf": [
    "SP"
   ]
+ },
+ {
+  "id": "a3684a516f",
+  "grupo": "3684a516fbc1",
+  "e": "P",
+  "img": "f-esplanada-cc0",
+  "iso": "2026-10-21T19:48:00+00:00",
+  "date": "21 out 2026",
+  "h": "Projeto estende regras da Lei Maria da Penha para agressões praticadas por ex-namorados",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 21 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1310401-projeto-estende-regras-da-lei-maria-da-penha-para-agressoes-praticadas-por-ex-namorados"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-22T04:43:46.343469+00:00"
  },
  {
   "id": "afad8ab53d",
