@@ -1,5 +1,71 @@
 [
  {
+  "id": "ac4f9b219c",
+  "grupo": "c4f9b219c76a",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-10-22T15:17:12.238076+00:00",
+  "date": "22 out 2026",
+  "h": "Prevenção e proteção marcam ações da Operação Mulher Segura em Salinas da Margarida",
+  "t": "Notícia publicada por Secom Bahia em 22 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secom Bahia",
+    "http://www.ba.gov.br/comunicacao/noticias/2026-10/384880/prevencao-e-protecao-marcam-acoes-da-operacao-mulher-segura-em-salinas-da"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-22T15:17:12.695509+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "ae535029de",
+  "grupo": "e535029dee25",
+  "e": "A",
+  "img": "creche-sala-atividades",
+  "iso": "2026-10-22T15:03:57+00:00",
+  "date": "22 out 2026",
+  "h": "Defensoria com a Meninada leva crianças acolhidas ao cinema para falar sobre direitos",
+  "t": "Notícia publicada por Defensoria Pública – Espírito Santo em 22 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Defensoria Pública – Espírito Santo",
+    "https://www.defensoria.es.def.br/defensoria-com-a-meninada-leva-criancas-acolhidas-ao-cinema-para-falar-sobre-direitos/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-22T15:17:12.695509+00:00"
+ },
+ {
+  "id": "acbefb0337",
+  "grupo": "cbefb0337f60",
+  "e": "I",
+  "img": "r-nordeste",
+  "iso": "2026-10-22T13:01:13+00:00",
+  "date": "22 out 2026",
+  "h": "Áudio: Rede de proteção a mulheres vítimas de violência doméstica pode ser ampliada",
+  "t": "Notícia publicada por Agência Senado em 22 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/audios/2026/10/rede-de-protecao-a-mulheres-vitimas-de-violencia-domestica-pode-ser-ampliada"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-22T15:17:12.695509+00:00",
+  "uf": [
+   "AL"
+  ]
+ },
+ {
   "id": "a37593bb44",
   "grupo": "37593bb44ae6",
   "e": "P",

@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T04:44:57.420845+00:00",
+ "gerado_em": "2026-10-22T15:18:19.830007+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -563,22 +563,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2960953"
   },
   {
-   "id": 2625561,
-   "sigla": "PL 2451/2026",
-   "ementa": "Dispõe sobre medidas de prevenção, combate e responsabilização relacionadas à criação e disseminação de manipulação digital de conteúdo sexual (deepfakes), coibindo também o uso indevido de outros recursos tecnológicos contra a dignidade sexual de crianças e adolescentes.",
-   "apresentacao": "2026-05-18",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CE",
-   "data_situacao": "2026-08-19",
-   "andamento": "Parecer do Relator, Dep. Benes Leocádio (UNIÃO-RN), pela aprovação, com emendas.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625561",
-   "enquete": "https://www.camara.leg.br/enquetes/2625561",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3131814"
-  },
-  {
    "id": 2486034,
    "sigla": "PL 785/2025",
    "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer a necessidade de autorização judicial para a atuação de crianças e adolescentes como influenciadores digitais mirins, bem como para dispor sobre a proteção de crianças e adolescentes na produção e divulgação de conteúdo em aplicações de internet.",
@@ -801,22 +785,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609444",
    "enquete": "https://www.camara.leg.br/enquetes/2609444",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3098873"
-  },
-  {
-   "id": 2483184,
-   "sigla": "PL 329/2025",
-   "ementa": "Institui a Política Nacional de Promoção de Fatores de Proteção da Saúde Mental de Meninas.",
-   "apresentacao": "2025-02-06",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CE",
-   "data_situacao": "2026-08-11",
-   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 02/07/2026 a 11/08/2026). Não foram apresentadas emendas ao substitutivo.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483184",
-   "enquete": "https://www.camara.leg.br/enquetes/2483184",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2852454"
   },
   {
    "id": 2467208,
@@ -3027,6 +2995,22 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145226"
   },
   {
+   "id": 2625561,
+   "sigla": "PL 2451/2026",
+   "ementa": "Dispõe sobre medidas de prevenção, combate e responsabilização relacionadas à criação e disseminação de manipulação digital de conteúdo sexual (deepfakes), coibindo também o uso indevido de outros recursos tecnológicos contra a dignidade sexual de crianças e adolescentes.",
+   "apresentacao": "2026-05-18",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CE",
+   "data_situacao": "2026-08-19",
+   "andamento": "Parecer do Relator, Dep. Benes Leocádio (UNIÃO-RN), pela aprovação, com emendas.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "criancas",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625561",
+   "enquete": "https://www.camara.leg.br/enquetes/2625561",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3131814"
+  },
+  {
    "id": 2635683,
    "sigla": "PL 3361/2026",
    "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para dispor sobre a reserva  de vagas para mulheres em situação de vulnerabilidade decorrente de violência doméstica e familiar e sobreviventes de tentativa de feminicídio nos contratos de serviços contínuos da Administração Pública.",
@@ -3217,6 +3201,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599585",
    "enquete": "https://www.camara.leg.br/enquetes/2599585",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072505"
+  },
+  {
+   "id": 2483184,
+   "sigla": "PL 329/2025",
+   "ementa": "Institui a Política Nacional de Promoção de Fatores de Proteção da Saúde Mental de Meninas.",
+   "apresentacao": "2025-02-06",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CE",
+   "data_situacao": "2026-08-11",
+   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 02/07/2026 a 11/08/2026). Não foram apresentadas emendas ao substitutivo.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483184",
+   "enquete": "https://www.camara.leg.br/enquetes/2483184",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2852454"
   },
   {
    "id": 2351470,
