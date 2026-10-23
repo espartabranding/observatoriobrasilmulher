@@ -1,5 +1,53 @@
 [
  {
+  "id": "acbca1de4d",
+  "grupo": "cbca1de4d296",
+  "e": "N",
+  "img": "dados-rede",
+  "iso": "2026-10-22T23:16:46+00:00",
+  "date": "22 out 2026",
+  "h": "Polícia Civil apreende notebook e celulares de investigado por divulgar vídeos íntimos de ex-companheira",
+  "t": "Notícia publicada por g1 em 22 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/22/policia-civil-apreende-notebook-e-celulares-de-investigado-por-divulgar-videos-intimos-de-ex-companheira.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T01:31:23.129024+00:00",
+  "uf": [
+   "RN",
+   "SP"
+  ]
+ },
+ {
+  "id": "a91eb9b3ee",
+  "grupo": "91eb9b3eece8",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-10-22T22:59:32+00:00",
+  "date": "22 out 2026",
+  "h": "Homem é preso por importunação sexual contra agente de endemias em Salvador",
+  "t": "Notícia publicada por A Tarde em 22 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "BNews",
+    "https://www.bnews.com.br/noticias/policia/homem-e-preso-em-flagrante-por-importunacao-sexual-contra-agente-de-endemias-em-salvador.html"
+   ],
+   [
+    "A Tarde",
+    "https://atarde.com.br/policia/homem-e-preso-por-importunacao-sexual-contra-agente-de-endemias-em-salvador-1406759"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T01:31:23.129024+00:00"
+ },
+ {
   "id": "a8038075c5",
   "grupo": "8038075c5cd7",
   "e": "L",
@@ -133,6 +181,30 @@
   "uf": [
    "AL"
   ]
+ },
+ {
+  "id": "a11f0118a4",
+  "grupo": "11f0118a43e4",
+  "e": "A",
+  "img": "creche-refeitorio",
+  "iso": "2026-10-22T11:31:28+00:00",
+  "date": "22 out 2026",
+  "h": "Criança de 4 anos morre vítima de choque elétrico em Alhandra",
+  "t": "Notícia publicada por ClickPB em 22 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Portal Correio",
+    "https://portalcorreio.com.br/crianca-de-4-anos-morre-apos-ser-vitima-de-choque-eletrico-em-alhandra-na-grande-joao-pessoa/"
+   ],
+   [
+    "ClickPB",
+    "https://www.clickpb.com.br/policial/crianca-morre-choque-alhandra.html"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T01:31:23.129024+00:00"
  },
  {
   "id": "a37593bb44",
