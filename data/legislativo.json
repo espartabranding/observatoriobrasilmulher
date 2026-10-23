@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T15:05:37.636527+00:00",
+ "gerado_em": "2026-10-23T19:14:48.464204+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -49,22 +49,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613852",
    "enquete": "https://www.camara.leg.br/enquetes/2613852",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109326"
-  },
-  {
-   "id": 2611195,
-   "sigla": "PL 1322/2026",
-   "ementa": "Dispõe sobre a criação de plataforma tecnológica para notificação em tempo real às vítimas de violência doméstica e familiar acerca da aproximação de agressores submetidos a medidas protetivas de urgência e monitoramento eletrônico.",
-   "apresentacao": "2026-03-23",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CSPCCO",
-   "data_situacao": "2026-10-13",
-   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 13/08/2026 a 13/10/2026). Não foram apresentadas emendas ao substitutivo.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611195",
-   "enquete": "https://www.camara.leg.br/enquetes/2611195",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3102607"
   },
   {
    "id": 2606841,
@@ -353,22 +337,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603928",
    "enquete": "https://www.camara.leg.br/enquetes/2603928",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3086474"
-  },
-  {
-   "id": 2418344,
-   "sigla": "PL 364/2024",
-   "ementa": "Dispõe sobre o Protocolo Nacional de Investigação e Perícias nos Crimes de Feminicídio.",
-   "apresentacao": "2024-02-21",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CSPCCO",
-   "data_situacao": "2026-09-01",
-   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 29/07/2026 a 01/09/2026). Não foram apresentadas emendas ao substitutivo.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2418344",
-   "enquete": "https://www.camara.leg.br/enquetes/2418344",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2388349"
   },
   {
    "id": 2599554,
@@ -753,22 +721,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482618",
    "enquete": "https://www.camara.leg.br/enquetes/2482618",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2850383"
-  },
-  {
-   "id": 2609444,
-   "sigla": "PL 1207/2026",
-   "ementa": "Institui diretrizes nacionais para o aprimoramento do atendimento em saúde às mulheres vítimas de violência e cria instrumentos de avaliação de risco, registro clínico e fluxo integrado de atendimento.",
-   "apresentacao": "2026-03-17",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CSPCCO",
-   "data_situacao": "2026-08-11",
-   "andamento": "Retirado de pauta, de ofício, a pedido da Relatora, Delegada Adriana Accorsi (PT/GO).",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609444",
-   "enquete": "https://www.camara.leg.br/enquetes/2609444",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3098873"
   },
   {
    "id": 2467208,
@@ -1377,6 +1329,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554852",
    "enquete": "https://www.camara.leg.br/enquetes/2554852",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2988867"
+  },
+  {
+   "id": 2611195,
+   "sigla": "PL 1322/2026",
+   "ementa": "Dispõe sobre a criação de plataforma tecnológica para notificação em tempo real às vítimas de violência doméstica e familiar acerca da aproximação de agressores submetidos a medidas protetivas de urgência e monitoramento eletrônico.",
+   "apresentacao": "2026-03-23",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CSPCCO",
+   "data_situacao": "2026-10-13",
+   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 13/08/2026 a 13/10/2026). Não foram apresentadas emendas ao substitutivo.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611195",
+   "enquete": "https://www.camara.leg.br/enquetes/2611195",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3102607"
   },
   {
    "id": 2625771,
@@ -2595,6 +2563,22 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2888112"
   },
   {
+   "id": 2418344,
+   "sigla": "PL 364/2024",
+   "ementa": "Dispõe sobre o Protocolo Nacional de Investigação e Perícias nos Crimes de Feminicídio.",
+   "apresentacao": "2024-02-21",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CSPCCO",
+   "data_situacao": "2026-09-01",
+   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 29/07/2026 a 01/09/2026). Não foram apresentadas emendas ao substitutivo.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2418344",
+   "enquete": "https://www.camara.leg.br/enquetes/2418344",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2388349"
+  },
+  {
    "id": 2449726,
    "sigla": "PL 2928/2024",
    "ementa": "Estabelece o pagamento de Aluguel Social para vítimas de violência doméstica em situação de vulnerabilidade, visando garantir segurança, dignidade e apoio financeiro para a reconstrução de suas vidas.",
@@ -3169,6 +3153,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599585",
    "enquete": "https://www.camara.leg.br/enquetes/2599585",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072505"
+  },
+  {
+   "id": 2609444,
+   "sigla": "PL 1207/2026",
+   "ementa": "Institui diretrizes nacionais para o aprimoramento do atendimento em saúde às mulheres vítimas de violência e cria instrumentos de avaliação de risco, registro clínico e fluxo integrado de atendimento.",
+   "apresentacao": "2026-03-17",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CSPCCO",
+   "data_situacao": "2026-08-11",
+   "andamento": "Retirado de pauta, de ofício, a pedido da Relatora, Delegada Adriana Accorsi (PT/GO).",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609444",
+   "enquete": "https://www.camara.leg.br/enquetes/2609444",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3098873"
   },
   {
    "id": 2483184,
@@ -6167,7 +6167,7 @@
    "sigla": "PL 4994/2026",
    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para vedar a condução conjunta da vítima e do agressor na mesma viatura policial ou em outro veículo utilizado pelos órgãos de segurança pública.",
    "apresentacao": "2026-08-11",
-   "situacao": "",
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
    "orgao": "MESA",
    "data_situacao": "2026-08-11",
    "andamento": "Apresentação do PL n. 4994/2026 (Projeto de Lei), pelo Deputado Jonas Donizette (PSB/SP), que \"Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para vedar a condução conjunta da vítima e do agressor na mesma viatura policial ou em outro veículo utilizado pelos órgãos de segurança",
@@ -6199,7 +6199,7 @@
    "sigla": "PL 4995/2026",
    "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a forma de formalização das autorizações de viagem de crianças e adolescentes.",
    "apresentacao": "2026-08-11",
-   "situacao": "",
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
    "orgao": "MESA",
    "data_situacao": "2026-08-11",
    "andamento": "Apresentação do PL n. 4995/2026 (Projeto de Lei), pelo Deputado Jonas Donizette (PSB/SP), que \"Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a forma de formalização das autorizações de viagem de crianças e adolescentes\".",

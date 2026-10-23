@@ -46,6 +46,54 @@
   ]
  },
  {
+  "id": "a351258a4d",
+  "grupo": "351258a4d021",
+  "e": "P",
+  "img": "f-ministerios-fachadas",
+  "iso": "2026-10-23T13:53:32+00:00",
+  "date": "23 out 2026",
+  "h": "Pai de Meghan Markle é investigado por imagens de abuso sexual infantil",
+  "t": "Notícia publicada por CNN Brasil em 23 out 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/mundo/noticia/2026/10/23/pai-de-meghan-markle-e-investigado-por-guardar-imagens-de-abuso-sexual-infantil.ghtml"
+   ],
+   [
+    "ClickPB",
+    "https://www.clickpb.com.br/celebridades/pai-meghan-markle-investigado-abuso.html"
+   ],
+   [
+    "CNN Brasil",
+    "https://www.cnnbrasil.com.br/internacional/pai-de-meghan-markle-e-investigado-por-imagens-de-abuso-sexual-infantil/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T19:13:38.529305+00:00"
+ },
+ {
+  "id": "a2d06adc4c",
+  "grupo": "2d06adc4c79d",
+  "e": "P",
+  "img": "f-planalto-2020",
+  "iso": "2026-10-23T12:36:00+00:00",
+  "date": "23 out 2026",
+  "h": "Famílias relatam dificuldades nas investigações sobre crianças desaparecidas",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1313398-familias-relatam-dificuldades-nas-investigacoes-sobre-criancas-desaparecidas"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T19:13:38.529305+00:00"
+ },
+ {
   "id": "acbca1de4d",
   "grupo": "cbca1de4d296",
   "e": "N",
@@ -142,6 +190,41 @@
   "criado_em": "2026-10-22T22:22:36.165971+00:00",
   "uf": [
    "AP"
+  ]
+ },
+ {
+  "id": "a583b94cd6",
+  "grupo": "583b94cd69f6",
+  "e": "N",
+  "img": "deam-viatura-df",
+  "iso": "2026-10-22T21:34:20+00:00",
+  "date": "22 out 2026",
+  "h": "Caso Isabelle Caracristi: Justiça determina arquivamento de investigação contra namorado por feminicídio e indução ao suicídio",
+  "t": "Notícia publicada por g1 em 22 out 2026 e repercutida por mais 6 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Terra – Nós",
+    "https://www.terra.com.br/noticias/brasil/cidades/caso-isabelle-caracristi-justica-decide-arquivar-investigacao-de-feminicidio-e-inducao-ao-suicidio,7ccb1c67aad21620778b4cf3ecba52e7jqpsny4g.html"
+   ],
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/distrito-federal/na-mira/caso-isabelle-justica-arquiva-investigacoes-de-feminicidio-e-suicidio"
+   ],
+   [
+    "O Dia (RJ)",
+    "https://odia.ig.com.br/brasil/2026/10/7315246-caso-isabelle-caracristi-justica-arquiva-investigacao-contra-namorado.html"
+   ],
+   [
+    "Agora RN",
+    "https://agorarn.com.br/policia/justica-namorado-isabelle-caracristi/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T19:13:38.529305+00:00",
+  "uf": [
+   "CE"
   ]
  },
  {
