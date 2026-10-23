@@ -1,5 +1,51 @@
 [
  {
+  "id": "a05a8e44f6",
+  "grupo": "05a8e44f632f",
+  "e": "A",
+  "img": "r-norte",
+  "iso": "2026-10-23T14:37:35+00:00",
+  "date": "23 out 2026",
+  "h": "Pai de menina de 2 anos morta após ser esquecida em carro ficou em estado de choque, diz PM",
+  "t": "Notícia publicada por g1 em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/rr/roraima/noticia/2026/10/23/pai-de-menina-de-2-anos-morta-apos-ser-esquecida-em-carro-ficou-em-estado-de-choque-diz-pm.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T15:04:31.570337+00:00",
+  "uf": [
+   "RR"
+  ]
+ },
+ {
+  "id": "a76149c8f4",
+  "grupo": "76149c8f4292",
+  "e": "E",
+  "img": "r-nordeste",
+  "iso": "2026-10-23T14:05:00+00:00",
+  "date": "23 out 2026",
+  "h": "MPT-SE capacita Rede de Atendimento às Vítimas do Trabalho Escravo e Tráfico de Pessoas no sertão sergipano",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/mpt-se-capacita-rede-de-atendimento-as-vitimas-do-trabalho-escravo-e-trafico-de-pessoas-no-sertao-sergipano"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T15:04:31.570337+00:00",
+  "uf": [
+   "SE"
+  ]
+ },
+ {
   "id": "acbca1de4d",
   "grupo": "cbca1de4d296",
   "e": "N",
@@ -46,6 +92,34 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-10-23T01:31:23.129024+00:00"
+ },
+ {
+  "id": "ad923eb6d0",
+  "grupo": "d923eb6d0350",
+  "e": "L",
+  "img": "mpba-sede",
+  "iso": "2026-10-22T22:48:01+00:00",
+  "date": "22 out 2026",
+  "h": "PF pede a Fachin para investigar suposto tráfico de mulheres em festas de Vorcaro",
+  "t": "Notícia publicada por Valor Econômico em 22 out 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TNH1",
+    "https://www.tnh1.com.br/noticia/nid/pf-pede-a-fachin-para-investigar-suspeita-de-trafico-de-mulheres-em-festas-de-vorcaro/"
+   ],
+   [
+    "Cidade Verde (PI)",
+    "https://cidadeverde.com/ultimas/465164/pf-pede-para-investigar-suspeita-de-trafico-de-mulheres-em-festas-de-vorcaro"
+   ],
+   [
+    "Valor Econômico",
+    "https://valor.globo.com/politica/noticia/2026/10/22/pf-pede-a-fachin-para-investigar-suposto-trafico-de-mulheres-em-festas-de-vorcaro.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-23T15:04:31.570337+00:00"
  },
  {
   "id": "a8038075c5",
