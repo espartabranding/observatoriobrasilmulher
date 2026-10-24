@@ -1,5 +1,71 @@
 [
  {
+  "id": "aad1e8977c",
+  "grupo": "ad1e8977c6e5",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-10-24T03:08:58+00:00",
+  "date": "24 out 2026",
+  "h": "'Ana Clara, quero falar para a senhora': Flávio chama mãe de menina morta por PM pelo nome da filha em debate da Globo",
+  "t": "Notícia publicada por O Globo em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Globo",
+    "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/ana-clara-quero-falar-para-a-senhora-flavio-chama-mae-de-menina-morta-por-pm-pelo-nome-da-filha-em-debate-da-globo.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T05:53:02.591139+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
+  "id": "a8b57b8a35",
+  "grupo": "8b57b8a35314",
+  "e": "I",
+  "img": "cmb-alojamento",
+  "iso": "2026-10-24T02:47:35+00:00",
+  "date": "23 out 2026",
+  "h": "Flávio Bolsonaro promete criar a Casa da Mulher Brasileira, que já existe",
+  "t": "Notícia publicada por CartaCapital em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CartaCapital",
+    "https://www.cartacapital.com.br/politica/flavio-bolsonaro-promete-criar-a-casa-da-mulher-brasileira-que-ja-existe/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T05:53:02.591139+00:00"
+ },
+ {
+  "id": "a537f61b8b",
+  "grupo": "537f61b8bef7",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-10-24T00:19:51+00:00",
+  "date": "23 out 2026",
+  "h": "Mãe de Ana Clara, morta por PM defendido por Flávio, vai ao debate da Globo",
+  "t": "Notícia publicada por Revista Fórum em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Revista Fórum",
+    "https://revistaforum.com.br/politica/mae-de-ana-clara-morta-por-pm-defendido-por-flavio-vai-ao-debate-da-globo/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T05:53:02.591139+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
   "id": "a48938c595",
   "grupo": "48938c595738",
   "e": "L",
