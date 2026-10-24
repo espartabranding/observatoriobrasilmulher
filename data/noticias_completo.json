@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-23T22:10:58.158635+00:00",
- "total": 1290,
+ "gerado_em": "2026-10-24T00:42:03.010309+00:00",
+ "total": 1322,
  "fontes_lidas": 180,
- "novas": 39,
+ "novas": 32,
  "por_fonte": {
   "saude": 0,
   "agenciagov": 1,
@@ -18,7 +18,7 @@
   "tst": "não respondeu",
   "cnmp": 1,
   "mpf": 0,
-  "mpt": 1,
+  "mpt": "não respondeu",
   "tjba": 4,
   "tjce": 1,
   "tjes": "não respondeu",
@@ -29,7 +29,7 @@
   "mpce": 5,
   "mpdft": 0,
   "mpes": 1,
-  "mpma": 0,
+  "mpma": "não respondeu",
   "mppb": 2,
   "mppr": "não respondeu",
   "mppi": "não respondeu",
@@ -54,7 +54,7 @@
   "agenciapi": 2,
   "agenciaam": "não respondeu",
   "agenciasc": 2,
-  "agenciagoias": 0,
+  "agenciagoias": "não respondeu",
   "agenciams": 0,
   "agenciaro": 1,
   "patriciagalvao": 6,
@@ -83,40 +83,40 @@
   "unfpa": 0,
   "opas": 0,
   "onubrasil": 0,
-  "g1": 5,
+  "g1": 10,
   "folha": 11,
   "estadao": 2,
-  "oglobo": 0,
-  "uol": 0,
-  "cnnbrasil": 1,
+  "oglobo": 2,
+  "uol": 1,
+  "cnnbrasil": 2,
   "metropoles": 10,
   "agenciapublica": 2,
-  "marieclaire": 2,
+  "marieclaire": 1,
   "claudia": 0,
   "capricho": 0,
   "crescer": 10,
-  "cartacapital": 1,
-  "brasildefato": 26,
-  "poder360": 4,
+  "cartacapital": 0,
+  "brasildefato": 28,
+  "poder360": 6,
   "nexo": 0,
   "intercept": 3,
   "bbcbrasil": 0,
   "terra": 1,
   "veja": 0,
-  "istoe": "feed inválido",
+  "istoe": 0,
   "exame": 1,
-  "valor": 0,
+  "valor": 1,
   "amazonia-real": 0,
   "ponte": 7,
   "catarinas": 5,
   "nosmulheresdaperiferia": 1,
   "agenciamural": "não respondeu",
   "projetocolabora": 2,
-  "revistaforum": 3,
+  "revistaforum": 6,
   "jota": 0,
   "jusbrasil": "robots.txt não permite",
   "ibdfam": 0,
-  "aosfatos": 0,
+  "aosfatos": "não respondeu",
   "lupa": 0,
   "drauzio": 1,
   "agenciaaids": 0,
@@ -126,12 +126,12 @@
   "jornaldaUSP": 2,
   "cebrap": "robots.txt não permite",
   "scielo": 0,
-  "ac24horas": 12,
-  "agazetaac": 12,
+  "ac24horas": 13,
+  "agazetaac": 13,
   "tnh1": 3,
-  "gazetaweb": 4,
+  "gazetaweb": 2,
   "selesnafes": 5,
-  "diariodoamapa": 7,
+  "diariodoamapa": 6,
   "oimparcial": 5,
   "jornaldaparaiba": 4,
   "clickpb": 1,
@@ -141,7 +141,7 @@
   "infonet": 2,
   "conexaoto": 2,
   "atarde": 4,
-  "bnews": 2,
+  "bnews": 0,
   "portalodia": 0,
   "jornaldebrasilia": 10,
   "maisgoias": 4,
@@ -151,11 +151,11 @@
   "tribunapr": 0,
   "osul": 26,
   "jornalnh": 7,
-  "scc10": 3,
+  "scc10": 1,
   "odocumento": 0,
-  "dgabc": 1,
+  "dgabc": 2,
   "acidadeon": 0,
-  "folhape": 1,
+  "folhape": 3,
   "portalcorreio": 8,
   "agorarn": 6,
   "saibamais": "não respondeu",
@@ -163,23 +163,23 @@
   "diariodopara": 5,
   "acritica": 6,
   "amazonasatual": 5,
-  "portalamazonia": 2,
-  "jc": 1,
+  "portalamazonia": 1,
+  "jc": 2,
   "movimentoeconomico": 0,
   "opovo": 2,
   "diariodonordeste": 1,
   "tribunadonorte": 2,
   "cidadeverde": 8,
   "jornalopcao": 0,
-  "campograndenews": 2,
-  "bemparana": 0,
-  "ndmais": 6,
+  "campograndenews": 1,
+  "bemparana": 1,
+  "ndmais": 2,
   "nsctotal": 14,
   "estadodeminas": 0,
   "diariodocomercio": 0,
-  "agazeta": 0,
+  "agazeta": 1,
   "folhavitoria": 4,
-  "odia": 1,
+  "odia": 2,
   "govbr": 0,
   "mdhc-noticias": 2,
   "onumulheres-noticias": 0,
@@ -187,6 +187,734 @@
   "gdelt": 0
  },
  "noticias": [
+  {
+   "titulo": "Homem preso por feminicídio da mulher em SP já tinha sido condenado pelo assassinato da ex",
+   "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/23/homem-preso-por-feminicidio-da-mulher-em-sp-ja-tinha-sido-condenado-pelo-assassinato-da-ex.htm",
+   "resumo": "Um homem, de 32 anos, foi preso por suspeita de matar a companheira, de 51, na tarde de quarta-feira, 21, em São José do Rio Preto, no interior de São Paulo. Segundo a Polícia Civil do Estado, ele já havia cumprido pena pelo assassinato da ex-namorada.",
+   "data": "2026-10-24T00:42:03.010309+00:00",
+   "fonte": "UOL Notícias",
+   "fonte_id": "uol",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "2631eee8e2a9",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "2631eee8e2a9",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Flávio Bolsonaro atuou como advogado do acusado de matar de Ana Clara?",
+   "link": "https://revistaforum.com.br/politica/flavio-bolsonaro-advogado-ana-clara/",
+   "resumo": "O envolvimento do senador e candidato Flávio Bolsonaro (PL) no caso Ana Clara, menina de 5 anos que foi morta com tiros de fuzil, disparados por um policial militar, na porta da sua casa em Niterói (RJ), voltou à tona durante as eleições deste ano. Na esteira da exposição de diferentes casos suspeitos com o […]",
+   "data": "2026-10-24T00:23:27+00:00",
+   "fonte": "Revista Fórum",
+   "fonte_id": "revistaforum",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RJ"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "P",
+   "id": "9587d712109c",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "9587d712109c",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mãe de Ana Clara, morta por PM defendido por Flávio, vai ao debate da Globo",
+   "link": "https://revistaforum.com.br/politica/mae-de-ana-clara-morta-por-pm-defendido-por-flavio-vai-ao-debate-da-globo/",
+   "resumo": "A presença de Cristiane Gomes da Silva, mãe da menina Ana Clara, no debate presidencial da Globo desta sexta-feira (23), é uma das movimentações mais comentadas nos bastidores do confronto entre Lula (PT) e Flávio Bolsonaro (PL). A expectativa é de que Marcelo Freixo (PT-RJ) apresente Cristiane ao senador, que atuou como advogado do policial […]",
+   "data": "2026-10-24T00:19:51+00:00",
+   "fonte": "Revista Fórum",
+   "fonte_id": "revistaforum",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "537f61b8bef7",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "537f61b8bef7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homicídios e feminicídios aumentam em Petrópolis",
+   "link": "https://odia.ig.com.br/petropolis/2026/10/7315528-homicidios-e-feminicidios-aumentam-em-petropolis.html",
+   "resumo": "Dados do ISP mostram alta nos registros de mortes intencionais e tentativas desses crimes entre janeiro e setembro, na comparação com o mesmo período do ano passado",
+   "data": "2026-10-24T00:15:00+00:00",
+   "fonte": "O Dia (RJ)",
+   "fonte_id": "odia",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "RJ",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "147d0545e83d",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "147d0545e83d",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem é esfaqueado durante discussão com companheira em Santo André",
+   "link": "https://www.dgabc.com.br/Noticia/4364527/homem-e-esfaqueado-durante-discussao-com-companheira-em-santo-andre",
+   "resumo": "Harland Rodrigues Araújo, 31 anos, foi atingido no ombro e na mão; Simone dos Santos, 36, afirma que agiu para se defender após ser atacada com pedras e pedaços de tijolo",
+   "data": "2026-10-24T00:12:00+00:00",
+   "fonte": "Diário do Grande ABC",
+   "fonte_id": "dgabc",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "SP",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "7e8c2dd163fe",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "7e8c2dd163fe",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Debate da Globo: Jogo de tensão entre Lula e Flávio tem ex de Janones e mãe de Ana Clara",
+   "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/10/debate-da-globo-jogo-de-tensao-entre-lula-e-flavio-tem-ex-de-janones-e-mae-de-ana-clara.ghtml",
+   "resumo": "O jogo de tensão para desestabilizar o adversário no debate da TV Globo começou bem antes do confronto, com lances pensados pelas campanhas de Lula e Bolsonaro para gerar fatos fora do palco. Enquanto aliados de Flávio levaram aos Estúdios Globo a ex-mulher de André Janones (Rede-MG), que tem uma medida protetiva contra o deputado e criador do canal de WhatsApp “Exército do Lula”, o deputado feder",
+   "data": "2026-10-24T00:10:40+00:00",
+   "fonte": "O Globo",
+   "fonte_id": "oglobo",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "MG"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "P",
+   "id": "6321a6876351",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "6321a6876351",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Família que denunciou abuso de menino de 11 anos em abrigo no Acre cobra providências",
+   "link": "https://g1.globo.com/ac/acre/noticia/2026/10/23/familia-que-denunciou-abuso-de-menino-de-11-anos-em-abrigo-no-acre-cobra-providencias.ghtml",
+   "resumo": "Denúncia de abuso contra criança em abrigo: conselheira tutelar nega omissão A família do menino de 11 anos que teria sido abusado sexualmente dentro de um abrigo em Cruzeiro do Sul, interior do Acre, cobra respostas e providências no caso. A denúncia é investigada pela Polícia Civil. Uma tia da criança, que pediu para não ser identificada, diz que a família teve dificuldades em acessar as informa",
+   "data": "2026-10-24T00:02:04+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AC"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "4bcb3dd0c73e",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "4bcb3dd0c73e",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Ataque “terrorista” em Paris marca ponto de virada para França, diz Macron",
+   "link": "https://www.cnnbrasil.com.br/internacional/ataque-terrorista-em-paris-marca-ponto-de-virada-para-franca-diz-macron/",
+   "resumo": "País enfrenta onda de manifestações violentas que dominaram o país nas últimas semanas; disparos resultaram em um morto e quatro feridos, incluindo uma menina de 12 anos",
+   "data": "2026-10-23T23:56:51+00:00",
+   "fonte": "CNN Brasil",
+   "fonte_id": "cnnbrasil",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "52b6e869fd15",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "52b6e869fd15",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Pastor é condenado a pagar R$ 50 mil após associar autismo ao diabo",
+   "link": "https://atarde.com.br/brasil/pastor-e-condenado-a-pagar-r-50-mil-apos-associar-autismo-ao-diabo-1406913",
+   "resumo": "O pastor Washington Almeida, da Assembleia de Deus do Pará, foi condenado pela Justiça do estado após associar o autismo à atuação do diabo em mães e famílias sem proteção espiritual.Ele terá que pagar uma indenização de R$ 50 mil por danos morais coletivos a um fundo público voltado a projetos relacionados ao transtorno. O caso ainda cabe recurso.Washington admitiu que sua fala foi inadequada, ma",
+   "data": "2026-10-23T23:55:01+00:00",
+   "fonte": "A Tarde",
+   "fonte_id": "atarde",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PA"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "BA",
+   "fonte_regiao": "Nordeste",
+   "editoria": "L",
+   "id": "957e119f92d7",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "95ce1f39fc28",
+   "n_fontes": 2
+  },
+  {
+   "titulo": "Idosa baleada pelo companheiro na própria casa sofreu parada cardiorrespiratória e foi atendida por vizinhos em SC",
+   "link": "https://www.nsctotal.com.br/seguranca/idosa-baleada-pelo-companheiro-na-propria-casa-sofreu-parada-cardiorrespiratoria-e-foi-atendida-por-vizinhos-em-sc",
+   "resumo": "A idosa sofreu uma parada cardiorrespiratória após ser baleada na cabeça em uma tentativa de feminicídio em Cocal do Sul, no Sul de Santa Catarina, nesta sexta-feira (23). A equipe de socorro conseguiu reverter o quadro e estabilizar a vítima, de 60 anos, antes de transportá-la ao Hospital São José, em Criciúma. O crime aconteceu […] O post Idosa baleada pelo companheiro na própria casa sofreu par",
+   "data": "2026-10-23T23:50:08+00:00",
+   "fonte": "NSC Total (SC)",
+   "fonte_id": "nsctotal",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SC"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "N",
+   "id": "557cfb0bae38",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "557cfb0bae38",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "PF quer investigar suspeita de tráfico de mulheres em festas de Vorcaro",
+   "link": "https://www.bemparana.com.br/noticias/pf-quer-investigar-suspeita-de-trafico-de-mulheres-em-festas-de-vorcaro/",
+   "resumo": "A Polícia Federal pediu ao Supremo Tribunal Federal (STF) para investigar suspeitas de tráfico de mulheres em festas de Daniel... O post PF quer investigar suspeita de tráfico de mulheres em festas de Vorcaro apareceu primeiro em Bem Paraná .",
+   "data": "2026-10-23T23:31:00+00:00",
+   "fonte": "Bem Paraná",
+   "fonte_id": "bemparana",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Federal"
+   ],
+   "ufs": [
+    "PR"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": "PR",
+   "fonte_regiao": "Sul",
+   "editoria": "L",
+   "id": "e1a386b34494",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "d923eb6d0350",
+   "n_fontes": 4
+  },
+  {
+   "titulo": "Jovem se esconde embaixo de ônibus após ser atacada com faca pelo ex em Campo Grande",
+   "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/23/agredida-pelo-ex-jovem-se-esconde-embaixo-de-onibus-para-escapar-de-ataque-com-faca-em-campo-grande.ghtml",
+   "resumo": "Mulher sendo atendida na Delegacia de Atendimento à Mulher de Campo Grande, que investiga casos de violência doméstica. Bruno Rezende. Uma jovem de 21 anos precisou se esconder embaixo de um ônibus para escapar do ex-namorado, de 20 anos, que a teria atacado com uma faca no Jardim Noroeste, em Campo Grande. O suspeito foi preso, mas recebeu liberdade provisória com uso de tornozeleira eletrônica e",
+   "data": "2026-10-23T23:24:17+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "MS"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "9063ad86d87b",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "9063ad86d87b",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Sete PMs são denunciados pela morte de agricultor a tiros dentro de casa durante operação no RS",
+   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/23/pms-denunciados-morte-agricultor-operacao-pelotas-rs.ghtml",
+   "resumo": "Sete PMs são denunciados pela morte de agricultor a tiros dentro de casa durante operação O Ministério Público do Rio Grande do Sul (MPRS) denunciou à Justiça, nesta sexta-feira (23), sete policiais militares pela morte do agricultor Marcos Daniel Nörnberg, de 48 anos, e pela tentativa de homicídio contra a esposa dele. O caso aconteceu em 15 de janeiro deste ano, durante uma operação policial em ",
+   "data": "2026-10-23T23:19:00+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RS"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "c8340ae3c267",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "c8340ae3c267",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Caso Joyce: Polícia descarta feminicídio, mas indicia namorado por perseguição, extorsão e outros crimes",
+   "link": "https://g1.globo.com/ac/acre/noticia/2026/10/23/caso-joyce-policia-descarta-feminicidio-mas-indicia-namorado-por-perseguicao-extorsao-e-outros-crimes.ghtml",
+   "resumo": "Caso Joyce: audiência pública discute situação alarmante de feminicídios no Acre A Polícia Civil do Acre indiciou Thiago Augusto Sampaio Borges de perseguição, extorsão, violência psicológica e estelionato contra a acreana Joycilene Sousa de Araújo, que morreu em novembro de 2024. foi preso pela Polícia Federal em Natal (RN) em cumprimento a um mandado de prisão preventiva expedido pelo Tribunal d",
+   "data": "2026-10-23T23:18:34+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AC",
+    "RN"
+   ],
+   "regioes": [
+    "Nordeste",
+    "Norte"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "911cda047af9",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "911cda047af9",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem esfaqueia a ex-mulher na frente do filho de 8 anos e envia áudio ao irmão da vítima: 'Tenta socorrer lá! Não sei se matei'",
+   "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/23/tenta-socorrer-la-nao-sei-se-matei-homem-envia-audio-apos-esfaquear-ex-mulher-na-frente-do-filho-no-rj.ghtml",
+   "resumo": "Homem envia áudio após esfaquear ex: 'Tenta socorrer lá! Não sei se matei' Uma mulher de 48 anos foi esfaqueada no abdômen na frente do filho de 8 anos nesta sexta-feira (23) em Armação dos Búzios, na Região dos Lagos do Rio. Valéria Matos Ribeiro está internada em estado grave. O crime ocorreu na casa dela, no bairro Vila Verde. O ex-companheiro, Ademilson da Silva, de 54 anos, enviou áudio ao ir",
+   "data": "2026-10-23T23:14:00+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "ee089b791a45",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "ee089b791a45",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Manifestantes protestam contra Flávio na frente do TSE; veja fotos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/manifestantes-protestam-contra-flavio-na-frente-do-tse-veja-fotos/",
+   "resumo": "Com cartazes manifestantes cobraram que Flávio divulgue informações sigilosas e citaram o caso da menina Ana Clara, morta aos 5 anos em Niterói",
+   "data": "2026-10-23T23:13:48+00:00",
+   "fonte": "Poder360",
+   "fonte_id": "poder360",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "TSE"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "72013a267fde",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "72013a267fde",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem é esfaqueado no pescoço em casa abandonada em Uberlândia",
+   "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/23/homem-e-esfaqueado-no-pescoco-em-casa-abandonada-em-uberlandia.ghtml",
+   "resumo": "Homem foi esfaqueado no bairro Tibery, em Uberlândia Polícia Militar/Divulgação Um homem de 30 anos foi esfaqueado em uma casa abandonada no bairro Tibery, em Uberlândia, na tarde desta sexta-feira (23). Segundo as primeiras informações da Polícia Militar (PM), um homem de 46 anos e uma mulher de 42 foram presos suspeitos de envolvimento na tentativa de homicídio. Ainda conforme a PM, os três envo",
+   "data": "2026-10-23T23:12:08+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "MG"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "c5775c47d850",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "c5775c47d850",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "MPRS denuncia sete PMs por morte de agricultor no Rio Grande do Sul",
+   "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/mprs-denuncia-sete-pms-por-morte-de-agricultor-no-rio-grande-do-sul/",
+   "resumo": "Promotoria pede que acusados pela ação em Pelotas sejam levados ao Tribunal do Júri e sejam exonerados de seus cargos públicos por morte do agricultor e tentativa de homicídio da esposa da vítima",
+   "data": "2026-10-23T23:08:01+00:00",
+   "fonte": "CNN Brasil",
+   "fonte_id": "cnnbrasil",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Ministério Público"
+   ],
+   "ufs": [
+    "RS"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "b68297ceeb5e",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "b68297ceeb5e",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Relação extraconjugal e ciúmes teriam motivado feminicídio de professora encontrada morta dentro de mala em SC",
+   "link": "https://ndmais.com.br/seguranca/relacao-extraconjugal-e-ciumes-teriam-motivado-feminicidio-de-professora-encontrada-morta-dentro-de-mala-em-sc/",
+   "resumo": "Sargento da Polícia Militar afirma que suspeito relatou manter um relacionamento extraconjugal com Luciana Menta, de 54 anos; homem teve prisão temporária decretada pela Justiça O post Relação extraconjugal e ciúmes teriam motivado feminicídio de professora encontrada morta dentro de mala em SC apareceu primeiro em ND Mais",
+   "data": "2026-10-23T23:00:08+00:00",
+   "fonte": "ND+ (SC)",
+   "fonte_id": "ndmais",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "N",
+   "id": "27bb91b04bcb",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "27bb91b04bcb",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "TV Centro América ganha prêmio nacional por série sobre casos de feminicídio em MT",
+   "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/tv-centro-america-ganha-premio-nacional-por-serie-sobre-casos-de-feminicidio-em-mt.ghtml",
+   "resumo": "A jornalista Ariane Locatelli, diretora do projeto, recebeu o prêmio na categoria mídia da 6ª edição do Prêmio CNJ Juíza Viviane Vieira do Amaral, durante cerimônia em Brasília (DF). Ariane Locatelli A TV Centro América (TVCA) venceu a 6ª edição do Prêmio CNJ Juíza Viviane Vieira do Amaral, na categoria Mídia, com a série documental “Destinos Roubados – A Epidemia do Feminicídio”. A jornalista Ari",
+   "data": "2026-10-23T22:52:04+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "DF"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "48938c595738",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "48938c595738",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Polícia Civil identifica 10 autores de mortes relacionadas a quatro corpos encontrados em São Paulo",
+   "link": "https://oglobo.globo.com/brasil/noticia/2026/10/23/policia-civil-identifica-10-autores-de-mortes-relacionadas-a-quatro-corpos-encontrados-na-capital.ghtml",
+   "resumo": "A Polícia Civil de São Paulo solicitou as prisões de oito adultos e a apreensão de dois adolescentes envolvidos nos homicídios de quatro dos corpos encontrados na capital entre os dias 5 de setembro e 22 de outubro. Quatro pessoas são suspeitas de um dos assassinatos, três de outro, mais dois de um terceiro crime e um foi identificado como autor de um quarto homicídio. A Secretaria da Segurança Pú",
+   "data": "2026-10-23T22:48:02+00:00",
+   "fonte": "O Globo",
+   "fonte_id": "oglobo",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Civil"
+   ],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "0910ca7cb693",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "0910ca7cb693",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher Segura: veja como funciona o monitoramento que alerta vítima sobre agressor no ES",
+   "link": "https://www.agazeta.com.br/todaselas/veja-como-funciona-o-monitoramento-que-alerta-vitima-sobre-agressor-no-es-1026",
+   "resumo": "",
+   "data": "2026-10-23T22:44:08+00:00",
+   "fonte": "A Gazeta (ES)",
+   "fonte_id": "agazeta",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "ES",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "3ed423a86849",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "3ed423a86849",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Flávio convida ex de Janones, que tem medida protetiva, para debate",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-convida-ex-de-janones-que-tem-medida-protetiva-para-debate/",
+   "resumo": "Convite visa a manter deputado longe do evento, já que ele é proibido de se aproximar da ex, Leandra Guedes",
+   "data": "2026-10-23T22:39:36+00:00",
+   "fonte": "Poder360",
+   "fonte_id": "poder360",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "P",
+   "id": "d5b88e96bb13",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "d5b88e96bb13",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Derrite diz desconfiar de relato de mãe e afirma ser temerário julgar se PM obrigou detidos a vestir camisa do PT",
+   "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-diz-desconfiar-de-relato-de-mae-e-afirma-ser-temerario-julgar-se-pm-obrigou-detidos-a-vestir-camisa-do-pt.shtml",
+   "resumo": "O senador eleito Guilherme Derrite ( PP -SP) afirmou que \"mãe de bandido sempre vai defender criminoso\" ao comentar a denúncia de que policiais militares de São Paulo teriam obrigado três jovens detidos , entre eles um adolescente , a vestir camisetas com referências ao presidente Lula ( PT ). Leia mais (10/23/2026 - 19h24)",
+   "data": "2026-10-23T22:24:00+00:00",
+   "fonte": "Folha de S.Paulo",
+   "fonte_id": "folha",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "P",
+   "id": "ac4c608ef3c3",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "ac4c608ef3c3",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Caso Joyce: polícia indicia ex por perseguição, violência psicológica, estelionato e extorsão; feminicídio foi descartado",
+   "link": "https://agazetadoacre.com/2026/10/noticias/policia/caso-joyce-policia-indicia-ex-por-perseguicao-violencia-psicologica-estelionato-e-extorsao-feminicidio-foi-descartado/",
+   "resumo": "Após quase dois anos de investigação sobre as denúncias envolvendo a morte de Joycilene Sousa de Araújo, conhecida como Joyce, a Polícia Civil do Acre (PCAC) concluiu um inquérito de mais de 3 mil páginas e indiciou Thiago Augusto Borges por quatro crimes. A apuração, no entanto, não encontrou elementos para estabelecer nexo de causalidade […]",
+   "data": "2026-10-23T22:23:22+00:00",
+   "fonte": "A Gazeta do Acre",
+   "fonte_id": "agazetaac",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AC"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "AC",
+   "fonte_regiao": "Norte",
+   "editoria": "N",
+   "id": "2079e5e21ff7",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "2079e5e21ff7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Caso Joyce: após 2 anos, suspeito é indiciado por 4 crimes de violência doméstica",
+   "link": "https://ac24horas.com/2026/10/23/caso-joyce-apos-2-anos-suspeito-e-indiciado-por-4-crimes-de-violencia-domestica/",
+   "resumo": "A Polícia Civil do Acre (PCAC) concluiu o inquérito policial que investigou denúncias de violência doméstica e familiar envolvendo Joycilene Sousa de Araújo, conhecida como Joyce, que morreu em novembro de 2024, em Rio Branco. Após uma série de diligências complexas e a análise de um procedimento com mais de 3 mil páginas, o investigado […]",
+   "data": "2026-10-23T22:22:55+00:00",
+   "fonte": "ac24horas",
+   "fonte_id": "ac24horas",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AC"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "AC",
+   "fonte_regiao": "Norte",
+   "editoria": "N",
+   "id": "950b0cbe2c0a",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "950b0cbe2c0a",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Em nome da Ku Klux Klan, o racismo volta a ser método de intimidação política",
+   "link": "https://www.brasildefato.com.br/colunista/terra-de-direitos/2026/10/23/em-nome-da-ku-klux-klan-o-racismo-volta-a-ser-metodo-de-intimidacao-politica/",
+   "resumo": "Desde 2025, ao menos nove pessoas que atuam na política brasileira receberam ameaças assinadas em nome da Ku Klux Klan ou de grupos supremacistas e neonazistas. Seis são mulheres negras, e até agora nenhum dos autores dessas ameaças foi responsabilizado. O jornalista Mateus Fernandes, de 26 anos, passou a receber ameaças de morte e de […] Fonte",
+   "data": "2026-10-23T22:16:09+00:00",
+   "fonte": "Brasil de Fato",
+   "fonte_id": "brasildefato",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "G",
+   "id": "2a8e891c5f8c",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "2a8e891c5f8c",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher é encontrada morta com sinais de violência em hotel no Centro de Jundiaí",
+   "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/23/encontra-mulher-morta-hotel-jundiai.ghtml",
+   "resumo": "Mulher de 35 anos é encontrada morta em hotel no Centro de Jundiaí Uma mulher de 35 anos foi encontrada morta em um quarto de hotel na Rua do Rosário, no Centro de Jundiaí (SP), nesta sexta-feira (23). A vítima apresentava sinais de violência pelo corpo. Conforme apurado pela TV TEM, a mulher deu entrada no local acompanhada de um homem. A equipe do hotel acionou a Guarda Municipal depois que o pe",
+   "data": "2026-10-23T22:15:11+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "b28be744548f",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "b28be744548f",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Filhos de mães alemãs têm até 2031 para reivindicar nacionalidade barrada por lei antiga",
+   "link": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/10/23/filhos-de-maes-alemas-tem-ate-2031-para-reivindicar-nacionalidade-barrada-por-lei-antiga-1.ghtml",
+   "resumo": "Brasileiros com ascendência alemã podem ter uma oportunidade com prazo definido para obter a nacionalidade europeia: a declaração prevista no § 5 da Lei de Nacionalidade Alemã (StAG). O mecanismo foi criado em 2021 para corrigir os efeitos de antigas normas que impediam determinadas pessoas de adquirir a cidadania alemã por meio da mãe. O prazo para apresentar a declaração termina em 19 de agosto ",
+   "data": "2026-10-23T22:13:38+00:00",
+   "fonte": "Valor Econômico",
+   "fonte_id": "valor",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "b48535cd7757",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "b48535cd7757",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem é preso por suspeita de estupro contra adolescente em Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/23/homem-presoor-suspeita-estupro-adolescente-campinas.ghtml",
+   "resumo": "Fachada da 2º Delegacia de Defesa da Mulher (DDM) de Campinas (SP). Reprodução/EPTV Um homem foi preso em flagrante nesta quinta-feira (22) por suspeita de estupro contra adolescente na Vila Proost de Souza, em Campinas (SP). A identificação do acusado não foi informada pela Polícia Civil. Segundo a Polícia Militar (PM), o crime teria sido denunciado, por meio de boletim de ocorrência, no último d",
+   "data": "2026-10-23T22:09:50+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "ccfb5a6b4fac",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "ccfb5a6b4fac",
+   "n_fontes": 1
+  },
   {
    "titulo": "Caso Gustavo: pai e madrasta viram réus pela morte de menino agredido até a morte no TO",
    "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/23/caso-gustavo-pai-e-madrasta-viram-reus-pela-morte-de-menino-agredido-ate-a-morte-no-to.ghtml",
@@ -206,6 +934,27 @@
    "id": "9b3821e777d4",
    "coletado_em": "2026-10-23T22:10:58.158635+00:00",
    "grupo": "9b3821e777d4",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher denuncia agressão após jogo do Flamengo",
+   "link": "https://odia.ig.com.br/rio-de-janeiro/2026/10/7315442-mulher-denuncia-agressao-apos-jogo-do-flamengo.html",
+   "resumo": "Mariana Monteiro Mattos França, de 29 anos, afirma que foi atingida no rosto com um cassetete durante uma confusão entre torcedores",
+   "data": "2026-10-23T22:07:00+00:00",
+   "fonte": "O Dia (RJ)",
+   "fonte_id": "odia",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "RJ",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "7e00fb071949",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "7e00fb071949",
    "n_fontes": 1
   },
   {
@@ -369,6 +1118,31 @@
    "id": "a6d73a646d14",
    "coletado_em": "2026-10-23T22:10:58.158635+00:00",
    "grupo": "a6d73a646d14",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher é atingida por ônibus enquanto atravessava avenida no Bairro do Recife",
+   "link": "https://www.folhape.com.br/noticias/mulher-e-atingida-por-onibus-enquanto-atravessava-avenida-no-bairro-do/520218/",
+   "resumo": "Uma mulher foi atingida por um ônibus do Consórcio Conorte, na tarde desta sexta-feira (23), na Avenida Marquês de Olinda. De acordo com um relato de Jociem Bruno, irmão da vítima, Bianca do Prado foi acertada no braço pela parte traseira do veículo enquanto atravessava a rua. Jociem informou que, durante o ocorrido, ele tentava estacionar a moto no local, quando o acidente aconteceu. \"Eu estava e",
+   "data": "2026-10-23T21:40:00+00:00",
+   "fonte": "Folha de Pernambuco",
+   "fonte_id": "folhape",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "PE",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "1decf79597c6",
+   "coletado_em": "2026-10-24T00:42:03.010309+00:00",
+   "grupo": "1decf79597c6",
    "n_fontes": 1
   },
   {
@@ -3016,7 +3790,7 @@
    "id": "f96c9bed78d5",
    "coletado_em": "2026-10-23T15:04:31.070913+00:00",
    "grupo": "d923eb6d0350",
-   "n_fontes": 3
+   "n_fontes": 4
   },
   {
    "titulo": "Dois homens são presos por violência doméstica contra ex-companheiras em Cruzeiro do Sul",
@@ -3518,7 +4292,7 @@
    "id": "e203a48ced3e",
    "coletado_em": "2026-10-23T15:04:31.070913+00:00",
    "grupo": "d923eb6d0350",
-   "n_fontes": 3
+   "n_fontes": 4
   },
   {
    "titulo": "Você é mãe e vai votar? Saiba o que a lei garante para você nas eleições",
@@ -3631,7 +4405,7 @@
    "id": "95ce1f39fc28",
    "coletado_em": "2026-10-23T15:04:31.070913+00:00",
    "grupo": "95ce1f39fc28",
-   "n_fontes": 1
+   "n_fontes": 2
   },
   {
    "titulo": "Meghan Markle se diz profundamente abalada por acusações contra o pai",
@@ -3943,7 +4717,7 @@
    "id": "d923eb6d0350",
    "coletado_em": "2026-10-23T01:31:22.803810+00:00",
    "grupo": "d923eb6d0350",
-   "n_fontes": 3
+   "n_fontes": 4
   },
   {
    "titulo": "Fazendeiro é suspeito de castrar 15 animais de vizinho de forma irregular e sem autorização",

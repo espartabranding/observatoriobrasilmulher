@@ -1,5 +1,71 @@
 [
  {
+  "id": "a48938c595",
+  "grupo": "48938c595738",
+  "e": "L",
+  "img": "r-co",
+  "iso": "2026-10-23T22:52:04+00:00",
+  "date": "23 out 2026",
+  "h": "TV Centro América ganha prêmio nacional por série sobre casos de feminicídio em MT",
+  "t": "Notícia publicada por g1 em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/tv-centro-america-ganha-premio-nacional-por-serie-sobre-casos-de-feminicidio-em-mt.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T00:42:03.491319+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "a2e75b416f",
+  "grupo": "2e75b416f4d0",
+  "e": "L",
+  "img": "mpmg-sede",
+  "iso": "2026-10-23T17:20:05+00:00",
+  "date": "23 out 2026",
+  "h": "MP do Ceará orienta moradores de Martinópole sobre manejo adequado de equinos para evitar maus-tratos e proteger animais",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/mp-do-ceara-orienta-moradores-de-martinopole-sobre-manejo-adequado-de-equinos-para-evitar-maus-tratos-e-proteger-animais/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T00:42:03.491319+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "ac78cd655d",
+  "grupo": "c78cd655d223",
+  "e": "G",
+  "img": "paisagem-aldeia-arvore",
+  "iso": "2026-10-23T17:07:11+00:00",
+  "date": "23 out 2026",
+  "h": "‘Conectadas e Protegidas’: Geledés lançará guia de proteção digital para mulheres negras",
+  "t": "Notícia publicada por Geledés – Instituto da Mulher Negra em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Geledés – Instituto da Mulher Negra",
+    "https://www.geledes.org.br/conectadas-e-protegidas-geledes-lancara-guia-de-protecao-digital-para-mulheres-negras/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T00:42:03.491319+00:00"
+ },
+ {
   "id": "a05a8e44f6",
   "grupo": "05a8e44f632f",
   "e": "A",

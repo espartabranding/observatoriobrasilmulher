@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T22:12:03.507725+00:00",
+ "gerado_em": "2026-10-24T00:43:07.917631+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -5233,70 +5233,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2517812",
    "enquete": "https://www.camara.leg.br/enquetes/2517812",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2920411"
-  },
-  {
-   "id": 2623975,
-   "sigla": "PL 2342/2026",
-   "ementa": "Altera a redação do § 7° do art. 9° da Lei nº 11.340, de 7 de agosto de 2006, para dispor sobre a prioridade de matrícula em instituição de educação básica de dependente de mulher em situação de violência doméstica e familiar.",
-   "apresentacao": "2026-05-12",
-   "situacao": "Tramitando em Conjunto",
-   "orgao": "CCP",
-   "data_situacao": "2026-06-25",
-   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 26/06/2026.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623975",
-   "enquete": "https://www.camara.leg.br/enquetes/2623975",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3127914"
-  },
-  {
-   "id": 2611428,
-   "sigla": "PL 1349/2026",
-   "ementa": "Estabelece prioridade de matrícula e transferência escolar para filhos e dependentes de mulheres vítimas de violência doméstica e familiar, e dá outras providências.",
-   "apresentacao": "2026-03-24",
-   "situacao": "Aguardando Parecer",
-   "orgao": "CE",
-   "data_situacao": "2026-06-25",
-   "andamento": "Apensação do PL 2342/2026 a esta proposição.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611428",
-   "enquete": "https://www.camara.leg.br/enquetes/2611428",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3103258"
-  },
-  {
-   "id": 2624493,
-   "sigla": "PL 2375/2026",
-   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para prever o atendimento de recém-nascidos expostos, durante a gestação, a substâncias psicoativas ou a medicamentos sujeitos a controle especial.",
-   "apresentacao": "2026-05-13",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CCP",
-   "data_situacao": "2026-06-25",
-   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 26/06/2026.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624493",
-   "enquete": "https://www.camara.leg.br/enquetes/2624493",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3128887"
-  },
-  {
-   "id": 2623610,
-   "sigla": "PL 2325/2026",
-   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para ampliar o prazo máximo de internação e extinguir a liberação compulsória por critério etário em casos de atos infracionais graves.",
-   "apresentacao": "2026-05-12",
-   "situacao": "Tramitando em Conjunto",
-   "orgao": "CCP",
-   "data_situacao": "2026-06-25",
-   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 26/06/2026.",
-   "regime": "Prioridade (Art. 151, II, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623610",
-   "enquete": "https://www.camara.leg.br/enquetes/2623610",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3127180"
   },
   {
    "id": 2516021,
