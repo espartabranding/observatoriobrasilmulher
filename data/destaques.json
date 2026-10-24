@@ -1,5 +1,68 @@
 [
  {
+  "id": "ada08d4c4a",
+  "grupo": "da08d4c4a38d",
+  "e": "A",
+  "img": "creche-brinquedos",
+  "iso": "2026-10-24T14:46:57+00:00",
+  "date": "24 out 2026",
+  "h": "VÍDEO: Com bebê no colo, marroquina faz sinal internacional de socorro por violência doméstica e é resgatada pela PM em SP",
+  "t": "Notícia publicada por g1 em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/24/video-com-bebe-no-colo-marroquina-faz-sinal-internacional-de-socorro-por-violencia-domestica-e-e-resgatada-pela-pm-em-sp.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T17:28:02.559767+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
+  "id": "a33a3883b0",
+  "grupo": "33a3883b0f1e",
+  "e": "I",
+  "img": "crm-centro-referencia-mesa",
+  "iso": "2026-10-24T12:43:00+00:00",
+  "date": "24 out 2026",
+  "h": "BB capacitará funcionários para acolher mulheres em risco",
+  "t": "Notícia publicada por Agência Brasil em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/bb-capacitara-funcionarios-para-acolher-mulheres-em-risco"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T17:28:02.559767+00:00"
+ },
+ {
+  "id": "a4edc8323a",
+  "grupo": "4edc8323a75b",
+  "e": "P",
+  "img": "f-planalto-reflexo",
+  "iso": "2026-10-24T10:12:00+00:00",
+  "date": "24 out 2026",
+  "h": "Conheça o gesto silencioso que pode ajudar mulheres a pedir socorro em situações de violência",
+  "t": "Notícia publicada por Agência SP em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/politicas-para-mulheres/mulher-socorro/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T17:28:02.559767+00:00"
+ },
+ {
   "id": "aad1e8977c",
   "grupo": "ad1e8977c6e5",
   "e": "N",
