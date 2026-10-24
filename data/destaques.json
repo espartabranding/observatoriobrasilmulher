@@ -1,5 +1,51 @@
 [
  {
+  "id": "aa23a8b215",
+  "grupo": "a23a8b21558c",
+  "e": "N",
+  "img": "r-sul",
+  "iso": "2026-10-24T20:15:06+00:00",
+  "date": "24 out 2026",
+  "h": "PM da reserva ameaça mulheres com arma depois de tirar bandeira do PT",
+  "t": "Notícia publicada por Poder360 em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Poder360",
+    "https://www.poder360.com.br/poder-eleicoes/pm-da-reserva-ameaca-mulheres-com-arma-depois-de-tirar-bandeira-do-pt/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T20:48:58.843152+00:00",
+  "uf": [
+   "RS"
+  ]
+ },
+ {
+  "id": "a6a19247b8",
+  "grupo": "6a19247b83e8",
+  "e": "L",
+  "img": "r-co",
+  "iso": "2026-10-24T20:11:57+00:00",
+  "date": "24 out 2026",
+  "h": "Justiça condena homem por feminicídio após discussão por dívida de R$ 300 em Goiás",
+  "t": "Notícia publicada por Mais Goiás em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Mais Goiás",
+    "https://www.maisgoias.com.br/cidades/justica-condena-homem-por-feminicidio-apos-discussao-por-divida-de-r-300-em-goias/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T20:48:58.843152+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
   "id": "ada08d4c4a",
   "grupo": "da08d4c4a38d",
   "e": "A",
@@ -61,6 +107,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-10-24T17:28:02.559767+00:00"
+ },
+ {
+  "id": "a58b17db1f",
+  "grupo": "58b17db1f353",
+  "e": "H",
+  "img": "hospital-leitos-novos",
+  "iso": "2026-10-24T09:16:48+00:00",
+  "date": "24 out 2026",
+  "h": "Mãe acusa negligência após dar à luz bebê natimorto em hospital do litoral de SP: 'Doendo demais'",
+  "t": "Notícia publicada por g1 em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/24/mae-acusa-negligencia-apos-dar-a-luz-bebe-natimorto-em-hospital-do-litoral-de-sp-doendo-demais.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-24T20:48:58.843152+00:00",
+  "uf": [
+   "SP"
+  ]
  },
  {
   "id": "aad1e8977c",
