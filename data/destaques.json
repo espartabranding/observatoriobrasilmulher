@@ -1,5 +1,28 @@
 [
  {
+  "id": "a76d5049bc",
+  "grupo": "76d5049bc3ed",
+  "e": "A",
+  "img": "r-norte",
+  "iso": "2026-10-24T22:00:43+00:00",
+  "date": "24 out 2026",
+  "h": "Estupro de vulnerável: Acre registra 443 vítimas e alta de 31% em 2026; maioria das vítimas são meninas",
+  "t": "Notícia publicada por A Gazeta do Acre em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/10/noticias/geral/estupro-de-vulneravel-acre-registra-443-vitimas-e-alta-de-31-em-2026-maioria-das-vitimas-sao-meninas/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T01:11:12.073958+00:00",
+  "uf": [
+   "AC"
+  ]
+ },
+ {
   "id": "aa23a8b215",
   "grupo": "a23a8b21558c",
   "e": "N",
@@ -69,6 +92,26 @@
   ]
  },
  {
+  "id": "ac12de7b8e",
+  "grupo": "c12de7b8e5b5",
+  "e": "G",
+  "img": "chapada-diamantina-morro",
+  "iso": "2026-10-24T14:37:00+00:00",
+  "date": "24 out 2026",
+  "h": "Morre Dona Zilda, mãe de Osasco e mulher negra referência na luta contra a violência de Estado",
+  "t": "Notícia publicada por Ponte Jornalismo em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Ponte Jornalismo",
+    "https://ponte.org/morre-dona-zilda-mae-de-osasco-e-mulher-negra-referencia-na-luta-contra-a-violencia-de-estado/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T01:11:12.073958+00:00"
+ },
+ {
   "id": "a33a3883b0",
   "grupo": "33a3883b0f1e",
   "e": "I",
@@ -127,6 +170,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-10-24T20:48:58.843152+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
+  "id": "a07e0f0c53",
+  "grupo": "07e0f0c53f8d",
+  "e": "A",
+  "img": "creche-bercario",
+  "iso": "2026-10-24T09:16:43+00:00",
+  "date": "24 out 2026",
+  "h": "Mãe denuncia creche após menino de 2 anos aparecer com hematoma no rosto no litoral de SP",
+  "t": "Notícia publicada por g1 em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/24/mae-denuncia-creche-apos-menino-de-2-anos-aparecer-com-hematoma-no-rosto-no-litoral-de-sp.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T01:11:12.073958+00:00",
   "uf": [
    "SP"
   ]

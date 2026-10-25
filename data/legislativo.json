@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T23:15:34.877229+00:00",
+ "gerado_em": "2026-10-25T01:12:20.259480+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -5169,70 +5169,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612396",
    "enquete": "https://www.camara.leg.br/enquetes/2612396",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3105611"
-  },
-  {
-   "id": 2624822,
-   "sigla": "PL 2396/2026",
-   "ementa": "Institui o Auxílio Reconstrução do Lar, para a mulher em medida protetiva de afastamento do lar, em decorrência de situação de violência doméstica e familiar, nos termos da Lei nº 11.340, de 7 de agosto de 2006.",
-   "apresentacao": "2026-05-14",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CPASF",
-   "data_situacao": "2026-06-26",
-   "andamento": "Recebimento pelo(a) CPASF.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624822",
-   "enquete": "https://www.camara.leg.br/enquetes/2624822",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3130227"
-  },
-  {
-   "id": 2485557,
-   "sigla": "PL 701/2025",
-   "ementa": "Altera o Título VI, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar as penas dos crimes contra a dignidade sexual; e altera os artigos 112 e 126, da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para vedar a progressão de regime aos condenados por crimes contra a dignidade sexual e aumentar o tempo de estudo, trabalho e frequência em tratamento psicológico necessários para remição de pena.",
-   "apresentacao": "2025-02-26",
-   "situacao": "Tramitando em Conjunto",
-   "orgao": "CPASF",
-   "data_situacao": "2026-06-26",
-   "andamento": "Apensação do PL 2362/2026 a esta proposição.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485557",
-   "enquete": "https://www.camara.leg.br/enquetes/2485557",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2861389"
-  },
-  {
-   "id": 2624348,
-   "sigla": "PL 2366/2026",
-   "ementa": "Esta Lei dispõe sobre procedimentos de investigação digital e interação entre órgãos públicos e empresas privadas na repressão a crimes",
-   "apresentacao": "2026-05-13",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CPASF",
-   "data_situacao": "2026-06-26",
-   "andamento": "Recebimento pelo(a) CPASF.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624348",
-   "enquete": "https://www.camara.leg.br/enquetes/2624348",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3128549"
-  },
-  {
-   "id": 2517812,
-   "sigla": "PL 2602/2025",
-   "ementa": "Dispõe sobre a atuação de crianças e adolescentes como influenciadores digitais mirins.",
-   "apresentacao": "2025-05-28",
-   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
-   "orgao": "CTRAB",
-   "data_situacao": "2026-06-26",
-   "andamento": "O Relator, Dep. Leo Prates, deixou de ser membro da Comissão",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2517812",
-   "enquete": "https://www.camara.leg.br/enquetes/2517812",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2920411"
   },
   {
    "id": 2516021,
