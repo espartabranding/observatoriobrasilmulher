@@ -1,5 +1,68 @@
 [
  {
+  "id": "a0a1eb7b9a",
+  "grupo": "0a1eb7b9a3a2",
+  "e": "A",
+  "img": "tse",
+  "iso": "2026-10-25T17:19:47+00:00",
+  "date": "25 out 2026",
+  "h": "Três pessoas, incluindo dois adolescentes, são levadas à delegacia por boca de urna em Hidrolândia",
+  "t": "Notícia publicada por Mais Goiás em 25 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Mais Goiás",
+    "https://www.maisgoias.com.br/cidades/boca-de-urna-hidrolandia-adolescentes-conduzidos/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T18:25:35.748572+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
+  "id": "aa788c646f",
+  "grupo": "a788c646fc04",
+  "e": "P",
+  "img": "f-senado-cupula",
+  "iso": "2026-10-25T15:31:08+00:00",
+  "date": "25 out 2026",
+  "h": "Em Portugal, adolescente que apoia Lula é agredida na votação em Lisboa",
+  "t": "Notícia publicada por O Globo em 25 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Globo",
+    "https://oglobo.globo.com/blogs/portugal-giro/post/2026/10/adolescente-que-apoia-lula-e-agredida-na-votacao-em-lisboa.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T18:25:35.748572+00:00"
+ },
+ {
+  "id": "ac9993a936",
+  "grupo": "c9993a936d90",
+  "e": "S",
+  "img": "universidade",
+  "iso": "2026-10-25T07:30:00+00:00",
+  "date": "25 out 2026",
+  "h": "Irmãs criam movimento 'pink pill' para satirizar o machismo nas redes: 'É para incomodar'",
+  "t": "Notícia publicada por Marie Claire em 25 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Marie Claire",
+    "https://revistamarieclaire.globo.com/comportamento/noticia/2026/10/irmas-criam-movimento-pink-pill-para-satirizar-o-machismo-nas-redes-e-para-incomodar.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T18:25:35.748572+00:00"
+ },
+ {
   "id": "adeb4d40b0",
   "grupo": "deb4d40b0261",
   "e": "N",
