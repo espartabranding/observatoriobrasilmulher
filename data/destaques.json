@@ -23,6 +23,33 @@
   ]
  },
  {
+  "id": "a14fb90813",
+  "grupo": "14fb908131ee",
+  "e": "N",
+  "img": "r-co",
+  "iso": "2026-10-25T16:20:50+00:00",
+  "date": "25 out 2026",
+  "h": "Funcionária reage a tentativa de estupro, toma faca de suspeito e o mata em sorveteria de Goiás",
+  "t": "Notícia publicada por Jornal Opção (GO) em 25 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Mais Goiás",
+    "https://www.maisgoias.com.br/cidades/aparecida-de-goiania/funcionaria-reage-a-tentativa-de-estupro-toma-faca-do-agressor-e-o-mata-em-sorveteria-de-aparecida/"
+   ],
+   [
+    "Jornal Opção (GO)",
+    "https://www.jornalopcao.com.br/ultimas-noticias/funcionaria-reage-a-tentativa-de-estupro-toma-faca-de-suspeito-e-o-mata-em-sorveteria-de-goias-882338/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T21:47:51.542737+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
   "id": "aa788c646f",
   "grupo": "a788c646fc04",
   "e": "P",
@@ -107,6 +134,26 @@
   "uf": [
    "AC"
   ]
+ },
+ {
+  "id": "a72752650e",
+  "grupo": "72752650e2ce",
+  "e": "S",
+  "img": "campus2",
+  "iso": "2026-10-24T21:46:00+00:00",
+  "date": "24 out 2026",
+  "h": "São-bernardense lança livro sobre o impacto da violência de gênero",
+  "t": "Notícia publicada por Diário do Grande ABC em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Diário do Grande ABC",
+    "https://www.dgabc.com.br/Noticia/4364671/sao-bernardense-lanca-livro-sobre-o-impacto-da-violencia-de-genero"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T21:47:51.542737+00:00"
  },
  {
   "id": "a0d95ab909",
@@ -305,6 +352,26 @@
   "uf": [
    "SP"
   ]
+ },
+ {
+  "id": "af04138329",
+  "grupo": "f041383293e4",
+  "e": "P",
+  "img": "f-senado-plenario",
+  "iso": "2026-10-24T06:30:00+00:00",
+  "date": "24 out 2026",
+  "h": "'Pai do bebê', 'dá um Google', 'irmão do tigrinho': Lula aposta nas redes e explora linguagem jovem no debate da Globo",
+  "t": "Notícia publicada por O Globo em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Globo",
+    "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/pai-do-bebe-da-um-google-irmao-do-tigrinho-lula-aposta-nas-redes-e-explora-linguagem-jovem-no-debate-da-globo.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T21:47:51.542737+00:00"
  },
  {
   "id": "aad1e8977c",
