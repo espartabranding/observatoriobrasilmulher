@@ -1,5 +1,28 @@
 [
  {
+  "id": "adeb4d40b0",
+  "grupo": "deb4d40b0261",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-10-25T01:03:00+00:00",
+  "date": "24 out 2026",
+  "h": "Marroquina faz pedido de ajuda, e PM prende imigrante sob suspeita de violência doméstica em SP",
+  "t": "Notícia publicada por Folha de S.Paulo em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha de S.Paulo",
+    "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/marroquina-faz-pedido-de-ajuda-e-pm-prende-imigrante-sob-suspeita-de-violencia-domestica-em-sp.shtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T06:08:19.937803+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "a76d5049bc",
   "grupo": "76d5049bc3ed",
   "e": "A",
@@ -20,6 +43,29 @@
   "criado_em": "2026-10-25T01:11:12.073958+00:00",
   "uf": [
    "AC"
+  ]
+ },
+ {
+  "id": "a0d95ab909",
+  "grupo": "0d95ab909e0b",
+  "e": "N",
+  "img": "delegacia-geral",
+  "iso": "2026-10-24T21:44:33+00:00",
+  "date": "24 out 2026",
+  "h": "Adolescente é morto na porta de casa, e pai acusa PM de efetuar disparos; Polícia diz que agente estava fora do horário de serviço",
+  "t": "Notícia publicada por g1 em 24 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/24/adolescente-e-morto-na-porta-de-casa-e-pai-acusa-pm-de-efetuar-disparos-policia-diz-que-agente-estava-fora-do-horario-de-servico.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T06:08:19.937803+00:00",
+  "uf": [
+   "MG"
   ]
  },
  {
@@ -284,6 +330,29 @@
   "criado_em": "2026-10-24T00:42:03.491319+00:00",
   "uf": [
    "DF"
+  ]
+ },
+ {
+  "id": "a756d70dcb",
+  "grupo": "756d70dcb68f",
+  "e": "L",
+  "img": "f-stj-sede",
+  "iso": "2026-10-23T21:31:53+00:00",
+  "date": "23 out 2026",
+  "h": "Médico preso por feminicídio é denunciado por planejar atentado contra promotora de Justiça em MT",
+  "t": "Notícia publicada por g1 em 23 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/medico-preso-por-feminicidio-e-denunciado-por-planejar-atentado-contra-promotora-de-justica-em-mt.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-25T06:08:19.937803+00:00",
+  "uf": [
+   "MT"
   ]
  },
  {
