@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-10-25T21:49:31.724983+00:00",
+"gerado_em": "2026-10-26T00:26:12.884952+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -18,7 +18,7 @@
 "principal": [
 204572
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2647320": {
 "sigla": "PL 5532/2026",
@@ -35,7 +35,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2647296": {
 "sigla": "PL 5518/2026",
@@ -52,7 +52,7 @@
 "principal": [
 204457
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646865": {
 "sigla": "PL 5418/2026",
@@ -69,7 +69,7 @@
 "principal": [
 235800
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646863": {
 "sigla": "PL 5417/2026",
@@ -86,7 +86,7 @@
 "principal": [
 235800
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646828": {
 "sigla": "PL 5406/2026",
@@ -103,7 +103,7 @@
 "principal": [
 178871
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646825": {
 "sigla": "PL 5403/2026",
@@ -120,7 +120,7 @@
 "principal": [
 220606
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646318": {
 "sigla": "PL 5333/2026",
@@ -137,7 +137,7 @@
 "principal": [
 153423
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646258": {
 "sigla": "PL 5323/2026",
@@ -154,7 +154,7 @@
 "principal": [
 204372
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646138": {
 "sigla": "PL 5303/2026",
@@ -171,7 +171,7 @@
 "principal": [
 204460
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2644832": {
 "sigla": "PL 5219/2026",
@@ -188,7 +188,7 @@
 "principal": [
 220543
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2644652": {
 "sigla": "PL 5190/2026",
@@ -205,7 +205,7 @@
 "principal": [
 204566
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2643889": {
 "sigla": "PL 5090/2026",
@@ -222,7 +222,7 @@
 "principal": [
 66828
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2643743": {
 "sigla": "PL 5073/2026",
@@ -239,7 +239,7 @@
 "principal": [
 133439
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2643431": {
 "sigla": "PL 5053/2026",
@@ -256,7 +256,7 @@
 "principal": [
 220625
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642915": {
 "sigla": "PL 5022/2026",
@@ -273,7 +273,7 @@
 "principal": [
 213762
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642871": {
 "sigla": "PL 5017/2026",
@@ -290,13 +290,13 @@
 "principal": [
 220555
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642693": {
 "sigla": "PL 4994/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para vedar a condução conjunta da vítima e do agressor na mesma viatura policial ou em outro veículo utilizado pelos órgãos de segurança pública.",
 "apresentacao": "2026-08-11",
-"situacao": "",
+"situacao": "Aguardando Autorização do Despacho",
 "data_situacao": "2026-08-11",
 "orgao": "MESA",
 "lei": false,
@@ -307,13 +307,13 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642458": {
 "sigla": "PL 4965/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, para ampliar a proteção às mulheres em situação de violência baseada no gênero, independentemente da existência de vínculo anterior com o agressor.",
 "apresentacao": "2026-08-11",
-"situacao": "",
+"situacao": "Aguardando Autorização do Despacho",
 "data_situacao": "2026-08-11",
 "orgao": "MESA",
 "lei": false,
@@ -324,7 +324,7 @@
 "principal": [
 154178
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642307": {
 "sigla": "PL 4946/2026",
@@ -341,7 +341,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642236": {
 "sigla": "PL 4940/2026",
@@ -358,7 +358,7 @@
 "principal": [
 204407
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642194": {
 "sigla": "PL 4931/2026",
@@ -375,7 +375,7 @@
 "principal": [
 213762
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642052": {
 "sigla": "PL 4900/2026",
@@ -392,7 +392,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641991": {
 "sigla": "PL 4894/2026",
@@ -409,7 +409,7 @@
 "principal": [
 91228
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641822": {
 "sigla": "PL 4863/2026",
@@ -426,7 +426,7 @@
 "principal": [
 235800
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641765": {
 "sigla": "PL 4848/2026",
@@ -443,7 +443,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641745": {
 "sigla": "PL 4839/2026",
@@ -460,7 +460,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641740": {
 "sigla": "PL 4836/2026",
@@ -477,7 +477,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641736": {
 "sigla": "PL 4834/2026",
@@ -494,7 +494,7 @@
 "principal": [
 204536
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641734": {
 "sigla": "PL 4832/2026",
@@ -511,7 +511,7 @@
 "principal": [
 178829
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641733": {
 "sigla": "PL 4831/2026",
@@ -528,7 +528,7 @@
 "principal": [
 178829
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641685": {
 "sigla": "PL 4812/2026",
@@ -545,7 +545,7 @@
 "principal": [
 220641
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641465": {
 "sigla": "PL 4755/2026",
@@ -562,7 +562,7 @@
 "principal": [
 220713
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641194": {
 "sigla": "PL 4506/2026",
@@ -579,13 +579,13 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640937": {
 "sigla": "PL 4257/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para instituir o Benefício de Renda Cidadã Emergencial à mulher em situação de violência doméstica e familiar com vulnerabilidade e prejuízo laboral decorrente das agressões, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -596,13 +596,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640924": {
 "sigla": "PL 4244/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer diretrizes de atendimento prioritário e especializado às mulheres vítimas de violência doméstica para a regularização de documentos pessoais.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -613,13 +613,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640916": {
 "sigla": "PL 4236/2026",
 "ementa": "Institui a Política Nacional de Prevenção à Violência de Gênero em Espaços Públicos e de Mobilidade Urbana, e altera a Lei nº 12.587, de 30 de abril de 2012, para dispor sobre a capacitação de condutores de transporte privado individual de passageiros.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -630,13 +630,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640898": {
 "sigla": "PL 4218/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir diretrizes de articulação entre família, escola e sociedade na prevenção de práticas discriminatórias de gênero e da violência contra a mulher.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -647,13 +647,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640882": {
 "sigla": "PL 4202/2026",
 "ementa": "Institui a Campanha Nacional Permanente de Conscientização sobre Violência Doméstica e Abuso Psicológico contra a Mulher, com ações educativas voltadas à prevenção de mecanismos de manipulação emocional e coação moral que impeçam a denúncia.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -664,13 +664,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640876": {
 "sigla": "PL 4196/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para aperfeiçoar os mecanismos de ressarcimento ao poder público das despesas decorrentes da violência doméstica e familiar contra a mulher, disciplinar a apuração dos valores e estabelecer critérios para sua destinação.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -681,13 +681,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640843": {
 "sigla": "PL 4163/2026",
 "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para disciplinar a apreciação judicial do depoimento da vítima em processos que envolvam violência doméstica e familiar contra a mulher.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -698,13 +698,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640754": {
 "sigla": "PL 4078/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para explicitar que o dano moral decorrente da violência doméstica e familiar contra a mulher é presumido e independe de prova específica do sofrimento experimentado pela vítima.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -715,13 +715,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640695": {
 "sigla": "PL 4020/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer a obrigatoriedade de acompanhamento psicossocial e de frequência do agressor em centros de educação e reabilitação como medidas protetivas de urgência, bem como para disciplinar as consequências de seu descumprimento.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -732,13 +732,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640679": {
 "sigla": "PL 4004/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para determinar a apreensão imediata de armas brancas, objetos perfurocortantes ou instrumentos utilizados em contextos de ameaça ou violência doméstica.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -749,13 +749,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640678": {
 "sigla": "PL 4003/2026",
 "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer critérios rigorosos para a decretação de prisão preventiva em contextos de violência doméstica e reiteração de ameaças.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -766,13 +766,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640660": {
 "sigla": "PL 3985/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para tipificar a violência à liberdade de locomoção como forma de violência doméstica e familiar contra a mulher e disciplinar o uso prioritário de monitoramento eletrônico do agressor com alerta de proximidade, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -783,13 +783,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640650": {
 "sigla": "PL 3975/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para instituir diretrizes de atendimento interseccional e de fomento à capilaridade da rede de proteção em municípios de pequeno porte, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -800,7 +800,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640612": {
 "sigla": "PL 3937/2026",
@@ -817,13 +817,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640587": {
 "sigla": "PL 3912/2026",
 "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para instituir ações pedagógicas de prevenção à violência doméstica, ao feminicídio e ao abuso infantil na educação básica.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -834,7 +834,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640580": {
 "sigla": "PL 3905/2026",
@@ -845,9 +845,13 @@
 "orgao": "MESA",
 "lei": false,
 "tema": "criancas",
-"autores": [],
-"principal": [],
-"lido_em": "2026-10-18"
+"autores": [
+220715
+],
+"principal": [
+220715
+],
+"lido_em": "2026-10-26"
 },
 "2640571": {
 "sigla": "PL 3896/2026",
@@ -864,7 +868,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640569": {
 "sigla": "PL 3894/2026",
@@ -881,7 +885,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640567": {
 "sigla": "PL 3892/2026",
@@ -898,7 +902,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640560": {
 "sigla": "PL 3885/2026",
@@ -915,7 +919,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640558": {
 "sigla": "PL 3883/2026",
@@ -932,7 +936,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640556": {
 "sigla": "PL 3881/2026",
@@ -949,7 +953,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640555": {
 "sigla": "PL 3880/2026",
@@ -966,7 +970,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640553": {
 "sigla": "PL 3878/2026",
@@ -983,7 +987,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640543": {
 "sigla": "PL 3868/2026",
@@ -1000,7 +1004,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640542": {
 "sigla": "PL 3867/2026",
@@ -1017,7 +1021,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640540": {
 "sigla": "PL 3865/2026",
@@ -1034,7 +1038,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640531": {
 "sigla": "PL 3856/2026",
@@ -1051,7 +1055,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2639655": {
 "sigla": "PL 3709/2026",
@@ -1068,7 +1072,7 @@
 "principal": [
 220566
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2639267": {
 "sigla": "PL 3661/2026",
@@ -1085,7 +1089,7 @@
 "principal": [
 220530
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2638235": {
 "sigla": "PL 3565/2026",
@@ -1102,7 +1106,7 @@
 "principal": [
 160545
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2637917": {
 "sigla": "PL 3543/2026",
@@ -1119,7 +1123,7 @@
 "principal": [
 204539
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2637298": {
 "sigla": "PL 3487/2026",
@@ -1136,7 +1140,7 @@
 "principal": [
 204566
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2637144": {
 "sigla": "PL 3477/2026",
@@ -1153,7 +1157,7 @@
 "principal": [
 220576
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2637108": {
 "sigla": "PL 3459/2026",
@@ -1170,7 +1174,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2637030": {
 "sigla": "PL 3450/2026",
@@ -1187,7 +1191,7 @@
 "principal": [
 220542
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2636554": {
 "sigla": "PL 3430/2026",
@@ -1204,7 +1208,7 @@
 "principal": [
 220582
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2636224": {
 "sigla": "PL 3409/2026",
@@ -1222,7 +1226,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2636061": {
 "sigla": "PL 3391/2026",
@@ -1239,7 +1243,7 @@
 "principal": [
 178887
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2633448": {
 "sigla": "PL 3184/2026",
@@ -1256,7 +1260,7 @@
 "principal": [
 236375
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2632892": {
 "sigla": "PL 3152/2026",
@@ -1273,7 +1277,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2632824": {
 "sigla": "PL 3146/2026",
@@ -1290,7 +1294,7 @@
 "principal": [
 204504
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2632533": {
 "sigla": "PL 3121/2026",
@@ -1307,7 +1311,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2632404": {
 "sigla": "PL 3110/2026",
@@ -1324,7 +1328,7 @@
 "principal": [
 220690
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2631987": {
 "sigla": "PL 3067/2026",
@@ -1341,7 +1345,7 @@
 "principal": [
 204464
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2631440": {
 "sigla": "PL 3042/2026",
@@ -1358,7 +1362,7 @@
 "principal": [
 220660
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2630755": {
 "sigla": "PL 2970/2026",
@@ -1375,7 +1379,7 @@
 "principal": [
 220638
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2630700": {
 "sigla": "PL 2964/2026",
@@ -1392,7 +1396,7 @@
 "principal": [
 178989
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2630690": {
 "sigla": "PL 2958/2026",
@@ -1409,7 +1413,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2630021": {
 "sigla": "PL 2863/2026",
@@ -1426,7 +1430,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2629808": {
 "sigla": "PL 2829/2026",
@@ -1443,7 +1447,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2629796": {
 "sigla": "PL 2827/2026",
@@ -1460,7 +1464,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2629715": {
 "sigla": "PL 2810/2026",
@@ -1477,7 +1481,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2629446": {
 "sigla": "PL 2762/2026",
@@ -1494,7 +1498,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2629218": {
 "sigla": "PL 2719/2026",
@@ -1511,7 +1515,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2628405": {
 "sigla": "PL 2664/2026",
@@ -1528,7 +1532,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2628399": {
 "sigla": "PL 2663/2026",
@@ -1545,7 +1549,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2627971": {
 "sigla": "PL 2629/2026",
@@ -1562,7 +1566,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2626483": {
 "sigla": "PL 2525/2026",
@@ -1579,7 +1583,7 @@
 "principal": [
 220660
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2626285": {
 "sigla": "PL 2508/2026",
@@ -1596,7 +1600,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2626140": {
 "sigla": "PL 2494/2026",
@@ -1613,7 +1617,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2626137": {
 "sigla": "PL 2493/2026",
@@ -1630,7 +1634,7 @@
 "principal": [
 74398
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2625877": {
 "sigla": "PL 2471/2026",
@@ -1647,7 +1651,7 @@
 "principal": [
 220668
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2625435": {
 "sigla": "PL 2435/2026",
@@ -1664,7 +1668,7 @@
 "principal": [
 66828
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2624989": {
 "sigla": "PL 2420/2026",
@@ -1681,7 +1685,7 @@
 "principal": [
 178866
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2624987": {
 "sigla": "PL 2418/2026",
@@ -1698,7 +1702,7 @@
 "principal": [
 178866
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2624983": {
 "sigla": "PL 2416/2026",
@@ -1715,7 +1719,7 @@
 "principal": [
 178866
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2624867": {
 "sigla": "PL 2404/2026",
@@ -1732,7 +1736,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2624371": {
 "sigla": "PL 2368/2026",
@@ -1749,7 +1753,7 @@
 "principal": [
 220567
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2623977": {
 "sigla": "PL 2344/2026",
@@ -1766,7 +1770,7 @@
 "principal": [
 74158
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2623976": {
 "sigla": "PL 2343/2026",
@@ -1783,7 +1787,7 @@
 "principal": [
 74158
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2623975": {
 "sigla": "PL 2342/2026",
@@ -1800,7 +1804,7 @@
 "principal": [
 74158
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2623171": {
 "sigla": "PL 2273/2026",
@@ -1817,7 +1821,7 @@
 "principal": [
 204535
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622301": {
 "sigla": "PL 2230/2026",
@@ -1834,7 +1838,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622263": {
 "sigla": "PL 2226/2026",
@@ -1851,7 +1855,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622073": {
 "sigla": "PL 2205/2026",
@@ -1868,7 +1872,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622070": {
 "sigla": "PL 2203/2026",
@@ -1885,7 +1889,7 @@
 "principal": [
 204460
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2621569": {
 "sigla": "PL 2182/2026",
@@ -1902,7 +1906,7 @@
 "principal": [
 221328
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2621295": {
 "sigla": "PL 2171/2026",
@@ -1919,7 +1923,7 @@
 "principal": [
 178887
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2619790": {
 "sigla": "PL 2065/2026",
@@ -1936,7 +1940,7 @@
 "principal": [
 141533
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2619017": {
 "sigla": "PL 2025/2026",
@@ -1953,7 +1957,7 @@
 "principal": [
 74784
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2618832": {
 "sigla": "PL 2017/2026",
@@ -1970,7 +1974,7 @@
 "principal": [
 220582
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2618234": {
 "sigla": "PL 1967/2026",
@@ -1987,7 +1991,7 @@
 "principal": [
 220607
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2618229": {
 "sigla": "PL 1966/2026",
@@ -2004,7 +2008,7 @@
 "principal": [
 220607
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2618125": {
 "sigla": "PL 1952/2026",
@@ -2023,7 +2027,7 @@
 "principal": [
 204528
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2617641": {
 "sigla": "PL 1922/2026",
@@ -2040,7 +2044,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2617630": {
 "sigla": "PL 1920/2026",
@@ -2057,7 +2061,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2617170": {
 "sigla": "PL 1883/2026",
@@ -2074,7 +2078,7 @@
 "principal": [
 73433
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2616797": {
 "sigla": "PL 1870/2026",
@@ -2092,7 +2096,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2616778": {
 "sigla": "PL 1868/2026",
@@ -2109,7 +2113,7 @@
 "principal": [
 204455
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2616611": {
 "sigla": "PL 1847/2026",
@@ -2126,7 +2130,7 @@
 "principal": [
 137070
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615980": {
 "sigla": "PL 1816/2026",
@@ -2143,7 +2147,7 @@
 "principal": [
 204540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615979": {
 "sigla": "PL 1815/2026",
@@ -2160,7 +2164,7 @@
 "principal": [
 204540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615951": {
 "sigla": "PL 1811/2026",
@@ -2177,7 +2181,7 @@
 "principal": [
 220595
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615911": {
 "sigla": "PL 1806/2026",
@@ -2194,7 +2198,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615722": {
 "sigla": "PL 1801/2026",
@@ -2211,7 +2215,7 @@
 "principal": [
 220690
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615647": {
 "sigla": "PL 1794/2026",
@@ -2228,7 +2232,7 @@
 "principal": [
 74400
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615559": {
 "sigla": "PL 1782/2026",
@@ -2269,7 +2273,7 @@
 "principal": [
 73433
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615283": {
 "sigla": "PL 1752/2026",
@@ -2286,7 +2290,7 @@
 "principal": [
 204506
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2615027": {
 "sigla": "PL 1739/2026",
@@ -2304,7 +2308,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2614018": {
 "sigla": "PL 1661/2026",
@@ -2321,7 +2325,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2613828": {
 "sigla": "PL 1641/2026",
@@ -2338,7 +2342,7 @@
 "principal": [
 204472
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2613749": {
 "sigla": "PL 1627/2026",
@@ -2355,7 +2359,7 @@
 "principal": [
 153423
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2613659": {
 "sigla": "PL 1616/2026",
@@ -2372,7 +2376,7 @@
 "principal": [
 220534
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2613034": {
 "sigla": "PL 1568/2026",
@@ -2389,7 +2393,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612995": {
 "sigla": "PL 1555/2026",
@@ -2406,7 +2410,7 @@
 "principal": [
 204495
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612993": {
 "sigla": "PL 1554/2026",
@@ -2423,7 +2427,7 @@
 "principal": [
 204416
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612930": {
 "sigla": "PL 896/2023",
@@ -2436,7 +2440,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612768": {
 "sigla": "PL 1491/2026",
@@ -2453,7 +2457,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612706": {
 "sigla": "PL 1477/2026",
@@ -2470,7 +2474,7 @@
 "principal": [
 178887
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612636": {
 "sigla": "PL 1467/2026",
@@ -2487,7 +2491,7 @@
 "principal": [
 231911
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612616": {
 "sigla": "PL 1461/2026",
@@ -2504,7 +2508,7 @@
 "principal": [
 231911
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612579": {
 "sigla": "PL 1457/2026",
@@ -2521,7 +2525,7 @@
 "principal": [
 204574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612530": {
 "sigla": "PL 1450/2026",
@@ -2538,7 +2542,7 @@
 "principal": [
 220615
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612527": {
 "sigla": "PLP 81/2026",
@@ -2555,7 +2559,7 @@
 "principal": [
 220615
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612421": {
 "sigla": "PL 1445/2026",
@@ -2572,7 +2576,7 @@
 "principal": [
 220534
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612420": {
 "sigla": "PL 1444/2026",
@@ -2589,7 +2593,7 @@
 "principal": [
 160641
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612417": {
 "sigla": "PL 1443/2026",
@@ -2606,7 +2610,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612340": {
 "sigla": "PL 1425/2026",
@@ -2623,7 +2627,7 @@
 "principal": [
 204534
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611839": {
 "sigla": "PL 1395/2026",
@@ -2640,7 +2644,7 @@
 "principal": [
 220664
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611838": {
 "sigla": "PL 1394/2026",
@@ -2657,7 +2661,7 @@
 "principal": [
 220664
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611786": {
 "sigla": "PL 1390/2026",
@@ -2674,7 +2678,7 @@
 "principal": [
 160666
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611635": {
 "sigla": "PL 1380/2026",
@@ -2691,7 +2695,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611428": {
 "sigla": "PL 1349/2026",
@@ -2708,7 +2712,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611305": {
 "sigla": "PL 1336/2026",
@@ -2725,7 +2729,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611232": {
 "sigla": "PL 1326/2026",
@@ -2743,7 +2747,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611230": {
 "sigla": "PL 1324/2026",
@@ -2761,13 +2765,13 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611195": {
 "sigla": "PL 1322/2026",
 "ementa": "Dispõe sobre a criação de plataforma tecnológica para notificação em tempo real às vítimas de violência doméstica e familiar acerca da aproximação de agressores submetidos a medidas protetivas de urgência e monitoramento eletrônico.",
 "apresentacao": "2026-03-23",
-"situacao": "Pronta para Pauta",
+"situacao": "Aguardando Deliberação",
 "data_situacao": "2026-10-13",
 "orgao": "CSPCCO",
 "lei": false,
@@ -2778,7 +2782,7 @@
 "principal": [
 220665
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611069": {
 "sigla": "PL 1314/2026",
@@ -2795,7 +2799,7 @@
 "principal": [
 74158
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611028": {
 "sigla": "PL 1307/2026",
@@ -2822,7 +2826,7 @@
 "principal": [
 74398
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610989": {
 "sigla": "PL 1304/2026",
@@ -2839,7 +2843,7 @@
 "principal": [
 220607
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610970": {
 "sigla": "PL 1302/2026",
@@ -2856,7 +2860,7 @@
 "principal": [
 220640
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610847": {
 "sigla": "PL 1294/2026",
@@ -2875,7 +2879,7 @@
 "principal": [
 234788
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610843": {
 "sigla": "PL 1292/2026",
@@ -2892,7 +2896,7 @@
 "principal": [
 226179
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610574": {
 "sigla": "PL 1271/2026",
@@ -2909,7 +2913,7 @@
 "principal": [
 220537
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610541": {
 "sigla": "PL 1270/2026",
@@ -2926,7 +2930,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610449": {
 "sigla": "PL 1267/2026",
@@ -2943,7 +2947,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610379": {
 "sigla": "PL 1261/2026",
@@ -2960,7 +2964,7 @@
 "principal": [
 220674
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609742": {
 "sigla": "PL 1236/2026",
@@ -2977,7 +2981,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609486": {
 "sigla": "PL 1217/2026",
@@ -2994,7 +2998,7 @@
 "principal": [
 220615
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609462": {
 "sigla": "PL 1208/2026",
@@ -3011,13 +3015,13 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609444": {
 "sigla": "PL 1207/2026",
 "ementa": "Institui diretrizes nacionais para o aprimoramento do atendimento em saúde às mulheres vítimas de violência e cria instrumentos de avaliação de risco, registro clínico e fluxo integrado de atendimento.",
 "apresentacao": "2026-03-17",
-"situacao": "Pronta para Pauta",
+"situacao": "Aguardando Deliberação",
 "data_situacao": "2026-08-11",
 "orgao": "CSPCCO",
 "lei": false,
@@ -3028,7 +3032,7 @@
 "principal": [
 220561
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609115": {
 "sigla": "PL 1192/2026",
@@ -3045,7 +3049,7 @@
 "principal": [
 220707
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609093": {
 "sigla": "PL 1189/2026",
@@ -3062,7 +3066,7 @@
 "principal": [
 178946
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609056": {
 "sigla": "PL 1181/2026",
@@ -3079,7 +3083,7 @@
 "principal": [
 220641
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609003": {
 "sigla": "PL 750/2026",
@@ -3092,7 +3096,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609001": {
 "sigla": "PL 6674/2025",
@@ -3122,7 +3126,7 @@
 "principal": [
 220683
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608942": {
 "sigla": "PL 1166/2026",
@@ -3139,7 +3143,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608924": {
 "sigla": "PL 1161/2026",
@@ -3156,7 +3160,7 @@
 "principal": [
 204535
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608685": {
 "sigla": "PL 1146/2026",
@@ -3173,7 +3177,7 @@
 "principal": [
 220616
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608637": {
 "sigla": "PL 1145/2026",
@@ -3190,7 +3194,7 @@
 "principal": [
 220704
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608636": {
 "sigla": "PL 1144/2026",
@@ -3207,7 +3211,7 @@
 "principal": [
 220704
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608574": {
 "sigla": "PL 1138/2026",
@@ -3298,7 +3302,7 @@
 "principal": [
 160604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608427": {
 "sigla": "PL 1125/2026",
@@ -3315,7 +3319,7 @@
 "principal": [
 204504
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608318": {
 "sigla": "PL 1119/2026",
@@ -3332,7 +3336,7 @@
 "principal": [
 74161
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608315": {
 "sigla": "PL 1118/2026",
@@ -3349,7 +3353,7 @@
 "principal": [
 104552
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608238": {
 "sigla": "PL 1107/2026",
@@ -3397,7 +3401,7 @@
 "principal": [
 220553
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608236": {
 "sigla": "PL 1105/2026",
@@ -3414,7 +3418,7 @@
 "principal": [
 230765
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608188": {
 "sigla": "PL 1103/2026",
@@ -3431,7 +3435,7 @@
 "principal": [
 91228
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608134": {
 "sigla": "PL 1100/2026",
@@ -3448,7 +3452,7 @@
 "principal": [
 160641
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608102": {
 "sigla": "PL 1096/2026",
@@ -3465,7 +3469,7 @@
 "principal": [
 178989
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607982": {
 "sigla": "PL 1095/2026",
@@ -3482,7 +3486,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607943": {
 "sigla": "PL 1087/2026",
@@ -3499,7 +3503,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607916": {
 "sigla": "PL 1085/2026",
@@ -3516,7 +3520,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607902": {
 "sigla": "PL 1082/2026",
@@ -3533,7 +3537,7 @@
 "principal": [
 73433
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607869": {
 "sigla": "PL 1080/2026",
@@ -3550,7 +3554,7 @@
 "principal": [
 220673
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607748": {
 "sigla": "PL 1075/2026",
@@ -3567,7 +3571,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607723": {
 "sigla": "PL 1072/2026",
@@ -3584,7 +3588,7 @@
 "principal": [
 122974
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607705": {
 "sigla": "PL 1068/2026",
@@ -3601,7 +3605,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607697": {
 "sigla": "PL 1067/2026",
@@ -3620,7 +3624,7 @@
 "principal": [
 234788
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607657": {
 "sigla": "PL 1058/2026",
@@ -3637,7 +3641,7 @@
 "principal": [
 220594
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607640": {
 "sigla": "PLP 47/2026",
@@ -3654,7 +3658,7 @@
 "principal": [
 141533
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607607": {
 "sigla": "PL 1050/2026",
@@ -3671,7 +3675,7 @@
 "principal": [
 220534
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607597": {
 "sigla": "PL 1045/2026",
@@ -3688,7 +3692,7 @@
 "principal": [
 221148
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607577": {
 "sigla": "PL 1040/2026",
@@ -3706,7 +3710,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607572": {
 "sigla": "PL 1038/2026",
@@ -3723,7 +3727,7 @@
 "principal": [
 141533
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607450": {
 "sigla": "PL 1012/2026",
@@ -3740,7 +3744,7 @@
 "principal": [
 204536
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607445": {
 "sigla": "PL 1010/2026",
@@ -3757,7 +3761,7 @@
 "principal": [
 204464
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607443": {
 "sigla": "PL 1008/2026",
@@ -3797,7 +3801,7 @@
 "principal": [
 74041
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607439": {
 "sigla": "PL 1006/2026",
@@ -3855,7 +3859,7 @@
 "principal": [
 74398
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607423": {
 "sigla": "PL 1000/2026",
@@ -3872,7 +3876,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607422": {
 "sigla": "PL 999/2026",
@@ -3889,7 +3893,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607421": {
 "sigla": "PL 998/2026",
@@ -3906,7 +3910,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607420": {
 "sigla": "PL 997/2026",
@@ -3923,7 +3927,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607419": {
 "sigla": "PL 996/2026",
@@ -3940,7 +3944,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607410": {
 "sigla": "PL 992/2026",
@@ -3957,7 +3961,7 @@
 "principal": [
 74041
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607378": {
 "sigla": "PL 985/2026",
@@ -3980,7 +3984,7 @@
 "principal": [
 74171
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2606880": {
 "sigla": "PL 936/2026",
@@ -4003,7 +4007,7 @@
 "principal": [
 220598
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2606750": {
 "sigla": "PL 923/2026",
@@ -4020,7 +4024,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2606740": {
 "sigla": "PL 920/2026",
@@ -4037,7 +4041,7 @@
 "principal": [
 204539
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2606364": {
 "sigla": "PL 909/2026",
@@ -4054,7 +4058,7 @@
 "principal": [
 220653
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2606313": {
 "sigla": "PLP 41/2026",
@@ -4104,7 +4108,7 @@
 "principal": [
 220527
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2606186": {
 "sigla": "PL 885/2026",
@@ -4121,7 +4125,7 @@
 "principal": [
 220707
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605779": {
 "sigla": "PL 862/2026",
@@ -4138,7 +4142,7 @@
 "principal": [
 220690
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605731": {
 "sigla": "PL 858/2026",
@@ -4155,7 +4159,7 @@
 "principal": [
 220630
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605545": {
 "sigla": "PL 838/2026",
@@ -4172,7 +4176,7 @@
 "principal": [
 150418
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605537": {
 "sigla": "PL 836/2026",
@@ -4189,7 +4193,7 @@
 "principal": [
 204524
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605515": {
 "sigla": "PL 832/2026",
@@ -4206,7 +4210,7 @@
 "principal": [
 133439
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605449": {
 "sigla": "PL 827/2026",
@@ -4223,7 +4227,7 @@
 "principal": [
 220530
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605370": {
 "sigla": "PL 812/2026",
@@ -4240,7 +4244,7 @@
 "principal": [
 73486
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605145": {
 "sigla": "PL 805/2026",
@@ -4288,7 +4292,7 @@
 "principal": [
 220527
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2604749": {
 "sigla": "PL 759/2026",
@@ -4305,7 +4309,7 @@
 "principal": [
 220586
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2604066": {
 "sigla": "PL 688/2026",
@@ -4322,7 +4326,7 @@
 "principal": [
 204485
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2604026": {
 "sigla": "PL 681/2026",
@@ -4339,7 +4343,7 @@
 "principal": [
 204491
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603928": {
 "sigla": "PL 665/2026",
@@ -4356,7 +4360,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603685": {
 "sigla": "PL 627/2026",
@@ -4373,7 +4377,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603212": {
 "sigla": "PL 589/2026",
@@ -4390,7 +4394,7 @@
 "principal": [
 220686
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603128": {
 "sigla": "PL 570/2026",
@@ -4407,7 +4411,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602834": {
 "sigla": "PL 529/2026",
@@ -4424,7 +4428,7 @@
 "principal": [
 204355
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602832": {
 "sigla": "PL 527/2026",
@@ -4441,7 +4445,7 @@
 "principal": [
 204355
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602831": {
 "sigla": "PL 526/2026",
@@ -4458,7 +4462,7 @@
 "principal": [
 204355
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602830": {
 "sigla": "PL 525/2026",
@@ -4475,7 +4479,7 @@
 "principal": [
 204355
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602591": {
 "sigla": "PL 487/2026",
@@ -4492,7 +4496,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602562": {
 "sigla": "PL 485/2026",
@@ -4509,7 +4513,7 @@
 "principal": [
 74090
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602433": {
 "sigla": "PL 472/2026",
@@ -4526,7 +4530,7 @@
 "principal": [
 74044
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602327": {
 "sigla": "PL 461/2026",
@@ -4543,7 +4547,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602177": {
 "sigla": "PL 443/2026",
@@ -4560,7 +4564,7 @@
 "principal": [
 220539
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602175": {
 "sigla": "PL 441/2026",
@@ -4577,7 +4581,7 @@
 "principal": [
 220539
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2601818": {
 "sigla": "PL 420/2026",
@@ -4599,7 +4603,7 @@
 "principal": [
 74398
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2601705": {
 "sigla": "PL 406/2026",
@@ -4616,7 +4620,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2601683": {
 "sigla": "PL 399/2026",
@@ -4633,7 +4637,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2601551": {
 "sigla": "PL 395/2026",
@@ -4650,7 +4654,7 @@
 "principal": [
 204356
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2601225": {
 "sigla": "PL 363/2026",
@@ -4667,7 +4671,7 @@
 "principal": [
 220533
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2601189": {
 "sigla": "PL 350/2026",
@@ -4684,7 +4688,7 @@
 "principal": [
 204449
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2601037": {
 "sigla": "PL 317/2026",
@@ -4701,7 +4705,7 @@
 "principal": [
 220583
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2601014": {
 "sigla": "PL 308/2026",
@@ -4719,7 +4723,7 @@
 "principal": [
 220599
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600971": {
 "sigla": "PL 292/2026",
@@ -4736,7 +4740,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600760": {
 "sigla": "PL 260/2026",
@@ -4765,7 +4769,7 @@
 "principal": [
 74041
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600735": {
 "sigla": "PL 243/2026",
@@ -4782,7 +4786,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600647": {
 "sigla": "PL 227/2026",
@@ -4799,7 +4803,7 @@
 "principal": [
 220594
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600646": {
 "sigla": "PL 226/2026",
@@ -4816,7 +4820,7 @@
 "principal": [
 220594
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600604": {
 "sigla": "PL 207/2026",
@@ -4833,7 +4837,7 @@
 "principal": [
 220597
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600460": {
 "sigla": "PL 186/2026",
@@ -4850,7 +4854,7 @@
 "principal": [
 213762
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600097": {
 "sigla": "PL 47/2026",
@@ -4867,7 +4871,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600092": {
 "sigla": "PL 43/2026",
@@ -4884,7 +4888,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600082": {
 "sigla": "PL 36/2026",
@@ -4901,7 +4905,7 @@
 "principal": [
 178985
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599947": {
 "sigla": "PL 8/2026",
@@ -4918,7 +4922,7 @@
 "principal": [
 74398
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599797": {
 "sigla": "PL 7188/2025",
@@ -4935,7 +4939,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599792": {
 "sigla": "PL 7183/2025",
@@ -4952,7 +4956,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599525": {
 "sigla": "PL 6922/2025",
@@ -4969,7 +4973,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599473": {
 "sigla": "PL 6870/2025",
@@ -4986,7 +4990,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599471": {
 "sigla": "PL 6868/2025",
@@ -5003,7 +5007,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599452": {
 "sigla": "PL 6849/2025",
@@ -5020,7 +5024,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599336": {
 "sigla": "PL 6733/2025",
@@ -5037,7 +5041,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599041": {
 "sigla": "PL 6664/2025",
@@ -5054,7 +5058,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599031": {
 "sigla": "PL 6654/2025",
@@ -5071,7 +5075,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2598706": {
 "sigla": "PL 6604/2025",
@@ -5088,7 +5092,7 @@
 "principal": [
 73486
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2598560": {
 "sigla": "PL 6559/2025",
@@ -5105,7 +5109,7 @@
 "principal": [
 220657
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2598106": {
 "sigla": "PL 6486/2025",
@@ -5122,7 +5126,7 @@
 "principal": [
 160629
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2596704": {
 "sigla": "PL 6420/2025",
@@ -5139,7 +5143,7 @@
 "principal": [
 220674
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2596694": {
 "sigla": "PL 6419/2025",
@@ -5156,7 +5160,7 @@
 "principal": [
 220606
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2596460": {
 "sigla": "PL 6400/2025",
@@ -5173,7 +5177,7 @@
 "principal": [
 204525
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2596424": {
 "sigla": "PL 6396/2025",
@@ -5190,7 +5194,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2596422": {
 "sigla": "PL 6394/2025",
@@ -5207,7 +5211,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2596420": {
 "sigla": "PL 6392/2025",
@@ -5224,7 +5228,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2595923": {
 "sigla": "PL 6354/2025",
@@ -5241,7 +5245,7 @@
 "principal": [
 220652
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2595797": {
 "sigla": "PL 6347/2025",
@@ -5258,7 +5262,7 @@
 "principal": [
 220549
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2595781": {
 "sigla": "PL 6337/2025",
@@ -5275,7 +5279,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2594679": {
 "sigla": "PL 6308/2025",
@@ -5292,7 +5296,7 @@
 "principal": [
 204553
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2593723": {
 "sigla": "PL 6222/2025",
@@ -5315,7 +5319,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2593228": {
 "sigla": "PL 6194/2025",
@@ -5332,7 +5336,7 @@
 "principal": [
 220632
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2593167": {
 "sigla": "PLP 255/2025",
@@ -5350,7 +5354,7 @@
 "principal": [
 204407
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2592030": {
 "sigla": "PL 6140/2025",
@@ -5367,7 +5371,7 @@
 "principal": [
 204464
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2592009": {
 "sigla": "PL 6138/2025",
@@ -5384,7 +5388,7 @@
 "principal": [
 220553
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2591047": {
 "sigla": "PL 6089/2025",
@@ -5401,7 +5405,7 @@
 "principal": [
 69871
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2590135": {
 "sigla": "PL 6072/2025",
@@ -5418,7 +5422,7 @@
 "principal": [
 175765
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2589505": {
 "sigla": "PL 6043/2025",
