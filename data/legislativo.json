@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T06:14:31.837151+00:00",
+ "gerado_em": "2026-10-26T16:50:47.943738+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -129,22 +129,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630021",
    "enquete": "https://www.camara.leg.br/enquetes/2630021",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3141982"
-  },
-  {
-   "id": 2608924,
-   "sigla": "PL 1161/2026",
-   "ementa": "Dispõe sobre a vedação de homenagens públicas a pessoas condenadas por crimes violentos contra a mulher e estabelece diretrizes para revisão de denominações e honrarias incompatíveis com esta Lei.",
-   "apresentacao": "2026-03-13",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CCULT",
-   "data_situacao": "2026-09-24",
-   "andamento": "Prazo para Emendas ao Substitutivo (5 sessões a partir de 25/09/2026)",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608924",
-   "enquete": "https://www.camara.leg.br/enquetes/2608924",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3097593"
   },
   {
    "id": 2609742,
@@ -577,22 +561,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482587",
    "enquete": "https://www.camara.leg.br/enquetes/2482587",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2850318"
-  },
-  {
-   "id": 2607443,
-   "sigla": "PL 1008/2026",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer princípios e diretrizes para a cobertura jornalística e publicitária da violência contra a mulher, promovendo a informação responsável e a proteção das vítimas, com respeito à liberdade de imprensa.",
-   "apresentacao": "2026-03-06",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CCULT",
-   "data_situacao": "2026-08-13",
-   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 08/07/2026 a 13/08/2026). Não foram apresentadas emendas ao substitutivo.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607443",
-   "enquete": "https://www.camara.leg.br/enquetes/2607443",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3093991"
   },
   {
    "id": 2601683,
@@ -1393,6 +1361,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360347",
    "enquete": "https://www.camara.leg.br/enquetes/2360347",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2268792"
+  },
+  {
+   "id": 2608924,
+   "sigla": "PL 1161/2026",
+   "ementa": "Dispõe sobre a vedação de homenagens públicas a pessoas condenadas por crimes violentos contra a mulher e estabelece diretrizes para revisão de denominações e honrarias incompatíveis com esta Lei.",
+   "apresentacao": "2026-03-13",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CCULT",
+   "data_situacao": "2026-09-24",
+   "andamento": "Prazo para Emendas ao Substitutivo (5 sessões a partir de 25/09/2026)",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608924",
+   "enquete": "https://www.camara.leg.br/enquetes/2608924",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3097593"
   },
   {
    "id": 2632414,
@@ -3041,6 +3025,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617170",
    "enquete": "https://www.camara.leg.br/enquetes/2617170",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3115228"
+  },
+  {
+   "id": 2607443,
+   "sigla": "PL 1008/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer princípios e diretrizes para a cobertura jornalística e publicitária da violência contra a mulher, promovendo a informação responsável e a proteção das vítimas, com respeito à liberdade de imprensa.",
+   "apresentacao": "2026-03-06",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CCULT",
+   "data_situacao": "2026-08-13",
+   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 08/07/2026 a 13/08/2026). Não foram apresentadas emendas ao substitutivo.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607443",
+   "enquete": "https://www.camara.leg.br/enquetes/2607443",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3093991"
   },
   {
    "id": 2539867,

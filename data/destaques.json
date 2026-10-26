@@ -1,5 +1,68 @@
 [
  {
+  "id": "aee243d547",
+  "grupo": "ee243d5472bc",
+  "e": "A",
+  "img": "r-nordeste",
+  "iso": "2026-10-26T16:17:36+00:00",
+  "date": "26 out 2026",
+  "h": "Suspeito de abuso sexual infantil é preso em operação no Maranhão",
+  "t": "Notícia publicada por O Imparcial em 26 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Imparcial",
+    "https://oimparcial.com.br/brasil/2026/10/suspeito-de-abuso-sexual-infantil-e-preso-em-operacao-no-maranhao/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-26T16:49:40.041320+00:00",
+  "uf": [
+   "MA"
+  ]
+ },
+ {
+  "id": "a04c0d1d30",
+  "grupo": "04c0d1d30658",
+  "e": "P",
+  "img": "congresso-noite",
+  "iso": "2026-10-26T13:30:09+00:00",
+  "date": "26 out 2026",
+  "h": "Adolescentes menores de 15 anos serão proibidos de usar bicicletas elétricas, prevê Projeto de Lei em análise no Congresso",
+  "t": "Notícia publicada por Banda B em 26 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Banda B",
+    "https://www.bandab.com.br/transito/adolescentes-menores-de-15-anos-serao-proibidos-de-usar-bicicletas-eletricas-preve-projeto-de-lei-em-analise-no-congresso/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-26T16:49:40.041320+00:00"
+ },
+ {
+  "id": "a623da2055",
+  "grupo": "623da2055a4e",
+  "e": "L",
+  "img": "f-stj-ipes",
+  "iso": "2026-10-26T08:30:31+00:00",
+  "date": "26 out 2026",
+  "h": "Overkill em casos de feminicídio – parte 2",
+  "t": "Notícia publicada por JOTA em 26 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "JOTA",
+    "https://www.jota.info/opiniao-e-analise/colunas/direito-dos-grupos-vulneraveis/overkill-em-casos-de-feminicidio-parte-2"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-26T16:49:40.041320+00:00"
+ },
+ {
   "id": "addf29ed97",
   "grupo": "ddf29ed97dc2",
   "e": "A",
