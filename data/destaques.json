@@ -1,5 +1,48 @@
 [
  {
+  "id": "addf29ed97",
+  "grupo": "ddf29ed97dc2",
+  "e": "A",
+  "img": "cmb-brinquedoteca",
+  "iso": "2026-10-26T03:14:24+00:00",
+  "date": "26 out 2026",
+  "h": "Em Portugal, adolescente brasileira é agredida com um soco por apoiador de Bolsonaro",
+  "t": "Notícia publicada por O Sul em 26 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Sul",
+    "https://www.osul.com.br/em-portugal-adolescente-brasileira-e-agredida-com-um-soco-por-apoiador-de-bolsonaro/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-26T06:13:19.465570+00:00"
+ },
+ {
+  "id": "a5782030ed",
+  "grupo": "5782030ed1b7",
+  "e": "N",
+  "img": "r-norte",
+  "iso": "2026-10-26T01:26:37+00:00",
+  "date": "25 out 2026",
+  "h": "Caseiro é assassinado após discussão com avô da namorada em ramal no Acre",
+  "t": "Notícia publicada por ac24horas em 25 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ac24horas",
+    "https://ac24horas.com/2026/10/25/caseiro-e-assassinado-apos-discussao-com-avo-da-namorada-em-ramal-no-acre/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-26T06:13:19.465570+00:00",
+  "uf": [
+   "AC"
+  ]
+ },
+ {
   "id": "a0a1eb7b9a",
   "grupo": "0a1eb7b9a3a2",
   "e": "A",
@@ -21,6 +64,30 @@
   "uf": [
    "GO"
   ]
+ },
+ {
+  "id": "aa0ca6d804",
+  "grupo": "a0ca6d804fa1",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-10-25T17:03:18+00:00",
+  "date": "25 out 2026",
+  "h": "Mulher esfaqueada por ex-companheiro morre em um hospital na Região dos Lagos",
+  "t": "Notícia publicada por O Globo em 25 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Extra",
+    "https://extra.globo.com/rio/casos-de-policia/noticia/2026/10/morre-mulher-esfaqueada-por-ex-companheiro-em-hospital-na-regiao-dos-lagos.ghtml"
+   ],
+   [
+    "O Globo",
+    "https://oglobo.globo.com/rio/noticia/2026/10/25/mulher-esfaqueada-por-ex-companheiro-morre-em-um-hospital-na-regiao-dos-lagos.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-26T06:13:19.465570+00:00"
  },
  {
   "id": "a14fb90813",
