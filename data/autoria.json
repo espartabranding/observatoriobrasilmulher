@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-10-26T16:52:19.058367+00:00",
+"gerado_em": "2026-10-26T21:42:17.307176+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -16028,7 +16028,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2346947": {
 "sigla": "PL 201/2023",
@@ -16047,7 +16047,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2346946": {
 "sigla": "PL 200/2023",
@@ -16066,7 +16066,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2345727": {
 "sigla": "PL 54/2023",
@@ -16083,7 +16083,7 @@
 "principal": [
 220648
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646423": {
 "sigla": "PL 5369/2026",
@@ -16100,13 +16100,13 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2644753": {
 "sigla": "PL 5206/2026",
 "ementa": "Estabelece normas gerais para a interoperabilidade e o compartilhamento eletrônico de informações entre órgãos e entidades públicas, com a finalidade de subsidiar decisões judiciais cautelares relacionadas à proteção de vítimas de crimes, em especial na audiência de custódia, mediante utilização prioritária das infraestruturas tecnológicas existentes.",
 "apresentacao": "2026-08-27",
-"situacao": "",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
 "data_situacao": "2026-09-03",
 "orgao": "MESA",
 "lei": false,
@@ -16117,7 +16117,7 @@
 "principal": [
 220543
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2627604": {
 "sigla": "PL 2588/2026",
@@ -16134,7 +16134,7 @@
 "principal": [
 220612
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2606008": {
 "sigla": "PL 877/2026",
@@ -16151,7 +16151,7 @@
 "principal": [
 160535
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600787": {
 "sigla": "PL 269/2026",
@@ -16168,7 +16168,7 @@
 "principal": [
 204535
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600666": {
 "sigla": "PL 233/2026",
@@ -16185,7 +16185,7 @@
 "principal": [
 220533
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600561": {
 "sigla": "PL 202/2026",
@@ -16202,7 +16202,7 @@
 "principal": [
 74585
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2597573": {
 "sigla": "PL 6482/2025",
@@ -16236,7 +16236,7 @@
 "principal": [
 220625
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2589550": {
 "sigla": "PL 6048/2025",
@@ -16253,7 +16253,7 @@
 "principal": [
 220607
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2579751": {
 "sigla": "PL 5565/2025",
@@ -16270,7 +16270,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2538263": {
 "sigla": "PL 2810/2025",
@@ -16300,7 +16300,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2536787": {
 "sigla": "PL 3434/2025",
@@ -16317,7 +16317,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2528043": {
 "sigla": "PL 3043/2025",
@@ -16334,7 +16334,7 @@
 "principal": [
 220624
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2485880": {
 "sigla": "PL 747/2025",
@@ -16351,7 +16351,7 @@
 "principal": [
 220583
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2441483": {
 "sigla": "PL 2435/2024",
@@ -16368,7 +16368,7 @@
 "principal": [
 220673
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2399114": {
 "sigla": "PL 5154/2023",
@@ -16385,7 +16385,7 @@
 "principal": [
 98148
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2398301": {
 "sigla": "PL 5109/2023",
@@ -16402,7 +16402,7 @@
 "principal": [
 220543
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2387066": {
 "sigla": "PL 4438/2023",
@@ -16428,7 +16428,7 @@
 "principal": [
 220603
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2372113": {
 "sigla": "PL 3328/2023",
@@ -16445,7 +16445,7 @@
 "principal": [
 220567
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2360807": {
 "sigla": "PL 2419/2023",
@@ -16462,7 +16462,7 @@
 "principal": [
 220699
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2354601": {
 "sigla": "PL 1564/2023",
@@ -16479,7 +16479,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2354596": {
 "sigla": "PL 1562/2023",
@@ -16496,7 +16496,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646413": {
 "sigla": "PL 5366/2026",
@@ -16513,14 +16513,14 @@
 "principal": [
 220635
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641686": {
 "sigla": "PL 4813/2026",
 "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever sanções restritivas do uso de redes sociais, aplicações de mensageria e serviços de telecomunicação aos condenados pelo crime de divulgação não consentida de intimidade sexual.",
 "apresentacao": "2026-07-29",
-"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
-"data_situacao": "2026-07-29",
+"situacao": "",
+"data_situacao": "2026-10-26",
 "orgao": "MESA",
 "lei": false,
 "tema": "mulheres",
@@ -16530,14 +16530,14 @@
 "principal": [
 220641
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641483": {
 "sigla": "PL 4763/2026",
 "ementa": "Altera os arts. 217-A, 218 e 218-A do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 – Código Penal, para estender os efeitos da norma à vítima com idade igual a 14 (quatorze) anos.",
 "apresentacao": "2026-07-22",
-"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
-"data_situacao": "2026-08-19",
+"situacao": "",
+"data_situacao": "2026-10-26",
 "orgao": "MESA",
 "lei": false,
 "tema": "mulheres",
@@ -16547,47 +16547,47 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641008": {
 "sigla": "PL 4324/2026",
 "ementa": "Institui o Estatuto de Proteção da Sociedade e das Vítimas de Crimes Sexuais de Extrema Gravidade, estabelece medidas nacionais de prevenção, proteção das vítimas, fortalecimento da persecução penal, responsabilização dos condenados, cooperação institucional e altera a legislação federal correlata.",
 "apresentacao": "2026-07-17",
+"situacao": "",
+"data_situacao": "2026-10-26",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220540
+],
+"principal": [
+220540
+],
+"lido_em": "2026-10-26"
+},
+"2640777": {
+"sigla": "PL 4099/2026",
+"ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para explicitar que o estado de sono ou inconsciência caracteriza hipótese de vulnerabilidade para fins do crime de estupro de vulnerável.",
+"apresentacao": "2026-07-17",
 "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
 "tema": "mulheres",
 "autores": [
-220540
-],
-"principal": [
-220540
-],
-"lido_em": "2026-10-18"
-},
-"2640777": {
-"sigla": "PL 4099/2026",
-"ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para explicitar que o estado de sono ou inconsciência caracteriza hipótese de vulnerabilidade para fins do crime de estupro de vulnerável.",
-"apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
-"data_situacao": "2026-07-17",
-"orgao": "MESA",
-"lei": false,
-"tema": "mulheres",
-"autores": [
 220715
 ],
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640685": {
 "sigla": "PL 4010/2026",
 "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para instituir causa de aumento de pena nos crimes de registro não autorizado da intimidade sexual e de divulgação de cena de estupro ou de vulnerável, de pornografia ou de nudez, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -16598,7 +16598,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2637504": {
 "sigla": "PL 3516/2026",
@@ -16615,7 +16615,7 @@
 "principal": [
 178881
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2635412": {
 "sigla": "PL 3319/2026",
@@ -16632,7 +16632,7 @@
 "principal": [
 220548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2632917": {
 "sigla": "PL 3158/2026",
@@ -16649,7 +16649,7 @@
 "principal": [
 204391
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2630647": {
 "sigla": "PL 2953/2026",
@@ -16666,7 +16666,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2628560": {
 "sigla": "PL 2681/2026",
@@ -16683,7 +16683,7 @@
 "principal": [
 220704
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2624040": {
 "sigla": "PL 2354/2026",
@@ -16701,7 +16701,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2620885": {
 "sigla": "PL 2148/2026",
@@ -16718,7 +16718,7 @@
 "principal": [
 204460
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2616531": {
 "sigla": "PLP 103/2026",
@@ -16735,7 +16735,7 @@
 "principal": [
 220704
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2614335": {
 "sigla": "PL 1682/2026",
@@ -16752,7 +16752,7 @@
 "principal": [
 220549
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2613813": {
 "sigla": "PL 1637/2026",
@@ -16769,7 +16769,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2610391": {
 "sigla": "PL 1262/2026",
@@ -16786,7 +16786,7 @@
 "principal": [
 204536
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607946": {
 "sigla": "PL 1088/2026",
@@ -16803,7 +16803,7 @@
 "principal": [
 220690
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607457": {
 "sigla": "PL 1016/2026",
@@ -16820,7 +16820,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2605096": {
 "sigla": "PL 797/2026",
@@ -16837,7 +16837,7 @@
 "principal": [
 143632
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2604970": {
 "sigla": "PL 786/2026",
@@ -16854,7 +16854,7 @@
 "principal": [
 220559
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2604795": {
 "sigla": "PL 768/2026",
@@ -16872,7 +16872,7 @@
 "principal": [
 204535
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2604351": {
 "sigla": "PL 733/2026",
@@ -16889,7 +16889,7 @@
 "principal": [
 220526
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2604194": {
 "sigla": "PL 711/2026",
@@ -16906,7 +16906,7 @@
 "principal": [
 160601
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603962": {
 "sigla": "PL 671/2026",
@@ -16923,7 +16923,7 @@
 "principal": [
 179000
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603961": {
 "sigla": "PL 670/2026",
@@ -16940,7 +16940,7 @@
 "principal": [
 179000
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603959": {
 "sigla": "PL 669/2026",
@@ -16957,7 +16957,7 @@
 "principal": [
 179000
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603947": {
 "sigla": "PL 668/2026",
@@ -16974,7 +16974,7 @@
 "principal": [
 220588
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603725": {
 "sigla": "PL 645/2026",
@@ -16991,7 +16991,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603721": {
 "sigla": "PL 644/2026",
@@ -17008,7 +17008,7 @@
 "principal": [
 220534
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603720": {
 "sigla": "PL 643/2026",
@@ -17025,7 +17025,7 @@
 "principal": [
 204536
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603700": {
 "sigla": "PL 638/2026",
@@ -17042,14 +17042,14 @@
 "principal": [
 74156
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603686": {
 "sigla": "PL 628/2026",
 "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para explicitar a natureza absoluta da vulnerabilidade prevista no art. 217-A e a irrelevância de circunstâncias relacionadas à consentimento, vínculo afetivo ou constituição de núcleo familiar.",
 "apresentacao": "2026-02-20",
-"situacao": "Aguardando Parecer",
-"data_situacao": "2026-05-05",
+"situacao": "Pronta para Pauta",
+"data_situacao": "2026-10-20",
 "orgao": "CPASF",
 "lei": false,
 "tema": "mulheres",
@@ -17059,7 +17059,7 @@
 "principal": [
 220615
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603547": {
 "sigla": "PL 618/2026",
@@ -17076,7 +17076,7 @@
 "principal": [
 220623
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599554": {
 "sigla": "PL 6950/2025",
@@ -17093,7 +17093,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2599548": {
 "sigla": "PL 6944/2025",
@@ -17110,7 +17110,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2593757": {
 "sigla": "PL 6224/2025",
@@ -17127,7 +17127,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2593040": {
 "sigla": "PL 6187/2025",
@@ -17144,7 +17144,7 @@
 "principal": [
 204460
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2586343": {
 "sigla": "PL 5888/2025",
@@ -17161,7 +17161,7 @@
 "principal": [
 220702
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2582519": {
 "sigla": "PL 5736/2025",
@@ -17238,7 +17238,7 @@
 "principal": [
 220527
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2577897": {
 "sigla": "PL 5446/2025",
@@ -17255,7 +17255,7 @@
 "principal": [
 220588
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2567951": {
 "sigla": "PL 4996/2025",
@@ -17272,7 +17272,7 @@
 "principal": [
 221148
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2557477": {
 "sigla": "PL 4460/2025",
@@ -17289,7 +17289,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2554555": {
 "sigla": "PL 4295/2025",
@@ -17306,7 +17306,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2552117": {
 "sigla": "PL 4210/2025",
@@ -17323,7 +17323,7 @@
 "principal": [
 220649
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2548923": {
 "sigla": "PL 4061/2025",
@@ -17340,7 +17340,7 @@
 "principal": [
 178989
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2547347": {
 "sigla": "PL 4043/2025",
@@ -17357,7 +17357,7 @@
 "principal": [
 107970
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2545421": {
 "sigla": "PL 3994/2025",
@@ -17374,7 +17374,7 @@
 "principal": [
 160673
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2542085": {
 "sigla": "PL 3850/2025",
@@ -17391,7 +17391,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2542068": {
 "sigla": "PL 3849/2025",
@@ -17408,7 +17408,7 @@
 "principal": [
 220613
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2529801": {
 "sigla": "PL 3158/2025",
@@ -17425,7 +17425,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2529162": {
 "sigla": "PL 3117/2025",
@@ -17442,7 +17442,7 @@
 "principal": [
 74848
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2526631": {
 "sigla": "PL 2929/2025",
@@ -17459,7 +17459,7 @@
 "principal": [
 220577
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2521255": {
 "sigla": "PL 2762/2025",
@@ -17476,7 +17476,7 @@
 "principal": [
 220659
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2521194": {
 "sigla": "PL 2758/2025",
@@ -17493,7 +17493,7 @@
 "principal": [
 204427
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2509930": {
 "sigla": "PL 2349/2025",
@@ -17510,7 +17510,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2504691": {
 "sigla": "PL 2134/2025",
@@ -17527,14 +17527,14 @@
 "principal": [
 178970
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2504604": {
 "sigla": "PL 2123/2025",
 "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, para determinar a monitoração eletrônica do condenado em primeira instância pelo crime previsto no art. 217-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal.",
 "apresentacao": "2025-05-06",
-"situacao": "Aguardando Redação Final",
-"data_situacao": "2026-09-08",
+"situacao": "Pronta para Pauta",
+"data_situacao": "2026-10-26",
 "orgao": "CCJC",
 "lei": false,
 "tema": "mulheres",
@@ -17544,7 +17544,7 @@
 "principal": [
 178946
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2497893": {
 "sigla": "PL 1695/2025",
@@ -17561,7 +17561,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2494351": {
 "sigla": "PL 1445/2025",
@@ -17578,7 +17578,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2486690": {
 "sigla": "PL 944/2025",
@@ -17595,7 +17595,7 @@
 "principal": [
 220588
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2485575": {
 "sigla": "PL 707/2025",
@@ -17612,7 +17612,7 @@
 "principal": [
 204536
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2485557": {
 "sigla": "PL 701/2025",
@@ -17629,7 +17629,7 @@
 "principal": [
 220672
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2485506": {
 "sigla": "PL 695/2025",
@@ -17646,7 +17646,7 @@
 "principal": [
 204449
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2485502": {
 "sigla": "PL 693/2025",
@@ -17663,7 +17663,7 @@
 "principal": [
 204540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2485083": {
 "sigla": "PL 604/2025",
@@ -17680,7 +17680,7 @@
 "principal": [
 227660
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2483489": {
 "sigla": "PL 361/2025",
@@ -17697,7 +17697,7 @@
 "principal": [
 204462
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2482876": {
 "sigla": "PL 256/2025",
@@ -17714,7 +17714,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2476909": {
 "sigla": "PL 4754/2024",
@@ -17731,7 +17731,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2470028": {
 "sigla": "PL 4425/2024",
@@ -17748,7 +17748,7 @@
 "principal": [
 220612
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2465963": {
 "sigla": "PL 4161/2024",
@@ -17765,7 +17765,7 @@
 "principal": [
 204572
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2465245": {
 "sigla": "PL 1998/2022",
@@ -17778,7 +17778,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2464689": {
 "sigla": "PL 4088/2024",
@@ -17795,7 +17795,7 @@
 "principal": [
 92346
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2454877": {
 "sigla": "PL 3293/2024",
@@ -17812,7 +17812,7 @@
 "principal": [
 74084
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2450415": {
 "sigla": "PL 2988/2024",
@@ -17829,7 +17829,7 @@
 "principal": [
 204449
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2448673": {
 "sigla": "PL 2832/2024",
@@ -17846,7 +17846,7 @@
 "principal": [
 204472
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2444757": {
 "sigla": "PL 2667/2024",
@@ -17863,7 +17863,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2444076": {
 "sigla": "PL 2636/2024",
@@ -17880,7 +17880,7 @@
 "principal": [
 74084
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2442857": {
 "sigla": "PL 2533/2024",
@@ -17897,7 +17897,7 @@
 "principal": [
 228941
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2442774": {
 "sigla": "PL 2526/2024",
@@ -17914,7 +17914,7 @@
 "principal": [
 220595
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2442773": {
 "sigla": "PL 2525/2024",
@@ -17948,7 +17948,7 @@
 "principal": [
 204535
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2442393": {
 "sigla": "PL 2499/2024",
@@ -17999,7 +17999,7 @@
 "principal": [
 220666
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2442358": {
 "sigla": "PL 2495/2024",
@@ -18016,7 +18016,7 @@
 "principal": [
 220583
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2440989": {
 "sigla": "PL 2396/2024",
@@ -18034,7 +18034,7 @@
 "principal": [
 220652
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2440784": {
 "sigla": "PL 2388/2024",
@@ -18096,7 +18096,7 @@
 "principal": [
 220659
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2437973": {
 "sigla": "PL 2195/2024",
@@ -18130,7 +18130,7 @@
 "principal": [
 88256
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2437257": {
 "sigla": "PL 2127/2024",
@@ -18147,7 +18147,7 @@
 "principal": [
 178843
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2434493": {
 "sigla": "PL 1904/2024",
@@ -18217,7 +18217,7 @@
 "principal": [
 178947
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2434456": {
 "sigla": "PL 1898/2024",
@@ -18234,7 +18234,7 @@
 "principal": [
 204488
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2425767": {
 "sigla": "PL 1190/2024",
@@ -18251,7 +18251,7 @@
 "principal": [
 123756
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2424723": {
 "sigla": "PL 1096/2024",
@@ -18268,7 +18268,7 @@
 "principal": [
 220665
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2421712": {
 "sigla": "PL 828/2024",
@@ -18285,7 +18285,7 @@
 "principal": [
 220528
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2418364": {
 "sigla": "PL 370/2024",
@@ -18319,7 +18319,7 @@
 "principal": [
 220701
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2409631": {
 "sigla": "PL 5870/2023",
@@ -18336,7 +18336,7 @@
 "principal": [
 160635
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2408998": {
 "sigla": "PL 5839/2023",
@@ -18353,7 +18353,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2406786": {
 "sigla": "PL 5712/2023",
@@ -18370,7 +18370,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2400063": {
 "sigla": "PL 5260/2023",
@@ -18387,15 +18387,15 @@
 "principal": [
 220594
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2399457": {
 "sigla": "PL 5203/2023",
 "ementa": "Altera Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor a idade de consentimento nos crimes contra a dignidade sexual, e dá outras providências.",
 "apresentacao": "2023-10-26",
 "situacao": "Tramitando em Conjunto",
-"data_situacao": "2026-07-15",
-"orgao": "CPASF",
+"data_situacao": "2026-10-26",
+"orgao": "MESA",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -18404,7 +18404,7 @@
 "principal": [
 220659
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2399399": {
 "sigla": "PL 5193/2023",
@@ -18422,7 +18422,7 @@
 "principal": [
 220635
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2394898": {
 "sigla": "PL 4923/2023",
@@ -18439,7 +18439,7 @@
 "principal": [
 220659
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2392485": {
 "sigla": "PL 4789/2023",
@@ -18484,7 +18484,7 @@
 "principal": [
 220666
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2391397": {
 "sigla": "PL 4709/2023",
@@ -18501,7 +18501,7 @@
 "principal": [
 204536
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2387995": {
 "sigla": "PL 4485/2023",
@@ -18518,7 +18518,7 @@
 "principal": [
 225727
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2387624": {
 "sigla": "PL 4467/2023",
@@ -18535,7 +18535,7 @@
 "principal": [
 109429
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2386543": {
 "sigla": "PL 4383/2023",
@@ -18552,7 +18552,7 @@
 "principal": [
 74356
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2380374": {
 "sigla": "PL 3964/2023",
@@ -18571,7 +18571,7 @@
 "principal": [
 178972
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2373896": {
 "sigla": "PL 3536/2023",
@@ -18588,7 +18588,7 @@
 "principal": [
 220567
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2373120": {
 "sigla": "PL 3470/2023",
@@ -18605,7 +18605,7 @@
 "principal": [
 220670
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2370847": {
 "sigla": "PL 3194/2023",
@@ -18622,7 +18622,7 @@
 "principal": [
 204412
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2361992": {
 "sigla": "PL 2534/2023",
@@ -18639,7 +18639,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2359722": {
 "sigla": "PL 2322/2023",
@@ -18656,7 +18656,7 @@
 "principal": [
 220576
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2358732": {
 "sigla": "PL 2208/2023",
@@ -18673,7 +18673,7 @@
 "principal": [
 178829
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2356369": {
 "sigla": "PL 1891/2023",
@@ -18690,7 +18690,7 @@
 "principal": [
 178989
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2356235": {
 "sigla": "PL 1875/2023",
@@ -18707,7 +18707,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2354404": {
 "sigla": "PL 1538/2023",
@@ -18724,7 +18724,7 @@
 "principal": [
 103758
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2353653": {
 "sigla": "PL 1444/2023",
@@ -18741,7 +18741,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2350715": {
 "sigla": "PL 1026/2023",
@@ -18758,7 +18758,7 @@
 "principal": [
 220665
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2350449": {
 "sigla": "PL 968/2023",
@@ -18775,7 +18775,7 @@
 "principal": [
 220603
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2348774": {
 "sigla": "PL 514/2023",
@@ -18792,7 +18792,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2347116": {
 "sigla": "PL 301/2023",
@@ -18809,7 +18809,7 @@
 "principal": [
 154178
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2347025": {
 "sigla": "PL 228/2023",
@@ -18826,7 +18826,7 @@
 "principal": [
 204541
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2346914": {
 "sigla": "PL 183/2023",
@@ -18843,7 +18843,7 @@
 "principal": [
 204520
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641918": {
 "sigla": "PL 4880/2026",
@@ -18860,13 +18860,13 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640994": {
 "sigla": "PL 4311/2026",
 "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, e a Lei nº 8.080, de 19 de setembro de 1990, para fortalecer as ações de prevenção, identificação precoce, acolhimento e proteção de crianças e adolescentes vítimas de violência sexual no ambiente escolar e na rede pública de saúde, em articulação com o Sistema de Garantia de Direitos da Criança e do Adolescente.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -18877,7 +18877,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2637124": {
 "sigla": "PL 3471/2026",
@@ -18894,7 +18894,7 @@
 "principal": [
 204407
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2626881": {
 "sigla": "PL 2549/2026",
@@ -18911,7 +18911,7 @@
 "principal": [
 220635
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2626543": {
 "sigla": "PL 2541/2026",
@@ -18928,7 +18928,7 @@
 "principal": [
 204524
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2624348": {
 "sigla": "PL 2366/2026",
@@ -18945,7 +18945,7 @@
 "principal": [
 204531
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622761": {
 "sigla": "PL 2251/2026",
@@ -18962,7 +18962,7 @@
 "principal": [
 204472
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2602071": {
 "sigla": "PL 434/2026",
@@ -18979,7 +18979,7 @@
 "principal": [
 220674
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600463": {
 "sigla": "PL 189/2026",
@@ -18996,7 +18996,7 @@
 "principal": [
 213762
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2593618": {
 "sigla": "PL 6205/2025",
@@ -19013,7 +19013,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2584437": {
 "sigla": "PL 5815/2025",
@@ -19030,7 +19030,7 @@
 "principal": [
 220620
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2583077": {
 "sigla": "PL 5753/2025",
@@ -19047,7 +19047,7 @@
 "principal": [
 229432
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2566319": {
 "sigla": "PL 4880/2025",
@@ -19064,7 +19064,7 @@
 "principal": [
 220536
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2562203": {
 "sigla": "PL 4653/2025",
@@ -19081,7 +19081,7 @@
 "principal": [
 220647
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2552666": {
 "sigla": "PL 4237/2025",
@@ -19098,7 +19098,7 @@
 "principal": [
 175765
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2542471": {
 "sigla": "PL 3908/2025",
@@ -19115,7 +19115,7 @@
 "principal": [
 220665
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2537261": {
 "sigla": "PL 3461/2025",
@@ -19132,7 +19132,7 @@
 "principal": [
 220708
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2536701": {
 "sigla": "PL 3417/2025",
@@ -19149,7 +19149,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2514455": {
 "sigla": "PL 2424/2025",
@@ -19166,7 +19166,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2490232": {
 "sigla": "PL 1245/2025",
@@ -19183,7 +19183,7 @@
 "principal": [
 220579
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2475969": {
 "sigla": "PL 4697/2024",
@@ -19200,7 +19200,7 @@
 "principal": [
 220712
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2467209": {
 "sigla": "PL 4272/2024",
@@ -19217,7 +19217,7 @@
 "principal": [
 178887
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2446900": {
 "sigla": "PL 2753/2024",
@@ -19234,7 +19234,7 @@
 "principal": [
 220615
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2445883": {
 "sigla": "PL 2724/2024",
@@ -19251,7 +19251,7 @@
 "principal": [
 160161
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2421391": {
 "sigla": "PL 803/2024",
@@ -19268,7 +19268,7 @@
 "principal": [
 74398
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2412082": {
 "sigla": "PL 5956/2023",
@@ -19285,7 +19285,7 @@
 "principal": [
 204494
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2372090": {
 "sigla": "PL 3326/2023",
@@ -19302,7 +19302,7 @@
 "principal": [
 220567
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2355883": {
 "sigla": "PL 1828/2023",
@@ -19319,7 +19319,7 @@
 "principal": [
 220641
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2353585": {
 "sigla": "PL 1429/2023",
@@ -19336,7 +19336,7 @@
 "principal": [
 204391
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2351222": {
 "sigla": "PL 1096/2023",
@@ -19353,7 +19353,7 @@
 "principal": [
 74084
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2347024": {
 "sigla": "PL 227/2023",
@@ -19370,13 +19370,13 @@
 "principal": [
 204541
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640917": {
 "sigla": "PL 4237/2026",
 "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para incluir a responsabilidade objetiva dos fornecedores de serviços de transporte e entrega por aplicativo pela prevenção e mitigação de atos de violência, assédio e desrespeito praticados por seus prepostos (motoristas e entregadores) contra os consumidores.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -19387,13 +19387,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640630": {
 "sigla": "PL 3955/2026",
 "ementa": "Altera a Lei nº 11.771, de 17 de setembro de 2008 (Lei Geral do Turismo), para incluir a segurança contra a violência sexual e de gênero como requisito de qualidade dos serviços turísticos nacionais e estabelecer critérios para a concessão do Selo Turismo Seguro e Protegido.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -19404,7 +19404,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622244": {
 "sigla": "PL 2217/2026",
@@ -19421,7 +19421,7 @@
 "principal": [
 178908
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2620753": {
 "sigla": "PL 2136/2026",
@@ -19438,7 +19438,7 @@
 "principal": [
 220631
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2614610": {
 "sigla": "PL 1695/2026",
@@ -19455,7 +19455,7 @@
 "principal": [
 234673
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2593130": {
 "sigla": "PL 6192/2025",
@@ -19472,7 +19472,7 @@
 "principal": [
 220533
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2495166": {
 "sigla": "PL 1535/2025",
@@ -19489,7 +19489,7 @@
 "principal": [
 230764
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2458365": {
 "sigla": "PL 3572/2024",
@@ -19506,7 +19506,7 @@
 "principal": [
 204416
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2418307": {
 "sigla": "PL 348/2024",
@@ -19523,7 +19523,7 @@
 "principal": [
 220659
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2389168": {
 "sigla": "PL 4580/2023",
@@ -19540,7 +19540,7 @@
 "principal": [
 220632
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2388924": {
 "sigla": "PL 4561/2023",
@@ -19557,7 +19557,7 @@
 "principal": [
 220632
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2383077": {
 "sigla": "PL 4163/2023",
@@ -19574,7 +19574,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2352985": {
 "sigla": "PL 1358/2023",
@@ -19591,7 +19591,7 @@
 "principal": [
 220665
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2349208": {
 "sigla": "PL 646/2023",
@@ -19608,7 +19608,7 @@
 "principal": [
 204391
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2618657": {
 "sigla": "PL 2000/2026",
@@ -19625,7 +19625,7 @@
 "principal": [
 107283
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612797": {
 "sigla": "PL 1510/2026",
@@ -19642,7 +19642,7 @@
 "principal": [
 178887
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612399": {
 "sigla": "PL 1440/2026",
@@ -19667,7 +19667,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2607391": {
 "sigla": "PL 988/2026",
@@ -19685,7 +19685,7 @@
 "principal": [
 220623
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2600124": {
 "sigla": "PL 67/2026",
@@ -19702,7 +19702,7 @@
 "principal": [
 220599
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2592113": {
 "sigla": "PL 6149/2025",
@@ -19719,7 +19719,7 @@
 "principal": [
 221338
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2591974": {
 "sigla": "PL 6133/2025",
@@ -19750,7 +19750,7 @@
 "principal": [
 204535
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2537646": {
 "sigla": "PL 3533/2025",
@@ -19767,7 +19767,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2485060": {
 "sigla": "PL 595/2025",
@@ -19784,7 +19784,7 @@
 "principal": [
 220629
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2482207": {
 "sigla": "PL 40/2025",
@@ -19801,7 +19801,7 @@
 "principal": [
 220530
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2350281": {
 "sigla": "PL 914/2023",
@@ -19818,7 +19818,7 @@
 "principal": [
 178887
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2350163": {
 "sigla": "PL 890/2023",
@@ -19835,7 +19835,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611431": {
 "sigla": "PL 1352/2026",
@@ -19852,7 +19852,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2608109": {
 "sigla": "PL 1097/2026",
@@ -19869,7 +19869,7 @@
 "principal": [
 178989
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2603696": {
 "sigla": "PL 637/2026",
@@ -19886,7 +19886,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2595795": {
 "sigla": "PL 6345/2025",
@@ -19903,7 +19903,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2595794": {
 "sigla": "PL 6344/2025",
@@ -19920,7 +19920,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2595728": {
 "sigla": "PL 6334/2025",
@@ -19937,7 +19937,7 @@
 "principal": [
 160629
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2593383": {
 "sigla": "PL 6204/2025",
@@ -19954,7 +19954,7 @@
 "principal": [
 141450
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2498543": {
 "sigla": "PL 1763/2025",
@@ -19971,7 +19971,7 @@
 "principal": [
 141470
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2495045": {
 "sigla": "PL 1527/2025",
@@ -19988,7 +19988,7 @@
 "principal": [
 206018
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2466504": {
 "sigla": "PL 4228/2024",
@@ -20005,7 +20005,7 @@
 "principal": [
 74084
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2440466": {
 "sigla": "PL 2350/2024",
@@ -20022,7 +20022,7 @@
 "principal": [
 220714
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2432694": {
 "sigla": "PL 1720/2024",
@@ -20039,7 +20039,7 @@
 "principal": [
 204534
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2420454": {
 "sigla": "PL 712/2024",
@@ -20056,7 +20056,7 @@
 "principal": [
 178843
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2401092": {
 "sigla": "PL 5321/2023",
@@ -20073,7 +20073,7 @@
 "principal": [
 220553
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2401057": {
 "sigla": "PL 5316/2023",
@@ -20090,7 +20090,7 @@
 "principal": [
 220553
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2382669": {
 "sigla": "PL 4131/2023",
@@ -20107,7 +20107,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2375425": {
 "sigla": "PL 3710/2023",
@@ -20124,13 +20124,13 @@
 "principal": [
 220595
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2360347": {
 "sigla": "PL 2373/2023",
 "ementa": "Dispõe sobre a Violência Obstétrica e Ginecológica na assistência à saúde da mulher no âmbito dos serviços públicos e privados de saúde.",
 "apresentacao": "2023-05-04",
-"situacao": "Pronta para Pauta",
+"situacao": "Aguardando Deliberação",
 "data_situacao": "2026-09-29",
 "orgao": "CPASF",
 "lei": false,
@@ -20141,7 +20141,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2353346": {
 "sigla": "PL 1381/2023",
@@ -20158,7 +20158,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2350504": {
 "sigla": "PL 989/2023",
@@ -20175,7 +20175,7 @@
 "principal": [
 204457
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2346928": {
 "sigla": "PL 190/2023",
@@ -20193,7 +20193,7 @@
 "principal": [
 141411
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646956": {
 "sigla": "PL 5450/2026",
@@ -20210,7 +20210,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646882": {
 "sigla": "PL 5430/2026",
@@ -20227,7 +20227,7 @@
 "principal": [
 220606
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646662": {
 "sigla": "PL 5399/2026",
@@ -20244,7 +20244,7 @@
 "principal": [
 220543
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2646587": {
 "sigla": "PL 4262/2025",
@@ -20257,7 +20257,7 @@
 "tema": "criancas",
 "autores": [],
 "principal": [],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2645563": {
 "sigla": "PL 5276/2026",
@@ -20274,7 +20274,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2644858": {
 "sigla": "PL 5223/2026",
@@ -20291,13 +20291,13 @@
 "principal": [
 204504
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2644725": {
 "sigla": "PL 5199/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente) para dispor sobre a profissão de cuidador de crianças e adolescentes com deficiência.",
 "apresentacao": "2026-08-27",
-"situacao": "",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
 "data_situacao": "2026-08-27",
 "orgao": "MESA",
 "lei": false,
@@ -20308,13 +20308,13 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2644538": {
 "sigla": "PL 5168/2026",
 "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, a Lei nº 8.069, de 13 de julho de 1990, o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, e o Decreto-Lei nº 5.452, de 1º de maio de 1943, para disciplinar a educação domiciliar como forma de cumprimento do dever de educação básica, instituir regime declaratório simplificado, assegurar liberdade pedagógica, avaliação objetiva da aprendizagem, proteção integral do educando e segurança jurídica às famílias.",
 "apresentacao": "2026-08-25",
-"situacao": "",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
 "data_situacao": "2026-08-25",
 "orgao": "MESA",
 "lei": false,
@@ -20325,7 +20325,7 @@
 "principal": [
 204369
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2644231": {
 "sigla": "PL 5128/2026",
@@ -20342,13 +20342,13 @@
 "principal": [
 220543
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642694": {
 "sigla": "PL 4995/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a forma de formalização das autorizações de viagem de crianças e adolescentes.",
 "apresentacao": "2026-08-11",
-"situacao": "",
+"situacao": "Aguardando Autorização do Despacho",
 "data_situacao": "2026-08-11",
 "orgao": "MESA",
 "lei": false,
@@ -20359,7 +20359,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642306": {
 "sigla": "PL 4945/2026",
@@ -20376,7 +20376,7 @@
 "principal": [
 204536
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2642133": {
 "sigla": "PL 4914/2026",
@@ -20393,7 +20393,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641979": {
 "sigla": "PL 4891/2026",
@@ -20410,7 +20410,7 @@
 "principal": [
 220628
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641755": {
 "sigla": "PL 4845/2026",
@@ -20427,7 +20427,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641751": {
 "sigla": "PL 4843/2026",
@@ -20444,14 +20444,14 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641708": {
 "sigla": "PL 4824/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para instituir a comunicação obrigatória ao Ministério Público de denúncias de ameaça ou violação de direitos de crianças e adolescentes registradas perante o Conselho Tutelar, criar o Sistema Nacional de Registro e Acompanhamento de Denúncias e dar outras providências.",
 "apresentacao": "2026-07-29",
-"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
-"data_situacao": "2026-07-29",
+"situacao": "",
+"data_situacao": "2026-10-26",
 "orgao": "MESA",
 "lei": false,
 "tema": "criancas",
@@ -20461,14 +20461,14 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641441": {
 "sigla": "PL 4739/2026",
 "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), a Lei nº 8.987, de 13 de fevereiro de 1995 (Lei de Concessões e Permissões de Serviços Públicos), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para estabelecer normas de proteção à infância e à adolescência mediante a vedação da publicidade de plataformas de conteúdo adulto e de serviços de natureza sexual em bens públicos e em espaços cuja exploração econômica dependa de delegação, incentivo ou benefício fiscal do Poder Público, e dá outras providências.",
 "apresentacao": "2026-07-21",
-"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
-"data_situacao": "2026-07-21",
+"situacao": "",
+"data_situacao": "2026-10-26",
 "orgao": "MESA",
 "lei": false,
 "tema": "criancas",
@@ -20478,14 +20478,14 @@
 "principal": [
 204534
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641436": {
 "sigla": "PL 4737/2026",
 "ementa": "Altera a Lei n° 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer diretrizes de prevenção ao desaparecimento de crianças e adolescentes durante festivais populares, eventos culturais, religiosos, esportivos e demais eventos de grande porte realizados em espaços públicos.",
 "apresentacao": "2026-07-20",
-"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
-"data_situacao": "2026-07-20",
+"situacao": "",
+"data_situacao": "2026-10-26",
 "orgao": "MESA",
 "lei": false,
 "tema": "criancas",
@@ -20495,14 +20495,14 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2641429": {
 "sigla": "PL 4733/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para proibir a veiculação, exibição e divulgação de publicidade, patrocínio ou marcas associadas a conteúdo adulto, erotização ou serviços sexuais em locais de circulação pública e em eventos esportivos, culturais ou de lazer.",
 "apresentacao": "2026-07-20",
-"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
-"data_situacao": "2026-07-20",
+"situacao": "",
+"data_situacao": "2026-10-26",
 "orgao": "MESA",
 "lei": false,
 "tema": "criancas",
@@ -20512,13 +20512,13 @@
 "principal": [
 160512
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640989": {
 "sigla": "PL 4306/2026",
 "ementa": "Institui o Prontuário Integrado de Proteção da Infância e da Adolescência; estabelece diretrizes para o compartilhamento seguro e interoperável de informações entre as políticas públicas de saúde, educação, assistência social e proteção dos direitos da criança e do adolescente; e altera a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.080, de 19 de setembro de 1990.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20529,13 +20529,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640948": {
 "sigla": "PL 4268/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer dever de comunicação por estabelecimentos de hospedagem em casos de suspeita de violação de direitos e instituir medidas de responsabilidade social.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20546,13 +20546,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640899": {
 "sigla": "PL 4219/2026",
 "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, e a Lei nº 8.069, de 13 de julho de 1990, para fortalecer a proteção de crianças e adolescentes no ambiente digital, estabelecer diretrizes de design responsável e coibir práticas abusivas de exploração comercial digital.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20563,13 +20563,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640865": {
 "sigla": "PL 4185/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para assegurar a prioridade e a continuidade do atendimento educacional a crianças e adolescentes com Transtorno do Espectro Autista (TEA) na educação básica.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20580,13 +20580,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640813": {
 "sigla": "PL 4134/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para instituir diretrizes nacionais de valorização dos Conselheiros Tutelares, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20597,13 +20597,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640788": {
 "sigla": "PL 4110/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para dispor sobre o apoio a iniciativas itinerantes de promoção do direito ao lazer, à cultura e à convivência comunitária em territórios de difícil acesso.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20614,13 +20614,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640787": {
 "sigla": "PL 4109/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para instituir diretrizes de busca ativa integrada voltadas à identificação civil e à garantia do acesso e permanência na educação básica de crianças e adolescentes em territórios de difícil acesso.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20631,13 +20631,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640753": {
 "sigla": "PL 4077/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para aumentar a pena de crimes cibernéticos contra a dignidade sexual de vulneráveis, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20648,13 +20648,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640746": {
 "sigla": "PL 4070/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer diretrizes de prioridade no atendimento psicológico às vítimas de violência sexual e dispor sobre a integração de canais digitais de denúncia acessíveis à rede de proteção existente, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20665,13 +20665,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640724": {
 "sigla": "PL 4049/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente - ECA), para estabelecer diretrizes nacionais sobre os procedimentos de abordagem, busca pessoal e apreensão em flagrante de ato infracional de crianças e adolescentes, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20682,13 +20682,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640703": {
 "sigla": "PL 4028/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para dispor sobre protocolo imediato de comunicação, busca e acionamento da rede de proteção nos casos de desaparecimento, evasão ou saída não autorizada de criança em unidade de educação infantil, e dá outras providências.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20699,13 +20699,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640669": {
 "sigla": "PL 3994/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para tipificar a conduta de expor, de forma vexatória ou constrangedora, imagem ou dados de criança ou adolescente no ambiente digital.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20716,13 +20716,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640667": {
 "sigla": "PL 3992/2026",
 "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer o dever de preservação da intimidade e da imagem de crianças e adolescentes no ambiente digital por seus responsáveis, instituir infração administrativa por descumprimento e dispor sobre campanhas de conscientização pública.",
 "apresentacao": "2026-07-17",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-07-17",
 "orgao": "MESA",
 "lei": false,
@@ -20733,7 +20733,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640491": {
 "sigla": "PL 3816/2026",
@@ -20750,7 +20750,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640488": {
 "sigla": "PL 3813/2026",
@@ -20767,7 +20767,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2640473": {
 "sigla": "PL 3800/2026",
@@ -20784,7 +20784,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2639835": {
 "sigla": "PL 3735/2026",
@@ -20801,7 +20801,7 @@
 "principal": [
 220530
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2639452": {
 "sigla": "PL 3681/2026",
@@ -20818,7 +20818,7 @@
 "principal": [
 220628
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2636271": {
 "sigla": "PL 3411/2026",
@@ -20835,7 +20835,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2634629": {
 "sigla": "PL 3246/2026",
@@ -20852,7 +20852,7 @@
 "principal": [
 160640
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2634567": {
 "sigla": "PL 3237/2026",
@@ -20869,7 +20869,7 @@
 "principal": [
 160629
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2634548": {
 "sigla": "PL 3234/2026",
@@ -20886,7 +20886,7 @@
 "principal": [
 220559
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2633130": {
 "sigla": "PL 3165/2026",
@@ -20903,7 +20903,7 @@
 "principal": [
 220564
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2632589": {
 "sigla": "PL 3129/2026",
@@ -20920,7 +20920,7 @@
 "principal": [
 220630
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2632414": {
 "sigla": "PL 3111/2026",
@@ -20937,7 +20937,7 @@
 "principal": [
 204412
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2632218": {
 "sigla": "PL 3071/2026",
@@ -20954,7 +20954,7 @@
 "principal": [
 220553
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2631800": {
 "sigla": "PL 3064/2026",
@@ -20971,7 +20971,7 @@
 "principal": [
 220567
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2631786": {
 "sigla": "PL 3059/2026",
@@ -20988,7 +20988,7 @@
 "principal": [
 165470
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2630257": {
 "sigla": "PL 2906/2026",
@@ -21005,7 +21005,7 @@
 "principal": [
 220622
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2630068": {
 "sigla": "PL 2880/2026",
@@ -21022,7 +21022,7 @@
 "principal": [
 220618
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2628208": {
 "sigla": "PL 2641/2026",
@@ -21039,7 +21039,7 @@
 "principal": [
 220628
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2627973": {
 "sigla": "PL 2630/2026",
@@ -21056,7 +21056,7 @@
 "principal": [
 220623
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2626536": {
 "sigla": "PL 2536/2026",
@@ -21073,7 +21073,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2626434": {
 "sigla": "PL 2521/2026",
@@ -21090,7 +21090,7 @@
 "principal": [
 141456
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2625771": {
 "sigla": "PL 2466/2026",
@@ -21107,13 +21107,13 @@
 "principal": [
 160601
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2625561": {
 "sigla": "PL 2451/2026",
 "ementa": "Dispõe sobre medidas de prevenção, combate e responsabilização relacionadas à criação e disseminação de manipulação digital de conteúdo sexual (deepfakes), coibindo também o uso indevido de outros recursos tecnológicos contra a dignidade sexual de crianças e adolescentes.",
 "apresentacao": "2026-05-18",
-"situacao": "Pronta para Pauta",
+"situacao": "Aguardando Deliberação",
 "data_situacao": "2026-08-19",
 "orgao": "CE",
 "lei": false,
@@ -21124,7 +21124,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2624493": {
 "sigla": "PL 2375/2026",
@@ -21141,7 +21141,7 @@
 "principal": [
 160629
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2623610": {
 "sigla": "PL 2325/2026",
@@ -21158,7 +21158,7 @@
 "principal": [
 220652
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622949": {
 "sigla": "PL 2262/2026",
@@ -21175,7 +21175,7 @@
 "principal": [
 160512
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622445": {
 "sigla": "PL 2241/2026",
@@ -21192,7 +21192,7 @@
 "principal": [
 235088
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622384": {
 "sigla": "PL 2234/2026",
@@ -21209,7 +21209,7 @@
 "principal": [
 204472
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2622094": {
 "sigla": "PL 2207/2026",
@@ -21226,7 +21226,7 @@
 "principal": [
 204441
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2618722": {
 "sigla": "PL 2005/2026",
@@ -21243,7 +21243,7 @@
 "principal": [
 220653
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2617781": {
 "sigla": "PL 1934/2026",
@@ -21260,7 +21260,7 @@
 "principal": [
 204570
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2614784": {
 "sigla": "PL 1720/2026",
@@ -21277,7 +21277,7 @@
 "principal": [
 220583
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2613852": {
 "sigla": "PL 1648/2026",
@@ -21294,7 +21294,7 @@
 "principal": [
 220622
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2613838": {
 "sigla": "PL 1645/2026",
@@ -21311,7 +21311,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2613508": {
 "sigla": "PL 1608/2026",
@@ -21328,7 +21328,7 @@
 "principal": [
 204387
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612897": {
 "sigla": "PL 1543/2026",
@@ -21345,7 +21345,7 @@
 "principal": [
 220559
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612791": {
 "sigla": "PL 1504/2026",
@@ -21362,7 +21362,7 @@
 "principal": [
 178887
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2612396": {
 "sigla": "PL 1439/2026",
@@ -21379,7 +21379,7 @@
 "principal": [
 178887
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2611136": {
 "sigla": "PL 1319/2026",
@@ -21396,7 +21396,7 @@
 "principal": [
 198783
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609699": {
 "sigla": "PL 1234/2026",
@@ -21413,7 +21413,7 @@
 "principal": [
 220630
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609682": {
 "sigla": "PL 1228/2026",
@@ -21430,7 +21430,7 @@
 "principal": [
 220712
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609237": {
 "sigla": "PL 1201/2026",
@@ -21447,7 +21447,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-10-18"
+"lido_em": "2026-10-26"
 },
 "2609108": {
 "sigla": "PL 1191/2026",
