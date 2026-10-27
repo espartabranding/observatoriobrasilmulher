@@ -1,5 +1,51 @@
 [
  {
+  "id": "a4f3f5cbfb",
+  "grupo": "4f3f5cbfb538",
+  "e": "I",
+  "img": "cmb-recepcao",
+  "iso": "2026-10-27T00:40:01+00:00",
+  "date": "26 out 2026",
+  "h": "Maus-tratos a filhotes mobilizam busca por abrigo em Manaus",
+  "t": "Notícia publicada por A Crítica (AM) em 26 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Crítica (AM)",
+    "https://www.acritica.com/geral/maus-tratos-a-filhotes-mobilizam-busca-por-abrigo-em-manaus/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-27T01:29:44.982199+00:00",
+  "uf": [
+   "AM"
+  ]
+ },
+ {
+  "id": "a10dc7cefd",
+  "grupo": "10dc7cefd56b",
+  "e": "P",
+  "img": "f-alepe-sergipe",
+  "iso": "2026-10-26T22:25:20+00:00",
+  "date": "26 out 2026",
+  "h": "Câmara de Marília aprova Comissão Processante contra vereador Júnior Féfin após vídeo com agressão a companheira",
+  "t": "Notícia publicada por g1 em 26 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/26/camara-de-marilia-aprova-comissao-processante-contra-vereador-junior-fefin-apos-video-com-agressao-a-companheira.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-27T01:29:44.982199+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "a0926854f2",
   "grupo": "0926854f2c72",
   "e": "A",
@@ -67,6 +113,33 @@
   "criado_em": "2026-10-26T21:39:42.015675+00:00",
   "uf": [
    "RO"
+  ]
+ },
+ {
+  "id": "a6f5c03949",
+  "grupo": "6f5c039490b5",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-10-26T17:26:29+00:00",
+  "date": "26 out 2026",
+  "h": "Homem é preso suspeito de agredir e ameaçar de morte companheira em Santa Cruz",
+  "t": "Notícia publicada por Tribuna do Norte (RN) em 26 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agora RN",
+    "https://agorarn.com.br/policia/homem-e-preso-agredir-e-ameacar-companheira/"
+   ],
+   [
+    "Tribuna do Norte (RN)",
+    "https://tribunadonorte.com.br/policia/homem-e-preso-suspeito-de-agredir-e-ameacar-de-morte-companheira-em-santa-cruz/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-27T01:29:44.982199+00:00",
+  "uf": [
+   "RN"
   ]
  },
  {
