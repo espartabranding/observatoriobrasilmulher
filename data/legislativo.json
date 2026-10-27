@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T01:30:52.054069+00:00",
+ "gerado_em": "2026-10-27T15:54:57.906471+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -81,22 +81,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554852",
    "enquete": "https://www.camara.leg.br/enquetes/2554852",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2988867"
-  },
-  {
-   "id": 2613852,
-   "sigla": "PL 1648/2026",
-   "ementa": "Altera as Leis nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para assegurar os direitos linguísticos, identitários e culturais de pessoas surdas e surdocegas, garantir o acesso à Língua Brasileira de Sinais – Libras – e dispor sobre a oferta obrigatória de orientação interdisciplinar prévia à realização de implante coclear em crianças.",
-   "apresentacao": "2026-04-07",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CIDOSO",
-   "data_situacao": "2026-10-15",
-   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 01/09/2026 a 15/10/2026). Não foram apresentadas emendas ao substitutivo.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613852",
-   "enquete": "https://www.camara.leg.br/enquetes/2613852",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109326"
   },
   {
    "id": 2606841,
@@ -273,22 +257,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400869",
    "enquete": "https://www.camara.leg.br/enquetes/2400869",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2354293"
-  },
-  {
-   "id": 2462935,
-   "sigla": "PL 3983/2024",
-   "ementa": "Altera o art. 121 e o art. 226 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para prever o lesbocídio como circunstância qualificadora do crime de homicídio e o estupro corretivo lesbofóbico como majorante do crime de estupro.",
-   "apresentacao": "2024-10-16",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CDHMIR",
-   "data_situacao": "2026-09-02",
-   "andamento": "Retirado de pauta, por acordo.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462935",
-   "enquete": "https://www.camara.leg.br/enquetes/2462935",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2486170"
   },
   {
    "id": 2485880,
@@ -1395,6 +1363,22 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154894"
   },
   {
+   "id": 2613852,
+   "sigla": "PL 1648/2026",
+   "ementa": "Altera as Leis nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para assegurar os direitos linguísticos, identitários e culturais de pessoas surdas e surdocegas, garantir o acesso à Língua Brasileira de Sinais – Libras – e dispor sobre a oferta obrigatória de orientação interdisciplinar prévia à realização de implante coclear em crianças.",
+   "apresentacao": "2026-04-07",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CIDOSO",
+   "data_situacao": "2026-10-15",
+   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 01/09/2026 a 15/10/2026). Não foram apresentadas emendas ao substitutivo.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "criancas",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613852",
+   "enquete": "https://www.camara.leg.br/enquetes/2613852",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109326"
+  },
+  {
    "id": 2611195,
    "sigla": "PL 1322/2026",
    "ementa": "Dispõe sobre a criação de plataforma tecnológica para notificação em tempo real às vítimas de violência doméstica e familiar acerca da aproximação de agressores submetidos a medidas protetivas de urgência e monitoramento eletrônico.",
@@ -2241,6 +2225,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599335",
    "enquete": "https://www.camara.leg.br/enquetes/2599335",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072246"
+  },
+  {
+   "id": 2462935,
+   "sigla": "PL 3983/2024",
+   "ementa": "Altera o art. 121 e o art. 226 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para prever o lesbocídio como circunstância qualificadora do crime de homicídio e o estupro corretivo lesbofóbico como majorante do crime de estupro.",
+   "apresentacao": "2024-10-16",
+   "situacao": "Aguardando Deliberação",
+   "orgao": "CDHMIR",
+   "data_situacao": "2026-09-02",
+   "andamento": "Retirado de pauta, por acordo.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462935",
+   "enquete": "https://www.camara.leg.br/enquetes/2462935",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2486170"
   },
   {
    "id": 2635412,
@@ -6051,22 +6051,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3180161"
   },
   {
-   "id": 2646318,
-   "sigla": "PL 5333/2026",
-   "ementa": "Institui a Política Nacional de Continuidade da Proteção à Mulher em Situação de Violência Doméstica e Familiar e estabelece diretrizes para a continuidade integrada da proteção e do atendimento.",
-   "apresentacao": "2026-09-10",
-   "situacao": "",
-   "orgao": "MESA",
-   "data_situacao": "2026-09-10",
-   "andamento": "Apresentação do PL n. 5333/2026 (Projeto de Lei), pela Deputada Renilce Nicodemos (MDB/PA), que \"Institui a Política Nacional de Continuidade da Proteção à Mulher em Situação de Violência Doméstica e Familiar e estabelece diretrizes para a continuidade integrada da proteção e do atendimento\".",
-   "regime": ".",
-   "etapa": "Em tramitação",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646318",
-   "enquete": "https://www.camara.leg.br/enquetes/2646318",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3179532"
-  },
-  {
    "id": 2646258,
    "sigla": "PL 5323/2026",
    "ementa": "Altera o artigo 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar as penas aplicáveis às lesões corporais praticadas no âmbito de violência doméstica e familiar contra a mulher e estabelecer causas específicas de aumento de pena em circunstâncias de maior gravidade e risco de escalada da violência.",
@@ -6471,7 +6455,7 @@
    "sigla": "PL 5128/2026",
    "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para restringir a exposição de crianças e adolescentes, em eventos esportivos, a marcas de empresas que explorem conteúdo adulto, pornográfico ou serviços de natureza sexual.",
    "apresentacao": "2026-08-19",
-   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+   "situacao": "Aguardando Autorização do Despacho",
    "orgao": "MESA",
    "data_situacao": "2026-08-19",
    "andamento": "Apresentação do PL n. 5128/2026 (Projeto de Lei), pelo Deputado Ricardo Ayres (REPUBLIC/TO), que \"Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para restringir a exposição de crianças e adolescentes, em eventos esportivos, a marcas de empresas que explorem con",

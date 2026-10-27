@@ -1,5 +1,55 @@
 [
  {
+  "id": "af943970bf",
+  "grupo": "f943970bf57f",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-10-27T12:32:03+00:00",
+  "date": "27 out 2026",
+  "h": "PMCE prende homem em flagrante por violência doméstica em Fortaleza",
+  "t": "Notícia publicada por Governo do Ceará – Notícias em 27 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo do Ceará – Notícias",
+    "https://www.ce.gov.br/2026/10/27/pmce-prende-homem-em-flagrante-por-violencia-domestica-em-fortaleza/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-27T15:53:55.705745+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "a79ec85527",
+  "grupo": "79ec85527688",
+  "e": "S",
+  "img": "f-biblioteca-nacional",
+  "iso": "2026-10-27T12:24:15+00:00",
+  "date": "27 out 2026",
+  "h": "MPGO investiga suspeita de violência sexual contra mulheres por ex-líder espírita em Goiânia",
+  "t": "Notícia publicada por Jornal Opção (GO) em 27 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/distrito-federal/entorno/mpgo-investiga-lider-espirita-acusado-de-violencia-sexual-contra-mulheres"
+   ],
+   [
+    "Jornal Opção (GO)",
+    "https://www.jornalopcao.com.br/justica/mpgo-investiga-suspeita-de-violencia-sexual-contra-mulheres-por-ex-lider-espirita-em-goiania-882861/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-27T15:53:55.705745+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
   "id": "a4f3f5cbfb",
   "grupo": "4f3f5cbfb538",
   "e": "I",
@@ -113,6 +163,29 @@
   "criado_em": "2026-10-26T21:39:42.015675+00:00",
   "uf": [
    "RO"
+  ]
+ },
+ {
+  "id": "a1ed8fb21e",
+  "grupo": "1ed8fb21e668",
+  "e": "N",
+  "img": "deam-viatura-df",
+  "iso": "2026-10-26T17:33:07+00:00",
+  "date": "26 out 2026",
+  "h": "Painel BI Clássico – Órfãos do Feminicídio",
+  "t": "Notícia publicada por MPMA – Ministério Público Maranhão em 26 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPMA – Ministério Público Maranhão",
+    "https://www.mpma.mp.br/painel-bi-e-visualizacao-3d-orfaos-do-feminicidio/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-27T15:53:55.705745+00:00",
+  "uf": [
+   "MA"
   ]
  },
  {
