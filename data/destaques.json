@@ -1,5 +1,75 @@
 [
  {
+  "id": "a436dc3cd0",
+  "grupo": "436dc3cd0dcf",
+  "e": "L",
+  "img": "r-norte",
+  "iso": "2026-10-28T00:20:28+00:00",
+  "date": "27 out 2026",
+  "h": "PC-AM prende dois homens condenados por estupro e estupro de vulnerável em Parintins",
+  "t": "Notícia publicada por A Crítica (AM) em 27 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Crítica (AM)",
+    "https://www.acritica.com/policia/pc-am-prende-dois-homens-condenados-por-estupro-e-estupro-de-vulneravel-em-parintins/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T00:32:30.350170+00:00",
+  "uf": [
+   "AM"
+  ]
+ },
+ {
+  "id": "a3048060fa",
+  "grupo": "3048060fa502",
+  "e": "A",
+  "img": "balanco-ninho",
+  "iso": "2026-10-28T00:12:02+00:00",
+  "date": "27 out 2026",
+  "h": "Menina de 12 anos é extorquida e paga mais de R$ 8 mil após ameaça com foto de IA",
+  "t": "Notícia publicada por A Tarde em 27 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Tarde",
+    "https://atarde.com.br/policia/menina-de-12-anos-e-extorquida-e-paga-mais-de-r-8-mil-apos-ameaca-com-foto-de-ia-1407370"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T00:32:30.350170+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "a55ff1edde",
+  "grupo": "55ff1edde4cc",
+  "e": "L",
+  "img": "f-tjsp",
+  "iso": "2026-10-27T21:32:00+00:00",
+  "date": "27 out 2026",
+  "h": "Gasto público voltado às mulheres poderá ser destacado na lei orçamentária",
+  "t": "Notícia publicada por Agência Senado em 27 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/10/27/gasto-publico-voltado-as-mulheres-podera-ser-destacado-na-lei-orcamentaria"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T00:32:30.350170+00:00",
+  "uf": [
+   "RJ",
+   "TO"
+  ]
+ },
+ {
   "id": "af649bdce9",
   "grupo": "f649bdce9d7e",
   "e": "A",
