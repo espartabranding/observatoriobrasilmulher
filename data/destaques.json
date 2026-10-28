@@ -1,5 +1,71 @@
 [
  {
+  "id": "a9e7492275",
+  "grupo": "9e74922750e8",
+  "e": "T",
+  "img": "tecnologia",
+  "iso": "2026-10-28T16:19:25+00:00",
+  "date": "28 out 2026",
+  "h": "Vídeo mostra entregador por aplicativo sendo atropelado por viatura da PM que avançou sinal vermelho; vítima morreu no local",
+  "t": "Notícia publicada por g1 em 28 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/10/28/video-mostra-entregador-por-aplicativo-sendo-atropelado-por-viatura-da-pm-vitima-morreu-no-local.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T16:38:56.333007+00:00",
+  "uf": [
+   "PE"
+  ]
+ },
+ {
+  "id": "a0ab327ae6",
+  "grupo": "0ab327ae65bb",
+  "e": "I",
+  "img": "cmb-copa",
+  "iso": "2026-10-28T15:03:39+00:00",
+  "date": "28 out 2026",
+  "h": "Carreta da Mamografia amplia acesso à prevenção do câncer de mama na Casa da Mulher Brasileira",
+  "t": "Notícia publicada por Governo do Piauí – Notícias em 28 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo do Piauí – Notícias",
+    "https://www.pi.gov.br/carreta-da-mamografia-amplia-acesso-a-prevencao-do-cancer-de-mama-na-casa-da-mulher-brasileira/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T16:38:56.333007+00:00",
+  "uf": [
+   "PI"
+  ]
+ },
+ {
+  "id": "aadfb7ddeb",
+  "grupo": "adfb7ddeb896",
+  "e": "P",
+  "img": "f-esplanada-noite",
+  "iso": "2026-10-28T12:29:00+00:00",
+  "date": "28 out 2026",
+  "h": "Câmara pode votar hoje projetos sobre proteção às mulheres, segurança em presídios e clima",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 28 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1314437-camara-pode-votar-hoje-projetos-sobre-protecao-as-mulheres-seguranca-em-presidios-e-clima"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T16:38:56.333007+00:00"
+ },
+ {
   "id": "a436dc3cd0",
   "grupo": "436dc3cd0dcf",
   "e": "L",

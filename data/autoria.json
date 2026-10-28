@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-10-28T06:54:48.391107+00:00",
+"gerado_em": "2026-10-28T16:40:31.600676+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -29897,6 +29897,23 @@
 220533
 ],
 "lido_em": "2026-10-27"
+},
+"2648939": {
+"sigla": "PL 5663/2026",
+"ementa": "Dispõe sobre medidas de proteção à mulher em situação de violência doméstica e familiar no âmbito das instituições financeiras e de pagamento, e altera a Lei nº 11.340, de 7 de agosto de 2006 - Lei Maria da Penha, para prever novas medidas protetivas de natureza patrimonial.",
+"apresentacao": "2026-10-27",
+"situacao": "",
+"data_situacao": "2026-10-27",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+204488
+],
+"principal": [
+204488
+],
+"lido_em": "2026-10-28"
 }
 },
 "deputados": {
