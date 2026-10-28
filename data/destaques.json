@@ -1,5 +1,51 @@
 [
  {
+  "id": "afcec8f6bd",
+  "grupo": "fcec8f6bdd26",
+  "e": "L",
+  "img": "f-palacio-justica",
+  "iso": "2026-10-28T21:20:54+00:00",
+  "date": "28 out 2026",
+  "h": "NEVID/MPES capacita Guarda Municipal de Linhares para atendimento a mulheres em situação de violência",
+  "t": "Notícia publicada por MPES – Ministério Público Espírito Santo em 28 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPES – Ministério Público Espírito Santo",
+    "https://mpes.mp.br/noticias/2026/10/28/nevid-mpes-capacita-guarda-municipal-de-linhares-para-atendimento-a-mulheres-em-situacao-de-violencia/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T21:39:42.080126+00:00",
+  "uf": [
+   "ES"
+  ]
+ },
+ {
+  "id": "af67618cd6",
+  "grupo": "f67618cd6ba3",
+  "e": "P",
+  "img": "esplanada-ministerio-bloco",
+  "iso": "2026-10-28T17:48:54+00:00",
+  "date": "28 out 2026",
+  "h": "Governo de RO entrega veículos para ampliar enfrentamento à violência contra a mulher",
+  "t": "Notícia publicada por Governo de RO – Notícias em 28 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo de RO – Notícias",
+    "https://rondonia.ro.gov.br/governo-de-ro-entrega-veiculos-para-ampliar-enfrentamento-a-violencia-contra-a-mulher/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T21:39:42.080126+00:00",
+  "uf": [
+   "RO"
+  ]
+ },
+ {
   "id": "a9e7492275",
   "grupo": "9e74922750e8",
   "e": "T",
@@ -64,6 +110,33 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-10-28T16:38:56.333007+00:00"
+ },
+ {
+  "id": "a05c8f9158",
+  "grupo": "05c8f9158d0b",
+  "e": "A",
+  "img": "escola-municipal-portao",
+  "iso": "2026-10-28T11:11:22+00:00",
+  "date": "28 out 2026",
+  "h": "Polícia Civil faz operação contra rede de exploração sexual de adolescentes no RJ",
+  "t": "Notícia publicada por CartaCapital em 28 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Extra",
+    "https://extra.globo.com/rio/noticia/2026/10/operacao-da-policia-civil-mira-rede-de-exploracao-sexual-de-adolescentes-no-rio-sargento-da-pm-e-preso.ghtml"
+   ],
+   [
+    "CartaCapital",
+    "https://www.cartacapital.com.br/sociedade/policia-civil-faz-operacao-contra-rede-de-exploracao-sexual-de-adolescentes-no-rj/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T21:39:42.080126+00:00",
+  "uf": [
+   "RJ"
+  ]
  },
  {
   "id": "a436dc3cd0",
