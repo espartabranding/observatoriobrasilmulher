@@ -46,6 +46,52 @@
   ]
  },
  {
+  "id": "afdb340bfe",
+  "grupo": "fdb340bfe88a",
+  "e": "E",
+  "img": "r-sul",
+  "iso": "2026-10-28T00:09:18+00:00",
+  "date": "27 out 2026",
+  "h": "Parceria em SC busca ajudar mulheres vítimas de violência a conquistar independência financeira",
+  "t": "Notícia publicada por NSC Total (SC) em 27 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "NSC Total (SC)",
+    "https://www.nsctotal.com.br/cotidiano/parceria-em-sc-busca-ajudar-mulheres-vitimas-de-violencia-a-conquistar-independencia-financeira"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T06:52:58.218777+00:00",
+  "uf": [
+   "SC"
+  ]
+ },
+ {
+  "id": "a1e2d8d116",
+  "grupo": "1e2d8d116e13",
+  "e": "T",
+  "img": "r-nordeste",
+  "iso": "2026-10-27T23:12:34+00:00",
+  "date": "27 out 2026",
+  "h": "‘Em estado de choque’, diz mãe de uma das vítimas do acidente na BR-230 entre van e caminhonete na PB; mulher havia perdido a mãe dois dias antes",
+  "t": "Notícia publicada por g1 em 27 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/pb/paraiba/noticia/2026/10/27/em-estado-de-choque-diz-mae-de-uma-das-vitimas-do-acidente-na-br-230-entre-van-e-caminhonete-na-pb.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T06:52:58.218777+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
   "id": "a55ff1edde",
   "grupo": "55ff1edde4cc",
   "e": "L",
@@ -111,6 +157,30 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-10-27T20:42:45.717395+00:00"
+ },
+ {
+  "id": "aa8e14226c",
+  "grupo": "a8e14226c458",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-10-27T16:07:10+00:00",
+  "date": "27 out 2026",
+  "h": "Mulher é agredida e suspeito ameaça policiais durante ocorrência em Parnamirim",
+  "t": "Notícia publicada por Tribuna do Norte (RN) em 27 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agora RN",
+    "https://agorarn.com.br/policia/mulher-agredida-e-suspeito-ameaca-policiais/"
+   ],
+   [
+    "Tribuna do Norte (RN)",
+    "https://tribunadonorte.com.br/policia/mulher-e-agredida-e-suspeito-ameaca-policiais-durante-ocorrencia-em-parnamirim/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-28T06:52:58.218777+00:00"
  },
  {
   "id": "a687f93140",
