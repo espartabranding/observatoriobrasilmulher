@@ -1,5 +1,83 @@
 [
  {
+  "id": "a1727d1229",
+  "grupo": "1727d122968c",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-10-29T16:56:43.192652+00:00",
+  "date": "29 out 2026",
+  "h": "ÁUDIO: Operação Mulher Segura registra 647 prisões na Bahia e reforça combate à violência contra mulheres",
+  "t": "Notícia publicada por Secom Bahia em 29 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secom Bahia",
+    "http://www.ba.gov.br/comunicacao/noticias/2026-10/385067/audio-operacao-mulher-segura-registra-647-prisoes-na-bahia-e-reforca"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-29T16:56:43.861465+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "a419d5f7e2",
+  "grupo": "419d5f7e2a72",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-10-29T13:58:52+00:00",
+  "date": "29 out 2026",
+  "h": "PMCE aplica multa de R$ 16 mil, resgata galos com sinais de maus-tratos e aves silvestres presas em cativeiro",
+  "t": "Notícia publicada por Governo do Ceará – Notícias em 29 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo do Ceará – Notícias",
+    "https://www.ce.gov.br/2026/10/29/pmce-aplica-multa-de-r-16-mil-resgata-galos-com-sinais-de-maus-tratos-e-aves-silvestres-presas-em-cativeiro/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-29T16:56:43.861465+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "a1ad9de9ad",
+  "grupo": "1ad9de9ad8d9",
+  "e": "A",
+  "img": "creche-sala-atividades",
+  "iso": "2026-10-29T12:43:37+00:00",
+  "date": "29 out 2026",
+  "h": "Adolescente de 16 anos denuncia MC Poze do Rodo por estupro e ameaça; Polícia Civil investiga o caso",
+  "t": "Notícia publicada por O Globo em 29 out 2026 e repercutida por mais 3 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta (ES)",
+    "https://www.agazeta.com.br/hz/tv-e-famosos/mc-poze-do-rodo-e-denunciado-por-adolescente-de-16-anos-por-suspeita-de-estupro-e-ameaca-policia-civil-investiga-o-caso-1026"
+   ],
+   [
+    "Folha de S.Paulo",
+    "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-do-rio-investiga-mc-poze-por-suspeita-de-estupro-de-adolescente-de-16-anos.shtml"
+   ],
+   [
+    "Extra",
+    "https://extra.globo.com/rio/noticia/2026/10/policia-investiga-denuncia-de-estupro-e-ameaca-contra-mc-poze-por-adolescente-de-16-anos.ghtml"
+   ],
+   [
+    "O Globo",
+    "https://oglobo.globo.com/rio/noticia/2026/10/29/adolescente-de-16-anos-denuncia-mc-poze-do-rodo-por-estupro-policia-civil-investiga-o-caso.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-29T16:56:43.861465+00:00"
+ },
+ {
   "id": "ab80ea1dc0",
   "grupo": "b80ea1dc0239",
   "e": "A",
