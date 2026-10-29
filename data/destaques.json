@@ -1,5 +1,32 @@
 [
  {
+  "id": "ac9403f3a4",
+  "grupo": "c9403f3a485e",
+  "e": "N",
+  "img": "r-norte",
+  "iso": "2026-10-29T18:27:34+00:00",
+  "date": "29 out 2026",
+  "h": "Polícia Civil prende 4 homens por violência doméstica em Manaus",
+  "t": "Notícia publicada por Amazonas Atual em 29 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secom Bahia",
+    "http://www.ba.gov.br/comunicacao/noticias/2026-10/385081/policia-civil-prende-121-homens-por-violencia-domestica-em-outubro"
+   ],
+   [
+    "Amazonas Atual",
+    "https://amazonasatual.com.br/policia-civil-prende-4-homens-por-violencia-domestica-em-manaus/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-29T21:50:20.115865+00:00",
+  "uf": [
+   "AM"
+  ]
+ },
+ {
   "id": "a1727d1229",
   "grupo": "1727d122968c",
   "e": "N",
@@ -21,6 +48,38 @@
   "uf": [
    "BA"
   ]
+ },
+ {
+  "id": "a15ee9483e",
+  "grupo": "15ee9483e2c5",
+  "e": "L",
+  "img": "f-stf-lateral",
+  "iso": "2026-10-29T16:03:39+00:00",
+  "date": "29 out 2026",
+  "h": "TSE decide que agressão contra a mulher pode tornar candidato inelegível",
+  "t": "Notícia publicada por CNN Brasil em 29 out 2026 e repercutida por mais 6 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Revista Fórum",
+    "https://revistaforum.com.br/politica/inelegibilidade-agressao-contra-mulher/"
+   ],
+   [
+    "Portal Correio",
+    "https://portalcorreio.com.br/tse-decide-que-condenado-por-agressao-contra-mulher-pode-ficar-inelegivel/"
+   ],
+   [
+    "O Globo",
+    "https://oglobo.globo.com/politica/noticia/2026/10/29/tse-decide-que-condenacao-por-violencia-contra-mulher-pode-tornar-candidato-inelegivel.ghtml"
+   ],
+   [
+    "O Sul",
+    "https://www.osul.com.br/tribunal-superior-eleitoral-decide-que-agressao-contra-a-mulher-pode-tornar-candidato-inelegivel/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-29T21:50:20.115865+00:00"
  },
  {
   "id": "a419d5f7e2",
@@ -96,6 +155,38 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-10-29T01:48:27.095489+00:00"
+ },
+ {
+  "id": "a16d555167",
+  "grupo": "16d555167839",
+  "e": "A",
+  "img": "creche-refeitorio",
+  "iso": "2026-10-28T23:36:33+00:00",
+  "date": "28 out 2026",
+  "h": "Adolescente de 16 anos denuncia MC Poze por estupro após festa no Rio",
+  "t": "Notícia publicada por CNN Brasil em 28 out 2026 e repercutida por mais 5 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Terra – Nós",
+    "https://www.terra.com.br/noticias/brasil/policia/mc-poze-e-denunciado-por-estupro-de-adolescente-de-16-anos,5ccbb73d79174d6c15186c05f1561cbehbsljuuf.html"
+   ],
+   [
+    "Folha Vitória (ES)",
+    "https://www.folhavitoria.com.br/policia/mc-poze-do-rodo-e-denunciado-por-adolescente-de-16-anos-por-suspeita-de-estupro-e-ameacas/"
+   ],
+   [
+    "Estadão",
+    "https://www.estadao.com.br/brasil/mc-poze-e-investigado-no-rj-por-denuncia-de-estupro-feita-por-adolescente-de-16-anos-npr/"
+   ],
+   [
+    "Diário do Pará",
+    "https://dol.com.br/entretenimento/fama/966881/adolescente-de-16-anos-denuncia-mc-poze-do-rodo-por-estupro-no-rio"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-29T21:50:20.115865+00:00"
  },
  {
   "id": "afcec8f6bd",
