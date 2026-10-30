@@ -1,5 +1,28 @@
 [
  {
+  "id": "a040ec9199",
+  "grupo": "040ec9199654",
+  "e": "L",
+  "img": "cmb-sala-audiencias",
+  "iso": "2026-10-29T22:56:44+00:00",
+  "date": "29 out 2026",
+  "h": "MP vai denunciar namorada de motorista do Porsche por falso testemunho",
+  "t": "Notícia publicada por CNN Brasil em 29 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CNN Brasil",
+    "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mp-vai-denunciar-namorada-de-motorista-do-porsche-por-falso-testemunho/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T01:58:18.788158+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "ac9403f3a4",
   "grupo": "c9403f3a485e",
   "e": "N",
@@ -27,6 +50,29 @@
   ]
  },
  {
+  "id": "af90b59bc0",
+  "grupo": "f90b59bc0bea",
+  "e": "L",
+  "img": "leis",
+  "iso": "2026-10-29T17:09:21+00:00",
+  "date": "29 out 2026",
+  "h": "Homem acusado de feminicídio de professora vai a júri na próxima terça-feira (03/11)",
+  "t": "Notícia publicada por MPES – Ministério Público Espírito Santo em 29 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPES – Ministério Público Espírito Santo",
+    "https://mpes.mp.br/noticias/2026/10/29/homem-acusado-de-feminicidio-de-professora-vai-a-juri-na-proxima-terca-feira-03-11/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T01:58:18.788158+00:00",
+  "uf": [
+   "ES"
+  ]
+ },
+ {
   "id": "a1727d1229",
   "grupo": "1727d122968c",
   "e": "N",
@@ -45,6 +91,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-10-29T16:56:43.861465+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "ae82b0cbae",
+  "grupo": "e82b0cbae09b",
+  "e": "A",
+  "img": "creche-brinquedos",
+  "iso": "2026-10-29T16:17:23+00:00",
+  "date": "29 out 2026",
+  "h": "TJBA fortalece rede de proteção à infância com posse de novos agentes e capacitação em Camaçari",
+  "t": "Notícia publicada por TJBA – Tribunal de Justiça do Bahia em 29 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJBA – Tribunal de Justiça do Bahia",
+    "https://www.tjba.jus.br/portal/tjba-fortalece-rede-de-protecao-a-infancia-com-posse-de-novos-agentes-e-capacitacao-em-camacari/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T01:58:18.788158+00:00",
   "uf": [
    "BA"
   ]

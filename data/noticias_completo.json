@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-29T21:50:19.402752+00:00",
- "total": 2058,
+ "gerado_em": "2026-10-30T01:58:18.067083+00:00",
+ "total": 2090,
  "fontes_lidas": 180,
- "novas": 76,
+ "novas": 32,
  "por_fonte": {
   "saude": 0,
   "agenciagov": 1,
@@ -11,16 +11,16 @@
   "fiocruz": 0,
   "iff-fiocruz": 0,
   "tcu": 2,
-  "camara": "não respondeu",
+  "camara": 3,
   "senado": 2,
   "stf": 0,
-  "stj": 5,
+  "stj": "não respondeu",
   "tst": "não respondeu",
   "cnmp": 1,
   "mpf": 0,
   "mpt": 1,
   "tjba": 3,
-  "tjce": "não respondeu",
+  "tjce": 0,
   "tjes": "não respondeu",
   "tjms": "não respondeu",
   "mpal": "não respondeu",
@@ -28,13 +28,13 @@
   "mpba": "não respondeu",
   "mpce": 8,
   "mpdft": 0,
-  "mpes": 3,
+  "mpes": "não respondeu",
   "mpma": 0,
-  "mppb": 1,
+  "mppb": "não respondeu",
   "mppr": "não respondeu",
   "mppi": "não respondeu",
   "mprn": "não respondeu",
-  "mpse": 0,
+  "mpse": "não respondeu",
   "dpeba": "não respondeu",
   "dpedf": "não respondeu",
   "dpees": 2,
@@ -46,17 +46,17 @@
   "sec-mulher-ce": 2,
   "sec-mulher-pr": 0,
   "sec-mulher-go": 1,
-  "agenciasp": 2,
+  "agenciasp": 1,
   "agenciaminas": 1,
   "aen-pr": 0,
   "agenciabahia": 1,
   "agenciace": 0,
-  "agenciapi": 0,
+  "agenciapi": 2,
   "agenciaam": "não respondeu",
   "agenciasc": 2,
   "agenciagoias": 0,
   "agenciams": 0,
-  "agenciaro": 2,
+  "agenciaro": "não respondeu",
   "patriciagalvao": 2,
   "fontesegura": 1,
   "childhood": 2,
@@ -83,15 +83,15 @@
   "unfpa": 0,
   "opas": 0,
   "onubrasil": 0,
-  "g1": 14,
-  "folha": 8,
+  "g1": 9,
+  "folha": 9,
   "estadao": 2,
-  "oglobo": 4,
+  "oglobo": "feed inválido",
   "uol": 1,
-  "cnnbrasil": 0,
-  "metropoles": 12,
+  "cnnbrasil": 3,
+  "metropoles": 11,
   "agenciapublica": 1,
-  "marieclaire": "feed inválido",
+  "marieclaire": 6,
   "claudia": 0,
   "capricho": 0,
   "crescer": "feed inválido",
@@ -101,19 +101,19 @@
   "nexo": 0,
   "intercept": 3,
   "bbcbrasil": 0,
-  "terra": 1,
-  "veja": 1,
-  "istoe": 0,
+  "terra": 2,
+  "veja": 0,
+  "istoe": "feed inválido",
   "exame": 0,
   "valor": 1,
   "amazonia-real": 0,
   "ponte": 6,
-  "catarinas": 6,
+  "catarinas": "não respondeu",
   "nosmulheresdaperiferia": 1,
   "agenciamural": "não respondeu",
   "projetocolabora": 4,
-  "revistaforum": 3,
-  "jota": 1,
+  "revistaforum": 2,
+  "jota": 2,
   "jusbrasil": "robots.txt não permite",
   "ibdfam": "não respondeu",
   "aosfatos": 0,
@@ -126,32 +126,32 @@
   "jornaldaUSP": 1,
   "cebrap": "robots.txt não permite",
   "scielo": 0,
-  "ac24horas": 11,
+  "ac24horas": 12,
   "agazetaac": 12,
   "tnh1": 3,
-  "gazetaweb": 4,
-  "selesnafes": 4,
+  "gazetaweb": 2,
+  "selesnafes": 5,
   "diariodoamapa": 8,
   "oimparcial": 7,
-  "jornaldaparaiba": 5,
+  "jornaldaparaiba": 4,
   "clickpb": 0,
   "rondoniagora": 1,
   "folhabv": 1,
   "roraimaemtempo": "não respondeu",
   "infonet": 6,
   "conexaoto": 1,
-  "atarde": 3,
-  "bnews": 1,
+  "atarde": 1,
+  "bnews": 0,
   "portalodia": 0,
-  "jornaldebrasilia": 9,
+  "jornaldebrasilia": "feed inválido",
   "maisgoias": 5,
-  "extra": 10,
+  "extra": 11,
   "diariodoscampos": 0,
   "bandab": 0,
   "tribunapr": 0,
   "osul": 28,
   "jornalnh": 8,
-  "scc10": 2,
+  "scc10": "não respondeu",
   "odocumento": 2,
   "dgabc": 2,
   "acidadeon": 0,
@@ -161,8 +161,8 @@
   "saibamais": "não respondeu",
   "emtempo": 2,
   "diariodopara": 4,
-  "acritica": 8,
-  "amazonasatual": 6,
+  "acritica": 7,
+  "amazonasatual": 4,
   "portalamazonia": 0,
   "jc": 3,
   "movimentoeconomico": 1,
@@ -174,10 +174,10 @@
   "campograndenews": "não respondeu",
   "bemparana": 0,
   "ndmais": 0,
-  "nsctotal": 9,
-  "estadodeminas": 2,
+  "nsctotal": 10,
+  "estadodeminas": 0,
   "diariodocomercio": 0,
-  "agazeta": 3,
+  "agazeta": 2,
   "folhavitoria": 5,
   "odia": 0,
   "govbr": 0,
@@ -187,6 +187,657 @@
   "gdelt": 0
  },
  "noticias": [
+  {
+   "titulo": "Ex-funcionário de creche enfrenta 202 acusações de abuso na Austrália",
+   "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/29/ex-funcionario-de-creche-enfrenta-202-acusacoes-na-australia.ghtm",
+   "resumo": "O ex-funcionário de creche Ashley Paul Griffith enfrenta 202 acusações de suposto abuso sexual infantil em Nova Gales do Sul, na Austrália, segundo informações publicadas pela ABC News.",
+   "data": "2026-10-30T01:58:18.067083+00:00",
+   "fonte": "UOL Notícias",
+   "fonte_id": "uol",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "818c88fffef9",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "818c88fffef9",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Brasil reduz trabalho infantil ao menor nível da série, mas descumpre meta de erradicação",
+   "link": "https://www.osul.com.br/brasil-reduz-trabalho-infantil-ao-menor-nivel-da-serie-mas-descumpre-meta-de-erradicacao/",
+   "resumo": "O trabalho infantil registrou em 2025 os menores níveis de uma série histórica iniciada em 2016 no Brasil, apontam dados divulgados...",
+   "data": "2026-10-30T00:54:53+00:00",
+   "fonte": "O Sul",
+   "fonte_id": "osul",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Meta"
+   ],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "RS",
+   "fonte_regiao": "Sul",
+   "editoria": "A",
+   "id": "49ba0213e5a7",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "49ba0213e5a7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Polícia resgata aves silvestres de cativeiro irregular e galos em situação de maus-tratos no interior do Ceará",
+   "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/29/policia-resgata-aves-silvestres-de-cativeiro-irregular-e-galos-em-situacao-de-maus-tratos-no-interior-do-ceara.ghtml",
+   "resumo": "Polícia resgatou aves silvestres e galos em situação de maus tratos em Ipueiras, no Ceará. Divulgação A Polícia Militar do Ceará (PMCE) resgatou 11 aves silvestres e apreendeu sete galos com sinais de maus-tratos e mantidos em cativeiro em Ipueiras, no interior do estado. Um homem de 38 anos foi conduzido à delegacia e as autoridades aplicaram multa no valor total de R$ 16 mil por infração ambient",
+   "data": "2026-10-30T00:53:44+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "CE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "c83ae283d448",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "c83ae283d448",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Crimes patrimoniais caem em setembro, enquanto estupros crescem no Grande ABC",
+   "link": "https://www.dgabc.com.br/Noticia/4365897/crimes-patrimoniais-caem-em-setembro-enquanto-estupros-crescem-no-grande-abc",
+   "resumo": "Casos de violência sexual têm alta de 21,7% em um ano e chegam a 56; roubos e furtos diminuem 20,7% e 17,8%, respectivamente",
+   "data": "2026-10-30T00:43:00+00:00",
+   "fonte": "Diário do Grande ABC",
+   "fonte_id": "dgabc",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "SP",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "b47185a81814",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "b47185a81814",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Professor do Ifba vence Prêmio Jabuti com livro sobre racismo e diversidade na infância",
+   "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/29/professor-do-ifba-vence-premio-jabuti-com-livro-sobre-racismo-e-diversidade-na-infancia.ghtml",
+   "resumo": "Professor Manual Alves de Sousa Junior vence Prêmio Jabuti com livro sobre racismo e diversidade na infância Divulgação O professor e pesquisador do Instituto Federal da Bahia (Ifba) Manuel Alves de Sousa Junior foi um dos vencedores do 68º Prêmio Jabuti. Ele foi premiado na categoria Educação, com o livro \"Como conversar com crianças sobre racismo e diversidade\". O resultado foi anunciado na terç",
+   "data": "2026-10-30T00:27:09+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "BA"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "e11599ceeb21",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "1d4cbf6a29e8",
+   "n_fontes": 2
+  },
+  {
+   "titulo": "Suspeito de incendiar namorada após discussão é preso na Bahia; jovem está grávida",
+   "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/29/suspeito-de-incendiar-namorada-e-preso.ghtml",
+   "resumo": "Suspeito de tentativa de feminicídio é preso pela Polícia O homem de 18 anos suspeito de incendiar a namorada após uma discussão, em Vitória da Conquista, no sudoeste da Bahia, foi preso nesta quinta-feira (29), três dias após o crime. A vítima está grávida. Saymon Santos Silva era procurado pela polícia e já havia um mandado de prisão em seu nome. A medida judicial foi cumprida após o investigado",
+   "data": "2026-10-30T00:22:04+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "BA"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "f49719d9bfe9",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "f49719d9bfe9",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem é morto com tiro na cabeça e mulher fica gravemente ferida em ataque no Taquari",
+   "link": "https://ac24horas.com/2026/10/29/homem-e-morto-com-tiro-na-cabeca-e-mulher-fica-gravemente-ferida-em-ataque-no-taquari/",
+   "resumo": "Um ataque a tiros registrado na tarde desta quinta-feira (29) deixou Altemir de Souza Menezes, de 49 anos, morto, e Luciana da Silva Bogado, de 26 anos, gravemente ferida na Travessa Baguary, nas proximidades da Escola Elias Mansur, no bairro Taquari, Segundo Distrito de Rio Branco. De acordo com informações da Polícia, Luciana conduzia uma […]",
+   "data": "2026-10-30T00:13:19+00:00",
+   "fonte": "ac24horas",
+   "fonte_id": "ac24horas",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AC"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "AC",
+   "fonte_regiao": "Norte",
+   "editoria": "N",
+   "id": "64c9676e55f0",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "64c9676e55f0",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Delegada se emociona ao falar sobre vítima de estupro coletivo: 'Falava que tinha nojo dela mesma'",
+   "link": "https://g1.globo.com/go/goias/noticia/2026/10/29/delegada-se-emociona-ao-falar-sobre-vitima-de-estupro-coletivo-falava-que-tinha-nojo-dela-mesma.ghtml",
+   "resumo": "Polícia procura adolescente suspeito de envolvimento em estupro coletivo A delegada Magda D'Ávila se emocionou ao falar sobre a mulher vítima de estupro coletivo em Bela Vista de Goiás, na Região Metropolitana de Goiânia. \"Ela ficava o tempo todo assim, falando que estava com nojo dela, o que as pessoas iam falar\", descreveu. Magda disse ainda que agradece a Deus por ser mulher para receber a víti",
+   "data": "2026-10-30T00:13:08+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "GO"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "07f2cc7685dc",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "07f2cc7685dc",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher é ameaçada com faca pelo ex-companheiro e filhos intervêm para defendê-la em SC",
+   "link": "https://www.nsctotal.com.br/seguranca/mulher-e-ameacada-com-faca-pelo-ex-companheiro-e-filhos-intervem-para-defende-la-em-sc",
+   "resumo": "Um jovem ficou ferido ao tentar defender a mãe de um ataque do ex-companheiro dela, em Balneário Rincão, no Sul de Santa Catarina. O homem teria invadido o pátio da residência, agredido a mulher e ameaçado matá-la com uma faca. O caso foi registrado pela Polícia Militar como tentativa de feminicídio e lesão corporal dolosa. […] O post Mulher é ameaçada com faca pelo ex-companheiro e filhos intervê",
+   "data": "2026-10-30T00:09:38+00:00",
+   "fonte": "NSC Total (SC)",
+   "fonte_id": "nsctotal",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SC"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "N",
+   "id": "3ea32dccee03",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "3ea32dccee03",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Athletico-PR escala jogador condenado por crimes de estupro contra o Grêmio",
+   "link": "https://www.cnnbrasil.com.br/esportes/futebol/athletico-paranaense/athletico-pr-escala-jogador-condenado-por-crimes-de-estupro-contra-o-gremio/",
+   "resumo": "Léo Derik volta ao time titular do Furacão após a decisão em primeira instância pelo 2º Juizado de Violência Doméstica e Familiar contra a Mulher de Curitiba",
+   "data": "2026-10-30T00:03:25+00:00",
+   "fonte": "CNN Brasil",
+   "fonte_id": "cnnbrasil",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PR"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "a5543b11e377",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "a5543b11e377",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Quem era Pablo da Silva, o \"Barbeiro mirim\", assassinado aos 14 anos em Cachoeirinha",
+   "link": "https://www.folhape.com.br/noticias/quem-era-pablo-da-silva-o-barbeiro-mirim-assassinado-aos-14-anos/521415/",
+   "resumo": "Conhecido na internet como \"Barbeiro mirim\", José Pablo da Silva Macedo, de 14 anos, foi assassinado na noite da última quarta-feira (28), no município de Cachoeirinha, no Agreste de Pernambuco. O adolescente ficou conhecido nacionalmente por trabalhar desde os 12 anos cortando cabelos, após perder a mãe em decorrência de um câncer de útero. A sua história repercutiu em 2024 após a participação em",
+   "data": "2026-10-30T00:00:00+00:00",
+   "fonte": "Folha de Pernambuco",
+   "fonte_id": "folhape",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "PE",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "7bf178bb6111",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "7bf178bb6111",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Cidade de SP tem alta de 4,7% nos estupros em setembro; roubos e homicídios caem",
+   "link": "https://www.dgabc.com.br/Noticia/4365888/cidade-de-sp-tem-alta-de-4-7-nos-estupros-em-setembro-roubos-e-homicidios-caem",
+   "resumo": "",
+   "data": "2026-10-29T23:50:00+00:00",
+   "fonte": "Diário do Grande ABC",
+   "fonte_id": "dgabc",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "SP",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "f62c54aaac60",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "f62c54aaac60",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Idoso é condenado a 30 anos de prisão por matar esposa esfaqueada durante discussão em MT",
+   "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/29/idoso-e-condenado-a-30-anos-de-prisao-por-matar-esposa-esfaqueada-durante-discussao-em-mt.ghtml",
+   "resumo": "Idoso é preso suspeito de matar esposa a facadas em MT Reprodução Ivaldo Luiz Polesello foi condenado a 30 anos e 10 meses de prisão pelo feminicídio da esposa, Ivaldete Coutinho de Oliveira Polesello, de 58 anos, em Sorriso, a 420 km de Cuiabá. O julgamento ocorreu nesta quinta-feira (29), e os jurados reconheceram que o assassinato foi cometido em contexto de violência doméstica e familiar contr",
+   "data": "2026-10-29T23:49:10+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "MT"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "ff639eff18c7",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "ff639eff18c7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Pacientes do Espaço Trans do HC passam por cirurgia de neovaginoplastia com pele de tilápia",
+   "link": "https://www.folhape.com.br/noticias/pacientes-do-espaco-trans-do-hc-passam-por-cirurgia-de/521465/",
+   "resumo": "Três pacientes do Espaço de Acolhimento e Cuidado de Pessoas Trans e Travestis do Hospital das Clínicas (HC), da Universidade Federal de Pernambuco (UFPE), passaram por uma cirurgia de neovaginoplastia, que amplia o canal vaginal utilizando a pele de tilápia do Nilo. A ginecologista do HC, Aleide Tavares, destacou que o hospital, uma das referências nacionais em cirurgias de afirmação de gênero, p",
+   "data": "2026-10-29T23:45:00+00:00",
+   "fonte": "Folha de Pernambuco",
+   "fonte_id": "folhape",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "PE",
+   "fonte_regiao": "Nordeste",
+   "editoria": "G",
+   "id": "6e0bd44f9950",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "6e0bd44f9950",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Vídeo: Robô de entrega ignora sinal vermelho e bate com ônibus na Estônia",
+   "link": "https://www.cnnbrasil.com.br/internacional/video-robo-de-entrega-ignora-sinal-vermelho-e-bate-com-onibus-na-estonia/",
+   "resumo": "Motorista freou veículo bruscamente antes da colisão; imagens mostram passageiros caindo e se ferindo após a manobra do condutor, que tentou evitar um acidente mais grave",
+   "data": "2026-10-29T23:25:00+00:00",
+   "fonte": "CNN Brasil",
+   "fonte_id": "cnnbrasil",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "4a05ab3c9cd5",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "4a05ab3c9cd5",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "TSE decide que condenados por violência contra a mulher são inelegíveis",
+   "link": "https://www.agazeta.com.br/brasil/tse-decide-que-condenados-por-violencia-contra-a-mulher-sao-inelegiveis-1026",
+   "resumo": "",
+   "data": "2026-10-29T23:10:57+00:00",
+   "fonte": "A Gazeta (ES)",
+   "fonte_id": "agazeta",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "TSE"
+   ],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "ES",
+   "fonte_regiao": "Sudeste",
+   "editoria": "L",
+   "id": "34cd9dbb59cd",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "34cd9dbb59cd",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "TSE barra candidatura de condenado por violência contra mulher em decisão histórica",
+   "link": "https://www.terra.com.br/noticias/brasil/politica/tse-barra-candidatura-de-condenado-por-violencia-contra-mulher-em-decisao-historica,06714c0aa09ac5e389e7ca954fc58b675ekcjl6u.html",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) decidiu, por unanimidade, nesta quinta-feira, 29, impedir a ...",
+   "data": "2026-10-29T23:09:11+00:00",
+   "fonte": "Terra – Nós",
+   "fonte_id": "terra",
+   "tipo": "Imprensa especializada",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "TSE"
+   ],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "12287a2c5cd5",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "12287a2c5cd5",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Sucuri é com sinais de maus-tratos é encontrada em saco de estopa na Zona Norte de Manaus",
+   "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/29/sucuri-e-com-sinais-de-maus-tratos-e-encontrada-em-saco-de-estopa-na-zona-norte-de-manaus.ghtml",
+   "resumo": "Sucuri é com sinais de maus-tratos é encontrada em Manaus Uma sucuri foi resgatada em situação de vulnerabilidade e com sinais de maus-tratos no bairro Santa Etelvina, na Zona Norte de Manaus, na quarta-feira (28). A cobra foi encontrada dentro de um saco de estopa, em meio a entulhos, durante uma ação do Patrulhamento Ambiental da Guarda Municipal de Manaus. Segundo a Secretaria Municipal de Segu",
+   "data": "2026-10-29T23:07:37+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AM"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "f9ab7cf36f55",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "f9ab7cf36f55",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Trabalhador sofre descarga elétrica durante poda de mangueira e fica ferido, em Rorainópolis",
+   "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/29/trabalhador-sofre-descarga-eletrica-durante-poda-mangueira-e-fica-ferido-em-rorainopolis.ghtml",
+   "resumo": "Vítima ficou ferida na mãe e no pé Arquivo pessoal Um trabalhador de 25 anos sofreu uma descarga elétrica enquanto podava uma mangueira nesta quinta-feira (29), em uma no bairro Suelândia, em Rorainópolis, no Sul de Roraima. O acidente ocorreu por volta das 10h. Segundo a Polícia Militar, o jovem cortava um dos galhos da árvore, que ficava próximo à rede de distribuição de energia elétrica. O galh",
+   "data": "2026-10-29T23:00:08+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RR"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "9ffe12e844cc",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "9ffe12e844cc",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "MP vai denunciar namorada de motorista do Porsche por falso testemunho",
+   "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mp-vai-denunciar-namorada-de-motorista-do-porsche-por-falso-testemunho/",
+   "resumo": "Giovanna Pinheiro Silva afirmou que réu não consumiu álcool mas acusado admitiu ter bebido antes de dirigir no julgamento em São Paulo",
+   "data": "2026-10-29T22:56:44+00:00",
+   "fonte": "CNN Brasil",
+   "fonte_id": "cnnbrasil",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Ministério Público"
+   ],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "040ec9199654",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "040ec9199654",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Secretário de Mobilidade de Salvador relata ameaça à mãe em meio à crise por falta de ônibus na eleição",
+   "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/29/secretario-de-mobilidade-de-salvador-relata-ameaca-a-mae.ghtml",
+   "resumo": "Secretário Artes g1 BA - Redes sociais O secretário de Mobilidade de Salvador, Pablo Souza, denunciou nas redes sociais uma mensagem ofensiva enviada por um internauta em seu perfil. Em publicação feita nesta quinta-feira (29), o gestor mostrou um print em que o autor desejava a morte de sua mãe. O episódio ocorre em meio à repercussão da polêmica envolvendo a operação do transporte público durant",
+   "data": "2026-10-29T22:56:30+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "T",
+   "id": "d0e397b054c8",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "d0e397b054c8",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mais de 560 aprovados em concurso do Degase aguardam nomeação no RJ; falta de efetivo limita vagas para adolescentes infratores",
+   "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/29/aprovados-em-concurso-do-degase-aguardam-nomeacao-no-rj.ghtml",
+   "resumo": "Mais de 560 aprovados em concurso do Degase aguardam nomeação no RJ Mais de 560 candidatos aprovados em um concurso público para o Departamento Geral de Ações Socioeducativas (Degase) aguardam nomeação no Rio de Janeiro. Enquanto isso, a falta de servidores limita a capacidade de atendimento de unidades do sistema socioeducativo, e mais de 600 adolescentes esperam por vagas para internação provisó",
+   "data": "2026-10-29T22:33:47+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RJ"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "E",
+   "oport": true,
+   "id": "f33f391466c8",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "f33f391466c8",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Troca de tiros após tentativa de invasão a condomínio deixa um morto em SP",
+   "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/troca-de-tiros-apos-tentativa-de-invasao-a-condominio-deixa-um-morto-em-sp.shtml",
+   "resumo": "Um homem morreu e um casal foi preso após uma troca de tiros durante uma tentativa de invasão a um condomínio na Vila Leopoldina, na zona oeste de São Paulo , nesta quinta-feira (29). Uma mulher que passava pela rua foi baleada, mas está fora de risco. Leia mais (10/29/2026 - 19h15)",
+   "data": "2026-10-29T22:15:00+00:00",
+   "fonte": "Folha de S.Paulo",
+   "fonte_id": "folha",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "26701e938ce7",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "26701e938ce7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Professora é afastada após defender violência sexual contra filhos de eleitores de Lula",
+   "link": "https://selesnafes.com/2026/10/professora-e-afastada-apos-defender-violencia-sexual-contra-filhos-de-eleitores-de-lula/",
+   "resumo": "Por PEDRO PESSOA, de Belém (PA) Uma professora da rede municipal de ensino de Melgaço, no arquipélago do Marajó, no Pará, foi afastada das atividades após publicar mensagens nas redes sociais defendendo a violência sexual contra filhos de eleitores do presidente Luiz Inácio Lula da Silva (PT). O caso provocou indignação e levou a prefeitura […]",
+   "data": "2026-10-29T22:13:47+00:00",
+   "fonte": "Portal SelesNafes",
+   "fonte_id": "selesnafes",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PA"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "AP",
+   "fonte_regiao": "Norte",
+   "editoria": "P",
+   "id": "516ddfc85144",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "516ddfc85144",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem é preso por importunação sexual contra passageira dentro de ônibus no Recife",
+   "link": "https://www.folhape.com.br/noticias/homem-e-preso-por-importunacao-sexual-contra-passageira-dentro-de/521439/",
+   "resumo": "Um homem de 32 anos, suspeito de praticar importunação sexual contra uma passageira dentro de um ônibus, foi preso em flagrante na quarta-feira (28), no bairro de Boa Viagem, na Zona Sul do Recife. De acordo com a Polícia Civil de Pernambuco (PCPE), o homem praticou atos libidinosos e chegou a ejacular sobre a vítima, uma mulher de 38 anos. O ônibus fazia a linha PE-15/Boa Viagem. Segundo a Políci",
+   "data": "2026-10-29T22:11:00+00:00",
+   "fonte": "Folha de Pernambuco",
+   "fonte_id": "folhape",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "PE"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": "PE",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "55f9803b9626",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "095a7f6801c0",
+   "n_fontes": 2
+  },
+  {
+   "titulo": "TSE indefere candidatura de João Neto com base na nova Lei do Feminicídio",
+   "link": "https://www.jota.info/eleicoes/eleicoes-2026/tse-indefere-candidatura-de-joao-neto-com-base-na-nova-lei-do-feminicidio",
+   "resumo": "Tribunal pede ao Congresso que avalie inclusão de violência contra a mulher no hall de crimes que resultam em inelegibilidade",
+   "data": "2026-10-29T21:53:52+00:00",
+   "fonte": "JOTA",
+   "fonte_id": "jota",
+   "tipo": "Imprensa jurídica",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "TSE"
+   ],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "4ea1e31a892d",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "4ea1e31a892d",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Favela Champions terá mais de 400 vagas para jovens atletas de comunidades do Rio",
+   "link": "https://extra.globo.com/blogs/mma/post/2026/10/favela-champions-tera-mais-de-400-vagas-para-jovens-atletas-de-comunidades-do-rio.ghtml",
+   "resumo": "Jovens atletas de favelas do Rio de Janeiro terão a oportunidade de competir em uma estrutura profissional durante a segunda edição do Favela Champions, marcada para os dias 21 e 22 de novembro, no Upper Arena, no Morro Azul, no Flamengo, Zona Sul da cidade. Organizado pela Luta Pela Paz, o campeonato oferece 432 vagas gratuitas para disputas de boxe, judô, muay thai, jiu-jitsu e luta livre esport",
+   "data": "2026-10-29T21:51:14+00:00",
+   "fonte": "Extra",
+   "fonte_id": "extra",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RJ"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "RJ",
+   "fonte_regiao": "Sudeste",
+   "editoria": "E",
+   "oport": true,
+   "id": "46bf073b26da",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "46bf073b26da",
+   "n_fontes": 1
+  },
   {
    "titulo": "Polícia Civil prende 121 homens por violência doméstica em outubro",
    "link": "http://www.ba.gov.br/comunicacao/noticias/2026-10/385081/policia-civil-prende-121-homens-por-violencia-domestica-em-outubro",
@@ -378,6 +1029,33 @@
    "n_fontes": 1
   },
   {
+   "titulo": "Condenação por violência de gênero pode tornar candidato inelegível, decide TSE",
+   "link": "https://revistamarieclaire.globo.com/violencia-de-genero/noticia/2026/10/tse-torna-inelegiveis-condenados-por-violencia-contra-a-mulher.ghtml",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) decidiu por unanimidade, nesta quinta-feira (29), que candidatos condenados por agressão contra mulheres podem ficar inelegíveis por oito anos. A decisão foi tomada durante o julgamento do recurso de João Francisco de Assis Neto, conhecido como Dr. João Neto (Solidariedade-AL), que tentou disputar uma vaga de deputado federal por Alagoas nas eleições de 2026. A ",
+   "data": "2026-10-29T21:29:43+00:00",
+   "fonte": "Marie Claire",
+   "fonte_id": "marieclaire",
+   "tipo": "Imprensa especializada",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "TSE"
+   ],
+   "ufs": [
+    "AL"
+   ],
+   "regioes": [
+    "Nordeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "58af1c31a996",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "15ee9483e2c5",
+   "n_fontes": 8
+  },
+  {
    "titulo": "Duas mulheres ficam feridas em acidente de parapente em São Conrado",
    "link": "https://oglobo.globo.com/rio/bairros/zona-sul/noticia/2026/10/29/duas-mulheres-ficam-feridas-em-acidente-de-parapente-em-sao-conrado.ghtml",
    "resumo": "Duas mulheres ficaram feridas em um acidente com parapente nesta quinta-feira (29), em São Conrado, na Zona Sul do Rio. Segundo informações do Corpo de Bombeiros, as equipes foram acionadas às 11h28, e as vítimas foram resgatadas por militares do Grupamento Marítimo (GMar) de Copacabana e encaminhadas ao Hospital Municipal Miguel Couto, na Gávea. Uma delas foi classificada como vítima grave, e a o",
@@ -472,6 +1150,27 @@
    "coletado_em": "2026-10-29T21:50:19.402752+00:00",
    "grupo": "218bdfeffc6e",
    "n_fontes": 1
+  },
+  {
+   "titulo": "Richarlison é multado por avançar sinal vermelho em Londres",
+   "link": "https://dol.com.br/esporte/mundo/966921/richarlison-e-multado-por-avancar-sinal-vermelho-em-londres",
+   "resumo": "O atacante brasileiro Richarlison foi condenado por um tribunal londrino ao pagamento de 400 libras, o equivalente a cerca de R$ 2,8 mil, após descumprir norma de trânsito em Londres. O jogador do Tottenham avançou um sinal vermelho em Hendon, noroeste da capital britânica, e ainda perdeu três pontos na carteira de habilitação.Leia também:CBF planeja amistosos contra seleções europeias em 2027Ance",
+   "data": "2026-10-29T21:08:17+00:00",
+   "fonte": "Diário do Pará",
+   "fonte_id": "diariodopara",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "PA",
+   "fonte_regiao": "Norte",
+   "editoria": "L",
+   "id": "72bd40787f6c",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "3330300d6e65",
+   "n_fontes": 2
   },
   {
    "titulo": "Adolescente é conduzido à delegacia após ser flagrado com canivete e cigarro eletrônico em colégio militarizado",
@@ -657,7 +1356,7 @@
    "id": "ff8eb6736ae6",
    "coletado_em": "2026-10-29T21:50:19.402752+00:00",
    "grupo": "15ee9483e2c5",
-   "n_fontes": 7
+   "n_fontes": 8
   },
   {
    "titulo": "Sargento e ex-assessor parlamentar do PSOL são presos suspeitos de exploração sexual de menores",
@@ -755,7 +1454,7 @@
    "id": "095a7f6801c0",
    "coletado_em": "2026-10-29T21:50:19.402752+00:00",
    "grupo": "095a7f6801c0",
-   "n_fontes": 1
+   "n_fontes": 2
   },
   {
    "titulo": "Homem se passa por mulher em grupo de empregos e atrai babás para estupros em MG, diz PC",
@@ -960,6 +1659,27 @@
    "id": "050e41ebd3c3",
    "coletado_em": "2026-10-29T21:50:19.402752+00:00",
    "grupo": "050e41ebd3c3",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Marcado por traumas do passado, Patrick Stewart se tornou aliado pelo fim da violência contra mulheres",
+   "link": "https://revistamarieclaire.globo.com/celebridades/noticia/2026/10/marcado-por-traumas-do-passado-patrick-stewart-se-tornou-aliado-das-mulheres.ghtml",
+   "resumo": "O ator Patrick Stewart, que morreu aos 84 anos nesta quinta-feira (29), foi um aliado na defesa das mulheres contra a violência. Essa postura começou cedo, influenciada por traumas da infância. No ano passado, o ator participou da série documental 'Her Majesty: Behind Closed Doors', promovida pela rainha consorte do Reino Unido, Camila. No relato, ela dise que desde muito cedo presenciou episódios",
+   "data": "2026-10-29T19:57:49+00:00",
+   "fonte": "Marie Claire",
+   "fonte_id": "marieclaire",
+   "tipo": "Imprensa especializada",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "A",
+   "id": "923a9dc213ff",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "923a9dc213ff",
    "n_fontes": 1
   },
   {
@@ -1203,7 +1923,28 @@
    "id": "942d8fa411c0",
    "coletado_em": "2026-10-29T21:50:19.402752+00:00",
    "grupo": "15ee9483e2c5",
-   "n_fontes": 7
+   "n_fontes": 8
+  },
+  {
+   "titulo": "Comissão aprova proposta que tipifica lesbocídio no Código Penal",
+   "link": "https://www.camara.leg.br/noticias/1314858-comissao-aprova-proposta-que-tipifica-lesbocidio-no-codigo-penal",
+   "resumo": "Texto também inclui estupro corretivo lesbofóbico como causa de aumento de pena; projeto de lei segue em análise na Câmara",
+   "data": "2026-10-29T19:20:00+00:00",
+   "fonte": "Agência Câmara de Notícias",
+   "fonte_id": "camara",
+   "tipo": "Legislativo",
+   "setor": "Público",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "bdee73c65233",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "bdee73c65233",
+   "n_fontes": 1
   },
   {
    "titulo": "MC Poze se pronuncia após denúncia de estupro e ameaça por adolescente de 16 anos: 'Disse que era maior de idade'",
@@ -1619,7 +2360,7 @@
    "id": "2b2f2b0c76cc",
    "coletado_em": "2026-10-29T21:50:19.402752+00:00",
    "grupo": "15ee9483e2c5",
-   "n_fontes": 7
+   "n_fontes": 8
   },
   {
    "titulo": "TSE pede ao Congresso que Ficha Limpa barre condenados por agredir mulheres",
@@ -1791,6 +2532,31 @@
    "n_fontes": 1
   },
   {
+   "titulo": "André Kamai cobra providências após jovem ser brutalmente agredida em parque de Rio Branco: “Crime de profundo ódio”",
+   "link": "https://agazetadoacre.com/2026/10/noticias/politica/andre-kamai-cobra-providencias-apos-jovem-ser-brutalmente-agredida-em-parque-de-rio-branco-crime-de-profundo-odio/",
+   "resumo": "O vereador André Kamai (PT) utilizou a tribuna da Câmara Municipal de Rio Branco, nesta quinta-feira, 29, para prestar solidariedade à jovem de 23 anos que foi brutalmente agredida no último domingo de eleição, 25. O parlamentar classificou o ato como uma grave tentativa de feminicídio motivada por transfobia e cobrança de cuidados com os […]",
+   "data": "2026-10-29T17:05:27+00:00",
+   "fonte": "A Gazeta do Acre",
+   "fonte_id": "agazetaac",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AC"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": "AC",
+   "fonte_regiao": "Norte",
+   "editoria": "P",
+   "id": "1541c677fb90",
+   "coletado_em": "2026-10-30T01:58:18.067083+00:00",
+   "grupo": "1541c677fb90",
+   "n_fontes": 1
+  },
+  {
    "titulo": "Promotoria de Justiça obtém 100% dos pleitos em julgamentos no Tribunal do Júri de Ingá",
    "link": "http://www.mppb.mp.br/index.php?view=article&id=27907",
    "resumo": "A Promotoria de Justiça de Ingá, no Agreste paraibano, emplacou 100% dos pleitos em julgamentos realizados pelo Tribunal do Júri da comarca na última reunião, com julgamentos nos últimos dois meses. Entre os casos julgados, o Ministério Público obteve condenações em processos envolvendo feminicídio, homicídio qualificado e tentativa de homicídio, casos de grande repercussão local, destacando-se, a",
@@ -1888,7 +2654,7 @@
    "id": "e45e0ebe6fdd",
    "coletado_em": "2026-10-29T21:50:19.402752+00:00",
    "grupo": "15ee9483e2c5",
-   "n_fontes": 7
+   "n_fontes": 8
   },
   {
    "titulo": "Justiça mantém presos três suspeitos de sequestrar e agredir mulher em Caçapava, SP",
@@ -1936,7 +2702,7 @@
    "id": "f0c9e3c006b8",
    "coletado_em": "2026-10-29T16:56:43.192652+00:00",
    "grupo": "15ee9483e2c5",
-   "n_fontes": 7
+   "n_fontes": 8
   },
   {
    "titulo": "STJ nega por unanimidade novo recurso para levar ao STF análise da condenação de Robinho por estupro",
@@ -2102,7 +2868,7 @@
    "id": "942bb58f85ac",
    "coletado_em": "2026-10-29T16:56:43.192652+00:00",
    "grupo": "15ee9483e2c5",
-   "n_fontes": 7
+   "n_fontes": 8
   },
   {
    "titulo": "Polícia investiga transferências Pix feitas de conta de mulher morta, na Paraíba",
@@ -2392,7 +3158,7 @@
    "id": "15ee9483e2c5",
    "coletado_em": "2026-10-29T16:56:43.192652+00:00",
    "grupo": "15ee9483e2c5",
-   "n_fontes": 7
+   "n_fontes": 8
   },
   {
    "titulo": "Bebê de 20 dias é achado morto dentro de casa; corpo tinha marcas de mordidas, na Paraíba",
@@ -3547,7 +4313,7 @@
    "id": "3330300d6e65",
    "coletado_em": "2026-10-29T16:56:43.192652+00:00",
    "grupo": "3330300d6e65",
-   "n_fontes": 1
+   "n_fontes": 2
   },
   {
    "titulo": "Polícia investiga denúncia de estupro e ameaça contra MC Poze por adolescente de 16 anos",
@@ -4225,7 +4991,7 @@
    "id": "1d4cbf6a29e8",
    "coletado_em": "2026-10-29T01:48:26.426300+00:00",
    "grupo": "1d4cbf6a29e8",
-   "n_fontes": 1
+   "n_fontes": 2
   },
   {
    "titulo": "Carnaval 2027: Prefeitura de Salvador abre inscrições para seis funções; veja",
