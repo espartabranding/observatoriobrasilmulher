@@ -1,7 +1,39 @@
 {
- "gerado_em": "2026-10-30T01:59:18.922310+00:00",
+ "gerado_em": "2026-10-30T16:44:02.137624+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
+  {
+   "id": 2482275,
+   "sigla": "PL 68/2025",
+   "ementa": "Altera a Lei nº 14.192, de 2021, que dispõe sobre a violência política de gênero, e a Lei nº 4.737, de 1965 (Código Eleitoral), para incluir medidas específicas de proteção e apoio a mulheres em espaços de poder que sofram violência política de gênero.",
+   "apresentacao": "2025-02-03",
+   "situacao": "Pronta para Pauta",
+   "orgao": "PLEN",
+   "data_situacao": "2026-10-28",
+   "andamento": "Matéria não apreciada em face do encerramento da Ordem do Dia.",
+   "regime": "Urgência (Art. 155, RICD)",
+   "etapa": "Pronto para votação no Plenário",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482275",
+   "enquete": "https://www.camara.leg.br/enquetes/2482275",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2849857"
+  },
+  {
+   "id": 2613749,
+   "sigla": "PL 1627/2026",
+   "ementa": "Institui, no âmbito da Política Nacional de Mobilidade Urbana, o Programa Transporte Seguro para Elas, destinado à promoção de espaços seguros de prevenção à violência, ao assédio e a outras formas de abuso contra mulheres no serviço de transporte coletivo público de passageiros, e dá outras providências.",
+   "apresentacao": "2026-04-07",
+   "situacao": "Pronta para Pauta",
+   "orgao": "CVT",
+   "data_situacao": "2026-11-03",
+   "andamento": "Prazo para Emendas ao Substitutivo (5 sessões a partir de 04/11/2026)",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Pronto para votação na comissão",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613749",
+   "enquete": "https://www.camara.leg.br/enquetes/2613749",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109151"
+  },
   {
    "id": 2609742,
    "sigla": "PL 1236/2026",
@@ -177,22 +209,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2326442",
    "enquete": "https://www.camara.leg.br/enquetes/2326442",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2182690"
-  },
-  {
-   "id": 2613749,
-   "sigla": "PL 1627/2026",
-   "ementa": "Institui, no âmbito da Política Nacional de Mobilidade Urbana, o Programa Transporte Seguro para Elas, destinado à promoção de espaços seguros de prevenção à violência, ao assédio e a outras formas de abuso contra mulheres no serviço de transporte coletivo público de passageiros, e dá outras providências.",
-   "apresentacao": "2026-04-07",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CVT",
-   "data_situacao": "2026-10-07",
-   "andamento": "Parecer do Relator, Dep. Gilberto Abramo (REPUBLIC-MG), pela aprovação, com substitutivo.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613749",
-   "enquete": "https://www.camara.leg.br/enquetes/2613749",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109151"
   },
   {
    "id": 1301102,
@@ -5809,22 +5825,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601202",
    "enquete": "https://www.camara.leg.br/enquetes/2601202",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3079251"
-  },
-  {
-   "id": 2482275,
-   "sigla": "PL 68/2025",
-   "ementa": "Altera a Lei nº 14.192, de 2021, que dispõe sobre a violência política de gênero, e a Lei nº 4.737, de 1965 (Código Eleitoral), para incluir medidas específicas de proteção e apoio a mulheres em espaços de poder que sofram violência política de gênero.",
-   "apresentacao": "2025-02-03",
-   "situacao": "Aguardando Deliberação",
-   "orgao": "PLEN",
-   "data_situacao": "2026-10-28",
-   "andamento": "Matéria não apreciada em face do encerramento da Ordem do Dia.",
-   "regime": "Urgência (Art. 155, RICD)",
-   "etapa": "Em tramitação",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482275",
-   "enquete": "https://www.camara.leg.br/enquetes/2482275",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2849857"
   },
   {
    "id": 2640996,

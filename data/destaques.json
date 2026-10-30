@@ -1,5 +1,74 @@
 [
  {
+  "id": "a3fed52754",
+  "grupo": "3fed52754983",
+  "e": "S",
+  "img": "cidade",
+  "iso": "2026-10-30T15:25:19+00:00",
+  "date": "30 out 2026",
+  "h": "Medo de assédio afeta rotina de mulheres que usam ônibus no Rio, aponta pesquisa da FGV",
+  "t": "Notícia publicada por g1 em 30 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/30/assedio-mulheres-onibus-pesquisa-fgv.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T16:42:53.301313+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
+  "id": "a7d5e3a174",
+  "grupo": "7d5e3a174796",
+  "e": "P",
+  "img": "esplanada-ministerio-letreiro",
+  "iso": "2026-10-30T15:20:55+00:00",
+  "date": "30 out 2026",
+  "h": "TSE reconhece inelegibilidade para condenados por violência contra mulher",
+  "t": "Notícia publicada por Folha Vitória (ES) em 30 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha Vitória (ES)",
+    "https://www.folhavitoria.com.br/justica/tse-reconhece-inelegibilidade-para-condenados-por-violencia-contra-mulher/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T16:42:53.301313+00:00",
+  "uf": [
+   "AL"
+  ]
+ },
+ {
+  "id": "ace6e594e4",
+  "grupo": "ce6e594e4ab0",
+  "e": "P",
+  "img": "planalto-arcos",
+  "iso": "2026-10-30T14:33:24+00:00",
+  "date": "30 out 2026",
+  "h": "TSE decide que condenação por violência contra a mulher pode levar à inelegibilidade",
+  "t": "Notícia publicada por O Imparcial em 30 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Imparcial",
+    "https://oimparcial.com.br/politica/2026/10/tse-decide-que-condenacao-por-violencia-contra-a-mulher-pode-levar-a-inelegibilidade/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T16:42:53.301313+00:00",
+  "uf": [
+   "AL"
+  ]
+ },
+ {
   "id": "a040ec9199",
   "grupo": "040ec9199654",
   "e": "L",
