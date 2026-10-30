@@ -1,5 +1,28 @@
 [
  {
+  "id": "a896379bb4",
+  "grupo": "896379bb47d1",
+  "e": "A",
+  "img": "creche-bercario",
+  "iso": "2026-10-30T18:11:28+00:00",
+  "date": "30 out 2026",
+  "h": "Família denuncia racismo contra adolescente em escola de Belo Horizonte",
+  "t": "Notícia publicada por O Globo em 30 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Globo",
+    "https://oglobo.globo.com/brasil/noticia/2026/10/30/familia-denuncia-racismo-contra-adolescente-em-escola-de-belo-horizonte.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T21:30:37.250713+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
   "id": "a3fed52754",
   "grupo": "3fed52754983",
   "e": "S",
@@ -46,6 +69,29 @@
   ]
  },
  {
+  "id": "a151a6d1a1",
+  "grupo": "151a6d1a11da",
+  "e": "N",
+  "img": "r-co",
+  "iso": "2026-10-30T14:39:34+00:00",
+  "date": "30 out 2026",
+  "h": "MS concorre a prêmio nacional com iniciativa que reduz tempo de tramitação de medidas protetivas",
+  "t": "Notícia publicada por Agência de Notícias MS em 30 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência de Notícias MS",
+    "https://agenciadenoticias.ms.gov.br/ms-concorre-a-premio-nacional-com-iniciativa-que-reduz-tempo-de-tramitacao-de-medidas-protetivas/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T21:30:37.250713+00:00",
+  "uf": [
+   "MS"
+  ]
+ },
+ {
   "id": "ace6e594e4",
   "grupo": "ce6e594e4ab0",
   "e": "P",
@@ -66,6 +112,33 @@
   "criado_em": "2026-10-30T16:42:53.301313+00:00",
   "uf": [
    "AL"
+  ]
+ },
+ {
+  "id": "a64c9676e5",
+  "grupo": "64c9676e55f0",
+  "e": "N",
+  "img": "r-norte",
+  "iso": "2026-10-30T00:13:19+00:00",
+  "date": "29 out 2026",
+  "h": "Homem é morto com tiro na cabeça e mulher fica gravemente ferida em ataque no Taquari",
+  "t": "Notícia publicada por ac24horas em 29 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/10/noticias/policia/homem-e-morto-com-tiro-na-cabeca-e-mulher-fica-ferida-durante-ataque-em-rio-branco/"
+   ],
+   [
+    "ac24horas",
+    "https://ac24horas.com/2026/10/29/homem-e-morto-com-tiro-na-cabeca-e-mulher-fica-gravemente-ferida-em-ataque-no-taquari/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-30T21:30:37.250713+00:00",
+  "uf": [
+   "AC"
   ]
  },
  {
