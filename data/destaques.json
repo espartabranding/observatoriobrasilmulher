@@ -1,5 +1,51 @@
 [
  {
+  "id": "a8960419f7",
+  "grupo": "8960419f71a8",
+  "e": "A",
+  "img": "r-co",
+  "iso": "2026-10-31T18:04:00+00:00",
+  "date": "31 out 2026",
+  "h": "Pai descobre estupro da filha após carta e vizinho é denunciado pelo MP",
+  "t": "Notícia publicada por Campo Grande News (MS) em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Campo Grande News (MS)",
+    "https://www.campograndenews.com.br/cidades/capital/pai-descobre-estupro-da-filha-apos-carta-e-vizinho-e-denunciado-pelo-mp"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T19:59:13.602702+00:00",
+  "uf": [
+   "MS"
+  ]
+ },
+ {
+  "id": "abdaede999",
+  "grupo": "bdaede999ac5",
+  "e": "A",
+  "img": "r-sul",
+  "iso": "2026-10-31T14:56:21+00:00",
+  "date": "31 out 2026",
+  "h": "Dois homens são presos suspeitos de abusar de menina de 12 anos; um deles teria feito o mesmo com a irmã da vítima",
+  "t": "Notícia publicada por Banda B em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Banda B",
+    "https://www.bandab.com.br/seguranca/dois-homens-presos-estupro-menina-12-anos-parana/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T19:59:13.602702+00:00",
+  "uf": [
+   "PR"
+  ]
+ },
+ {
   "id": "a531ecdbba",
   "grupo": "531ecdbbaad4",
   "e": "I",
@@ -279,6 +325,33 @@
   "criado_em": "2026-10-30T01:58:18.788158+00:00",
   "uf": [
    "SP"
+  ]
+ },
+ {
+  "id": "a516ddfc85",
+  "grupo": "516ddfc85144",
+  "e": "P",
+  "img": "r-norte",
+  "iso": "2026-10-29T22:13:47+00:00",
+  "date": "29 out 2026",
+  "h": "Professora é afastada após defender violência sexual contra filhos de eleitores de Lula",
+  "t": "Notícia publicada por Portal SelesNafes em 29 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ClickPB",
+    "https://www.clickpb.com.br/politica/professora-filho-eleitor-lula.html"
+   ],
+   [
+    "Portal SelesNafes",
+    "https://selesnafes.com/2026/10/professora-e-afastada-apos-defender-violencia-sexual-contra-filhos-de-eleitores-de-lula/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T19:59:13.602702+00:00",
+  "uf": [
+   "PA"
   ]
  },
  {
