@@ -1,5 +1,51 @@
 [
  {
+  "id": "aa72796b1f",
+  "grupo": "a72796b1f32c",
+  "e": "S",
+  "img": "f-biblioteca-vitral",
+  "iso": "2026-10-30T23:43:12+00:00",
+  "date": "30 out 2026",
+  "h": "No Orun: Jô Gonçalves deixa legado de luta pelos direitos das mulheres",
+  "t": "Notícia publicada por Geledés – Instituto da Mulher Negra em 30 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Geledés – Instituto da Mulher Negra",
+    "https://www.geledes.org.br/no-orun-jo-goncalves-deixa-legado-de-luta-pelos-direitos-das-mulheres/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T01:36:50.674241+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
+  "id": "ace02c46cf",
+  "grupo": "ce02c46cf175",
+  "e": "L",
+  "img": "r-nordeste",
+  "iso": "2026-10-30T20:18:09+00:00",
+  "date": "30 out 2026",
+  "h": "Themis realiza agenda em Salvador para fortalecer articulações em defesa dos direitos das mulheres",
+  "t": "Notícia publicada por Themis – Gênero, Justiça e Direitos Humanos em 30 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Themis – Gênero, Justiça e Direitos Humanos",
+    "https://themis.org.br/themis-realiza-agenda-em-salvador-para-fortalecer-articulacoes-em-defesa-dos-direitos-das-mulheres/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T01:36:50.674241+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
   "id": "a896379bb4",
   "grupo": "896379bb47d1",
   "e": "A",
@@ -162,6 +208,33 @@
   "criado_em": "2026-10-30T01:58:18.788158+00:00",
   "uf": [
    "SP"
+  ]
+ },
+ {
+  "id": "a095a7f680",
+  "grupo": "095a7f6801c0",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-10-29T20:20:39+00:00",
+  "date": "29 out 2026",
+  "h": "Homem é preso por importunação sexual dentro de ônibus no Recife",
+  "t": "Notícia publicada por Jornal do Commercio (PE) em 29 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha de Pernambuco",
+    "https://www.folhape.com.br/noticias/homem-e-preso-por-importunacao-sexual-contra-passageira-dentro-de/521439/"
+   ],
+   [
+    "Jornal do Commercio (PE)",
+    "https://jc.uol.com.br/colunas/seguranca/2026/10/29/homem-e-preso-por-importunacao-sexual-dentro-de-onibus-no-recife.html"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T01:36:50.674241+00:00",
+  "uf": [
+   "PE"
   ]
  },
  {
