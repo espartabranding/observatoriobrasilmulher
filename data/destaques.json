@@ -1,5 +1,52 @@
 [
  {
+  "id": "abbf0591ff",
+  "grupo": "bbf0591ff1e4",
+  "e": "N",
+  "img": "delegacia-geral",
+  "iso": "2026-10-31T18:49:38+00:00",
+  "date": "31 out 2026",
+  "h": "Mulher Banana, ex-Furacão 2000, é encontrada morta em casa",
+  "t": "Notícia publicada por O Dia (RJ) em 31 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal NH",
+    "https://www.abcmais.com/gente/mulher-banana-nome-do-furacao-2000-e-encontrada-morta-em-casa/"
+   ],
+   [
+    "O Dia (RJ)",
+    "https://odia.ig.com.br/rio-de-janeiro/2026/10/7318134-mulher-banana-ex-furacao-2000-e-encontrada-morta-em-casa.html"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T23:23:49.848610+00:00"
+ },
+ {
+  "id": "a9cc8d528a",
+  "grupo": "9cc8d528a624",
+  "e": "A",
+  "img": "cmb-brinquedoteca",
+  "iso": "2026-10-31T18:38:42+00:00",
+  "date": "31 out 2026",
+  "h": "PM comenta possível sequestro de crianças em cidade mineira",
+  "t": "Notícia publicada por Estado de Minas em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Estado de Minas",
+    "https://www.em.com.br/gerais/2026/10/7531537-pm-comenta-possivel-sequestro-de-criancas-em-cidade-mineira.html"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T23:23:49.848610+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
   "id": "a8960419f7",
   "grupo": "8960419f71a8",
   "e": "A",
@@ -21,6 +68,26 @@
   "uf": [
    "MS"
   ]
+ },
+ {
+  "id": "aec46805da",
+  "grupo": "ec46805da69a",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-10-31T17:14:00+00:00",
+  "date": "31 out 2026",
+  "h": "Em 7 anos, Patrulha Maria da Penha acompanhou mais de 135 mil mulheres",
+  "t": "Notícia publicada por Agência Brasil em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/em-7-anos-patrulha-maria-da-penha-acompanhou-mais-de-135-mil-mulheres"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T23:23:49.848610+00:00"
  },
  {
   "id": "abdaede999",
