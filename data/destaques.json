@@ -1,5 +1,28 @@
 [
  {
+  "id": "a531ecdbba",
+  "grupo": "531ecdbbaad4",
+  "e": "I",
+  "img": "cmb-alojamento",
+  "iso": "2026-10-31T12:20:12+00:00",
+  "date": "31 out 2026",
+  "h": "Governo do Piauí avança na construção da Casa da Mulher Brasileira de Parnaíba, com mais de 30% das obras concluídas",
+  "t": "Notícia publicada por Governo do Piauí – Notícias em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo do Piauí – Notícias",
+    "https://www.pi.gov.br/governo-do-piaui-avanca-na-construcao-da-casa-da-mulher-brasileira-de-parnaiba-com-mais-de-30-das-obras-concluidas/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T15:45:40.814573+00:00",
+  "uf": [
+   "PI"
+  ]
+ },
+ {
   "id": "aa72796b1f",
   "grupo": "a72796b1f32c",
   "e": "S",
@@ -161,6 +184,30 @@
   ]
  },
  {
+  "id": "a3a67f1220",
+  "grupo": "3a67f1220b25",
+  "e": "L",
+  "img": "forum-fachada-letreiro",
+  "iso": "2026-10-30T08:03:00+00:00",
+  "date": "30 out 2026",
+  "h": "TSE confirma inelegibilidade de condenado por violência contra a mulher",
+  "t": "Notícia publicada por Cidade Verde (PI) em 30 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ClickPB",
+    "https://www.clickpb.com.br/politica/tse-inelegibilidade-condenado-violencia.html"
+   ],
+   [
+    "Cidade Verde (PI)",
+    "https://cidadeverde.com/politica/465565/tse-confirma-inelegibilidade-de-condenado-por-violencia-contra-a-mulher"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T15:45:40.814573+00:00"
+ },
+ {
   "id": "a64c9676e5",
   "grupo": "64c9676e55f0",
   "e": "N",
@@ -186,6 +233,30 @@
   "uf": [
    "AC"
   ]
+ },
+ {
+  "id": "a12287a2c5",
+  "grupo": "12287a2c5cd5",
+  "e": "L",
+  "img": "forum-sao-carlos",
+  "iso": "2026-10-29T23:09:11+00:00",
+  "date": "29 out 2026",
+  "h": "TSE barra candidatura de condenado por violência contra mulher em decisão histórica",
+  "t": "Notícia publicada por Terra – Nós em 29 out 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Terra – Nós",
+    "https://www.terra.com.br/noticias/brasil/politica/tse-barra-candidatura-de-condenado-por-violencia-contra-mulher-em-decisao-historica,06714c0aa09ac5e389e7ca954fc58b675ekcjl6u.html"
+   ],
+   [
+    "IstoÉ",
+    "https://istoe.com.br/tse-barra-candidatura-condenado-violencia-contra-mulher"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-10-31T15:45:40.814573+00:00"
  },
  {
   "id": "a040ec9199",
