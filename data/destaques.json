@@ -1,5 +1,74 @@
 [
  {
+  "id": "ac9eddd3b9",
+  "grupo": "c9eddd3b9dda",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-10-31T22:32:38+00:00",
+  "date": "31 out 2026",
+  "h": "Homem e mulher são mortos a tiros no bairro Vila Eduardo, em Petrolina",
+  "t": "Notícia publicada por g1 em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/31/homem-e-mulher-sao-mortos-a-tiros-no-bairro-vila-eduardo-em-petrolina.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-01T06:01:53.829072+00:00",
+  "uf": [
+   "PE"
+  ]
+ },
+ {
+  "id": "aed7b6e28d",
+  "grupo": "ed7b6e28d3b9",
+  "e": "L",
+  "img": "tjpr-sede",
+  "iso": "2026-10-31T22:01:32+00:00",
+  "date": "31 out 2026",
+  "h": "Justiça condena irmãos por maus-tratos a animais em abrigo clandestino de Garça; um deles é veterinário",
+  "t": "Notícia publicada por g1 em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/31/justica-condena-irmaos-por-maus-tratos-a-animais-em-abrigo-clandestino-de-garca-um-deles-e-veterinario.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-01T06:01:53.829072+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
+  "id": "a0a3e7a4a9",
+  "grupo": "0a3e7a4a97cb",
+  "e": "G",
+  "img": "chapada-diamantina-vale",
+  "iso": "2026-10-31T20:48:24+00:00",
+  "date": "31 out 2026",
+  "h": "Filha de Marielle denuncia ofensas racistas contra mãe em grupo da PUC",
+  "t": "Notícia publicada por A Tarde em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Tarde",
+    "https://atarde.com.br/politica/filha-de-marielle-denuncia-ofensas-racistas-contra-mae-em-grupo-da-puc-1407862"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-01T06:01:53.829072+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
   "id": "abbf0591ff",
   "grupo": "bbf0591ff1e4",
   "e": "N",
