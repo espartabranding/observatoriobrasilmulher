@@ -1,5 +1,72 @@
 [
  {
+  "id": "aae540e31a",
+  "grupo": "ae540e31a630",
+  "e": "S",
+  "img": "f-usp-reitoria",
+  "iso": "2026-11-01T20:00:46+00:00",
+  "date": "1 nov 2026",
+  "h": "Ambiciosa ou inconveniente? Filme com Isabelle Huppert explora o julgamento das mulheres",
+  "t": "Notícia publicada por CLAUDIA em 1 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CLAUDIA",
+    "https://claudia.abril.com.br/coluna/ana-claudia-paixao/a-ilustre-desconhecida-critica-filme-isabelle-huppert/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-01T21:12:23.522163+00:00"
+ },
+ {
+  "id": "aa1d2720b7",
+  "grupo": "a1d2720b78c9",
+  "e": "A",
+  "img": "r-sul",
+  "iso": "2026-11-01T19:41:11+00:00",
+  "date": "1 nov 2026",
+  "h": "Adolescente de 17 anos desaparecido há três dias é encontrado morto dentro do mar em praia de SC",
+  "t": "Notícia publicada por ND+ (SC) em 1 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ND+ (SC)",
+    "https://ndmais.com.br/seguranca/adolescente-de-17-anos-que-estava-desaparecido-e-encontrado-morto-em-praia-de-sc/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-01T21:12:23.522163+00:00",
+  "uf": [
+   "SC"
+  ]
+ },
+ {
+  "id": "a38a6352a5",
+  "grupo": "38a6352a526f",
+  "e": "A",
+  "img": "conselho-tutelar-casarao",
+  "iso": "2026-11-01T14:54:53+00:00",
+  "date": "1 nov 2026",
+  "h": "PM encontra moto furtada em garagem ao apurar denúncia de violência doméstica em MG",
+  "t": "Notícia publicada por g1 em 1 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/01/pm-encontra-moto-furtada-em-garagem-ao-apurar-denuncia-de-violencia-domestica-em-mg.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-01T21:12:23.522163+00:00",
+  "uf": [
+   "MG",
+   "SP"
+  ]
+ },
+ {
   "id": "ac9eddd3b9",
   "grupo": "c9eddd3b9dda",
   "e": "N",
