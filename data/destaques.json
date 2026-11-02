@@ -1,5 +1,48 @@
 [
  {
+  "id": "a6b3a762ca",
+  "grupo": "6b3a762cafbf",
+  "e": "L",
+  "img": "mpmg-sede",
+  "iso": "2026-11-02T13:19:14+00:00",
+  "date": "2 nov 2026",
+  "h": "Mãe é condenada a 7 prisões perpétuas nos EUA após filha de 11 anos ser abusada pelo padrasto e dar à luz em casa",
+  "t": "Notícia publicada por O Globo em 2 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Globo",
+    "https://oglobo.globo.com/mundo/epoca/noticia/2026/11/02/mae-e-condenada-a-7-prisoes-perpetuas-nos-eua-apos-filha-de-11-anos-ser-abusada-pelo-padrasto-e-dar-a-luz-em-casa.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T20:22:31.971401+00:00"
+ },
+ {
+  "id": "aa6aa3d265",
+  "grupo": "a6aa3d26518c",
+  "e": "H",
+  "img": "r-nordeste",
+  "iso": "2026-11-02T06:34:06+00:00",
+  "date": "2 nov 2026",
+  "h": "Acidente entre carro e moto deixa dois mortos e uma mulher ferida, em Gado Bravo",
+  "t": "Notícia publicada por Jornal da Paraíba em 2 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal da Paraíba",
+    "https://jornaldaparaiba.com.br/cotidiano/acidente-entre-carro-e-moto-deixa-dois-mortos-e-uma-mulher-ferida-em-gado-bravo"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T20:22:31.971401+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
   "id": "acefc3095f",
   "grupo": "cefc3095f077",
   "e": "L",
@@ -198,6 +241,26 @@
    "MG",
    "SP"
   ]
+ },
+ {
+  "id": "a433403ca3",
+  "grupo": "433403ca3a87",
+  "e": "L",
+  "img": "f-stj-sede",
+  "iso": "2026-11-01T00:23:11+00:00",
+  "date": "31 out 2026",
+  "h": "Conselho Nacional de Justiça aprova norma que proíbe retaliar, controlar ou intimidar mulheres que denunciam agressões ou exercem seus direitos",
+  "t": "Notícia publicada por O Sul em 31 out 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Sul",
+    "https://www.osul.com.br/conselho-nacional-de-justica-aprova-norma-que-proibe-retaliar-controlar-ou-intimidar-mulheres-que-denunciam-agressoes-ou-exercem-seus-direitos/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T20:22:31.971401+00:00"
  },
  {
   "id": "ac9eddd3b9",
