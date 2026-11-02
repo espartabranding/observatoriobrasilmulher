@@ -1,5 +1,25 @@
 [
  {
+  "id": "acefc3095f",
+  "grupo": "cefc3095f077",
+  "e": "L",
+  "img": "mpba-sede",
+  "iso": "2026-11-01T22:49:00+00:00",
+  "date": "1 nov 2026",
+  "h": "Casos de violência política quadruplicam em outubro no Disque 100",
+  "t": "Notícia publicada por Poder360 em 1 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Poder360",
+    "https://www.poder360.com.br/poder-eleicoes-2026/casos-de-violencia-politica-quadruplicam-em-outubro-no-disque-100/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T07:41:41.761230+00:00"
+ },
+ {
   "id": "a3ec17d5c3",
   "grupo": "3ec17d5c3763",
   "e": "A",
@@ -46,6 +66,29 @@
   ]
  },
  {
+  "id": "ab97a6c8b7",
+  "grupo": "b97a6c8b75dc",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-11-01T20:43:07+00:00",
+  "date": "1 nov 2026",
+  "h": "Motoristas podem avançar sinal vermelho de madrugada em Goiânia; veja regras",
+  "t": "Notícia publicada por Mais Goiás em 1 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Mais Goiás",
+    "https://www.maisgoias.com.br/cidades/goiania/motoristas-podem-avancar-sinal-vermelho-de-madrugada-em-goiania-veja-regras/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T07:41:41.761230+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
   "id": "aae540e31a",
   "grupo": "ae540e31a630",
   "e": "S",
@@ -87,6 +130,26 @@
   "uf": [
    "SC"
   ]
+ },
+ {
+  "id": "a7686d5247",
+  "grupo": "7686d5247d09",
+  "e": "S",
+  "img": "f-ufmg-reitoria",
+  "iso": "2026-11-01T18:47:24+00:00",
+  "date": "1 nov 2026",
+  "h": "Machismo? Libertadores masculina paga até 16 vezes mais que a feminina",
+  "t": "Notícia publicada por A Tarde em 1 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Tarde",
+    "https://atarde.com.br/esportes/machismo-libertadores-masculina-paga-ate-16-vezes-mais-que-a-feminina-1407935"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T07:41:41.761230+00:00"
  },
  {
   "id": "a5b9466f73",
