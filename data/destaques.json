@@ -1,5 +1,51 @@
 [
  {
+  "id": "a3ec17d5c3",
+  "grupo": "3ec17d5c3763",
+  "e": "A",
+  "img": "r-co",
+  "iso": "2026-11-01T21:13:00+00:00",
+  "date": "1 nov 2026",
+  "h": "No mês da criança, 21 inquéritos de estupro de vulnerável foram abertos por dia",
+  "t": "Notícia publicada por Campo Grande News (MS) em 1 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Campo Grande News (MS)",
+    "https://www.campograndenews.com.br/brasil/cidades/no-mes-da-crianca-21-inqueritos-de-estupro-de-vulneravel-foram-abertos-por-dia"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T00:45:09.990597+00:00",
+  "uf": [
+   "MS"
+  ]
+ },
+ {
+  "id": "a52c41edfd",
+  "grupo": "52c41edfd24d",
+  "e": "N",
+  "img": "deam-viatura-df",
+  "iso": "2026-11-01T20:52:00+00:00",
+  "date": "1 nov 2026",
+  "h": "Homem é morto a facada após discussão com a companheira",
+  "t": "Notícia publicada por Campo Grande News (MS) em 1 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Campo Grande News (MS)",
+    "https://www.campograndenews.com.br/cidades/interior/homem-e-morto-a-facada-apos-discussao-com-a-companheira"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T00:45:09.990597+00:00",
+  "uf": [
+   "MS"
+  ]
+ },
+ {
   "id": "aae540e31a",
   "grupo": "ae540e31a630",
   "e": "S",
@@ -41,6 +87,30 @@
   "uf": [
    "SC"
   ]
+ },
+ {
+  "id": "a5b9466f73",
+  "grupo": "5b9466f73b76",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-11-01T15:36:32+00:00",
+  "date": "1 nov 2026",
+  "h": "Mulher é morta a facadas pelo companheiro em Colatina",
+  "t": "Notícia publicada por Folha Vitória (ES) em 1 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta (ES)",
+    "https://www.agazeta.com.br/agora/mulher-e-morta-a-facadas-no-meio-da-rua-pelo-companheiro-em-colatina-1126"
+   ],
+   [
+    "Folha Vitória (ES)",
+    "https://www.folhavitoria.com.br/policia/mulher-e-morta-a-facadas-pelo-companheiro-em-colatina/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-02T00:45:09.990597+00:00"
  },
  {
   "id": "a38a6352a5",
