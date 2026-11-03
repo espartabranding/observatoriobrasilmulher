@@ -1,5 +1,74 @@
 [
  {
+  "id": "ac19fadb18",
+  "grupo": "c19fadb182b9",
+  "e": "A",
+  "img": "r-nordeste",
+  "iso": "2026-11-03T17:48:18+00:00",
+  "date": "3 nov 2026",
+  "h": "Homem é condenado a 27 anos por abusar de criança e gravar violência sexual no RN",
+  "t": "Notícia publicada por Agora RN em 3 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agora RN",
+    "https://agorarn.com.br/policia/homem-e-condenado-a-27-anos-por-abusar-de-crianca-e-gravar-violencia-sexual-no-rn/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T17:52:24.156475+00:00",
+  "uf": [
+   "RN"
+  ]
+ },
+ {
+  "id": "a18279e2a6",
+  "grupo": "18279e2a638f",
+  "e": "N",
+  "img": "delegacia-geral",
+  "iso": "2026-11-03T14:48:56+00:00",
+  "date": "3 nov 2026",
+  "h": "Ricardo Coutinho é conduzido para delegacia suspeito de fazer gestos para crianças; ex-governador cita tentativa de golpe",
+  "t": "Notícia publicada por Portal Correio em 3 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Portal Correio",
+    "https://portalcorreio.com.br/ricardo-coutinho-e-conduzido-para-delegacia-suspeito-de-fazer-gestos-para-criancas-ex-governador-cita-tentativa-de-golpe/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T17:52:24.156475+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "acf8a593f6",
+  "grupo": "cf8a593f60ca",
+  "e": "I",
+  "img": "r-co",
+  "iso": "2026-11-03T12:10:48+00:00",
+  "date": "3 nov 2026",
+  "h": "Goiás registra aumento de 88% nos atendimentos psicológicos a mulheres em situação de violência",
+  "t": "Notícia publicada por Secretaria da Mulher e Desenvolvimento Social – GO em 3 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secretaria da Mulher e Desenvolvimento Social – GO",
+    "https://goias.gov.br/social/goias-registra-aumento-de-88-nos-atendimentos-psicologicos-a-mulheres-em-situacao-de-violencia/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T17:52:24.156475+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
   "id": "a74e28aa2d",
   "grupo": "74e28aa2d304",
   "e": "H",
