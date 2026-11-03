@@ -1,5 +1,79 @@
 [
  {
+  "id": "a74e28aa2d",
+  "grupo": "74e28aa2d304",
+  "e": "H",
+  "img": "f-hospital-estadual",
+  "iso": "2026-11-03T00:20:40+00:00",
+  "date": "2 nov 2026",
+  "h": "Mulher simula dor para ir a hospital e denuncia cárcere em Goiás",
+  "t": "Notícia publicada por CNN Brasil em 2 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CNN Brasil",
+    "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/mulher-simula-dor-para-ir-a-hospital-e-denuncia-carcere-em-goias/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T02:55:46.819017+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
+  "id": "a0e112ad7c",
+  "grupo": "0e112ad7c4d4",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-11-02T19:05:00+00:00",
+  "date": "2 nov 2026",
+  "h": "Pecuarista investigado pelo feminicídio de namorada é encontrado morto em fazenda em SP",
+  "t": "Notícia publicada por Folha de S.Paulo em 2 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Estado de Minas",
+    "https://www.em.com.br/nacional/2026/11/7532133-pecurista-investigado-pelo-feminicidio-de-namorada-e-encontrado-morto-em-fazenda-em-sp.html"
+   ],
+   [
+    "Folha de S.Paulo",
+    "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/pecurista-investigado-pelo-feminicidio-de-namorada-e-encontrado-morto-em-fazenda-em-sp.shtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T02:55:46.819017+00:00",
+  "uf": [
+   "MG",
+   "SP"
+  ]
+ },
+ {
+  "id": "a71cb44974",
+  "grupo": "71cb4497408b",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-11-02T13:40:00+00:00",
+  "date": "2 nov 2026",
+  "h": "Grande São Paulo registra queda de 27% nos feminicídios entre janeiro e setembro",
+  "t": "Notícia publicada por Agência SP em 2 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/seguranca-publica/feminicidios-caem-27-na-grande-sao-paulo-entre-janeiro-e-setembro/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T02:55:46.819017+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "a6b3a762ca",
   "grupo": "6b3a762cafbf",
   "e": "L",
