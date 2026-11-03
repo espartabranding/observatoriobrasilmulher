@@ -1,5 +1,71 @@
 [
  {
+  "id": "ab6275d333",
+  "grupo": "b6275d333875",
+  "e": "I",
+  "img": "cmb-fachada-df",
+  "iso": "2026-11-03T23:05:17+00:00",
+  "date": "3 nov 2026",
+  "h": "Aparecida de Goiânia terá casa de acolhimento para mulheres vítimas de violência doméstica",
+  "t": "Notícia publicada por Jornal Opção (GO) em 3 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal Opção (GO)",
+    "https://www.jornalopcao.com.br/ultimas-noticias/aparecida-de-goiania-tera-casa-de-acolhimento-para-mulheres-vitimas-de-violencia-domestica-885242/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T23:23:09.711538+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
+  "id": "a757af50bf",
+  "grupo": "757af50bff50",
+  "e": "I",
+  "img": "r-sul",
+  "iso": "2026-11-03T21:33:13+00:00",
+  "date": "3 nov 2026",
+  "h": "Ônibus de enfrentamento à violência contra a mulher estará no Comac e percorre 11 municípios em novembro",
+  "t": "Notícia publicada por Governo de SC – Notícias em 3 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo de SC – Notícias",
+    "https://noticias.sc.gov.br/onibus-de-enfrentamento-a-violencia-contra-a-mulher-estara-no-comac-e-percorre-11-municipios-em-novembro/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T23:23:09.711538+00:00",
+  "uf": [
+   "SC"
+  ]
+ },
+ {
+  "id": "a2eaf28e12",
+  "grupo": "2eaf28e12637",
+  "e": "A",
+  "img": "conselho-tutelar-sede",
+  "iso": "2026-11-03T21:26:00+00:00",
+  "date": "3 nov 2026",
+  "h": "Comissão debate denúncia sobre existência de plataforma digital com conteúdo de abuso sexual infantil",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 3 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1315314-comissao-debate-denuncia-sobre-existencia-de-plataforma-digital-com-conteudo-de-abuso-sexual-infantil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-03T23:23:09.711538+00:00"
+ },
+ {
   "id": "ac19fadb18",
   "grupo": "c19fadb182b9",
   "e": "A",
