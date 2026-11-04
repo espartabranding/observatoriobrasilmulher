@@ -1,5 +1,78 @@
 [
  {
+  "id": "ac8e5a14f8",
+  "grupo": "c8e5a14f8464",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-11-04T16:27:59+00:00",
+  "date": "4 nov 2026",
+  "h": "Polícia de SP prende na zona leste procurada por estupro de vulnerável no Ceará",
+  "t": "Notícia publicada por Agência SP em 4 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/seguranca-publica/policia-sp-procurada-ceara/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T18:00:07.595311+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "a765a6d72e",
+  "grupo": "765a6d72e01e",
+  "e": "P",
+  "img": "politica",
+  "iso": "2026-11-04T15:25:39+00:00",
+  "date": "4 nov 2026",
+  "h": "CDH aprova Política Nacional de Enfrentamento à Violência contra a Mulher",
+  "t": "Notícia publicada por Agência Senado em 4 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-aprova-politica-nacional-de-enfrentamento-a-violencia-contra-a-mulher"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T18:00:07.595311+00:00",
+  "uf": [
+   "RS"
+  ]
+ },
+ {
+  "id": "a55bc3e479",
+  "grupo": "55bc3e479a0c",
+  "e": "A",
+  "img": "r-norte",
+  "iso": "2026-11-04T08:19:07+00:00",
+  "date": "4 nov 2026",
+  "h": "PF prende suspeito de abuso sexual infantil no Pará",
+  "t": "Notícia publicada por Diário do Pará em 4 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/pa/para/noticia/2026/11/04/pf-prende-suspeito-de-estupro-com-fotos-e-videos-de-abuso-sexual-infantil-no-para.ghtml"
+   ],
+   [
+    "Diário do Pará",
+    "http://dol.com.br/noticias/policia/967313/pf-prende-suspeito-de-abuso-sexual-infantil-no-para"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T18:00:07.595311+00:00",
+  "uf": [
+   "PA"
+  ]
+ },
+ {
   "id": "ab6275d333",
   "grupo": "b6275d333875",
   "e": "I",
