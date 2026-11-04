@@ -23,6 +23,54 @@
   ]
  },
  {
+  "id": "a180ba6812",
+  "grupo": "180ba6812066",
+  "e": "L",
+  "img": "f-stj-ipes",
+  "iso": "2026-11-03T22:27:54+00:00",
+  "date": "3 nov 2026",
+  "h": "Justiça condena 99 a indenizar vítima estuprada após ser deixada na rua por motorista de app em MG",
+  "t": "Notícia publicada por Estadão em 3 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal NH",
+    "https://www.abcmais.com/pais/justica-condena-99-a-indenizar-vitima-estuprada-apos-ser-deixada-na-rua-por-motorista-de-app/"
+   ],
+   [
+    "Estadão",
+    "https://www.estadao.com.br/brasil/justica-condena-99-indenizar-vitima-estuprada-deixada-rua-motorista-app-mg-npr/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T06:19:22.098707+00:00"
+ },
+ {
+  "id": "a159516e08",
+  "grupo": "159516e08794",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-11-03T21:53:00+00:00",
+  "date": "3 nov 2026",
+  "h": "Polícia investiga denúncia de estupro coletivo contra adolescente em Itapema",
+  "t": "Notícia publicada por ND+ (SC) em 3 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/03/adolescente-denuncia-estupro-coletivo-durante-sc-policia-investiga.ghtml"
+   ],
+   [
+    "ND+ (SC)",
+    "https://ndmais.com.br/video/policia-investiga-denuncia-de-estupro-coletivo-contra-adolescente-em-itapema/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T06:19:22.098707+00:00"
+ },
+ {
   "id": "a757af50bf",
   "grupo": "757af50bff50",
   "e": "I",
@@ -64,6 +112,30 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-03T23:23:09.711538+00:00"
+ },
+ {
+  "id": "a56ef321da",
+  "grupo": "56ef321da7c3",
+  "e": "L",
+  "img": "f-tjdft",
+  "iso": "2026-11-03T18:53:00+00:00",
+  "date": "3 nov 2026",
+  "h": "Justiça condena 99 a pagar R$ 300 mil a vítima de estupro abandonada na rua",
+  "t": "Notícia publicada por Estado de Minas em 3 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CartaCapital",
+    "https://www.cartacapital.com.br/justica/justica-condena-99-a-vitima-de-estupro-que-foi-deixada-desacordada-na-rua/"
+   ],
+   [
+    "Estado de Minas",
+    "https://www.em.com.br/gerais/2026/11/7532592-justica-condena-99-a-pagar-rs-300-mil-a-vitima-de-estupro-abandonada-na-rua.html"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T06:19:22.098707+00:00"
  },
  {
   "id": "ac19fadb18",
