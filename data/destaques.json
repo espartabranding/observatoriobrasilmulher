@@ -1,5 +1,74 @@
 [
  {
+  "id": "a56efae122",
+  "grupo": "56efae122f97",
+  "e": "L",
+  "img": "r-co",
+  "iso": "2026-11-04T22:33:45+00:00",
+  "date": "4 nov 2026",
+  "h": "PIGL: GDF descumpre decisão judicial e segue sem retomar atendimento às vítimas de violência sexual no DF",
+  "t": "Notícia publicada por CFEMEA – Centro Feminista de Estudos e Assessoria em 4 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CFEMEA – Centro Feminista de Estudos e Assessoria",
+    "https://www.cfemea.org.br/pt/?view=article&id=11845:gdf-descumpre_atendimento-vitimas&catid=587"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T23:40:31.085965+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "a49fc35aec",
+  "grupo": "49fc35aec177",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-11-04T20:24:57+00:00",
+  "date": "4 nov 2026",
+  "h": "Suspeito de descumprir medida protetiva de urgência é preso pela PCCE em Caucaia",
+  "t": "Notícia publicada por Governo do Ceará – Notícias em 4 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo do Ceará – Notícias",
+    "https://www.ce.gov.br/2026/11/04/suspeito-de-descumprir-medida-protetiva-de-urgencia-e-preso-pela-pcce-em-caucaia/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T23:40:31.085965+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "ab5cc4b6b0",
+  "grupo": "b5cc4b6b01ca",
+  "e": "P",
+  "img": "f-esplanada-aerea",
+  "iso": "2026-11-04T19:46:25+00:00",
+  "date": "4 nov 2026",
+  "h": "MPES realiza Ouvidoria Itinerante em Cariacica, com serviços e reforço à rede de proteção à mulher",
+  "t": "Notícia publicada por MPES – Ministério Público Espírito Santo em 4 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPES – Ministério Público Espírito Santo",
+    "https://mpes.mp.br/noticias/2026/11/04/mpes-realiza-ouvidoria-itinerante-em-cariacica-com-servicos-e-reforco-a-rede-de-protecao-a-mulher/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-04T23:40:31.085965+00:00",
+  "uf": [
+   "ES"
+  ]
+ },
+ {
   "id": "ac8e5a14f8",
   "grupo": "c8e5a14f8464",
   "e": "N",
