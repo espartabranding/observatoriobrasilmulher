@@ -1,5 +1,45 @@
 [
  {
+  "id": "a3e3c9cf75",
+  "grupo": "3e3c9cf75f87",
+  "e": "L",
+  "img": "f-tjsp",
+  "iso": "2026-11-04T23:47:09+00:00",
+  "date": "4 nov 2026",
+  "h": "Áudio: Política de enfrentamento à violência contra a mulher avança no Senado",
+  "t": "Notícia publicada por Agência Senado em 4 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/audios/2026/11/politica-de-enfrentamento-a-violencia-contra-a-mulher-avanca-no-senado"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T06:45:26.651428+00:00"
+ },
+ {
+  "id": "a4632f92cf",
+  "grupo": "4632f92cf5e8",
+  "e": "A",
+  "img": "parquinho-praca",
+  "iso": "2026-11-04T23:07:46+00:00",
+  "date": "4 nov 2026",
+  "h": "Áudio: Estatuto da Criança e do Adolescente será atualizado",
+  "t": "Notícia publicada por Agência Senado em 4 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/audios/2026/11/estatuto-da-crianca-e-do-adolescente-sera-atualizado"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T06:45:26.651428+00:00"
+ },
+ {
   "id": "a56efae122",
   "grupo": "56efae122f97",
   "e": "L",
@@ -20,6 +60,29 @@
   "criado_em": "2026-11-04T23:40:31.085965+00:00",
   "uf": [
    "DF"
+  ]
+ },
+ {
+  "id": "a3369fe062",
+  "grupo": "3369fe062557",
+  "e": "P",
+  "img": "r-norte",
+  "iso": "2026-11-04T20:32:58+00:00",
+  "date": "4 nov 2026",
+  "h": "Felipe Tchê propõe que Guarda Municipal de Rio Branco atue com Patrulha Maria da Penha na proteção de mulheres",
+  "t": "Notícia publicada por A Gazeta do Acre em 4 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/11/noticias/politica/felipe-tche-propoe-que-guarda-municipal-de-rio-branco-atue-com-patrulha-maria-da-penha-na-protecao-de-mulheres/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T06:45:26.651428+00:00",
+  "uf": [
+   "AC"
   ]
  },
  {
