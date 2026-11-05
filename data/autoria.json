@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-05T06:47:01.949161+00:00",
+"gerado_em": "2026-11-05T18:04:21.390186+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -29958,6 +29958,91 @@
 178887
 ],
 "lido_em": "2026-11-04"
+},
+"2650686": {
+"sigla": "PL 5758/2026",
+"ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 – Código Eleitoral, para assegurar transferência temporária de seção eleitoral às mulheres vítimas de violência doméstica e familiar que estejam sob medida protetiva de urgência vigente.",
+"apresentacao": "2026-11-04",
+"situacao": "",
+"data_situacao": "2026-11-04",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+178972
+],
+"principal": [
+178972
+],
+"lido_em": "2026-11-05"
+},
+"2649523": {
+"sigla": "PL 5694/2026",
+"ementa": "Institui o Programa Nacional de Reinserção Profissional da Mulher, destinado a promover o retorno ao mercado de trabalho de mulheres que tenham interrompido ou reduzido sua atividade profissional em razão de responsabilidades de cuidado, enfermidade de dependente ou situação de violência.",
+"apresentacao": "2026-10-29",
+"situacao": "",
+"data_situacao": "2026-10-29",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220603
+],
+"principal": [
+220603
+],
+"lido_em": "2026-11-05"
+},
+"2649521": {
+"sigla": "PL 5692/2026",
+"ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para vedar a concessão de livramento condicional aos condenados pela prática de crimes contra a dignidade sexual.",
+"apresentacao": "2026-10-29",
+"situacao": "",
+"data_situacao": "2026-10-29",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220603
+],
+"principal": [
+220603
+],
+"lido_em": "2026-11-05"
+},
+"2650500": {
+"sigla": "PL 5753/2026",
+"ementa": "Altera as Leis nº 13.146, de 6 de julho de 2015, nº 8.069, de 13 de julho de 1990, nº 12.764, de 27 de dezembro de 2012, e nº 14.620, de 13 de julho de 2023, para dispor sobre a moradia para a vida independente da pessoa com deficiência, inclusive da pessoa com transtorno do espectro autista e sobre a preparação de crianças e adolescentes com deficiência para a vida adulta.",
+"apresentacao": "2026-11-04",
+"situacao": "",
+"data_situacao": "2026-11-04",
+"orgao": "MESA",
+"lei": false,
+"tema": "criancas",
+"autores": [
+178946
+],
+"principal": [
+178946
+],
+"lido_em": "2026-11-05"
+},
+"2649804": {
+"sigla": "PL 5734/2026",
+"ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer critérios de contextualização e garantias procedimentais na classificação indicativa de diversões e espetáculos públicos e de programas de rádio e televisão.",
+"apresentacao": "2026-11-03",
+"situacao": "",
+"data_situacao": "2026-11-03",
+"orgao": "MESA",
+"lei": false,
+"tema": "criancas",
+"autores": [
+220574
+],
+"principal": [
+220574
+],
+"lido_em": "2026-11-05"
 }
 },
 "deputados": {

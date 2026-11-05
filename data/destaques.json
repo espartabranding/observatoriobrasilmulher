@@ -1,5 +1,80 @@
 [
  {
+  "id": "af2d695efd",
+  "grupo": "f2d695efd895",
+  "e": "P",
+  "img": "f-esplanada-cc0",
+  "iso": "2026-11-05T15:25:00+00:00",
+  "date": "5 nov 2026",
+  "h": "Márcia Lopes detalha campanha pelo Fim da Violência contra a Mulher",
+  "t": "Notícia publicada por Agência Brasil em 5 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/ministra-convoca-campanha-pelo-fim-da-violencia-contra-mulher"
+   ],
+   [
+    "Folha de Pernambuco",
+    "https://www.folhape.com.br/noticias/ministra-marcia-lopes-detalha-campanha-pelo-fim-da-violencia-contra-a/522607/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T18:01:34.206732+00:00"
+ },
+ {
+  "id": "a605a48b0f",
+  "grupo": "605a48b0f471",
+  "e": "L",
+  "img": "f-palacio-justica",
+  "iso": "2026-11-05T14:26:46+00:00",
+  "date": "5 nov 2026",
+  "h": "Russell Brand é considerado culpado de um estupro e três crimes de agressão sexual",
+  "t": "Notícia publicada por Marie Claire em 5 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Marie Claire",
+    "https://revistamarieclaire.globo.com/noticias/noticia/2026/11/russel-brand-e-considerado-culpado.ghtml"
+   ],
+   [
+    "O Sul",
+    "https://www.osul.com.br/russell-brand-e-considerado-culpado-por-estupro-e-agressao-sexual/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T18:01:34.206732+00:00"
+ },
+ {
+  "id": "ac2df7228f",
+  "grupo": "c2df7228f5ba",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-11-05T14:08:05+00:00",
+  "date": "5 nov 2026",
+  "h": "Prisão de médico suspeito de abuso sexual contra pacientes em Caaporã é convertida em preventiva",
+  "t": "Notícia publicada por Jornal da Paraíba em 5 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ClickPB",
+    "https://www.clickpb.com.br/policial/medico-caapora-prisao.html"
+   ],
+   [
+    "Jornal da Paraíba",
+    "https://jornaldaparaiba.com.br/cotidiano/prisao-de-medico-suspeito-de-abuso-sexual-contra-pacientes-em-caapora-e-convertida-em-preventiva"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T18:01:34.206732+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
   "id": "a3e3c9cf75",
   "grupo": "3e3c9cf75f87",
   "e": "L",
