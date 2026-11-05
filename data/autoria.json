@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-05T18:04:21.390186+00:00",
+"gerado_em": "2026-11-05T23:41:43.259970+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -30043,6 +30043,83 @@
 220574
 ],
 "lido_em": "2026-11-05"
+},
+"2651219": {
+"sigla": "PL 5782/2026",
+"ementa": "Dispõe sobre a garantia de direitos acadêmicos às estudantes vítimas de violência doméstica em todos os níveis de ensino, na rede pública e privada",
+"apresentacao": "2026-11-05",
+"situacao": "",
+"data_situacao": "2026-11-05",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+74057
+],
+"principal": [
+74057
+],
+"lido_em": "2026-11-05"
+},
+"2651096": {
+"sigla": "PL 5774/2026",
+"ementa": "Altera a Lei nº 15.409, de 20 de maio de 2026, para assegurar à mulher o direito de consultar o Cadastro Nacional de Pessoas Condenadas por Violência contra a Mulher (CNVM).",
+"apresentacao": "2026-11-05",
+"situacao": "",
+"data_situacao": "2026-11-05",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220652
+],
+"principal": [
+220652
+],
+"lido_em": "2026-11-05"
+},
+"2650684": {
+"sigla": "PLP 283/2026",
+"ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para incluir entre as causas de inelegibilidade a condenação por crime praticado mediante violência contra a mulher.",
+"apresentacao": "2026-11-04",
+"situacao": "",
+"data_situacao": "2026-11-04",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220660
+],
+"principal": [
+220660
+],
+"lido_em": "2026-11-05"
+},
+"2649648": {
+"sigla": "PLP 278/2026",
+"ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei de Inelegibilidades), para incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino.",
+"apresentacao": "2026-10-30",
+"situacao": "",
+"data_situacao": "2026-10-30",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220676,
+220528,
+160548,
+139285,
+220662,
+220668,
+160517,
+220667,
+141533,
+204534
+],
+"principal": [
+160548
+],
+"lido_em": "2026-11-05"
 }
 },
 "deputados": {
@@ -37720,6 +37797,38 @@
 "Professor"
 ],
 "lido_em": "2026-10-18"
+},
+"160517": {
+"nome": "Paulo Folletto",
+"nome_civil": "PAULO ROBERTO FOLLETTO",
+"partido": "PSB",
+"uf": "ES",
+"foto": "https://www.camara.leg.br/internet/deputado/bandep/160517.jpg",
+"situacao": "Exercício",
+"sexo": "M",
+"nascimento": "1956-04-30",
+"naturalidade": "Colatina - ES",
+"escolaridade": "Superior",
+"email": "dep.paulofolletto@camara.leg.br",
+"profissoes": [],
+"lido_em": "2026-11-05"
+},
+"220662": {
+"nome": "Lucas Ramos",
+"nome_civil": "LUCAS CAVALCANTI RAMOS",
+"partido": "PSB",
+"uf": "PE",
+"foto": "https://www.camara.leg.br/internet/deputado/bandep/220662.jpg",
+"situacao": "Exercício",
+"sexo": "M",
+"nascimento": "1986-02-14",
+"naturalidade": "Recife - PE",
+"escolaridade": "Superior",
+"email": "dep.lucasramos@camara.leg.br",
+"profissoes": [
+"Administrador"
+],
+"lido_em": "2026-11-05"
 }
 }
 }

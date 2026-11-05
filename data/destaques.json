@@ -1,5 +1,48 @@
 [
  {
+  "id": "a48997bd81",
+  "grupo": "48997bd81012",
+  "e": "A",
+  "img": "balanco-ninho",
+  "iso": "2026-11-05T18:57:51+00:00",
+  "date": "5 nov 2026",
+  "h": "Áudio: CSP analisa confisco de bens usados em crimes sexuais e tráfico de crianças",
+  "t": "Notícia publicada por Agência Senado em 5 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/audios/2026/11/csp-analisa-confisco-de-bens-usados-em-crimes-sexuais-e-trafico-de-criancas"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T23:38:59.321720+00:00",
+  "uf": [
+   "ES"
+  ]
+ },
+ {
+  "id": "aac0ba2409",
+  "grupo": "ac0ba240928e",
+  "e": "S",
+  "img": "f-recife-antigo",
+  "iso": "2026-11-05T18:32:30+00:00",
+  "date": "5 nov 2026",
+  "h": "MDHC recebe representantes de países nórdicos para diálogo sobre direitos humanos e igualdade de gênero",
+  "t": "Notícia publicada por MDHC – Notícias (Disque 100, crianças e adolescentes) em 5 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MDHC – Notícias (Disque 100, crianças e adolescentes)",
+    "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-recebe-representantes-de-paises-nordicos-para-dialogo-sobre-direitos-humanos-e-igualdade-de-genero"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T23:38:59.321720+00:00"
+ },
+ {
   "id": "af2d695efd",
   "grupo": "f2d695efd895",
   "e": "P",
@@ -46,6 +89,26 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-05T18:01:34.206732+00:00"
+ },
+ {
+  "id": "ad4c65a3a5",
+  "grupo": "d4c65a3a55f6",
+  "e": "A",
+  "img": "escola-municipal-portao",
+  "iso": "2026-11-05T14:26:20+00:00",
+  "date": "5 nov 2026",
+  "h": "Vídeo: Senado atualiza ECA para assegurar educação básica dos 4 aos 17 anos",
+  "t": "Notícia publicada por Agência Senado em 5 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/videos/2026/11/senado-atualiza-eca-para-assegurar-educacao-basica-dos-4-aos-17-anos"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-05T23:38:59.321720+00:00"
  },
  {
   "id": "ac2df7228f",
