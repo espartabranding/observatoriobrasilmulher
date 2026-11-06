@@ -1,5 +1,74 @@
 [
  {
+  "id": "a54f4bbe1b",
+  "grupo": "54f4bbe1b64b",
+  "e": "N",
+  "img": "r-sul",
+  "iso": "2026-11-06T06:00:00+00:00",
+  "date": "6 nov 2026",
+  "h": "Mãe confessa que matou os dois filhos, de 1 e de 5 anos, enquanto dormiam e depois abandonou corpos, no Paraná",
+  "t": "Notícia publicada por g1 em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/06/mae-confessa-que-matou-os-dois-filhos-de-1-e-de-5-anos-enquanto-dormiam-e-depois-abandonou-corpos-no-parana.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-06T06:42:06.649507+00:00",
+  "uf": [
+   "PR"
+  ]
+ },
+ {
+  "id": "acba88ae44",
+  "grupo": "cba88ae446f7",
+  "e": "N",
+  "img": "deam-viatura-df",
+  "iso": "2026-11-06T03:15:06+00:00",
+  "date": "6 nov 2026",
+  "h": "‘Achei que era de mentira’: mulher é esfaqueada em festa de Halloween na Grande SP",
+  "t": "Notícia publicada por g1 em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/noticia/2026/11/06/achei-que-era-de-mentira-mulher-e-esfaqueada-em-festa-de-halloween-na-grande-sp.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-06T06:42:06.649507+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
+  "id": "a65cab0718",
+  "grupo": "65cab0718556",
+  "e": "L",
+  "img": "f-stf-palacio",
+  "iso": "2026-11-05T20:16:54+00:00",
+  "date": "5 nov 2026",
+  "h": "MPES obtém condenação de réu a 27 anos de reclusão por feminicídio em Vitória",
+  "t": "Notícia publicada por MPES – Ministério Público Espírito Santo em 5 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPES – Ministério Público Espírito Santo",
+    "https://mpes.mp.br/noticias/2026/11/05/mpes-obtem-condenacao-de-reu-a-27-anos-de-prisao-por-feminicidio-em-vitoria/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-06T06:42:06.649507+00:00",
+  "uf": [
+   "ES"
+  ]
+ },
+ {
   "id": "a48997bd81",
   "grupo": "48997bd81012",
   "e": "A",
