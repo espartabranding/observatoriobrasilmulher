@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-06T06:43:49.545893+00:00",
+"gerado_em": "2026-11-06T17:31:05.670926+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -30120,6 +30120,23 @@
 160548
 ],
 "lido_em": "2026-11-05"
+},
+"2651068": {
+"sigla": "PL 5770/2026",
+"ementa": "Institui a Lei do Nexo Protetivo Previdenciário da Mulher e acrescenta dispositivos à Lei nº 8.213, de 24 de julho de 1991, para reconhecer, para fins de dispensa de carência dos benefícios por incapacidade, a violência doméstica e familiar contra a mulher como acidente de qualquer natureza ou causa quando dela decorrer incapacidade física ou mental, estabelecer critérios para a comprovação do nexo causal ou concausal, assegurar avaliação médico-pericial livre de estereótipos e de revitimização, proteger dados pessoais sensíveis da segurada e disciplinar a articulação com a ação regressiva previdenciária contra o responsável pela violência.",
+"apresentacao": "2026-11-04",
+"situacao": "",
+"data_situacao": "2026-11-04",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220604
+],
+"principal": [
+220604
+],
+"lido_em": "2026-11-06"
 }
 },
 "deputados": {
