@@ -1,5 +1,48 @@
 [
  {
+  "id": "aced5589ee",
+  "grupo": "ced5589eeab7",
+  "e": "L",
+  "img": "f-stf-lateral",
+  "iso": "2026-11-06T20:30:07+00:00",
+  "date": "6 nov 2026",
+  "h": "21/10/2026 – Workshop “Papo de Homem”: Contribuir com o enfrentamento à violência contra a mulher",
+  "t": "Notícia publicada por TJBA – Tribunal de Justiça do Bahia em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJBA – Tribunal de Justiça do Bahia",
+    "https://www.tjba.jus.br/portal/21-10-2026-workshop-papo-de-homem-contribuir-com-o-enfrentamento-a-violencia-contra-a-mulher/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-06T23:07:58.212518+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "af2ff2491d",
+  "grupo": "f2ff2491d6da",
+  "e": "P",
+  "img": "f-planalto-2020",
+  "iso": "2026-11-06T18:09:00+00:00",
+  "date": "6 nov 2026",
+  "h": "Comissão aprova emissão gratuita de documentos para mulheres e filhos vítimas de violência patrimonial",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1316689-comissao-aprova-emissao-gratuita-de-documentos-para-mulheres-e-filhos-vitimas-de-violencia-patrimonial"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-06T23:07:58.212518+00:00"
+ },
+ {
   "id": "a182b6ffab",
   "grupo": "182b6ffab873",
   "e": "A",
@@ -22,6 +65,33 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-06T17:29:45.591822+00:00"
+ },
+ {
+  "id": "aff7ab475f",
+  "grupo": "ff7ab475fa44",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-11-06T14:18:00+00:00",
+  "date": "6 nov 2026",
+  "h": "Mulher é esfaqueada no pescoço após discussão em festa de Halloween em SP; advogada é indiciada",
+  "t": "Notícia publicada por Folha de S.Paulo em 6 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TNH1",
+    "https://www.tnh1.com.br/noticia/nid/mulher-e-esfaqueada-no-pescoco-apos-discussao-em-festa-de-halloween-e-advogada-e-indiciada/"
+   ],
+   [
+    "Folha de S.Paulo",
+    "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/mulher-e-esfaqueada-no-pescoco-apos-discussao-em-festa-de-halloween-em-sp-advogada-e-indiciada.shtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-06T23:07:58.212518+00:00",
+  "uf": [
+   "SP"
+  ]
  },
  {
   "id": "af2247a9b5",
