@@ -1,5 +1,51 @@
 [
  {
+  "id": "af2cfc351e",
+  "grupo": "f2cfc351e056",
+  "e": "A",
+  "img": "r-nordeste",
+  "iso": "2026-11-06T23:07:57.151624+00:00",
+  "date": "6 nov 2026",
+  "h": "Ação do Governo do Estado orienta famílias e fortalece a proteção de crianças e adolescentes na Flica",
+  "t": "Notícia publicada por Secom Bahia em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secom Bahia",
+    "http://www.ba.gov.br/comunicacao/noticias/2026-11/385262/acao-do-governo-do-estado-orienta-familias-e-fortalece-protecao-de-criancas"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T02:47:51.023257+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "a5f91157c0",
+  "grupo": "5f91157c0e01",
+  "e": "P",
+  "img": "r-co",
+  "iso": "2026-11-06T22:44:04+00:00",
+  "date": "6 nov 2026",
+  "h": "Após denúncias de abuso sexual, igreja de Goiânia diz que acompanha caso ‘de perto’",
+  "t": "Notícia publicada por Mais Goiás em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Mais Goiás",
+    "https://www.maisgoias.com.br/cidades/goiania/apos-denuncias-de-abuso-sexual-igreja-de-goiania-diz-que-acompanha-caso-de-perto/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T02:47:51.023257+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
   "id": "aced5589ee",
   "grupo": "ced5589eeab7",
   "e": "L",
@@ -65,6 +111,38 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-06T17:29:45.591822+00:00"
+ },
+ {
+  "id": "a2443d78e2",
+  "grupo": "2443d78e2216",
+  "e": "A",
+  "img": "creche-sala-atividades",
+  "iso": "2026-11-06T14:43:40+00:00",
+  "date": "6 nov 2026",
+  "h": "Pai de Meghan Markle é detido por posse de material de abuso infantil",
+  "t": "Notícia publicada por Diário do Pará em 6 nov 2026 e repercutida por mais 5 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Poder360",
+    "https://www.poder360.com.br/poder-internacional/pai-de-meghan-markle-e-preso-nos-eua-por-suspeita-de-abuso-infantil/"
+   ],
+   [
+    "A Gazeta (ES)",
+    "https://www.agazeta.com.br/hz/tv-e-famosos/pai-de-meghan-markle-esposa-do-principe-harry-e-preso-sob-suspeita-de-posse-de-material-de-abuso-sexual-infantil-1126"
+   ],
+   [
+    "Valor Econômico",
+    "https://valor.globo.com/mundo/noticia/2026/11/06/pai-de-meghan-markle-e-preso-por-posse-de-pornografia-infantil.ghtml"
+   ],
+   [
+    "A Tarde",
+    "https://atarde.com.br/mundo/pai-de-meghan-markle-e-preso-por-posse-de-material-de-abuso-infantil-1408588"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T02:47:51.023257+00:00"
  },
  {
   "id": "aff7ab475f",
