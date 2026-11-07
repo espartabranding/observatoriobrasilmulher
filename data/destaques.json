@@ -1,5 +1,55 @@
 [
  {
+  "id": "ab8be1baed",
+  "grupo": "b8be1baed4f2",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-11-07T12:57:00+00:00",
+  "date": "7 nov 2026",
+  "h": "Lutador de jiu-jitsu é preso por tentativa de feminicídio no Rio",
+  "t": "Notícia publicada por Agência Brasil em 7 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/lutador-de-jiu-jitsu-e-preso-por-tentativa-de-feminicidio-no-rio"
+   ],
+   [
+    "CartaCapital",
+    "https://www.cartacapital.com.br/radar-carta/lutador-de-jiu-jitsu-e-preso-no-rio-de-janeiro-por-tentativa-de-feminicidio/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T16:26:32.638527+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
+  "id": "a62f72a2bb",
+  "grupo": "62f72a2bb2fd",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-11-07T11:32:37+00:00",
+  "date": "7 nov 2026",
+  "h": "PM flagra abatedouros clandestinos e maus-tratos a bovinos durante fiscalização em Joaquim Gomes",
+  "t": "Notícia publicada por Gazeta de Alagoas em 7 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Gazeta de Alagoas",
+    "https://www.gazetaweb.com/noticias/interior/pm-flagra-abatedouros-clandestinos-e-maus-tratos-a-bovinos-durante-fiscalizacao-em-joaquim-gomes-947901"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T16:26:32.638527+00:00",
+  "uf": [
+   "AL"
+  ]
+ },
+ {
   "id": "af2cfc351e",
   "grupo": "f2cfc351e056",
   "e": "A",
@@ -210,6 +260,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-06T17:29:45.591822+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "a261aa163c",
+  "grupo": "261aa163ca27",
+  "e": "L",
+  "img": "leis",
+  "iso": "2026-11-06T13:10:39+00:00",
+  "date": "6 nov 2026",
+  "h": "Em Juazeiro do Norte, 7ª edição do “Jurisconnect Ministerial” irá debater desafios da proteção da infância e da adolescência na era digital",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/em-juazeiro-do-norte-7a-edicao-do-jurisconnect-ministerial-ira-debater-desafios-da-protecao-da-infancia-e-da-adolescencia-na-era-digital/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T16:26:32.638527+00:00",
   "uf": [
    "CE"
   ]
