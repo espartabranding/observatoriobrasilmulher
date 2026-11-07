@@ -1,5 +1,51 @@
 [
  {
+  "id": "a37e65dd33",
+  "grupo": "37e65dd33ad3",
+  "e": "P",
+  "img": "f-planalto-reflexo",
+  "iso": "2026-11-07T20:22:52+00:00",
+  "date": "7 nov 2026",
+  "h": "Deputada Ana Elisa expõe ameaças de estupro e morte após ser criticada por andar com escolta policial",
+  "t": "Notícia publicada por g1 em 7 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/07/deputada-ana-elisa-expoe-ameacas-de-estupro-e-morte-apos-ser-criticada-por-andar-com-escolta-policial.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T20:52:50.091412+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
+  "id": "a172df3fdf",
+  "grupo": "172df3fdf08b",
+  "e": "A",
+  "img": "r-norte",
+  "iso": "2026-11-07T14:13:31+00:00",
+  "date": "7 nov 2026",
+  "h": "Polícia Civil pede colaboração da população para localizar criança desaparecida",
+  "t": "Notícia publicada por Diário do Amapá em 7 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Diário do Amapá",
+    "https://www.diariodoamapa.com.br/cadernos/policia/policia-civil-pede-colaboracao-da-populacao-para-localizar-crianca-desaparecida/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T20:52:50.091412+00:00",
+  "uf": [
+   "AP"
+  ]
+ },
+ {
   "id": "ab8be1baed",
   "grupo": "b8be1baed4f2",
   "e": "N",
@@ -285,6 +331,29 @@
   "criado_em": "2026-11-07T16:26:32.638527+00:00",
   "uf": [
    "CE"
+  ]
+ },
+ {
+  "id": "a576cc3637",
+  "grupo": "576cc363784d",
+  "e": "L",
+  "img": "stf",
+  "iso": "2026-11-06T11:00:00+00:00",
+  "date": "6 nov 2026",
+  "h": "Justiça em Território: TJBA leva mutirão “Maria da Penha em Foco” a Vitória da Conquista",
+  "t": "Notícia publicada por TJBA – Tribunal de Justiça do Bahia em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJBA – Tribunal de Justiça do Bahia",
+    "https://www.tjba.jus.br/portal/justica-em-territorio-tjba-leva-mutirao-maria-da-penha-em-foco-a-vitoria-da-conquista/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-07T20:52:50.091412+00:00",
+  "uf": [
+   "BA"
   ]
  },
  {
