@@ -23,6 +23,52 @@
   ]
  },
  {
+  "id": "a0d8305732",
+  "grupo": "0d8305732ca9",
+  "e": "E",
+  "img": "sine-sala-computadores",
+  "iso": "2026-11-07T20:00:33+00:00",
+  "date": "7 nov 2026",
+  "h": "Nova lei reserva 30% das vagas em feiras para mulheres empreendedoras em Rio Branco; veja outras medidas",
+  "t": "Notícia publicada por A Gazeta do Acre em 7 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/11/noticias/geral/nova-lei-reserva-30-das-vagas-em-feiras-para-mulheres-empreendedoras-em-rio-branco-veja-outras-medidas/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T00:35:38.549904+00:00",
+  "uf": [
+   "AC"
+  ]
+ },
+ {
+  "id": "a54a3b007f",
+  "grupo": "54a3b007f074",
+  "e": "H",
+  "img": "f-hc-instituto-central",
+  "iso": "2026-11-07T15:43:03+00:00",
+  "date": "7 nov 2026",
+  "h": "Mulher perde consciência após ser agredida com garrafa em Vila Velha",
+  "t": "Notícia publicada por Folha Vitória (ES) em 7 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha Vitória (ES)",
+    "https://www.folhavitoria.com.br/policia/mulher-perde-consciencia-apos-ser-agredida-com-garrafa-em-vila-velha/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T00:35:38.549904+00:00",
+  "uf": [
+   "ES"
+  ]
+ },
+ {
   "id": "a172df3fdf",
   "grupo": "172df3fdf08b",
   "e": "A",
@@ -183,6 +229,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-06T23:07:58.212518+00:00"
+ },
+ {
+  "id": "a47acd25e0",
+  "grupo": "47acd25e07d1",
+  "e": "N",
+  "img": "delegacia-geral",
+  "iso": "2026-11-06T16:53:52+00:00",
+  "date": "6 nov 2026",
+  "h": "Polícia Civil de SP realiza Operação Guardião e prende suspeito de violência sexual",
+  "t": "Notícia publicada por Agência SP em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/seguranca-publica/policia-civil-de-sp-realiza-operacao-guardiao-e-prende-suspeito-de-violencia-sexual/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T00:35:38.549904+00:00",
+  "uf": [
+   "SP"
+  ]
  },
  {
   "id": "a182b6ffab",
