@@ -1,5 +1,52 @@
 [
  {
+  "id": "a3c7e8adf2",
+  "grupo": "3c7e8adf23d7",
+  "e": "N",
+  "img": "r-norte",
+  "iso": "2026-11-08T16:08:24+00:00",
+  "date": "8 nov 2026",
+  "h": "Homem é baleado após ameaçar policiais com terçado em ocorrência de violência doméstica",
+  "t": "Notícia publicada por ac24horas em 8 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ac24horas",
+    "https://ac24horas.com/2026/11/08/homem-e-baleado-apos-ameacar-policiais-com-tercado-em-ocorrencia-de-violencia-domestica/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T16:40:29.670830+00:00",
+  "uf": [
+   "AC",
+   "AP"
+  ]
+ },
+ {
+  "id": "a8274e60b7",
+  "grupo": "8274e60b7c57",
+  "e": "P",
+  "img": "f-senado-cupula",
+  "iso": "2026-11-08T14:27:25+00:00",
+  "date": "8 nov 2026",
+  "h": "Ana Elisa expõe ameaças de estupro e morte após críticas por usar escolta",
+  "t": "Notícia publicada por CNN Brasil em 8 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CNN Brasil",
+    "https://www.cnnbrasil.com.br/politica/ana-elisa-expoe-ameacas-de-estupro-e-morte-apos-criticas-por-usar-escolta/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T16:40:29.670830+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
   "id": "a37e65dd33",
   "grupo": "37e65dd33ad3",
   "e": "P",
@@ -66,6 +113,33 @@
   "criado_em": "2026-11-08T07:19:17.615364+00:00",
   "uf": [
    "MA"
+  ]
+ },
+ {
+  "id": "ad09bc944e",
+  "grupo": "d09bc944e248",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-11-07T19:07:12+00:00",
+  "date": "7 nov 2026",
+  "h": "Vídeo flagra menino de 4 anos pedindo ajuda a porteiro após mãe ser morta pelo companheiro",
+  "t": "Notícia publicada por Gazeta de Alagoas em 7 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "BNews",
+    "https://www.bnews.com.br/noticias/policia/video-mostra-menino-de-4-anos-pedindo-ajuda-porteiro-apos-mae-ser-morta-facadas-pro-companheiro.html"
+   ],
+   [
+    "Gazeta de Alagoas",
+    "https://www.gazetaweb.com/noticias/brasil/video-flagra-menino-de-4-anos-pedindo-ajuda-a-porteiro-apos-mae-ser-morta-pelo-companheiro-947941"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T16:40:29.670830+00:00",
+  "uf": [
+   "SP"
   ]
  },
  {
