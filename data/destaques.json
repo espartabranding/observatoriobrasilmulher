@@ -24,6 +24,38 @@
   ]
  },
  {
+  "id": "ad12c9062b",
+  "grupo": "d12c9062b249",
+  "e": "A",
+  "img": "creche-brinquedos",
+  "iso": "2026-11-08T16:03:11+00:00",
+  "date": "8 nov 2026",
+  "h": "Menina de 3 anos morre após ser baleada pela irmã de 5 em Guaratiba, na Zona Oeste do Rio",
+  "t": "Notícia publicada por g1 em 8 nov 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha Vitória (ES)",
+    "https://www.folhavitoria.com.br/policia/menina-de-3-anos-morre-apos-ser-baleada-pela-irma-de-5-anos-no-rj/"
+   ],
+   [
+    "A Tarde",
+    "https://atarde.com.br/policia/menina-de-3-anos-morre-apos-ser-baleada-pela-irma-de-5-com-arma-do-pai-1408777"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/08/menina-morre-apos-ser-baleada-em-guaratiba.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T21:10:58.226245+00:00",
+  "uf": [
+   "MS",
+   "RJ"
+  ]
+ },
+ {
   "id": "a8274e60b7",
   "grupo": "8274e60b7c57",
   "e": "P",
@@ -44,6 +76,52 @@
   "criado_em": "2026-11-08T16:40:29.670830+00:00",
   "uf": [
    "MG"
+  ]
+ },
+ {
+  "id": "a8db08a668",
+  "grupo": "8db08a668df3",
+  "e": "P",
+  "img": "f-senado-plenario",
+  "iso": "2026-11-08T14:00:54+00:00",
+  "date": "8 nov 2026",
+  "h": "Em carta aberta, Iwlly Cavalcante denuncia violência política de gênero dentro do PT/AC",
+  "t": "Notícia publicada por A Gazeta do Acre em 8 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/11/destaques/4o-destaque/em-carta-aberta-iwlly-cavalcante-denuncia-violencia-politica-de-genero-dentro-do-pt-ac/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T21:10:58.226245+00:00",
+  "uf": [
+   "AC"
+  ]
+ },
+ {
+  "id": "a9b7d62c1c",
+  "grupo": "9b7d62c1c71a",
+  "e": "S",
+  "img": "r-nordeste",
+  "iso": "2026-11-08T07:30:00+00:00",
+  "date": "8 nov 2026",
+  "h": "'Pink pill': conheça as irmãs que combatem a misoginia com esquetes de humor ácido",
+  "t": "Notícia publicada por O Globo em 8 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Globo",
+    "https://oglobo.globo.com/ela/gente/noticia/2026/11/08/pink-pill-conheca-as-irmas-que-combatem-a-misoginia-com-esquetes-de-humor-acido.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T21:10:58.226245+00:00",
+  "uf": [
+   "BA"
   ]
  },
  {
