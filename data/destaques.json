@@ -46,6 +46,29 @@
   ]
  },
  {
+  "id": "a055ceb581",
+  "grupo": "055ceb581ab9",
+  "e": "A",
+  "img": "r-nordeste",
+  "iso": "2026-11-07T19:34:56+00:00",
+  "date": "7 nov 2026",
+  "h": "Morre idosa atropelada por adolescente de moto no 2° turno das eleições no MA; marido da vítima morreu no mesmo acidente",
+  "t": "Notícia publicada por g1 em 7 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/ma/maranhao/noticia/2026/11/07/morre-idosa-atropelada-por-adolescente-de-moto-no-2-turno-das-eleicoes-no-ma-marido-da-vitima-morreu-no-mesmo-acidente.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T07:19:17.615364+00:00",
+  "uf": [
+   "MA"
+  ]
+ },
+ {
   "id": "a54a3b007f",
   "grupo": "54a3b007f074",
   "e": "H",
@@ -165,6 +188,26 @@
   ]
  },
  {
+  "id": "aa0351b562",
+  "grupo": "a0351b562b6b",
+  "e": "L",
+  "img": "cmb-sala-audiencias",
+  "iso": "2026-11-06T23:07:57.151624+00:00",
+  "date": "6 nov 2026",
+  "h": "CNMP debate o enfrentamento ao feminicídio no Tribunal do Júri",
+  "t": "Notícia publicada por CNMP – Conselho Nacional do Ministério Público em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CNMP – Conselho Nacional do Ministério Público",
+    "https://www.cnmp.mp.br/portal/todas-as-noticias/19866-cnmp-debate-o-enfrentamento-ao-feminicidio-no-tribunal-do-juri"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T07:19:17.615364+00:00"
+ },
+ {
   "id": "a5f91157c0",
   "grupo": "5f91157c0e01",
   "e": "P",
@@ -208,6 +251,29 @@
   "criado_em": "2026-11-06T23:07:58.212518+00:00",
   "uf": [
    "BA"
+  ]
+ },
+ {
+  "id": "a3a6d8019f",
+  "grupo": "3a6d8019f7c6",
+  "e": "A",
+  "img": "creche-refeitorio",
+  "iso": "2026-11-06T19:17:57+00:00",
+  "date": "6 nov 2026",
+  "h": "PF bloqueia mais de R$ 1 milhão de grupo suspeito de tráfico internacional de mulheres para exploração sexual",
+  "t": "Notícia publicada por Jornal Opção (GO) em 6 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal Opção (GO)",
+    "https://www.jornalopcao.com.br/ultimas-noticias/pf-bloqueia-mais-de-r-1-milhao-de-grupo-suspeito-de-trafico-internacional-de-mulheres-para-exploracao-sexual-886287/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-08T07:19:17.615364+00:00",
+  "uf": [
+   "PE"
   ]
  },
  {
