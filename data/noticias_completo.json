@@ -1,16 +1,16 @@
 {
- "gerado_em": "2026-11-08T21:10:57.145538+00:00",
- "total": 3336,
+ "gerado_em": "2026-11-09T00:54:41.615321+00:00",
+ "total": 3366,
  "fontes_lidas": 180,
- "novas": 43,
+ "novas": 30,
  "por_fonte": {
   "saude": 0,
-  "agenciagov": 0,
+  "agenciagov": 1,
   "agenciabrasil": 3,
   "agenciabrasil-justica": 0,
   "fiocruz": 1,
   "iff-fiocruz": 0,
-  "tcu": "não respondeu",
+  "tcu": 2,
   "camara": 4,
   "senado": 0,
   "stf": 1,
@@ -46,7 +46,7 @@
   "sec-mulher-ce": 2,
   "sec-mulher-pr": 0,
   "sec-mulher-go": 3,
-  "agenciasp": 1,
+  "agenciasp": 2,
   "agenciaminas": 1,
   "aen-pr": 0,
   "agenciabahia": 0,
@@ -83,28 +83,28 @@
   "unfpa": 0,
   "opas": 0,
   "onubrasil": 0,
-  "g1": 8,
-  "folha": 9,
+  "g1": 11,
+  "folha": 10,
   "estadao": 1,
-  "oglobo": 7,
-  "uol": 1,
-  "cnnbrasil": 2,
-  "metropoles": 17,
+  "oglobo": "feed inválido",
+  "uol": 0,
+  "cnnbrasil": 1,
+  "metropoles": 18,
   "agenciapublica": 1,
-  "marieclaire": 1,
+  "marieclaire": "feed inválido",
   "claudia": 0,
   "capricho": 0,
   "crescer": "feed inválido",
   "cartacapital": 0,
   "brasildefato": 34,
   "poder360": 6,
-  "nexo": 3,
+  "nexo": 2,
   "intercept": 1,
   "bbcbrasil": 0,
   "terra": 1,
   "veja": 0,
   "istoe": "feed inválido",
-  "exame": 0,
+  "exame": 1,
   "valor": 1,
   "amazonia-real": 0,
   "ponte": 6,
@@ -112,7 +112,7 @@
   "nosmulheresdaperiferia": 1,
   "agenciamural": "não respondeu",
   "projetocolabora": 4,
-  "revistaforum": 4,
+  "revistaforum": 3,
   "jota": 2,
   "jusbrasil": "robots.txt não permite",
   "ibdfam": "não respondeu",
@@ -127,9 +127,9 @@
   "cebrap": "robots.txt não permite",
   "scielo": 0,
   "ac24horas": 13,
-  "agazetaac": 15,
-  "tnh1": 1,
-  "gazetaweb": 1,
+  "agazetaac": 14,
+  "tnh1": 0,
+  "gazetaweb": 2,
   "selesnafes": 3,
   "diariodoamapa": 10,
   "oimparcial": 9,
@@ -141,26 +141,26 @@
   "infonet": 5,
   "conexaoto": "não respondeu",
   "atarde": 3,
-  "bnews": 1,
+  "bnews": 2,
   "portalodia": 0,
   "jornaldebrasilia": 8,
-  "maisgoias": 8,
+  "maisgoias": 7,
   "extra": 10,
   "diariodoscampos": 0,
   "bandab": 0,
-  "tribunapr": 0,
+  "tribunapr": 1,
   "osul": 22,
   "jornalnh": 3,
   "scc10": 2,
   "odocumento": 0,
   "dgabc": 0,
   "acidadeon": 0,
-  "folhape": 3,
+  "folhape": 4,
   "portalcorreio": 8,
-  "agorarn": 12,
+  "agorarn": 6,
   "saibamais": "não respondeu",
-  "emtempo": 5,
-  "diariodopara": 5,
+  "emtempo": 6,
+  "diariodopara": 4,
   "acritica": 6,
   "amazonasatual": 2,
   "portalamazonia": 0,
@@ -168,18 +168,18 @@
   "movimentoeconomico": 1,
   "opovo": 2,
   "diariodonordeste": 0,
-  "tribunadonorte": 4,
+  "tribunadonorte": 3,
   "cidadeverde": 8,
   "jornalopcao": 2,
   "campograndenews": 1,
   "bemparana": 0,
-  "ndmais": 0,
-  "nsctotal": 8,
-  "estadodeminas": 0,
+  "ndmais": 6,
+  "nsctotal": 9,
+  "estadodeminas": 2,
   "diariodocomercio": 0,
-  "agazeta": 1,
+  "agazeta": 2,
   "folhavitoria": 7,
-  "odia": 4,
+  "odia": 3,
   "govbr": 0,
   "mdhc-noticias": 3,
   "onumulheres-noticias": 0,
@@ -187,6 +187,598 @@
   "gdelt": 0
  },
  "noticias": [
+  {
+   "titulo": "PM prende 12 procurados pela Justiça no GP de São Paulo; nove deviam pensão",
+   "link": "https://www.metropoles.com/sao-paulo/pm-prende-12-procurados-pela-justica-no-gp-de-sao-paulo-nove-deviam-pensao",
+   "resumo": "Nove dos 12 presos pela PM tinham mandados de prisão por não pagarem pensão alimentícia; um deles foi condenado por estupro",
+   "data": "2026-11-09T00:49:55+00:00",
+   "fonte": "Metrópoles",
+   "fonte_id": "metropoles",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "DF",
+   "fonte_regiao": "Centro-Oeste",
+   "editoria": "L",
+   "id": "356598e6e5d0",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "356598e6e5d0",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Adolescente morre e outros dois ficam feridos após ataque a tiros durante sepultamento em BH",
+   "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/08/adolescente-morre-e-outros-dois-ficam-feridos-apos-ataque-a-tiros-durante-sepultamento-em-bh.ghtml",
+   "resumo": "Vista aérea do Cemitério da Saudade, em Belo Horizonte Reprodução/TV Globo Um adolescente de 16 anos morreu e outros dois, com a mesma idade, ficaram feridos ao serem baleados no Cemitério da Saudade, na Região Leste de Belo Horizonte, na tarde deste domingo (8). Segundo a Polícia Militar, o ataque aconteceu após o sepultamento de um jovem que foi morto no bairro Goiânia. Conforme o boletim de oco",
+   "data": "2026-11-09T00:30:09+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "GO",
+    "MG"
+   ],
+   "regioes": [
+    "Centro-Oeste",
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "110d42d1d4b9",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "110d42d1d4b9",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Lula diz que foco do governo é o crescimento e reafirma compromisso com a responsabilidade fiscal",
+   "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-afirma-que-governo-tera-foco-no-crescimento-e-compromisso-com-a-responsabilidade-fiscal-em-pronunciamento",
+   "resumo": "Em rede nacional de rádio e televisão, o presidente reeleito destacou reforços na educação e nas políticas de proteção de crianças e idosos. “O nosso trabalho terá foco no crescimento, sem abandonar o cuidado com quem mais precisa”, afirmou",
+   "data": "2026-11-09T00:30:00+00:00",
+   "fonte": "Agência Gov",
+   "fonte_id": "agenciagov",
+   "tipo": "Agência pública de notícias",
+   "setor": "Público",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "P",
+   "id": "32254fe8475d",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "32254fe8475d",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "F1: Muralha Paulista apoia PM na prisão de 12 procurados durante GP de São Paulo",
+   "link": "https://www.agenciasp.sp.gov.br/seguranca-publica/f1-muralha-paulista-apoia-pm-na-prisao-de-12-procurados-durante-gp-de-sao-paulo/",
+   "resumo": "Procurados por estupro, tráfico de drogas e receptação foram detidos durante evento de automobilismo; GP marca estreia de novas ferramentas com inteligência artificial para analisar imagens de câmeras convencionais e buscar pessoas e veículos por descrições digitadas em linguagem natural",
+   "data": "2026-11-09T00:25:27+00:00",
+   "fonte": "Agência SP",
+   "fonte_id": "agenciasp",
+   "tipo": "Governo estadual",
+   "setor": "Público",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "SP",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "71b30aa9b76d",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "71b30aa9b76d",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "'Ele é muito covarde': idosa de 81 anos agredida por lutador em prédio no Rio relata momentos de terror",
+   "link": "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
+   "resumo": "Vizinhas relatam momentos de terror durante ataque de homem em prédio Um caso de violência contra mulheres em um prédio na Tijuca, na Zona Norte do Rio de Janeiro, provocou indignação na última semana. Três mulheres foram vítimas de um mesmo homem: duas foram brutalmente agredidas, entre elas uma idosa, e uma terceira foi ameaçada. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia",
+   "data": "2026-11-09T00:19:02+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RJ"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "G",
+   "id": "a3f216a8e93d",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "a3f216a8e93d",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Vereador de SC é preso suspeito de violência doméstica e de agredir policiais com socos",
+   "link": "https://www.nsctotal.com.br/seguranca/vereador-de-sc-e-preso-suspeito-de-violencia-domestica-e-de-agredir-policiais-comsocos",
+   "resumo": "O vereador Cledson Rodrigues (PSD), de Tubarão, no Sul de SC, foi preso neste domingo (8), por suspeita de violência doméstica e agressão a policiais militares, de acordo com a Polícia Militar de Santa Catarina (PMSC). O PSD, em nota, informou que vai solicitar à Comissão Executiva Estadual a abertura imediata de um procedimento disciplinar […] O post Vereador de SC é preso suspeito de violência d",
+   "data": "2026-11-09T00:04:34+00:00",
+   "fonte": "NSC Total (SC)",
+   "fonte_id": "nsctotal",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SC"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "N",
+   "id": "2323e9555dd0",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "2323e9555dd0",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Polícia Federal investiga ameaças de morte e estupro contra a deputada federal eleita Ana Elisa, de Minas Gerais",
+   "link": "https://www.osul.com.br/policia-federal-investiga-ameacas-de-morte-e-estupro-contra-a-deputada-federal-ana-elisa-eleita-por-minas-gerais/",
+   "resumo": "A Polícia Federal informou, no fim da tarde desse domingo (8), que apura as ameaças de morte e estupro enviadas para...",
+   "data": "2026-11-09T00:01:22+00:00",
+   "fonte": "O Sul",
+   "fonte_id": "osul",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Federal"
+   ],
+   "ufs": [
+    "MG"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "RS",
+   "fonte_regiao": "Sul",
+   "editoria": "N",
+   "id": "1a16a8a17b83",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "98f07dea21ab",
+   "n_fontes": 5
+  },
+  {
+   "titulo": "Proposta da redação do Enem rompe com formato recente sobre minorias sociais, dizem professores",
+   "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/proposta-da-redacao-do-enem-rompe-com-formato-recente-sobre-minorias-sociais-dizem-professores.shtml",
+   "resumo": "O primeiro dia do Enem 2026 trouxe como tema de redação a \"A valorização do SUS como direito universal\" e abordou temas como a a presença das mulheres na história, a resistência dos povos indígenas, a escravidão , a construção da memória coletiva e a Lei Rouanet nas questões. Leia mais (11/08/2026 - 20h52)",
+   "data": "2026-11-08T23:52:00+00:00",
+   "fonte": "Folha de S.Paulo",
+   "fonte_id": "folha",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "L",
+   "id": "ee81254962ca",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "ee81254962ca",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem procurado por estupro de vulnerável é preso na Fórmula 1 em SP",
+   "link": "https://www.metropoles.com/sao-paulo/homem-procurado-por-estupro-de-vulneravel-e-preso-na-formula-1-em-sp",
+   "resumo": "Identificado pelo Muralha Paulista, homem estava próximo a portão do autódromo de Interlagos no primeiro dia do GP São Paulo de Fórmula 1",
+   "data": "2026-11-08T23:17:50+00:00",
+   "fonte": "Metrópoles",
+   "fonte_id": "metropoles",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "SP"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "DF",
+   "fonte_regiao": "Centro-Oeste",
+   "editoria": "N",
+   "id": "fd63383af9db",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "fd63383af9db",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mãe de Oruam deixa presídio após decisão de Alexandre de Moraes e passa a cumprir prisão domiciliar",
+   "link": "https://www.bnews.com.br/noticias/policia/mae-de-oruam-deixa-presidio-apos-decisao-de-alexandre-de-moraes-e-passa-a-cumprir-prisao-domiciliar.html",
+   "resumo": "Mãe de Oruam, Márcia Gama foi autorizada pelo ministro Alexandre de Moraes a deixar a prisão, mas terá que usar tornozeleira eletrônica",
+   "data": "2026-11-08T23:09:08+00:00",
+   "fonte": "BNews",
+   "fonte_id": "bnews",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "BA",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "a71a5459309e",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "a71a5459309e",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "'Não me lembro de nada', diz PM que atirou contra grupo de amigos e matou mulher no DF; veja VÍDEO",
+   "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/08/nao-me-lembro-de-nada-diz-pm-que-atirou-contra-grupo-de-amigos-e-matou-mulher-veja-video.ghtml",
+   "resumo": "'Não me lembro de nada', diz PM que atirou contra grupo de amigos e matou mulher O policial militar Bruno Cardoso dos Passos, de 27 anos – preso neste domingo (8) suspeito de atirar contra o próprio grupo de amigos em um posto de combustíveis na Asa Sul, em Brasília – afirmou em depoimento à polícia que não se lembra de ter efetuado os disparos. Cinco pessoas foram atingidas. Alessandra da Silva, ",
+   "data": "2026-11-08T23:03:43+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Militar"
+   ],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "a6e9a78214b1",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "a6e9a78214b1",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Jornalista Jefferson Coronel é preso suspeito de armazenar material de abuso sexual infantil",
+   "link": "https://emtempo.com.br/611777/policia/jornalista-jefferson-coronel-preso-material-abuso-sexual-infantil/",
+   "resumo": "Manaus (AM) – O jornalista Jefferson Luiz Rodrigues Coronel foi preso na tarde deste domingo (8), em São Paulo, após a Polícia Civil do Amazonas (PC-AM) identificar arquivos com material de abuso sexual envolvendo crianças e adolescentes em um tablet apreendido durante uma investigação. A prisão preventiva foi decretada pela Justiça do Amazonas e cumprida […] O post Jornalista Jefferson Coronel é ",
+   "data": "2026-11-08T22:55:22+00:00",
+   "fonte": "Em Tempo",
+   "fonte_id": "emtempo",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AM",
+    "SP"
+   ],
+   "regioes": [
+    "Norte",
+    "Sudeste"
+   ],
+   "fonte_uf": "AM",
+   "fonte_regiao": "Norte",
+   "editoria": "N",
+   "id": "7e9bd1385edb",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "7e9bd1385edb",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "PF abre investigação sobre ameaças de morte e estupro contra Ana Elisa",
+   "link": "https://atarde.com.br/policia/pf-abre-investigacao-sobre-ameacas-de-morte-e-estupro-contra-ana-elisa-1408796",
+   "resumo": "A Polícia Federal abriu investigação para apurar ameaças de morte e violência sexual contra a deputada federal eleita Ana Elisa Santos Silva (PT-MG), de 21 anos. A jovem também denunciou ataques racistas, ofensas machistas e exposição de dados pessoais durante a campanha eleitoral.A apuração é conduzida pela delegacia da PF em Divinópolis, no interior de Minas Gerais, com apoio da Diretoria de Com",
+   "data": "2026-11-08T22:46:08+00:00",
+   "fonte": "A Tarde",
+   "fonte_id": "atarde",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Federal"
+   ],
+   "ufs": [
+    "MG"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "BA",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "8b406b2b0747",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "91fe7c12a82d",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mulher é presa por ameaçar ex-companheira e descumprir medida protetiva em Roraima",
+   "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/08/mulher-e-presa-por-ameacar-ex-companheira-e-descumprir-medida-protetiva-em-roraima.ghtml",
+   "resumo": "Mulher é presa suspeita de por ameaçar ex-companheira em Roraima. PCRR/Divulgação Uma mulher de 33 anos foi presa em Rorainópolis, no Sul de Roraima, suspeita de ameaçar a ex-companheira, de 37 anos, e descumprir uma medida protetiva. A informação foi divulgada neste domingo (8) pela Polícia Civil. A prisão ocorreu na sexta-feira (6), em uma ação de policiais da Delegacia Especializada de Atendime",
+   "data": "2026-11-08T22:08:22+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RR"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "c4305b173316",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "e5fc25ec888b",
+   "n_fontes": 2
+  },
+  {
+   "titulo": "Terras raras, Lei Rouanet, Guerra no Irã: professores comentam o que caiu no 1º dia do Enem",
+   "link": "https://www.folhape.com.br/noticias/terras-raras-lei-rouanet-guerra-no-ira-professores-comentam-o-que/523084/",
+   "resumo": "Professores de escolas e cursinhos pré-vestibular que fizeram o Exame Nacional do Ensino Médio (Enem) neste domingo, 8, relatam que as questões do primeiro dia de prova trataram de temas atuais e bastante presentes no noticiário, como a Guerra no Irã, as disputas por terras raras, o Estatuto da Criança e Adolescente (ECA) digital e a Lei Rouanet. Também apareceram temas clássicos, como escravidão,",
+   "data": "2026-11-08T22:07:00+00:00",
+   "fonte": "Folha de Pernambuco",
+   "fonte_id": "folhape",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "PE",
+   "fonte_regiao": "Nordeste",
+   "editoria": "A",
+   "id": "47ffbe846a93",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "47ffbe846a93",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Jornalista Jefferson Coronel é preso após polícia encontrar material de abuso sexual infantil em tablet",
+   "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/08/jefferson-coronel-preso.ghtml",
+   "resumo": "Jornalista Jefferson Coronel foi preso neste domingo (8). Reprodução/Redes Sociais O jornalista Jefferson Coronel foi preso neste domingo (8), em São Paulo. A prisão ocorreu em um desdobramento da investigação da Polícia Civil do Amazonas que apura a divulgação e a manipulação de imagens nas redes sociais envolvendo a filha adolescente do governador eleito Omar Aziz (PSD). O caso teve início após ",
+   "data": "2026-11-08T21:58:01+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "AM",
+    "SP"
+   ],
+   "regioes": [
+    "Norte",
+    "Sudeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "2502356bdacc",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "2502356bdacc",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem mata ex-mulher a tiros e namorado dela é baleado em Goiânia, diz polícia",
+   "link": "https://g1.globo.com/go/goias/noticia/2026/11/08/homem-mata-ex-mulher-e-namorado-dela-a-tiros-em-goiania-diz-policia.ghtml",
+   "resumo": "Adriana Ribeiro foi encontrada morta em casa, em Goiás Reprodução/Instagram de Adriana Ribeiro Uma mulher de 33 anos, identificada como Adriana Ribeiro, foi encontrada morta em casa, em Goiânia, na manhã deste domingo (8), segundo a Polícia Militar. O suspeito de cometer o crime é o ex-marido da vítima, que também teria baleado o namorado dela, de acordo com a PM. O namorado, que não foi identific",
+   "data": "2026-11-08T21:56:28+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "GO"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "e847033db02b",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "e847033db02b",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Após esposa fugir com filhos e pedir socorro, vereador de Inhumas é preso",
+   "link": "https://www.maisgoias.com.br/politica/apos-esposa-fugir-com-filhos-e-pedir-socorro-vereador-de-inhumas-e-preso/",
+   "resumo": "Mulher relatou à polícia que foi ameaçada de morte, conseguiu fugir com os filhos e foi perseguida pelo marido; defesa nega acusações O post Após esposa fugir com filhos e pedir socorro, vereador de Inhumas é preso apareceu primeiro em Mais Goiás .",
+   "data": "2026-11-08T21:52:28+00:00",
+   "fonte": "Mais Goiás",
+   "fonte_id": "maisgoias",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "GO"
+   ],
+   "regioes": [
+    "Centro-Oeste"
+   ],
+   "fonte_uf": "GO",
+   "fonte_regiao": "Centro-Oeste",
+   "editoria": "N",
+   "id": "74011c691eec",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "74011c691eec",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Após mulher ser encontrada morta em SC, Polícia Civil apreende celulares da vítima e do companheiro em investigação",
+   "link": "https://ndmais.com.br/seguranca/apos-mulher-ser-encontrada-morta-em-sc-policia-civil-apreende-celulares-da-vitima-e-do-companheiro-em-investigacao/",
+   "resumo": "Laudos da Polícia Científica devem ajudar a esclarecer as circunstâncias do caso registrado em São João Batista, na Grande Florianópolis O post Após mulher ser encontrada morta em SC, Polícia Civil apreende celulares da vítima e do companheiro em investigação apareceu primeiro em ND Mais",
+   "data": "2026-11-08T21:42:30+00:00",
+   "fonte": "ND+ (SC)",
+   "fonte_id": "ndmais",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Civil"
+   ],
+   "ufs": [
+    "SC"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "N",
+   "id": "519b1dbeffc1",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "519b1dbeffc1",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Casal é morto dentro de casa noroeste do RS; polícia investiga feminicídio",
+   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/08/casal-e-morto-dentro-de-casa-noroeste-do-rs-policia-investiga-feminicidio.ghtml",
+   "resumo": "O que é feminicídio? Um casal foi morto a facadas na noite deste sábado (7), em Cruz Alta, no noroeste do Rio Grande do Sul. O crime aconteceu na residência do casal, no bairro Abegay. Segundo o delegado Marcio Marodin, da Polícia Civil, o principal suspeito é Jair Cesar de Souza Borba, 41 anos. As vítimas foram identificadas como Terezinha Izabel de Souza, 57 anos, e Moacir Franco, 58. Eles eram,",
+   "data": "2026-11-08T21:39:16+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RS"
+   ],
+   "regioes": [
+    "Sul"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "8e5cef422f57",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "8e5cef422f57",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Vizinhos de terreiro de Candomblé são indiciados por racismo religioso contra mãe de santo em Boa Vista",
+   "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/08/vizinhos-de-terreiro-de-candomble-sao-indiciados-por-racismo-religioso-contra-mae-de-santo-em-boa-vista.ghtml",
+   "resumo": "Inquérito policial foi concluído pelo 3° Distrito Policial, localizado no bairro Santa Tereza, em Boa Vista (RR). PCRR/Arquivo Duas pessoas de 65 e 48 anos, foram indiciadas por racismo religioso e ameaça contra uma mãe de santo, responsável por um templo de Candomblé no bairro Cauamé, zona Oeste de Boa Vista. Os investigados são vizinhos do local. A informação foi divulgada neste domingo (8) pela",
+   "data": "2026-11-08T21:38:09+00:00",
+   "fonte": "g1",
+   "fonte_id": "g1",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RR"
+   ],
+   "regioes": [
+    "Norte"
+   ],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "N",
+   "id": "983003cf9170",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "983003cf9170",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Corpo de mulher é encontrado em apartamento comprado em leilão em MG; vítima teria morrido há um ano",
+   "link": "https://www.folhavitoria.com.br/policia/corpo-de-mulher-e-encontrado-em-apartamento-comprado-em-leilao-em-mg-vitima-teria-morrido-ha-um-ano/",
+   "resumo": "Corpo encontrado em apartamento arrematado em leilão era de antiga moradora. Foto: Reprodução/ RECORD Minas Vítima foi identificada como antiga moradora do local; ela teria morrido há pelo menos um ano",
+   "data": "2026-11-08T21:29:07+00:00",
+   "fonte": "Folha Vitória (ES)",
+   "fonte_id": "folhavitoria",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "ES",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "973e88f68969",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "973e88f68969",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Após ameaças de morte e estupro, PF busca identificar autores de mensagens divulgadas contra deputada Ana Elisa",
+   "link": "https://ndmais.com.br/seguranca/apos-ameacas-contra-ana-elisa-pf-busca-autores/",
+   "resumo": "Ameaças contra Ana Elisa são investigadas pela Polícia Federal em Minas Gerais, com apoio de especialistas em crimes cibernéticos e pedidos de cooperação internacional O post Após ameaças de morte e estupro, PF busca identificar autores de mensagens divulgadas contra deputada Ana Elisa apareceu primeiro em ND Mais",
+   "data": "2026-11-08T21:17:23+00:00",
+   "fonte": "ND+ (SC)",
+   "fonte_id": "ndmais",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Federal"
+   ],
+   "ufs": [
+    "MG"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "P",
+   "id": "ec375b7746e7",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "ec375b7746e7",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Vereador é preso após agredir companheira e ferir policiais durante ocorrência em SC",
+   "link": "https://ndmais.com.br/politica/vereador-preso-apos-agredir-companheira-e-ferir-policiais-durante-ocorrencia-em-sc/",
+   "resumo": "Esposa de vereador preso tinha marcas de lesões quando a PM chegou na residência; ele foi detido em Tubarão após denúncia O post Vereador é preso após agredir companheira e ferir policiais durante ocorrência em SC apareceu primeiro em ND Mais",
+   "data": "2026-11-08T21:09:18+00:00",
+   "fonte": "ND+ (SC)",
+   "fonte_id": "ndmais",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "SC",
+   "fonte_regiao": "Sul",
+   "editoria": "N",
+   "id": "d7a2e8fd6cc4",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "d7a2e8fd6cc4",
+   "n_fontes": 1
+  },
   {
    "titulo": "PF investiga ameaças contra a deputada federal eleita Ana Elisa (PT-MG)",
    "link": "https://valor.globo.com/politica/noticia/2026/11/08/pf-investiga-ameaas-contra-a-deputada-federal-eleita-ana-elisa-pt-mg.ghtml",
@@ -212,7 +804,32 @@
    "id": "47f08dacd3d5",
    "coletado_em": "2026-11-08T21:10:57.145538+00:00",
    "grupo": "98f07dea21ab",
-   "n_fontes": 4
+   "n_fontes": 5
+  },
+  {
+   "titulo": "Carro cai em lago e mata 10 pessoas; cinco vítimas eram crianças",
+   "link": "http://dol.com.br/noticias/brasil/967750/carro-cai-em-lago-e-mata-10-pessoas-cinco-vitimas-eram-criancas",
+   "resumo": "Uma viagem terminou em uma tragédia que matou dez pessoas, incluindo cinco crianças, na região sul do Rio de Janeiro. O carro em que elas estavam capotou e foi parar dentro de um lago na noite de sábado (7), em Barra Mansa. Nenhum dos ocupantes sobreviveu. O acidente foi descoberto depois que uma pessoa que passava pela região percebeu o automóvel submerso e acionou o socorro.A ocorrência foi regi",
+   "data": "2026-11-08T20:58:43+00:00",
+   "fonte": "Diário do Pará",
+   "fonte_id": "diariodopara",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [
+    "RJ"
+   ],
+   "regioes": [
+    "Sudeste"
+   ],
+   "fonte_uf": "PA",
+   "fonte_regiao": "Norte",
+   "editoria": "A",
+   "id": "7648f3b76586",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "7648f3b76586",
+   "n_fontes": 1
   },
   {
    "titulo": "Temporal deixa mulher morta e duas desaparecidas no Rio",
@@ -258,6 +875,27 @@
    "id": "f7ecbe8415ac",
    "coletado_em": "2026-11-08T21:10:57.145538+00:00",
    "grupo": "f7ecbe8415ac",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Ex-presidente da Colômbia, Gustavo Petro, é investigado por 'escândalo sexual'",
+   "link": "https://exame.com/mundo/ex-presidente-da-colombia-gustavo-petro-e-investigado-por-escandalo-sexual/",
+   "resumo": "Mulher denuncia que dezenas de pessoas ganharam contratos do Estado em troca de vínculos íntimos; ex-líder nega e acusa 'complô' político",
+   "data": "2026-11-08T20:38:00+00:00",
+   "fonte": "Exame",
+   "fonte_id": "exame",
+   "tipo": "Imprensa geral",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": null,
+   "fonte_regiao": null,
+   "editoria": "P",
+   "id": "728374f4f15c",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "728374f4f15c",
    "n_fontes": 1
   },
   {
@@ -325,7 +963,28 @@
    "id": "93dca8a597c5",
    "coletado_em": "2026-11-08T21:10:57.145538+00:00",
    "grupo": "98f07dea21ab",
-   "n_fontes": 4
+   "n_fontes": 5
+  },
+  {
+   "titulo": "Líder religioso suspeito de abuso sexual contra adolescente é preso em Ponta Grossa",
+   "link": "https://www.tribunapr.com.br/noticias/lider-religioso-preso-abuso-adolescente-ponta-grossa/",
+   "resumo": "Um homem de 32 anos foi preso em Ponta Grossa, suspeito de usar sua posição de líder religioso para persuadir […]",
+   "data": "2026-11-08T20:28:35+00:00",
+   "fonte": "Tribuna do Paraná",
+   "fonte_id": "tribunapr",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "PR",
+   "fonte_regiao": "Sul",
+   "editoria": "N",
+   "id": "cd063241d8c6",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "cd063241d8c6",
+   "n_fontes": 1
   },
   {
    "titulo": "Homem é preso suspeito de chantagear ex-vizinha com fotos íntimas e exigir vídeos sexuais",
@@ -398,7 +1057,7 @@
    "id": "681235058169",
    "coletado_em": "2026-11-08T21:10:57.145538+00:00",
    "grupo": "98f07dea21ab",
-   "n_fontes": 4
+   "n_fontes": 5
   },
   {
    "titulo": "Mãe de Oruam deixa presídio com tornozeleira eletrônica",
@@ -446,7 +1105,7 @@
    "id": "98f07dea21ab",
    "coletado_em": "2026-11-08T21:10:57.145538+00:00",
    "grupo": "98f07dea21ab",
-   "n_fontes": 4
+   "n_fontes": 5
   },
   {
    "titulo": "Temporal no Rio de Janeiro deixa mulher morta e duas jovens desaparecidas",
@@ -517,6 +1176,27 @@
    "id": "ef4f984db3d2",
    "coletado_em": "2026-11-08T21:10:57.145538+00:00",
    "grupo": "ef4f984db3d2",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Homem incendeia casa da ex e invade imóvel na Grande BH",
+   "link": "https://www.em.com.br/gerais/2026/11/7535203-homem-incendeia-casa-da-ex-e-invade-imovel-na-grande-bh.html",
+   "resumo": "VIOLÊNCIA CONTRA MULHER",
+   "data": "2026-11-08T19:33:00+00:00",
+   "fonte": "Estado de Minas",
+   "fonte_id": "estadodeminas",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "MG",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "75e751a2dd6f",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "75e751a2dd6f",
    "n_fontes": 1
   },
   {
@@ -693,6 +1373,29 @@
    "n_fontes": 1
   },
   {
+   "titulo": "Ana Elisa expõe ameaças de estupro e morte; PF abre investigação",
+   "link": "https://www.em.com.br/politica/2026/11/7535200-ana-elisa-expoe-ameacas-de-estupro-e-morte-pf-abre-investigacao.html",
+   "resumo": "AMEAÇAS",
+   "data": "2026-11-08T19:02:00+00:00",
+   "fonte": "Estado de Minas",
+   "fonte_id": "estadodeminas",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [
+    "Polícia Federal"
+   ],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "MG",
+   "fonte_regiao": "Sudeste",
+   "editoria": "N",
+   "id": "4f4a8446650b",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "4f4a8446650b",
+   "n_fontes": 1
+  },
+  {
    "titulo": "Deputada do PT usa vídeo de Marielle Franco para rebater ameaças de violência sexual e morte: \"Não serei silenciada\"",
    "link": "https://www.bnews.com.br/noticias/politica/deputada-do-pt-usa-video-de-marielle-franco-para-rebater-ameacas-de-violencia-sexual-e-morte-nao-serei-silenciada.html",
    "resumo": "\"Como nos ensinou Marielle Franco, ocupar espaços de poder também significa enfrentar estruturas\", escreveu a deputada Ana Elisa",
@@ -761,7 +1464,7 @@
    "id": "e5fc25ec888b",
    "coletado_em": "2026-11-08T21:10:57.145538+00:00",
    "grupo": "e5fc25ec888b",
-   "n_fontes": 1
+   "n_fontes": 2
   },
   {
    "titulo": "Enem 2026 volta a ter 'textão' e traz questões como IA, terras raras e ECA Digital",
@@ -973,6 +1676,27 @@
    "id": "fb6e586bdc8a",
    "coletado_em": "2026-11-08T21:10:57.145538+00:00",
    "grupo": "fb6e586bdc8a",
+   "n_fontes": 1
+  },
+  {
+   "titulo": "Mensagens íntimas no casal: dá para flertar sem mandar fotos?",
+   "link": "https://www.gazetaweb.com/noticias/comportamento/mensagens-intimas-no-casal-da-para-flertar-sem-mandar-fotos-948031",
+   "resumo": "Divulgação Trocar mensagens íntimas não exige enviar fotografias. Entre adultos, é possível combinar uma conversa apenas por texto, sem imagens ou vídeos. Essa é uma das possibilidades descritas pelo serviço de prevenção à violência sexual da Universidade Simon Fraser, no Canadá.A orientação é conversar sobre o que cada pessoa se sente confortável em enviar e receber. O acordo pode incluir os form",
+   "data": "2026-11-08T18:05:44+00:00",
+   "fonte": "Gazeta de Alagoas",
+   "fonte_id": "gazetaweb",
+   "tipo": "Imprensa regional",
+   "setor": "Privado",
+   "brasil": true,
+   "empresas": [],
+   "ufs": [],
+   "regioes": [],
+   "fonte_uf": "AL",
+   "fonte_regiao": "Nordeste",
+   "editoria": "N",
+   "id": "393a0e08ba10",
+   "coletado_em": "2026-11-09T00:54:41.615321+00:00",
+   "grupo": "393a0e08ba10",
    "n_fontes": 1
   },
   {

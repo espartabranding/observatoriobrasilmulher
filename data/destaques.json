@@ -1,5 +1,83 @@
 [
  {
+  "id": "aec375b774",
+  "grupo": "ec375b7746e7",
+  "e": "P",
+  "img": "f-alepe-sergipe",
+  "iso": "2026-11-08T21:17:23+00:00",
+  "date": "8 nov 2026",
+  "h": "Após ameaças de morte e estupro, PF busca identificar autores de mensagens divulgadas contra deputada Ana Elisa",
+  "t": "Notícia publicada por ND+ (SC) em 8 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ND+ (SC)",
+    "https://ndmais.com.br/seguranca/apos-ameacas-contra-ana-elisa-pf-busca-autores/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T00:54:42.502641+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
+  "id": "a98f07dea2",
+  "grupo": "98f07dea21ab",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-11-08T20:12:44+00:00",
+  "date": "8 nov 2026",
+  "h": "PF investiga ameaças de morte e estupro contra Ana Elisa, deputada federal eleita por Minas",
+  "t": "Notícia publicada por O Globo em 8 nov 2026 e repercutida por mais 4 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Sul",
+    "https://www.osul.com.br/policia-federal-investiga-ameacas-de-morte-e-estupro-contra-a-deputada-federal-ana-elisa-eleita-por-minas-gerais/"
+   ],
+   [
+    "Valor Econômico",
+    "https://valor.globo.com/politica/noticia/2026/11/08/pf-investiga-ameaas-contra-a-deputada-federal-eleita-ana-elisa-pt-mg.ghtml"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/08/pf-diz-que-investiga-ameacas-contra-deputada-eleita-ana-elisa.ghtml"
+   ],
+   [
+    "CNN Brasil",
+    "https://www.cnnbrasil.com.br/politica/pf-investiga-ameacas-de-morte-e-estupro-contra-a-deputada-eleita-ana-elisa/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T00:54:42.502641+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
+  "id": "aef4f984db",
+  "grupo": "ef4f984db3d2",
+  "e": "G",
+  "img": "lencois-maranhenses",
+  "iso": "2026-11-08T19:41:00+00:00",
+  "date": "8 nov 2026",
+  "h": "Enem 2026 tem questões sobre mulheres, Lei Rouanet, povos indígenas e memória",
+  "t": "Notícia publicada por Folha de S.Paulo em 8 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha de S.Paulo",
+    "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/enem-2026-tem-questoes-sobre-mulheres-lei-rouanet-povos-indigenas-e-memoria.shtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T00:54:42.502641+00:00"
+ },
+ {
   "id": "a3c7e8adf2",
   "grupo": "3c7e8adf23d7",
   "e": "N",
