@@ -1,5 +1,75 @@
 [
  {
+  "id": "a261ff2f0d",
+  "grupo": "261ff2f0db27",
+  "e": "L",
+  "img": "r-nordeste",
+  "iso": "2026-11-09T19:46:24+00:00",
+  "date": "9 nov 2026",
+  "h": "TJCE sedia reunião do Colégio de Coordenadores da Mulher em Situação de Violência Doméstica e Familiar do Judiciário Brasileiro",
+  "t": "Notícia publicada por TJCE – Tribunal de Justiça do Ceará em 9 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJCE – Tribunal de Justiça do Ceará",
+    "https://www.tjce.jus.br/noticias/tjce-sedia-reuniao-do-colegio-de-coordenadores-da-mulher-em-situacao-de-violencia-domestica-e-familiar-do-judiciario-brasileiro/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T20:45:10.060019+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "a2d0ebdc69",
+  "grupo": "2d0ebdc69a9c",
+  "e": "N",
+  "img": "deam-viatura-df",
+  "iso": "2026-11-09T15:33:30+00:00",
+  "date": "9 nov 2026",
+  "h": "Comediante Russell Brand é condenado a mais de 10 anos de prisão por estupro e agressão sexual",
+  "t": "Notícia publicada por A Gazeta (ES) em 9 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/11/colunistas/guia-gazeta/8o-guia-gazeta/russell-brand-e-condenado-a-10-anos-de-prisao-por-estupro-e-agressao-sexual/"
+   ],
+   [
+    "A Gazeta (ES)",
+    "https://www.agazeta.com.br/mundo/comediante-russell-brand-e-condenado-a-mais-de-10-anos-de-prisao-por-estupro-e-agressao-sexual-1126"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T20:45:10.060019+00:00"
+ },
+ {
+  "id": "a036483d60",
+  "grupo": "036483d60878",
+  "e": "L",
+  "img": "forum-sao-carlos",
+  "iso": "2026-11-09T13:37:28+00:00",
+  "date": "9 nov 2026",
+  "h": "IMPERATRIZ – Dois réus são condenados a 31 anos de prisão por estupro de vulnerável",
+  "t": "Notícia publicada por MPMA – Ministério Público Maranhão em 9 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPMA – Ministério Público Maranhão",
+    "https://www.mpma.mp.br/imperatriz-dois-reus-sao-condenados-a-31-anos-de-prisao-por-estupro-de-vulneravel/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T20:45:10.060019+00:00",
+  "uf": [
+   "MA"
+  ]
+ },
+ {
   "id": "aec375b774",
   "grupo": "ec375b7746e7",
   "e": "P",
