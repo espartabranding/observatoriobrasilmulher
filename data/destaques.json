@@ -78,6 +78,53 @@
   "criado_em": "2026-11-09T00:54:42.502641+00:00"
  },
  {
+  "id": "a3add49e5a",
+  "grupo": "3add49e5a948",
+  "e": "A",
+  "img": "creche-bercario",
+  "iso": "2026-11-08T17:30:23+00:00",
+  "date": "8 nov 2026",
+  "h": "VÍDEO: Menino de 4 anos sai sozinho de apartamento e pede ajuda após mãe ser morta em SP",
+  "t": "Notícia publicada por Em Tempo em 8 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Terra – Nós",
+    "https://www.terra.com.br/nos/menino-de-4-anos-sai-sozinho-de-apartamento-e-pede-ajuda-a-porteiro-apos-mae-ser-morta-por-companheiro,5085f23936ec7ce1f99c77c39f982c05r01kadgw.html"
+   ],
+   [
+    "Em Tempo",
+    "https://emtempo.com.br/611748/policia/menino-pede-ajuda-porteiro-mae-morta-companheiro-sao-vicente/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T07:59:04.740606+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
+  "id": "a2ae78ebf8",
+  "grupo": "2ae78ebf864b",
+  "e": "S",
+  "img": "biblioteca-mario-andrade",
+  "iso": "2026-11-08T16:34:08+00:00",
+  "date": "8 nov 2026",
+  "h": "Ministra britânica diz que indústria da mídia ainda enfrenta problemas de abuso sexual",
+  "t": "Notícia publicada por UOL Notícias em 8 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "UOL Notícias",
+    "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/08/ministra-britanica-diz-que-industria-da-midia-ainda-enfrenta-problemas-de-abuso-sexual.htm"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T07:59:04.740606+00:00"
+ },
+ {
   "id": "a3c7e8adf2",
   "grupo": "3c7e8adf23d7",
   "e": "N",
@@ -177,6 +224,33 @@
   "criado_em": "2026-11-08T21:10:58.226245+00:00",
   "uf": [
    "AC"
+  ]
+ },
+ {
+  "id": "aed866479d",
+  "grupo": "ed866479df97",
+  "e": "A",
+  "img": "cmb-brinquedoteca",
+  "iso": "2026-11-08T11:39:31+00:00",
+  "date": "8 nov 2026",
+  "h": "Menino de 4 anos pede ajuda após mãe ser morta pelo companheiro em SP",
+  "t": "Notícia publicada por Diário do Pará em 8 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/sao-paulo/menino-de-4-anos-pediu-ajuda-de-porteiro-apos-ver-mae-morta-por-companheiro"
+   ],
+   [
+    "Diário do Pará",
+    "http://dol.com.br/noticias/brasil/967724/menino-de-4-anos-pede-ajuda-apos-mae-ser-morta-pelo-companheiro-em-sp"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-09T07:59:04.740606+00:00",
+  "uf": [
+   "SP"
   ]
  },
  {
