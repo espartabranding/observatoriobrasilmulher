@@ -1,5 +1,87 @@
 [
  {
+  "id": "a0d50a3a59",
+  "grupo": "0d50a3a599d0",
+  "e": "I",
+  "img": "r-norte",
+  "iso": "2026-11-09T22:33:46+00:00",
+  "date": "9 nov 2026",
+  "h": "Ouvidoria da Mulher do STF compartilha experiências de acolhimento e proteção em encontro nacional de ouvidorias",
+  "t": "Notícia publicada por STF – Supremo Tribunal Federal em 9 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "STF – Supremo Tribunal Federal",
+    "https://noticias.stf.jus.br/postsnoticias/ouvidoria-da-mulher-do-stf-compartilha-experiencias-de-acolhimento-e-protecao-em-encontro-nacional-de-ouvidorias/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-10T03:34:52.902394+00:00",
+  "uf": [
+   "AP"
+  ]
+ },
+ {
+  "id": "a26a702756",
+  "grupo": "26a7027564c2",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-11-09T21:50:59+00:00",
+  "date": "9 nov 2026",
+  "h": "Pai de Rony, do Santos, é morto a facadas no Pará; mulher é presa em flagrante",
+  "t": "Notícia publicada por Agora RN em 9 nov 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Mais Goiás",
+    "https://www.maisgoias.com.br/esportes/futebol/campeonato-brasileiro/pai-do-atacante-rony-do-santos-e-morto-a-facadas-no-para-mulher-e-presa/"
+   ],
+   [
+    "Portal SelesNafes",
+    "https://selesnafes.com/2026/11/pai-do-jogador-rony-do-santos-sp-e-morto-a-facadas-no-para-mulher-e-presa-pelo-crime/"
+   ],
+   [
+    "Agora RN",
+    "https://agorarn.com.br/esporte/pai-atacante-rony-morto-facadas-para/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-10T03:34:52.902394+00:00",
+  "uf": [
+   "PA",
+   "RN"
+  ]
+ },
+ {
+  "id": "a2b7b81a1e",
+  "grupo": "2b7b81a1ec84",
+  "e": "I",
+  "img": "cmb-recepcao",
+  "iso": "2026-11-09T21:12:00+00:00",
+  "date": "9 nov 2026",
+  "h": "MPT-PE capacita profissionais para atendimento a vítimas de trabalho escravo e tráfico de pessoas",
+  "t": "Notícia publicada por Folha de Pernambuco em 9 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/mpt-pe-capacita-profissionais-do-sertao-para-atendimento-a-vitimas-de-trabalho-escravo-e-trafico-de-pessoas"
+   ],
+   [
+    "Folha de Pernambuco",
+    "https://www.folhape.com.br/noticias/mpt-pe-capacita-profissionais-para-atendimento-a-vitimas-de-trabalho/523268/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-10T03:34:52.902394+00:00",
+  "uf": [
+   "PE"
+  ]
+ },
+ {
   "id": "a261ff2f0d",
   "grupo": "261ff2f0db27",
   "e": "L",
