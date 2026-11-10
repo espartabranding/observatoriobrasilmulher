@@ -1,5 +1,75 @@
 [
  {
+  "id": "a27597ca1f",
+  "grupo": "27597ca1fe09",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-11-10T17:31:52+00:00",
+  "date": "10 nov 2026",
+  "h": "Em Canindé, PMCE prende suspeito de tentativa de feminicídio e estupro ocorrido em Santa Quitéria",
+  "t": "Notícia publicada por Governo do Ceará – Notícias em 10 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo do Ceará – Notícias",
+    "https://www.ce.gov.br/2026/11/10/em-caninde-pmce-prende-suspeito-de-tentativa-de-feminicidio-e-estupro-ocorrido-em-santa-quiteria/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-10T17:50:15.033993+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "af2cfdef14",
+  "grupo": "f2cfdef1471b",
+  "e": "E",
+  "img": "sine-sala-atendimento",
+  "iso": "2026-11-10T16:50:39+00:00",
+  "date": "10 nov 2026",
+  "h": "Operação Hesychia: força-tarefa resgata trabalhadores em fábricas clandestinas de cigarro e combate tráfico de pessoas em SP e MS",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 10 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/operacao-hesychia-forca-tarefa-resgata-trabalhadores-em-fabricas-clandestinas-de-cigarro-e-combate-trafico-de-pessoas-em-sp-e-ms"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-10T17:50:15.033993+00:00"
+ },
+ {
+  "id": "aff8dd8082",
+  "grupo": "ff8dd808225a",
+  "e": "L",
+  "img": "forum-fachada-letreiro",
+  "iso": "2026-11-10T11:31:36+00:00",
+  "date": "10 nov 2026",
+  "h": "IMPERATRIZ – MPMA destina mais de R$ 15 mil para a rede de proteção à infância",
+  "t": "Notícia publicada por MPMA – Ministério Público Maranhão em 10 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPMA – Ministério Público Maranhão",
+    "https://www.mpma.mp.br/imperatriz-mpma-destina-mais-de-r-15-mil-para-a-rede-de-protecao-a-infancia/"
+   ],
+   [
+    "O Imparcial",
+    "https://oimparcial.com.br/imperatriz/cidades/2026/11/mpma-destina-mais-de-r-15-mil-para-a-rede-de-protecao-a-infancia-em-imperatriz/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-10T17:50:15.033993+00:00",
+  "uf": [
+   "MA"
+  ]
+ },
+ {
   "id": "a0d50a3a59",
   "grupo": "0d50a3a599d0",
   "e": "I",
