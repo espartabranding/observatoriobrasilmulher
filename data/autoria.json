@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-10T03:39:15.023444+00:00",
+"gerado_em": "2026-11-10T23:24:57.913746+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -30171,6 +30171,40 @@
 220604
 ],
 "lido_em": "2026-11-09"
+},
+"2651933": {
+"sigla": "PL 5802/2026",
+"ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre a alteração do local de votação do agressor como medida protetiva de urgência para circunscrição distante da ofendida.",
+"apresentacao": "2026-11-10",
+"situacao": "",
+"data_situacao": "2026-11-10",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+204504
+],
+"principal": [
+204504
+],
+"lido_em": "2026-11-10"
+},
+"2652027": {
+"sigla": "PL 5806/2026",
+"ementa": "Institui o Cadastro Nacional de Condenados Foragidos por Crimes Sexuais e dispõe sobre o alerta imediato às polícias dos estados.",
+"apresentacao": "2026-11-10",
+"situacao": "",
+"data_situacao": "2026-11-10",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+178887
+],
+"principal": [
+178887
+],
+"lido_em": "2026-11-10"
 }
 },
 "deputados": {
