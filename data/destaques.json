@@ -1,5 +1,74 @@
 [
  {
+  "id": "a3276bef6a",
+  "grupo": "3276bef6a495",
+  "e": "G",
+  "img": "f-amazonia-aerea",
+  "iso": "2026-11-11T04:00:01+00:00",
+  "date": "11 nov 2026",
+  "h": "UFPE denuncia à PF pichações com ameaças de estupro, insultos racistas e ataques a Marielle Franco e vítimas da Covid-19",
+  "t": "Notícia publicada por g1 em 11 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/pe/pernambuco/noticia/2026/11/11/ufpe-denuncia-a-pf-pichacoes-com-ameacas-de-estupro-insultos-racistas-e-ataques-a-marielle-franco-e-vitimas-da-covid-19.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-11T06:16:00.406606+00:00",
+  "uf": [
+   "PE"
+  ]
+ },
+ {
+  "id": "aacb88a800",
+  "grupo": "acb88a800ba0",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-11-10T23:12:29+00:00",
+  "date": "10 nov 2026",
+  "h": "Polícia de SP prende suspeito de feminicídio em Sorocaba",
+  "t": "Notícia publicada por Agência SP em 10 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/seguranca-publica/policia-de-sp-prende-suspeito-de-feminicidio-em-sorocaba/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-11T06:16:00.406606+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
+  "id": "a67190fc3b",
+  "grupo": "67190fc3be1f",
+  "e": "I",
+  "img": "cmb-copa",
+  "iso": "2026-11-10T21:10:24+00:00",
+  "date": "10 nov 2026",
+  "h": "Ônibus SP Por Todas leva acolhimento e orientação às mulheres durante corrida noturna em Ribeirão Preto",
+  "t": "Notícia publicada por Agência SP em 10 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/politicas-para-mulheres/onibus-sp-por-td/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-11T06:16:00.406606+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "a43088c202",
   "grupo": "43088c20237e",
   "e": "L",
