@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-11T06:21:23.034837+00:00",
+"gerado_em": "2026-11-11T17:59:10.371420+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -5440,7 +5440,7 @@
 "principal": [
 220565
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2589471": {
 "sigla": "PL 6039/2025",
@@ -5457,15 +5457,15 @@
 "principal": [
 220565
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2587107": {
 "sigla": "PL 5940/2025",
 "ementa": "Dispõe sobre a obrigatoriedade da prisão preventiva em crimes de violência física, sexual ou grave ameaça praticados contra a mulher, estabelece presunção legal de risco à vítima e restringe a concessão de liberdade do agressor.",
 "apresentacao": "2025-11-24",
 "situacao": "Tramitando em Conjunto",
-"data_situacao": "2026-10-29",
-"orgao": "MESA",
+"data_situacao": "2026-11-06",
+"orgao": "CMULHER",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -5474,7 +5474,7 @@
 "principal": [
 204553
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2583551": {
 "sigla": "PL 5780/2025",
@@ -5491,7 +5491,7 @@
 "principal": [
 160629
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2582263": {
 "sigla": "PLP 235/2025",
@@ -5509,7 +5509,7 @@
 "principal": [
 74646
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2581911": {
 "sigla": "PL 295/2024",
@@ -5522,7 +5522,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2580867": {
 "sigla": "PL 5611/2025",
@@ -5539,7 +5539,7 @@
 "principal": [
 220694
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2579045": {
 "sigla": "PL 5525/2025",
@@ -5556,7 +5556,7 @@
 "principal": [
 198783
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2577814": {
 "sigla": "PL 5443/2025",
@@ -5573,7 +5573,7 @@
 "principal": [
 220566
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2576448": {
 "sigla": "PL 5426/2025",
@@ -5590,7 +5590,7 @@
 "principal": [
 220625
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2573985": {
 "sigla": "PL 5317/2025",
@@ -5607,7 +5607,7 @@
 "principal": [
 204574
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2573521": {
 "sigla": "PL 5287/2025",
@@ -5624,7 +5624,7 @@
 "principal": [
 204474
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2573414": {
 "sigla": "PL 5279/2025",
@@ -5641,7 +5641,7 @@
 "principal": [
 220625
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2572257": {
 "sigla": "PL 116/2020",
@@ -5654,7 +5654,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2570847": {
 "sigla": "PL 5110/2025",
@@ -5671,7 +5671,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2569130": {
 "sigla": "PL 5027/2025",
@@ -5688,7 +5688,7 @@
 "principal": [
 80815
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2565810": {
 "sigla": "PL 4864/2025",
@@ -5705,7 +5705,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2563225": {
 "sigla": "PL 4699/2025",
@@ -5722,7 +5722,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2562278": {
 "sigla": "PL 4659/2025",
@@ -5739,7 +5739,7 @@
 "principal": [
 220625
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2560976": {
 "sigla": "PL 4578/2025",
@@ -5769,7 +5769,7 @@
 "principal": [
 220674
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2559216": {
 "sigla": "PL 2112/2022",
@@ -5782,7 +5782,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2557550": {
 "sigla": "PL 4463/2025",
@@ -5799,15 +5799,15 @@
 "principal": [
 204488
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2555995": {
 "sigla": "PL 4391/2025",
 "ementa": "Cria o Cadastro Nacional de Pessoas Condenadas por Crimes de Violência contra a Mulher (CNPC Mulher).",
 "apresentacao": "2025-09-02",
 "situacao": "",
-"data_situacao": "2025-11-07",
-"orgao": "CCP",
+"data_situacao": "2026-11-09",
+"orgao": "MESA",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -5816,7 +5816,7 @@
 "principal": [
 204566
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2555874": {
 "sigla": "PL 4368/2025",
@@ -5833,7 +5833,7 @@
 "principal": [
 220553
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2554767": {
 "sigla": "PL 4320/2025",
@@ -5850,7 +5850,7 @@
 "principal": [
 220553
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2554561": {
 "sigla": "PL 4296/2025",
@@ -5867,7 +5867,7 @@
 "principal": [
 220536
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2554427": {
 "sigla": "PL 4281/2025",
@@ -5884,7 +5884,7 @@
 "principal": [
 220551
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2553819": {
 "sigla": "PL 4265/2025",
@@ -5901,7 +5901,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2551193": {
 "sigla": "PL 4165/2025",
@@ -5921,7 +5921,7 @@
 "principal": [
 204407
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2549677": {
 "sigla": "PL 4109/2025",
@@ -5938,7 +5938,7 @@
 "principal": [
 221329
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2547125": {
 "sigla": "PL 4027/2025",
@@ -5955,15 +5955,15 @@
 "principal": [
 220546
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2547124": {
 "sigla": "PL 4026/2025",
 "ementa": "Altera o Código de Processo Penal para tornar obrigatória a prisão preventiva em casos de violência contra a mulher, na audiência de custódia, salvo prova cabal de inexistência de risco.",
 "apresentacao": "2025-08-15",
-"situacao": "Pronta para Pauta",
-"data_situacao": "2026-10-29",
-"orgao": "MESA",
+"situacao": "Aguardando Parecer",
+"data_situacao": "2026-11-06",
+"orgao": "CMULHER",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -5972,7 +5972,7 @@
 "principal": [
 220546
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2545839": {
 "sigla": "PL 4006/2025",
@@ -5989,7 +5989,7 @@
 "principal": [
 160512
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2541329": {
 "sigla": "PL 3813/2025",
@@ -6006,7 +6006,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2541307": {
 "sigla": "PL 3808/2025",
@@ -6023,7 +6023,7 @@
 "principal": [
 220606
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2541022": {
 "sigla": "PL 3773/2025",
@@ -6040,7 +6040,7 @@
 "principal": [
 220565
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2539867": {
 "sigla": "PL 3723/2025",
@@ -6058,7 +6058,7 @@
 "principal": [
 220660
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2539841": {
 "sigla": "PL 3722/2025",
@@ -6075,7 +6075,7 @@
 "principal": [
 220553
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2539182": {
 "sigla": "PL 3662/2025",
@@ -6092,7 +6092,7 @@
 "principal": [
 220622
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2539064": {
 "sigla": "PL 3655/2025",
@@ -6109,7 +6109,7 @@
 "principal": [
 220641
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2538311": {
 "sigla": "PL 3602/2025",
@@ -6126,7 +6126,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2535460": {
 "sigla": "PL 3366/2025",
@@ -6143,7 +6143,7 @@
 "principal": [
 220572
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2532508": {
 "sigla": "PL 5710/2023",
@@ -6156,7 +6156,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2527876": {
 "sigla": "PL 1813/2021",
@@ -6169,7 +6169,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2527868": {
 "sigla": "PL 4842/2023",
@@ -6182,7 +6182,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2527749": {
 "sigla": "PL 2799/2024",
@@ -6195,7 +6195,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2526747": {
 "sigla": "PL 2944/2025",
@@ -6212,7 +6212,7 @@
 "principal": [
 220548
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2524355": {
 "sigla": "PL 2823/2025",
@@ -6229,7 +6229,7 @@
 "principal": [
 220672
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2519693": {
 "sigla": "PL 435/2023",
@@ -6242,7 +6242,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2514935": {
 "sigla": "PL 2443/2025",
@@ -6259,7 +6259,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2508495": {
 "sigla": "PL 2281/2025",
@@ -6276,7 +6276,7 @@
 "principal": [
 220659
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2497749": {
 "sigla": "PL 1687/2025",
@@ -6293,7 +6293,7 @@
 "principal": [
 220537
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2496634": {
 "sigla": "PL 1623/2025",
@@ -6310,7 +6310,7 @@
 "principal": [
 204488
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2496633": {
 "sigla": "PL 1622/2025",
@@ -6327,7 +6327,7 @@
 "principal": [
 204488
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2496632": {
 "sigla": "PL 1621/2025",
@@ -6344,7 +6344,7 @@
 "principal": [
 204488
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2496631": {
 "sigla": "PLP 87/2025",
@@ -6361,7 +6361,7 @@
 "principal": [
 204488
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2495600": {
 "sigla": "PL 1559/2025",
@@ -6378,15 +6378,15 @@
 "principal": [
 220659
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2495414": {
 "sigla": "PL 1550/2025",
 "ementa": "Institui a realização de campanhas de conscientização sobre a violência contra as mulheres em eventos esportivos, com foco em estádios de futebol, e estabelece diretrizes para a promoção da igualdade de gênero e a prevenção de crimes relacionados à violência de gênero, e dá outras providências.",
 "apresentacao": "2025-04-08",
-"situacao": "Aguardando Deliberação",
-"data_situacao": "2026-07-03",
-"orgao": "CMULHER",
+"situacao": "",
+"data_situacao": "2026-11-10",
+"orgao": "CCP",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -6395,7 +6395,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2494725": {
 "sigla": "PL 1504/2025",
@@ -6412,7 +6412,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2490849": {
 "sigla": "PL 1298/2025",
@@ -6429,7 +6429,7 @@
 "principal": [
 220572
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2490437": {
 "sigla": "PL 1275/2025",
@@ -6446,7 +6446,7 @@
 "principal": [
 220668
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2487760": {
 "sigla": "PL 1116/2025",
@@ -6463,7 +6463,7 @@
 "principal": [
 204540
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2487409": {
 "sigla": "PL 1074/2025",
@@ -6480,7 +6480,7 @@
 "principal": [
 178972
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486826": {
 "sigla": "PL 980/2025",
@@ -6497,7 +6497,7 @@
 "principal": [
 220565
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486222": {
 "sigla": "PL 828/2025",
@@ -6514,13 +6514,13 @@
 "principal": [
 220594
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486213": {
 "sigla": "PL 827/2025",
 "ementa": "Institui o dia 15 de fevereiro como Dia Nacional do Enfrentamento ao Transfeminicídio, in memoriam à travesti Dandara dos Santos, e dá outras providências.",
 "apresentacao": "2025-03-10",
-"situacao": "Aguardando Deliberação",
+"situacao": "Pronta para Pauta",
 "data_situacao": "2025-10-01",
 "orgao": "CDHMIR",
 "lei": false,
@@ -6531,14 +6531,14 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486191": {
 "sigla": "PL 821/2025",
 "ementa": "Altera a Lei n° 10.340, de 7 de agosto de 2006 (Lei Maria da Penha) para incluir como medida protetiva à ofendida a suspensão automática de pensão alimentícia e pensão alimentícia compensatória em relação ao agressor.",
 "apresentacao": "2025-03-10",
-"situacao": "Aguardando Designação de Relator(a)",
-"data_situacao": "2025-10-29",
+"situacao": "Aguardando Parecer",
+"data_situacao": "2026-11-05",
 "orgao": "CCJC",
 "lei": false,
 "tema": "mulheres",
@@ -6548,7 +6548,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486189": {
 "sigla": "PL 820/2025",
@@ -6565,7 +6565,7 @@
 "principal": [
 220645
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486099": {
 "sigla": "PL 797/2025",
@@ -6582,7 +6582,7 @@
 "principal": [
 198783
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486083": {
 "sigla": "PL 795/2025",
@@ -6600,7 +6600,7 @@
 "principal": [
 204535
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486082": {
 "sigla": "PL 794/2025",
@@ -6617,7 +6617,7 @@
 "principal": [
 220530
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2485936": {
 "sigla": "PLP 53/2025",
@@ -6634,7 +6634,7 @@
 "principal": [
 204488
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2485623": {
 "sigla": "PL 720/2025",
@@ -6651,7 +6651,7 @@
 "principal": [
 218086
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2485259": {
 "sigla": "PL 653/2025",
@@ -6668,7 +6668,7 @@
 "principal": [
 109429
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2484366": {
 "sigla": "PL 525/2025",
@@ -6685,7 +6685,7 @@
 "principal": [
 160575
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2484092": {
 "sigla": "PL 481/2025",
@@ -6702,7 +6702,7 @@
 "principal": [
 220527
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2483360": {
 "sigla": "PL 346/2025",
@@ -6719,7 +6719,7 @@
 "principal": [
 220566
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2483184": {
 "sigla": "PL 329/2025",
@@ -6736,7 +6736,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2483068": {
 "sigla": "PL 296/2025",
@@ -6753,7 +6753,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2482269": {
 "sigla": "PL 65/2025",
@@ -6770,7 +6770,7 @@
 "principal": [
 220630
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2480344": {
 "sigla": "PL 4912/2024",
@@ -6787,7 +6787,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2479052": {
 "sigla": "PL 4830/2024",
@@ -6804,7 +6804,7 @@
 "principal": [
 160512
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2478270": {
 "sigla": "PL 4814/2024",
@@ -6821,7 +6821,7 @@
 "principal": [
 220622
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2477895": {
 "sigla": "PL 4806/2024",
@@ -6838,7 +6838,7 @@
 "principal": [
 204459
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2476768": {
 "sigla": "PLP 219/2024",
@@ -6855,7 +6855,7 @@
 "principal": [
 220555
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2476457": {
 "sigla": "PL 4712/2024",
@@ -6872,7 +6872,7 @@
 "principal": [
 179000
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2476455": {
 "sigla": "PL 4711/2024",
@@ -6889,7 +6889,7 @@
 "principal": [
 179000
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2476372": {
 "sigla": "PL 4708/2024",
@@ -6906,7 +6906,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2475896": {
 "sigla": "PL 4695/2024",
@@ -6923,7 +6923,7 @@
 "principal": [
 66828
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2470252": {
 "sigla": "PL 4440/2024",
@@ -6970,15 +6970,15 @@
 "principal": [
 220550
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2468006": {
 "sigla": "PL 4330/2024",
 "ementa": "Altera a Lei nº 13.185, de 6 de novembro de 2015, para inserir o conceito de wollying; e altera a Lei nº 14.164, de 10 de junho de 2021, para incluir a conscientização contra o wollying como novo objetivo para atuação na Semana Escolar de Combate à Violência contra a Mulher nas instituições públicas e privadas de ensino.",
 "apresentacao": "2024-11-12",
-"situacao": "Aguardando Designação de Relator(a)",
-"data_situacao": "2026-05-04",
-"orgao": "CCP",
+"situacao": "Aguardando Parecer",
+"data_situacao": "2026-11-06",
+"orgao": "CFT",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -6987,7 +6987,7 @@
 "principal": [
 141411
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2467217": {
 "sigla": "PL 4276/2024",
@@ -7004,7 +7004,7 @@
 "principal": [
 141470
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2462009": {
 "sigla": "PL 3880/2024",
@@ -7040,7 +7040,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2459239": {
 "sigla": "PL 3705/2024",
@@ -7058,14 +7058,14 @@
 "principal": [
 204449
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2456114": {
 "sigla": "PL 3389/2024",
 "ementa": "Estabelece o dia 13 de abril como o \"Dia Nacional de Enfrentamento ao Lesbocídio – Lei Luana Barbosa\" e dá outras providências.",
 "apresentacao": "2024-08-29",
-"situacao": "Aguardando Deliberação",
-"data_situacao": "2025-10-16",
+"situacao": "Aguardando Encaminhamento",
+"data_situacao": "2026-11-04",
 "orgao": "CDHMIR",
 "lei": false,
 "tema": "mulheres",
@@ -7075,7 +7075,7 @@
 "principal": [
 229106
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2455751": {
 "sigla": "PL 3346/2024",
@@ -7092,7 +7092,7 @@
 "principal": [
 204534
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2455171": {
 "sigla": "PL 3317/2024",
@@ -7109,7 +7109,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2454257": {
 "sigla": "PLP 136/2024",
@@ -7166,7 +7166,7 @@
 "principal": [
 73701
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2451887": {
 "sigla": "PL 3109/2024",
@@ -7183,7 +7183,7 @@
 "principal": [
 141470
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2450072": {
 "sigla": "PL 3728/2021",
@@ -7196,14 +7196,14 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2444640": {
 "sigla": "PL 2659/2024",
 "ementa": "Acrescenta parágrafo único ao art. 133 da Lei nº 8.069, de 13 de julho de 1990, para dispor sobre causas que atentam contra a idoneidade moral do conselheiro tutelar.",
 "apresentacao": "2024-07-02",
-"situacao": "Aguardando Deliberação",
-"data_situacao": "2026-10-28",
+"situacao": "Aguardando Encaminhamento",
+"data_situacao": "2026-11-04",
 "orgao": "CCJC",
 "lei": false,
 "tema": "criancas",
@@ -7213,7 +7213,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2443312": {
 "sigla": "PL 2568/2024",
@@ -7230,7 +7230,7 @@
 "principal": [
 98148
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2442994": {
 "sigla": "PL 2549/2024",
@@ -7264,7 +7264,7 @@
 "principal": [
 74084
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2434160": {
 "sigla": "PL 1860/2024",
@@ -7281,7 +7281,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2432890": {
 "sigla": "PL 1749/2024",
@@ -7299,7 +7299,7 @@
 "principal": [
 220542
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2432675": {
 "sigla": "PL 1715/2024",
@@ -7316,7 +7316,7 @@
 "principal": [
 141555
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2431589": {
 "sigla": "PL 1608/2024",
@@ -7333,7 +7333,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2431159": {
 "sigla": "PL 1587/2024",
@@ -7350,7 +7350,7 @@
 "principal": [
 178843
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2431156": {
 "sigla": "PL 1585/2024",
@@ -7367,7 +7367,7 @@
 "principal": [
 178843
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2430800": {
 "sigla": "PL 1527/2024",
@@ -7384,7 +7384,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2430018": {
 "sigla": "PL 1433/2024",
@@ -7401,14 +7401,14 @@
 "principal": [
 74398
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2428597": {
 "sigla": "PL 1378/2024",
 "ementa": "Cria plataforma de prevenção criminal para o cidadão, com cadastros e dados que especifica, de procurados, de pedófilos e de condenados por crimes violentos contra mulheres, e dá outras providências.",
 "apresentacao": "2024-04-23",
-"situacao": "Aguardando Deliberação",
-"data_situacao": "2026-10-28",
+"situacao": "Aguardando Encaminhamento",
+"data_situacao": "2026-11-04",
 "orgao": "CCJC",
 "lei": false,
 "tema": "mulheres",
@@ -7418,7 +7418,7 @@
 "principal": [
 73579
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2428217": {
 "sigla": "PL 1345/2024",
@@ -7435,7 +7435,7 @@
 "principal": [
 220660
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2428188": {
 "sigla": "PL 1339/2024",
@@ -7452,7 +7452,7 @@
 "principal": [
 220566
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2428154": {
 "sigla": "PL 1335/2024",
@@ -7469,7 +7469,7 @@
 "principal": [
 220618
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2427465": {
 "sigla": "PL 1302/2024",
@@ -7486,7 +7486,7 @@
 "principal": [
 214694
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2426960": {
 "sigla": "PL 1270/2024",
@@ -7503,7 +7503,7 @@
 "principal": [
 123756
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2426719": {
 "sigla": "PL 1242/2024",
@@ -7520,7 +7520,7 @@
 "principal": [
 220591
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2424751": {
 "sigla": "PL 1099/2024",
@@ -7554,7 +7554,7 @@
 "principal": [
 220668
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2423847": {
 "sigla": "PL 1005/2024",
@@ -7572,7 +7572,7 @@
 "principal": [
 220600
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2423845": {
 "sigla": "PL 1004/2024",
@@ -7589,7 +7589,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2421768": {
 "sigla": "PL 837/2024",
@@ -7606,7 +7606,7 @@
 "principal": [
 123086
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2421658": {
 "sigla": "PL 824/2024",
@@ -7623,7 +7623,7 @@
 "principal": [
 220656
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2421626": {
 "sigla": "PL 819/2024",
@@ -7640,7 +7640,7 @@
 "principal": [
 220532
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2421581": {
 "sigla": "PL 816/2024",
@@ -7657,7 +7657,7 @@
 "principal": [
 73579
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2421332": {
 "sigla": "PL 794/2024",
@@ -7674,7 +7674,7 @@
 "principal": [
 220534
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2420761": {
 "sigla": "PL 736/2024",
@@ -7691,7 +7691,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2420526": {
 "sigla": "PL 717/2024",
@@ -7708,7 +7708,7 @@
 "principal": [
 220703
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2420241": {
 "sigla": "PL 699/2024",
@@ -7725,7 +7725,7 @@
 "principal": [
 92102
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2419997": {
 "sigla": "PL 666/2024",
@@ -7742,7 +7742,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2419490": {
 "sigla": "PL 589/2024",
@@ -7759,7 +7759,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2419332": {
 "sigla": "PL 571/2024",
@@ -7776,7 +7776,7 @@
 "principal": [
 204379
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2419247": {
 "sigla": "PL 562/2024",
@@ -7793,7 +7793,7 @@
 "principal": [
 220690
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2419198": {
 "sigla": "PL 546/2024",
@@ -7811,7 +7811,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2418795": {
 "sigla": "PL 477/2024",
@@ -7828,7 +7828,7 @@
 "principal": [
 220713
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2418450": {
 "sigla": "PL 383/2024",
@@ -7845,7 +7845,7 @@
 "principal": [
 220578
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2418324": {
 "sigla": "PL 356/2024",
@@ -7862,7 +7862,7 @@
 "principal": [
 178954
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2418057": {
 "sigla": "PL 308/2024",
@@ -7879,7 +7879,7 @@
 "principal": [
 220528
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2417234": {
 "sigla": "PL 147/2024",
@@ -7913,7 +7913,7 @@
 "principal": [
 220700
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2416955": {
 "sigla": "PL 59/2024",
@@ -7930,7 +7930,7 @@
 "principal": [
 74158
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2415323": {
 "sigla": "PL 6113/2023",
@@ -7964,7 +7964,7 @@
 "principal": [
 150418
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2410466": {
 "sigla": "PL 4266/2023",
@@ -7994,7 +7994,7 @@
 "principal": [
 220686
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2408230": {
 "sigla": "PL 5781/2023",
@@ -8011,7 +8011,7 @@
 "principal": [
 160527
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2408188": {
 "sigla": "PL 5778/2023",
@@ -8028,7 +8028,7 @@
 "principal": [
 137070
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2403623": {
 "sigla": "PL 5481/2023",
@@ -8045,7 +8045,7 @@
 "principal": [
 220660
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2398749": {
 "sigla": "PL 5145/2023",
@@ -8062,7 +8062,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2390585": {
 "sigla": "PL 4670/2023",
@@ -8079,7 +8079,7 @@
 "principal": [
 220654
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2389867": {
 "sigla": "PL 4626/2023",
@@ -8096,7 +8096,7 @@
 "principal": [
 160604
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2386490": {
 "sigla": "PL 4381/2023",
@@ -8113,7 +8113,7 @@
 "principal": [
 206018
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2382634": {
 "sigla": "PL 4124/2023",
@@ -8130,7 +8130,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2377235": {
 "sigla": "PL 3847/2023",
@@ -8147,7 +8147,7 @@
 "principal": [
 220714
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2376036": {
 "sigla": "PL 3762/2023",
@@ -8164,7 +8164,7 @@
 "principal": [
 178985
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2375381": {
 "sigla": "PL 3705/2023",
@@ -8181,7 +8181,7 @@
 "principal": [
 218086
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2375355": {
 "sigla": "PL 3702/2023",
@@ -8198,7 +8198,7 @@
 "principal": [
 73579
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2372904": {
 "sigla": "PL 768/2022",
@@ -8211,7 +8211,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2371346": {
 "sigla": "PL 3246/2023",
@@ -8228,7 +8228,7 @@
 "principal": [
 220659
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2368374": {
 "sigla": "PL 2990/2023",
@@ -8245,7 +8245,7 @@
 "principal": [
 73486
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2367818": {
 "sigla": "PL 2966/2023",
@@ -8262,7 +8262,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2366640": {
 "sigla": "PL 2887/2023",
@@ -8280,7 +8280,7 @@
 "principal": [
 220704
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2366264": {
 "sigla": "PL 2859/2023",
@@ -8297,7 +8297,7 @@
 "principal": [
 204464
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2363319": {
 "sigla": "PL 2669/2023",
@@ -8314,7 +8314,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2363030": {
 "sigla": "PL 2641/2023",
@@ -8332,7 +8332,7 @@
 "principal": [
 178873
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2359057": {
 "sigla": "PL 2259/2023",
@@ -8349,7 +8349,7 @@
 "principal": [
 220660
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2358946": {
 "sigla": "PL 2253/2023",
@@ -8366,7 +8366,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2358875": {
 "sigla": "PL 1822/2019",
@@ -8396,7 +8396,7 @@
 "principal": [
 220660
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2352298": {
 "sigla": "PL 1294/2023",
@@ -8413,7 +8413,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2351843": {
 "sigla": "PL 1222/2023",
@@ -8430,7 +8430,7 @@
 "principal": [
 204391
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2351677": {
 "sigla": "PL 1197/2023",
@@ -8447,7 +8447,7 @@
 "principal": [
 220538
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2351470": {
 "sigla": "PL 1169/2023",
@@ -8464,7 +8464,7 @@
 "principal": [
 220630
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2350533": {
 "sigla": "PL 999/2023",
@@ -8481,7 +8481,7 @@
 "principal": [
 178866
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2350172": {
 "sigla": "PL 894/2023",
@@ -8498,7 +8498,7 @@
 "principal": [
 220579
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2350078": {
 "sigla": "PL 872/2023",
@@ -8515,7 +8515,7 @@
 "principal": [
 220629
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2350059": {
 "sigla": "PL 869/2023",
@@ -8532,7 +8532,7 @@
 "principal": [
 220609
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2349867": {
 "sigla": "PL 818/2023",
@@ -8549,7 +8549,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2349726": {
 "sigla": "PL 769/2023",
@@ -8566,7 +8566,7 @@
 "principal": [
 220705
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2349725": {
 "sigla": "PL 768/2023",
@@ -8583,7 +8583,7 @@
 "principal": [
 220585
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2349657": {
 "sigla": "PL 754/2023",
@@ -8617,7 +8617,7 @@
 "principal": [
 220585
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2349429": {
 "sigla": "PL 701/2023",
@@ -8634,7 +8634,7 @@
 "principal": [
 178993
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2349386": {
 "sigla": "PL 684/2023",
@@ -8651,7 +8651,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2348895": {
 "sigla": "PL 558/2023",
@@ -8668,7 +8668,7 @@
 "principal": [
 220565
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2348857": {
 "sigla": "PL 539/2023",
@@ -8685,7 +8685,7 @@
 "principal": [
 220612
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2348392": {
 "sigla": "PL 461/2023",
@@ -8702,7 +8702,7 @@
 "principal": [
 220534
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2348304": {
 "sigla": "PL 419/2023",
@@ -8736,7 +8736,7 @@
 "principal": [
 204540
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2347133": {
 "sigla": "PL 309/2023",
@@ -8753,7 +8753,7 @@
 "principal": [
 204540
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2347096": {
 "sigla": "PL 291/2023",
@@ -8770,7 +8770,7 @@
 "principal": [
 220578
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2347054": {
 "sigla": "PL 256/2023",
@@ -8789,7 +8789,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2346842": {
 "sigla": "PL 138/2023",
@@ -8806,7 +8806,7 @@
 "principal": [
 74371
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2346805": {
 "sigla": "PL 116/2023",
@@ -8823,7 +8823,7 @@
 "principal": [
 74371
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2346803": {
 "sigla": "PL 115/2023",
@@ -8840,7 +8840,7 @@
 "principal": [
 74371
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2345720": {
 "sigla": "PL 52/2023",
@@ -8857,7 +8857,7 @@
 "principal": [
 220648
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2345643": {
 "sigla": "PL 12/2023",
@@ -8874,13 +8874,13 @@
 "principal": [
 220686
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2646955": {
 "sigla": "PL 5449/2026",
 "ementa": "Dispõe que o equipamento de monitoração eletrônica usado por agressor em cumprimento de medida protetiva de urgência possa ser dotado de mecanismo interno de condução de energia do tipo eletrochoque (taser) destinado à sua incapacitação física temporária na hipótese de rompimento do perímetro de exclusão fixado judicialmente.",
 "apresentacao": "2026-09-23",
-"situacao": "",
+"situacao": "Aguardando Autorização do Despacho",
 "data_situacao": "2026-09-23",
 "orgao": "MESA",
 "lei": false,
@@ -8891,7 +8891,7 @@
 "principal": [
 123756
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2645057": {
 "sigla": "PL 5240/2026",
@@ -8908,13 +8908,13 @@
 "principal": [
 220538
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2643934": {
 "sigla": "PL 5097/2026",
 "ementa": "Institui o Programa Nacional Antes do Sim, destinado à preparação para relações conjugais saudáveis e à prevenção da violência doméstica e familiar no âmbito de ações públicas de casamento coletivo ou comunitário e de iniciativas executadas em cooperação com a Justiça Itinerante; altera a Lei nº 11.340, de 7 de agosto de 2006; e dá outras providências.",
 "apresentacao": "2026-08-17",
-"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-08-17",
 "orgao": "MESA",
 "lei": false,
@@ -8925,13 +8925,13 @@
 "principal": [
 220530
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2643364": {
 "sigla": "PL 5046/2026",
 "ementa": "Altera a Lei nº 11.340, de 07 de agosto de 2006, e a Lei nº 14.344, de 24 de maio de 2022, para estabelecer avaliação obrigatória de risco e proteção imediata de crianças e adolescentes em contexto de violência doméstica e familiar, e dá outras providências.",
 "apresentacao": "2026-08-12",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-08-12",
 "orgao": "MESA",
 "lei": false,
@@ -8942,13 +8942,13 @@
 "principal": [
 160601
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2642947": {
 "sigla": "PL 5023/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para fixar parâmetros mínimos de distância da zona de advertência e da zona de exclusão na monitoração eletrônica de agressores, para estender às duas zonas o alerta automático e simultâneo à vítima e à autoridade policial, e para dispor sobre o alerta de falha técnica dos dispositivos de monitoração e sobre o modo de notificação à vítima.",
 "apresentacao": "2026-08-12",
-"situacao": "Aguardando Autorização do Despacho",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
 "data_situacao": "2026-08-12",
 "orgao": "MESA",
 "lei": false,
@@ -8959,15 +8959,15 @@
 "principal": [
 220641
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2641724": {
 "sigla": "PL 4829/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para isentar de custas processuais, emolumentos e demais despesas processuais as vítimas de violência doméstica e familiar em ações de conhecimento no juízo cível destinadas à reparação de danos materiais e morais e em cumprimento de sentença ou de condenação criminal transitada em julgado que tenha fixado ressarcimento de danos, independentemente de comprovação de hipossuficiência econômica.",
 "apresentacao": "2026-07-29",
-"situacao": "",
-"data_situacao": "2026-10-29",
-"orgao": "MESA",
+"situacao": "Aguardando Designação de Relator(a)",
+"data_situacao": "2026-11-04",
+"orgao": "CCP",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -8976,7 +8976,7 @@
 "principal": [
 160758
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2640914": {
 "sigla": "PL 4234/2026",
@@ -8993,13 +8993,13 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2640884": {
 "sigla": "PL 4204/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para explicitar hipótese de violência psicológica praticada por terceiro que, com ciência da situação de violência doméstica e familiar, induza ou pressione a mulher a não buscar os mecanismos legais de proteção.",
 "apresentacao": "2026-07-17",
-"situacao": "",
+"situacao": "Aguardando Encaminhamento",
 "data_situacao": "2026-10-28",
 "orgao": "MESA",
 "lei": false,
@@ -9010,15 +9010,15 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2640838": {
 "sigla": "PL 4159/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para explicitar diretrizes de valoração dos meios de prova nos casos de violência psicológica contra a mulher.",
 "apresentacao": "2026-07-17",
-"situacao": "",
-"data_situacao": "2026-10-27",
-"orgao": "MESA",
+"situacao": "Aguardando Encaminhamento",
+"data_situacao": "2026-11-10",
+"orgao": "CCP",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -9027,15 +9027,15 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2640666": {
 "sigla": "PL 3991/2026",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para explicitar hipóteses de descumprimento de medida protetiva de urgência relacionadas à monitoração eletrônica regularmente imposta ao agressor.",
 "apresentacao": "2026-07-17",
-"situacao": "",
-"data_situacao": "2026-10-27",
-"orgao": "MESA",
+"situacao": "Aguardando Encaminhamento",
+"data_situacao": "2026-11-05",
+"orgao": "CCP",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -9044,7 +9044,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2636544": {
 "sigla": "PL 3429/2026",
@@ -9061,7 +9061,7 @@
 "principal": [
 220615
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2631275": {
 "sigla": "PL 3006/2026",
@@ -9078,7 +9078,7 @@
 "principal": [
 204497
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2629993": {
 "sigla": "PL 2860/2026",
@@ -9095,7 +9095,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2619784": {
 "sigla": "PL 2063/2026",
@@ -9112,7 +9112,7 @@
 "principal": [
 141533
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2615067": {
 "sigla": "PL 1742/2026",
@@ -9130,7 +9130,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2614736": {
 "sigla": "PL 1708/2026",
@@ -9147,7 +9147,7 @@
 "principal": [
 220640
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2614005": {
 "sigla": "PL 1657/2026",
@@ -9164,7 +9164,7 @@
 "principal": [
 160641
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2613808": {
 "sigla": "PL 1634/2026",
@@ -9181,7 +9181,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2606298": {
 "sigla": "PL 898/2026",
@@ -9198,7 +9198,7 @@
 "principal": [
 74400
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2605774": {
 "sigla": "PL 861/2026",
@@ -9215,7 +9215,7 @@
 "principal": [
 204472
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2604675": {
 "sigla": "PL 748/2026",
@@ -9232,7 +9232,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2604015": {
 "sigla": "PL 676/2026",
@@ -9249,7 +9249,7 @@
 "principal": [
 214694
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2603930": {
 "sigla": "PL 666/2026",
@@ -9266,7 +9266,7 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2602176": {
 "sigla": "PL 442/2026",
@@ -9283,7 +9283,7 @@
 "principal": [
 220539
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2600993": {
 "sigla": "PL 300/2026",
@@ -9300,7 +9300,7 @@
 "principal": [
 220674
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2600746": {
 "sigla": "PL 254/2026",
@@ -9317,7 +9317,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2600642": {
 "sigla": "PL 223/2026",
@@ -9334,7 +9334,7 @@
 "principal": [
 220599
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2600077": {
 "sigla": "PL 34/2026",
@@ -9351,15 +9351,15 @@
 "principal": [
 178985
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2599734": {
 "sigla": "PL 7125/2025",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre a participação obrigatória do agressor em programas de intervenção comportamental como condição simultânea à concessão de medidas protetivas de urgência.",
 "apresentacao": "2025-12-22",
 "situacao": "Tramitando em Conjunto",
-"data_situacao": "2026-10-29",
-"orgao": "MESA",
+"data_situacao": "2026-11-11",
+"orgao": "CSPCCO",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -9368,7 +9368,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2599335": {
 "sigla": "PL 6732/2025",
@@ -9385,7 +9385,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2596421": {
 "sigla": "PL 6393/2025",
@@ -9402,7 +9402,7 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2595798": {
 "sigla": "PL 6348/2025",
@@ -9419,7 +9419,7 @@
 "principal": [
 141421
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2592959": {
 "sigla": "PL 6179/2025",
@@ -9436,7 +9436,7 @@
 "principal": [
 74262
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2589158": {
 "sigla": "PL 6004/2025",
@@ -9453,7 +9453,7 @@
 "principal": [
 220556
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2584549": {
 "sigla": "PL 5825/2025",
@@ -9470,14 +9470,14 @@
 "principal": [
 220690
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2584514": {
 "sigla": "PL 5824/2025",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 - Lei Maria da Penha, para assegurar à vítima de violência doméstica e familiar o direito de recorrer contra decisão que revogue ou indefira medidas protetivas de urgência.",
 "apresentacao": "2025-11-12",
-"situacao": "Aguardando Designação de Relator(a)",
-"data_situacao": "2026-06-18",
+"situacao": "Aguardando Parecer",
+"data_situacao": "2026-11-05",
 "orgao": "CCJC",
 "lei": false,
 "tema": "mulheres",
@@ -9487,7 +9487,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2581936": {
 "sigla": "PL 5687/2025",
@@ -9504,15 +9504,15 @@
 "principal": [
 220604
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2580835": {
 "sigla": "PL 5605/2025",
 "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 8.213, de 24 de julho de 1991 (Lei de Benefícios da Previdência Social), a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), a Lei nº 14.457, de 21 de setembro de 2022 (Institui o Programa Emprega + Mulheres), para dispor sobre o afastamento do trabalho e a proteção trabalhista, previdenciária e assistencial da mulher vítima de violência doméstica e familiar e dá outras providências.",
 "apresentacao": "2025-11-04",
 "situacao": "Tramitando em Conjunto",
-"data_situacao": "2026-10-27",
-"orgao": "MESA",
+"data_situacao": "2026-11-10",
+"orgao": "CTRAB",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -9521,14 +9521,14 @@
 "principal": [
 160629
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2576298": {
 "sigla": "PL 5424/2025",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), a fim de instituir o Prontuário Único Nacional de Violência Doméstica.",
 "apresentacao": "2025-10-27",
-"situacao": "Aguardando Designação de Relator(a)",
-"data_situacao": "2026-05-20",
+"situacao": "Aguardando Parecer",
+"data_situacao": "2026-11-06",
 "orgao": "CFT",
 "lei": false,
 "tema": "mulheres",
@@ -9538,7 +9538,7 @@
 "principal": [
 220543
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2573624": {
 "sigla": "PL 5295/2025",
@@ -9555,7 +9555,7 @@
 "principal": [
 153423
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2571359": {
 "sigla": "PL 5128/2025",
@@ -9572,15 +9572,15 @@
 "principal": [
 220559
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2568034": {
 "sigla": "PL 5013/2025",
 "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer a especial relevância probatória do depoimento da ofendida nos crimes praticados com violência doméstica e familiar contra a mulher.",
 "apresentacao": "2025-10-07",
 "situacao": "Aguardando Parecer",
-"data_situacao": "2026-10-29",
-"orgao": "MESA",
+"data_situacao": "2026-11-11",
+"orgao": "CMULHER",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -9589,7 +9589,7 @@
 "principal": [
 160548
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2567301": {
 "sigla": "PL 4954/2025",
@@ -9606,14 +9606,14 @@
 "principal": [
 220559
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2567239": {
 "sigla": "PL 4951/2025",
 "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso), para possibilitar a aplicação das medidas protetivas de urgência previstas na Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha).",
 "apresentacao": "2025-10-02",
 "situacao": "Tramitando em Conjunto",
-"data_situacao": "2025-11-10",
+"data_situacao": "2026-11-04",
 "orgao": "CCJC",
 "lei": false,
 "tema": "mulheres",
@@ -9623,7 +9623,7 @@
 "principal": [
 220625
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2557069": {
 "sigla": "PL 4433/2025",
@@ -9640,7 +9640,7 @@
 "principal": [
 205865
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2542124": {
 "sigla": "PL 3857/2025",
@@ -9657,7 +9657,7 @@
 "principal": [
 220689
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2541344": {
 "sigla": "PL 3815/2025",
@@ -9674,7 +9674,7 @@
 "principal": [
 153423
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2537638": {
 "sigla": "PL 3524/2025",
@@ -9691,7 +9691,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2537418": {
 "sigla": "PL 3474/2025",
@@ -9708,14 +9708,14 @@
 "principal": [
 220715
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2534565": {
 "sigla": "PL 3343/2025",
 "ementa": "Altera a redação do artigo 14-A da Lei 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para autorizar a requisição de divórcio unilateral da parte ofendida.",
 "apresentacao": "2025-07-10",
-"situacao": "Aguardando Designação de Relator(a)",
-"data_situacao": "2026-05-20",
+"situacao": "Aguardando Parecer",
+"data_situacao": "2026-11-05",
 "orgao": "CCJC",
 "lei": false,
 "tema": "mulheres",
@@ -9725,13 +9725,13 @@
 "principal": [
 141408
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2528054": {
 "sigla": "PL 3048/2025",
 "ementa": "ALTERA A LEI Nº 11.340, DE 7 DE AGOSTO DE 2006 (LEI MARIA DA PENHA), PARA TORNAR OBRIGATÓRIA A CRIAÇÃO E O FUNCIONAMENTO DE CENTROS DE REFERÊNCIA DE ATENDIMENTO À MULHER (CRAM) NOS ESTADOS, NO DISTRITO FEDERAL E NOS MUNICÍPIOS.",
 "apresentacao": "2025-06-24",
-"situacao": "Pronta para Pauta",
+"situacao": "Aguardando Deliberação",
 "data_situacao": "2026-07-01",
 "orgao": "CMULHER",
 "lei": false,
@@ -9742,7 +9742,7 @@
 "principal": [
 220565
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2516021": {
 "sigla": "PL 2526/2025",
@@ -9759,7 +9759,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2494638": {
 "sigla": "PL 1500/2025",
@@ -9776,7 +9776,7 @@
 "principal": [
 204441
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2494331": {
 "sigla": "PL 1441/2025",
@@ -9793,7 +9793,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2490865": {
 "sigla": "PL 1299/2025",
@@ -9810,7 +9810,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2490694": {
 "sigla": "PL 1295/2025",
@@ -9827,7 +9827,7 @@
 "principal": [
 220653
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2490055": {
 "sigla": "PL 1237/2025",
@@ -9844,7 +9844,7 @@
 "principal": [
 204540
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2488593": {
 "sigla": "PL 1191/2025",
@@ -9861,7 +9861,7 @@
 "principal": [
 220561
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2487299": {
 "sigla": "PL 1048/2025",
@@ -9878,7 +9878,7 @@
 "principal": [
 160629
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486860": {
 "sigla": "PL 982/2025",
@@ -9897,7 +9897,7 @@
 "principal": [
 204534
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486460": {
 "sigla": "PL 891/2025",
@@ -9914,7 +9914,7 @@
 "principal": [
 69871
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2486238": {
 "sigla": "PL 833/2025",
@@ -9931,7 +9931,7 @@
 "principal": [
 220573
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2484260": {
 "sigla": "PL 507/2025",
@@ -9948,7 +9948,7 @@
 "principal": [
 220548
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2484071": {
 "sigla": "PL 471/2025",
@@ -9965,7 +9965,7 @@
 "principal": [
 220714
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2483091": {
 "sigla": "PL 302/2025",
@@ -9982,7 +9982,7 @@
 "principal": [
 220644
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2482875": {
 "sigla": "PL 255/2025",
@@ -9999,7 +9999,7 @@
 "principal": [
 220642
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2482712": {
 "sigla": "PL 235/2025",
@@ -10016,15 +10016,15 @@
 "principal": [
 220584
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2482276": {
 "sigla": "PL 69/2025",
 "ementa": "Altera o Decreto-Lei 2.848 de 7 de dezembro de 1940- Código Penal, a Lei 11.340 de 7 de agosto de 2006 - Lei Maria da Penha, e a Lei 10.741 de 1º de outubro de 2003 – Estatuto do Idoso, para tipificar o estelionato sentimental como crime de alto potencial ofensivo, tornando-o um crime separado e aumentando a pena, destacando a gravidade do crime.",
 "apresentacao": "2025-02-03",
 "situacao": "Aguardando Designação de Relator(a)",
-"data_situacao": "2026-10-29",
-"orgao": "MESA",
+"data_situacao": "2026-11-06",
+"orgao": "CCJC",
 "lei": false,
 "tema": "mulheres",
 "autores": [
@@ -10043,7 +10043,7 @@
 "principal": [
 104552
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2475763": {
 "sigla": "PL 4686/2024",
@@ -10060,7 +10060,7 @@
 "principal": [
 220607
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2475491": {
 "sigla": "PL 4676/2024",
@@ -10077,7 +10077,7 @@
 "principal": [
 220561
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2473146": {
 "sigla": "PL 4591/2024",
@@ -10094,7 +10094,7 @@
 "principal": [
 220683
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2472871": {
 "sigla": "PL 4573/2024",
@@ -10111,7 +10111,7 @@
 "principal": [
 204472
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2470719": {
 "sigla": "PL 4464/2024",
@@ -10128,7 +10128,7 @@
 "principal": [
 220582
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2467681": {
 "sigla": "PL 4306/2024",
@@ -10145,7 +10145,7 @@
 "principal": [
 160575
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2462987": {
 "sigla": "PL 3986/2024",
@@ -10162,7 +10162,7 @@
 "principal": [
 74084
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2462274": {
 "sigla": "PL 3931/2024",
@@ -10179,7 +10179,7 @@
 "principal": [
 220546
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2462271": {
 "sigla": "PL 3930/2024",
@@ -10196,7 +10196,7 @@
 "principal": [
 220546
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2462013": {
 "sigla": "PL 3881/2024",
@@ -10213,7 +10213,7 @@
 "principal": [
 220566
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2459585": {
 "sigla": "PL 3770/2024",
@@ -10230,7 +10230,7 @@
 "principal": [
 73579
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2459496": {
 "sigla": "PL 3760/2024",
@@ -10247,7 +10247,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2456236": {
 "sigla": "PL 3396/2024",
@@ -10264,7 +10264,7 @@
 "principal": [
 220548
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2448055": {
 "sigla": "PL 2808/2024",
@@ -10281,7 +10281,7 @@
 "principal": [
 220566
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2443763": {
 "sigla": "PL 2613/2024",
@@ -10298,7 +10298,7 @@
 "principal": [
 160512
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2441956": {
 "sigla": "PL 2479/2024",
@@ -10315,7 +10315,7 @@
 "principal": [
 220621
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2430055": {
 "sigla": "PL 1442/2024",
@@ -10332,7 +10332,7 @@
 "principal": [
 74856
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2429967": {
 "sigla": "PL 1424/2024",
@@ -10349,7 +10349,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2421891": {
 "sigla": "PL 850/2024",
@@ -10366,7 +10366,7 @@
 "principal": [
 182146
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2419803": {
 "sigla": "PL 629/2024",
@@ -10383,7 +10383,7 @@
 "principal": [
 220695
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2419174": {
 "sigla": "PL 538/2024",
@@ -10400,7 +10400,7 @@
 "principal": [
 220629
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2418037": {
 "sigla": "PL 300/2024",
@@ -10417,7 +10417,7 @@
 "principal": [
 178843
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2416896": {
 "sigla": "PL 34/2024",
@@ -10435,7 +10435,7 @@
 "principal": [
 220701
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2416894": {
 "sigla": "PL 33/2024",
@@ -10452,7 +10452,7 @@
 "principal": [
 220701
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2416460": {
 "sigla": "PL 6198/2023",
@@ -10469,7 +10469,7 @@
 "principal": [
 220657
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2416459": {
 "sigla": "PL 6197/2023",
@@ -10486,7 +10486,7 @@
 "principal": [
 220657
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2413257": {
 "sigla": "PL 6020/2023",
@@ -10503,7 +10503,7 @@
 "principal": [
 220674
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2413199": {
 "sigla": "PL 6010/2023",
@@ -10520,7 +10520,7 @@
 "principal": [
 220566
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2413051": {
 "sigla": "PL 6001/2023",
@@ -10537,7 +10537,7 @@
 "principal": [
 220674
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2409757": {
 "sigla": "PL 5880/2023",
@@ -10554,7 +10554,7 @@
 "principal": [
 220540
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2409560": {
 "sigla": "PL 5863/2023",
@@ -10571,7 +10571,7 @@
 "principal": [
 160629
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2408181": {
 "sigla": "PL 5777/2023",
@@ -10588,7 +10588,7 @@
 "principal": [
 73701
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2406516": {
 "sigla": "PL 5695/2023",
@@ -10605,7 +10605,7 @@
 "principal": [
 220534
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2406249": {
 "sigla": "PL 5672/2023",
@@ -10622,7 +10622,7 @@
 "principal": [
 220574
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2406076": {
 "sigla": "PL 5658/2023",
@@ -10639,7 +10639,7 @@
 "principal": [
 160621
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2404663": {
 "sigla": "PL 5577/2023",
@@ -10656,7 +10656,7 @@
 "principal": [
 220569
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2404069": {
 "sigla": "PL 1713/2022",
@@ -10669,7 +10669,7 @@
 "tema": "mulheres",
 "autores": [],
 "principal": [],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2403523": {
 "sigla": "PL 5472/2023",
@@ -10686,7 +10686,7 @@
 "principal": [
 220566
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2403507": {
 "sigla": "PL 5467/2023",
@@ -10703,7 +10703,7 @@
 "principal": [
 220548
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2403026": {
 "sigla": "PL 5432/2023",
@@ -10720,7 +10720,7 @@
 "principal": [
 204456
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2402981": {
 "sigla": "PL 5427/2023",
@@ -10754,7 +10754,7 @@
 "principal": [
 220671
 ],
-"lido_em": "2026-11-03"
+"lido_em": "2026-11-11"
 },
 "2400050": {
 "sigla": "PL 5253/2023",
@@ -30205,6 +30205,23 @@
 178887
 ],
 "lido_em": "2026-11-10"
+},
+"2652736": {
+"sigla": "PL 5819/2026",
+"ementa": "Dispõe sobre a proteção da integridade física, da segurança pessoal e do exercício do direito à moradia em condomínios edilícios; altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para disciplinar o afastamento judicial de ocupantes responsáveis por violência grave, estabelecer medidas protetivas de urgência, tipificar a coação violenta ao exercício da moradia e assegurar a reparação patrimonial das vítimas, inclusive mediante adjudicação judicial de bens do responsável.",
+"apresentacao": "2026-11-11",
+"situacao": "",
+"data_situacao": "2026-11-11",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220604
+],
+"principal": [
+220604
+],
+"lido_em": "2026-11-11"
 }
 },
 "deputados": {

@@ -1,5 +1,72 @@
 [
  {
+  "id": "a29c0db048",
+  "grupo": "29c0db048463",
+  "e": "L",
+  "img": "r-sul",
+  "iso": "2026-11-11T17:19:38+00:00",
+  "date": "11 nov 2026",
+  "h": "Vai ao Plenário proposta de mobilização de 21 dias pelos direitos das mulheres",
+  "t": "Notícia publicada por Agência Senado em 11 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/11/vai-ao-plenario-proposta-de-mobilizacao-de-21-dias-pelos-direitos-das-mulheres"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-11T17:54:49.052741+00:00",
+  "uf": [
+   "SC"
+  ]
+ },
+ {
+  "id": "a9fb712a9a",
+  "grupo": "9fb712a9a14a",
+  "e": "N",
+  "img": "delegacia-geral",
+  "iso": "2026-11-11T16:52:46+00:00",
+  "date": "11 nov 2026",
+  "h": "Projeto que amplia proteção emergencial a mulheres avança",
+  "t": "Notícia publicada por Agência Senado em 11 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/11/projeto-que-amplia-protecao-emergencial-a-mulheres-avanca"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-11T17:54:49.052741+00:00"
+ },
+ {
+  "id": "abfb41e8e2",
+  "grupo": "bfb41e8e2e75",
+  "e": "P",
+  "img": "f-esplanada-noite",
+  "iso": "2026-11-11T16:20:51+00:00",
+  "date": "11 nov 2026",
+  "h": "Avança projeto que reforça punição à violência sexual no âmbito militar",
+  "t": "Notícia publicada por Agência Senado em 11 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/11/avanca-projeto-que-reforca-punicao-a-violencia-sexual-no-ambito-militar"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-11T17:54:49.052741+00:00",
+  "uf": [
+   "DF",
+   "RJ"
+  ]
+ },
+ {
   "id": "a3276bef6a",
   "grupo": "3276bef6a495",
   "e": "G",
