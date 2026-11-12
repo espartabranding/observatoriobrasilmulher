@@ -1,5 +1,28 @@
 [
  {
+  "id": "a9288668fa",
+  "grupo": "9288668fac0e",
+  "e": "A",
+  "img": "conselho-tutelar-sede",
+  "iso": "2026-11-11T23:42:09+00:00",
+  "date": "11 nov 2026",
+  "h": "Polícia e Conselho Tutelar apuram caso de criança que foi à creche com hematomas em Osvaldo Cruz",
+  "t": "Notícia publicada por g1 em 11 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/11/investiga-hematoma-crianca-osvaldo-cruz.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T08:19:42.378717+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "acca30778a",
   "grupo": "cca30778abb4",
   "e": "P",
@@ -55,6 +78,29 @@
   "criado_em": "2026-11-12T00:43:02.100630+00:00",
   "uf": [
    "CE"
+  ]
+ },
+ {
+  "id": "afd7f56e1d",
+  "grupo": "fd7f56e1d044",
+  "e": "L",
+  "img": "mpmg-sede",
+  "iso": "2026-11-11T20:00:00+00:00",
+  "date": "11 nov 2026",
+  "h": "Vitória da Conquista recebe Mutirão Maria da Penha em Foco com 76 audiências programadas",
+  "t": "Notícia publicada por TJBA – Tribunal de Justiça do Bahia em 11 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJBA – Tribunal de Justiça do Bahia",
+    "https://www.tjba.jus.br/portal/vitoria-da-conquista-recebe-mutirao-maria-da-penha-em-foco-com-76-audiencias-programadas/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T08:19:42.378717+00:00",
+  "uf": [
+   "BA"
   ]
  },
  {
@@ -149,6 +195,30 @@
   "criado_em": "2026-11-12T00:43:02.100630+00:00",
   "uf": [
    "PI"
+  ]
+ },
+ {
+  "id": "abef05893e",
+  "grupo": "bef05893eedf",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-11-11T13:21:17+00:00",
+  "date": "11 nov 2026",
+  "h": "NATAL (RN) – MPMA assina Pacto pelo Fim do Feminicídio",
+  "t": "Notícia publicada por MPMA – Ministério Público Maranhão em 11 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPMA – Ministério Público Maranhão",
+    "https://www.mpma.mp.br/natal-rn-mpma-assina-pacto-pelo-fim-do-feminicidio/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T08:19:42.378717+00:00",
+  "uf": [
+   "MA",
+   "RN"
   ]
  },
  {
