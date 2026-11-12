@@ -1,5 +1,63 @@
 [
  {
+  "id": "acca30778a",
+  "grupo": "cca30778abb4",
+  "e": "P",
+  "img": "r-nordeste",
+  "iso": "2026-11-11T23:20:29+00:00",
+  "date": "11 nov 2026",
+  "h": "Câmara aprova tornar crime hediondo os maus-tratos a animais que resultarem em morte",
+  "t": "Notícia publicada por CartaCapital em 11 nov 2026 e repercutida por mais 3 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/sao-paulo/camara-aprova-projeto-que-torna-maus-tratos-a-animais-crime-hediondo"
+   ],
+   [
+    "O Globo",
+    "https://oglobo.globo.com/brasil/noticia/2026/11/11/camara-aprova-projeto-que-torna-crime-hediondo-o-crime-de-maus-tratos-a-animais.ghtml"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/politica/noticia/2026/11/11/camara-aprova-projeto-que-torna-hediondos-maus-tratos-que-resultarem-em-morte-de-animal.ghtml"
+   ],
+   [
+    "CartaCapital",
+    "https://www.cartacapital.com.br/cartaexpressa/camara-aprova-tornar-crime-hediondo-os-maus-tratos-a-animais-que-resultarem-em-morte/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T00:43:02.100630+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "a3d65797d0",
+  "grupo": "3d65797d0bbd",
+  "e": "L",
+  "img": "mpba-sede",
+  "iso": "2026-11-11T20:17:09+00:00",
+  "date": "11 nov 2026",
+  "h": "Em Alto Santo, Tribunal do Júri acata teses do MP e condena homem por tentar assassinar ex-companheira e namorado dela",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 11 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/em-alto-santo-tribunal-do-juri-acata-teses-do-mp-e-condena-homem-por-tentar-assassinar-ex-companheira-e-namorado-dela/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T00:43:02.100630+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "a29c0db048",
   "grupo": "29c0db048463",
   "e": "L",
@@ -64,6 +122,33 @@
   "uf": [
    "DF",
    "RJ"
+  ]
+ },
+ {
+  "id": "ad00cc992e",
+  "grupo": "d00cc992e613",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-11-11T14:05:00+00:00",
+  "date": "11 nov 2026",
+  "h": "Homem condenado por estupro de sobrinha de 8 anos é preso em Teresina",
+  "t": "Notícia publicada por Cidade Verde (PI) em 11 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/pi/piaui/noticia/2026/11/11/condenado-estupro-teresina.ghtml"
+   ],
+   [
+    "Cidade Verde (PI)",
+    "https://cidadeverde.com/geral/466232/homem-condenado-por-estupro-de-sobrinha-de-8-anos-e-preso-em-teresina"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T00:43:02.100630+00:00",
+  "uf": [
+   "PI"
   ]
  },
  {
