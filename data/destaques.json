@@ -1,5 +1,74 @@
 [
  {
+  "id": "a05736cecb",
+  "grupo": "05736cecbba6",
+  "e": "L",
+  "img": "f-stj-sede",
+  "iso": "2026-11-12T18:02:04+00:00",
+  "date": "12 nov 2026",
+  "h": "MPPB orienta Conselhos Tutelares sobre encaminhamentos de demandas à rede de proteção em Catolé do Rocha",
+  "t": "Notícia publicada por MPPB – Ministério Público Paraíba em 12 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPPB – Ministério Público Paraíba",
+    "http://www.mppb.mp.br/index.php?view=article&id=27939"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T18:20:01.971608+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
+  "id": "ad20556a5a",
+  "grupo": "d20556a5afb5",
+  "e": "A",
+  "img": "r-norte",
+  "iso": "2026-11-12T14:44:50+00:00",
+  "date": "12 nov 2026",
+  "h": "Governo de RO entrega sede própria do Conselho Tutelar de Rolim de Moura pelo Programa Criança Protegida",
+  "t": "Notícia publicada por Governo de RO – Notícias em 12 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo de RO – Notícias",
+    "https://rondonia.ro.gov.br/governo-de-ro-entrega-sede-propria-do-conselho-tutelar-de-rolim-de-moura-pelo-programa-crianca-protegida/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T18:20:01.971608+00:00",
+  "uf": [
+   "RO"
+  ]
+ },
+ {
+  "id": "a269808141",
+  "grupo": "269808141bcc",
+  "e": "N",
+  "img": "deam-viatura-df",
+  "iso": "2026-11-12T13:04:12+00:00",
+  "date": "12 nov 2026",
+  "h": "Caminhada na Beira-Mar de Fortaleza mobiliza sistema de Justiça e sociedade pelo fim do feminicídio durante o XVIII Fonavid",
+  "t": "Notícia publicada por TJCE – Tribunal de Justiça do Ceará em 12 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJCE – Tribunal de Justiça do Ceará",
+    "https://www.tjce.jus.br/noticias/caminhada-na-beira-mar-de-fortaleza-mobiliza-sistema-de-justica-e-sociedade-pelo-fim-do-feminicidio-durante-o-xviii-fonavid/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-12T18:20:01.971608+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "a9288668fa",
   "grupo": "9288668fac0e",
   "e": "A",
