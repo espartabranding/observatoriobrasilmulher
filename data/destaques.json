@@ -1,5 +1,28 @@
 [
  {
+  "id": "a4ee692a81",
+  "grupo": "4ee692a81d92",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-11-12T21:48:08+00:00",
+  "date": "12 nov 2026",
+  "h": "Após pedido do MP, Justiça decreta prisão preventiva de homem acusado de tentativa de feminicídio em Santa Quitéria",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 12 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/apos-pedido-do-mp-justica-decreta-prisao-preventiva-de-homem-acusado-de-tentativa-de-feminicidio-em-santa-quiteria/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T07:56:52.084611+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "aa9a0676c7",
   "grupo": "a9a0676c7a38",
   "e": "I",
@@ -137,6 +160,53 @@
   "uf": [
    "CE"
   ]
+ },
+ {
+  "id": "a1276871f7",
+  "grupo": "1276871f710d",
+  "e": "L",
+  "img": "f-stj-ipes",
+  "iso": "2026-11-12T11:00:00+00:00",
+  "date": "12 nov 2026",
+  "h": "Perspectiva de gênero fortalece a igualdade nos julgamentos do TJBA",
+  "t": "Notícia publicada por TJBA – Tribunal de Justiça do Bahia em 12 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJBA – Tribunal de Justiça do Bahia",
+    "https://www.tjba.jus.br/portal/perspectiva-de-genero-fortalece-a-igualdade-nos-julgamentos-do-tjba/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T07:56:52.084611+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "a8fdd1afcb",
+  "grupo": "8fdd1afcb683",
+  "e": "P",
+  "img": "esplanada-ministerio-bloco",
+  "iso": "2026-11-12T10:50:17+00:00",
+  "date": "12 nov 2026",
+  "h": "Crime de maus-tratos contra animais pode se tornar hediondo; entenda projeto",
+  "t": "Notícia publicada por Jornal da Paraíba em 12 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Diário do Pará",
+    "http://dol.com.br/noticias/brasil/968175/projeto-de-lei-quer-tornar-maus-tratos-a-animais-em-crime-hediondo"
+   ],
+   [
+    "Jornal da Paraíba",
+    "https://jornaldaparaiba.com.br/bichos/maus-tratos-contra-animais-podem-se-tornar-crime-hediondo"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T07:56:52.084611+00:00"
  },
  {
   "id": "a9288668fa",
