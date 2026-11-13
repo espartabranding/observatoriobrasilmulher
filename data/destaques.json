@@ -1,5 +1,52 @@
 [
  {
+  "id": "aa9a0676c7",
+  "grupo": "a9a0676c7a38",
+  "e": "I",
+  "img": "cmb-alojamento",
+  "iso": "2026-11-12T20:47:00+00:00",
+  "date": "12 nov 2026",
+  "h": "Projeto cria auxílio financeiro temporário para mulheres vítimas de violência doméstica",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 12 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1310241-projeto-cria-auxilio-financeiro-temporario-para-mulheres-vitimas-de-violencia-domestica"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T00:22:42.999921+00:00"
+ },
+ {
+  "id": "ac93c1f72d",
+  "grupo": "c93c1f72d0db",
+  "e": "A",
+  "img": "parquinho-praca",
+  "iso": "2026-11-12T18:20:05+00:00",
+  "date": "12 nov 2026",
+  "h": "Mãe e padrasto são presos por estupro de adolescente em Tefé",
+  "t": "Notícia publicada por Em Tempo em 12 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Crítica (AM)",
+    "https://www.acritica.com/policia/mae-e-padrasto-sao-presos-por-estupro-de-adolescente-de-16-anos-em-tefe/"
+   ],
+   [
+    "Em Tempo",
+    "https://emtempo.com.br/612155/policia/mae-padrasto-presos-estupro-adolescente-tefe/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T00:22:42.999921+00:00",
+  "uf": [
+   "AM"
+  ]
+ },
+ {
   "id": "a05736cecb",
   "grupo": "05736cecbba6",
   "e": "L",
@@ -43,6 +90,29 @@
   "criado_em": "2026-11-12T18:20:01.971608+00:00",
   "uf": [
    "RO"
+  ]
+ },
+ {
+  "id": "a8fd274b8a",
+  "grupo": "8fd274b8a794",
+  "e": "T",
+  "img": "pcb",
+  "iso": "2026-11-12T14:26:24+00:00",
+  "date": "12 nov 2026",
+  "h": "Violência digital de gênero: Geledés integra a programação do Coda.Br",
+  "t": "Notícia publicada por Geledés – Instituto da Mulher Negra em 12 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Geledés – Instituto da Mulher Negra",
+    "https://www.geledes.org.br/violencia-digital-de-genero-geledes-integra-a-programacao-do-coda-br/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T00:22:42.999921+00:00",
+  "uf": [
+   "SP"
   ]
  },
  {
