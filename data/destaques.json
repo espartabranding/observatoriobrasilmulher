@@ -1,5 +1,53 @@
 [
  {
+  "id": "af0f77e71b",
+  "grupo": "f0f77e71b0a7",
+  "e": "A",
+  "img": "r-co",
+  "iso": "2026-11-13T21:56:01+00:00",
+  "date": "13 nov 2026",
+  "h": "Formação capacita orientadores para acolher vítimas de violência sexual",
+  "t": "Notícia publicada por MPDFT – Ministério Público Distrito Federal em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPDFT – Ministério Público Distrito Federal",
+    "https://www.mpdft.mp.br/portal/index.php/comunicacao-menu/sala-de-imprensa/noticias/noticias-2026/18356-formacao-capacita-orientadores-para-acolher-vitimas-de-violencia-sexual"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T23:32:40.002021+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "a749f736ec",
+  "grupo": "749f736ec27d",
+  "e": "P",
+  "img": "esplanada-ministerio-letreiro",
+  "iso": "2026-11-13T21:17:31+00:00",
+  "date": "13 nov 2026",
+  "h": "Senadoras acompanham investigação de crianças desaparecidas no Maranhão",
+  "t": "Notícia publicada por Agência Senado em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/13/senadoras-acompanham-investigacao-sobre-criancas-desaparecidas-no-maranhao"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T23:32:40.002021+00:00",
+  "uf": [
+   "DF",
+   "MA",
+   "RR"
+  ]
+ },
+ {
   "id": "ade765c07c",
   "grupo": "de765c07cd28",
   "e": "N",
@@ -66,6 +114,33 @@
   "criado_em": "2026-11-13T17:45:22.654919+00:00",
   "uf": [
    "RJ"
+  ]
+ },
+ {
+  "id": "a1f6af1a04",
+  "grupo": "1f6af1a04876",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-11-13T06:00:01+00:00",
+  "date": "13 nov 2026",
+  "h": "Médico torturou namorada durante agressão: 'Arranca seu olho ou eu arranco os dois'",
+  "t": "Notícia publicada por g1 em 13 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agora RN",
+    "https://agorarn.com.br/policia/medico-e-preso-por-suspeita-de-torturar-namorada-ou-voce-arranca-seu-olho-ou-eu-arranco-os-dois/"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/ce/ceara/noticia/2026/11/13/medico-torturou-namorada-durante-agressao-arranca-seu-olho-ou-eu-arranco-os-dois.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T23:32:40.002021+00:00",
+  "uf": [
+   "CE"
   ]
  },
  {
