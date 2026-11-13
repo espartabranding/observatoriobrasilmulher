@@ -1,5 +1,74 @@
 [
  {
+  "id": "ade765c07c",
+  "grupo": "de765c07cd28",
+  "e": "N",
+  "img": "r-sul",
+  "iso": "2026-11-13T16:36:07+00:00",
+  "date": "13 nov 2026",
+  "h": "Ação social da Polícia Civil proporciona tarde no circo para crianças acolhidas na Capital",
+  "t": "Notícia publicada por Governo de SC – Notícias em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo de SC – Notícias",
+    "https://noticias.sc.gov.br/acao-social-da-policia-civil-proporciona-tarde-no-circo-para-criancas-acolhidas-na-capital/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T17:45:22.654919+00:00",
+  "uf": [
+   "SC"
+  ]
+ },
+ {
+  "id": "a1d8c99f6a",
+  "grupo": "1d8c99f6af56",
+  "e": "A",
+  "img": "balanco-ninho",
+  "iso": "2026-11-13T16:18:15+00:00",
+  "date": "13 nov 2026",
+  "h": "MPPB fiscaliza cumprimento de medidas de proteção às mulheres e alunas nas escolas de João Pessoa",
+  "t": "Notícia publicada por MPPB – Ministério Público Paraíba em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPPB – Ministério Público Paraíba",
+    "http://www.mppb.mp.br/index.php?view=article&id=27941"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T17:45:22.654919+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
+  "id": "add9e1ebfa",
+  "grupo": "dd9e1ebfa6e3",
+  "e": "L",
+  "img": "f-tjdft",
+  "iso": "2026-11-13T13:47:03+00:00",
+  "date": "13 nov 2026",
+  "h": "Fiocruz e MPRJ inauguram espaço voltado à garantia dos direitos das mulheres e ao acesso à Justiça",
+  "t": "Notícia publicada por Fiocruz – Agência Fiocruz de Notícias em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Fiocruz – Agência Fiocruz de Notícias",
+    "https://agencia.fiocruz.br/fiocruz-e-mprj-inauguram-espaco-voltado-garantia-dos-direitos-das-mulheres-e-ao-acesso-justica"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-13T17:45:22.654919+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
   "id": "a4ee692a81",
   "grupo": "4ee692a81d92",
   "e": "N",
