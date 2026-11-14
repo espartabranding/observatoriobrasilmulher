@@ -1,5 +1,51 @@
 [
  {
+  "id": "a151599130",
+  "grupo": "15159913085a",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-11-14T21:16:22+00:00",
+  "date": "14 nov 2026",
+  "h": "Deputada Erika Hilton cobra justiça por mulher trans espancada em parque no Acre; VÍDEO",
+  "t": "Notícia publicada por g1 em 14 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/ac/acre/noticia/2026/11/14/deputada-erika-hilton-cobra-justica-por-mulher-trans-espancada-em-parque-no-acre-video.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T21:29:42.477135+00:00",
+  "uf": [
+   "AC"
+  ]
+ },
+ {
+  "id": "a9a4df0f26",
+  "grupo": "9a4df0f26316",
+  "e": "A",
+  "img": "escola-entrada",
+  "iso": "2026-11-14T20:56:03+00:00",
+  "date": "14 nov 2026",
+  "h": "Casal dono de bar em Rorainópolis é investigado por exploração sexual de adolescente",
+  "t": "Notícia publicada por g1 em 14 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/rr/roraima/noticia/2026/11/14/casal-dono-de-bar-em-rorainopolis-e-investigado-por-exploracao-sexual-de-adolescente.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T21:29:42.477135+00:00",
+  "uf": [
+   "RR"
+  ]
+ },
+ {
   "id": "abd2ce6c2e",
   "grupo": "bd2ce6c2e69c",
   "e": "H",
@@ -89,6 +135,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-14T06:21:05.466352+00:00"
+ },
+ {
+  "id": "a224590f2d",
+  "grupo": "224590f2d525",
+  "e": "P",
+  "img": "congresso",
+  "iso": "2026-11-13T19:48:08+00:00",
+  "date": "13 nov 2026",
+  "h": "Governo do Amapá e Câmara dos Deputados discutem estratégias de prevenção e combate à violência sexual infantojuvenil",
+  "t": "Notícia publicada por Diário do Amapá em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Diário do Amapá",
+    "https://www.diariodoamapa.com.br/cadernos/politica/governo-do-amapa-e-camara-dos-deputados-discutem-estrategias-de-prevencao-e-combate-a-violencia-sexual-infantojuvenil/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T21:29:42.477135+00:00",
+  "uf": [
+   "AP"
+  ]
  },
  {
   "id": "ade765c07c",
