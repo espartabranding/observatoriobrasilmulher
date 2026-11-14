@@ -48,6 +48,26 @@
   ]
  },
  {
+  "id": "a26019ac88",
+  "grupo": "26019ac8898e",
+  "e": "P",
+  "img": "planalto-arcos",
+  "iso": "2026-11-13T20:34:00+00:00",
+  "date": "13 nov 2026",
+  "h": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1319429-comissao-aprova-proposta-que-transforma-em-lei-a-politica-para-a-primeira-infancia"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T06:21:05.466352+00:00"
+ },
+ {
   "id": "ade765c07c",
   "grupo": "de765c07cd28",
   "e": "N",
@@ -114,6 +134,52 @@
   "criado_em": "2026-11-13T17:45:22.654919+00:00",
   "uf": [
    "RJ"
+  ]
+ },
+ {
+  "id": "a915331e7e",
+  "grupo": "915331e7e528",
+  "e": "A",
+  "img": "escola-municipal-portao",
+  "iso": "2026-11-13T13:45:41+00:00",
+  "date": "13 nov 2026",
+  "h": "Feirões da Aprendizagem mobilizam TRTs de todo país para ampliar oportunidades e combater trabalho infantil",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/feiroes-da-aprendizagem-mobilizam-trts-de-todo-pais-para-ampliar-oportunidades-e-combater-trabalho-infantil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T06:21:05.466352+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "affa8cb5cd",
+  "grupo": "ffa8cb5cda1b",
+  "e": "L",
+  "img": "r-nordeste",
+  "iso": "2026-11-13T12:34:24+00:00",
+  "date": "13 nov 2026",
+  "h": "IMPERATRIZ – Combate à violência sexual infantojuvenil é tema de debate",
+  "t": "Notícia publicada por MPMA – Ministério Público Maranhão em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPMA – Ministério Público Maranhão",
+    "https://www.mpma.mp.br/imperatriz-combate-a-violencia-sexual-infantojuvenil-e-tema-de-debate/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T06:21:05.466352+00:00",
+  "uf": [
+   "MA"
   ]
  },
  {
