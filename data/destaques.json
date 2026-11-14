@@ -1,5 +1,28 @@
 [
  {
+  "id": "abd2ce6c2e",
+  "grupo": "bd2ce6c2e69c",
+  "e": "H",
+  "img": "r-norte",
+  "iso": "2026-11-14T15:53:18+00:00",
+  "date": "14 nov 2026",
+  "h": "Filho denuncia negligência após morte da mãe em hospital no Acre: “Constrangimento e humilhação”; Sesacre apura caso",
+  "t": "Notícia publicada por A Gazeta do Acre em 14 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/11/destaques/2o-destaque/filho-denuncia-negligencia-apos-morte-da-mae-em-hospital-no-acre-constrangimento-e-humilhacao-sesacre-apura-caso/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T16:37:15.043911+00:00",
+  "uf": [
+   "AC"
+  ]
+ },
+ {
   "id": "af0f77e71b",
   "grupo": "f0f77e71b0a7",
   "e": "A",
@@ -160,6 +183,29 @@
   ]
  },
  {
+  "id": "aad65e5776",
+  "grupo": "ad65e5776313",
+  "e": "H",
+  "img": "r-nordeste",
+  "iso": "2026-11-13T13:26:17+00:00",
+  "date": "13 nov 2026",
+  "h": "Aborto legal: Defensoria Pública realiza visita técnica ao Hospital Santa Izabel",
+  "t": "Notícia publicada por Defensoria Pública – Sergipe em 13 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Defensoria Pública – Sergipe",
+    "https://www.defensoria.se.def.br/?p=53019"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T16:37:15.043911+00:00",
+  "uf": [
+   "SE"
+  ]
+ },
+ {
   "id": "affa8cb5cd",
   "grupo": "ffa8cb5cda1b",
   "e": "L",
@@ -207,6 +253,33 @@
   "criado_em": "2026-11-13T23:32:40.002021+00:00",
   "uf": [
    "CE"
+  ]
+ },
+ {
+  "id": "af2c320142",
+  "grupo": "f2c3201427eb",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-11-12T22:12:23+00:00",
+  "date": "12 nov 2026",
+  "h": "Mulher salta de carro em movimento para escapar de agressões do marido em Nova Odessa",
+  "t": "Notícia publicada por g1 em 12 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Tarde",
+    "https://atarde.com.br/policia/mulher-salta-de-carro-em-movimento-para-escapar-de-agressoes-do-marido-1409414"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/12/mulher-salta-de-carro-em-movimento-para-escapar-de-agressoes-do-marido-em-nova-odessa.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-14T16:37:15.043911+00:00",
+  "uf": [
+   "SP"
   ]
  },
  {
