@@ -1,5 +1,29 @@
 [
  {
+  "id": "a6221a59df",
+  "grupo": "6221a59df4f4",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-11-15T20:49:46+00:00",
+  "date": "15 nov 2026",
+  "h": "Homem suspeito de agredir mulher a pauladas é preso na Taquara: 'Vou te matar', teria dito ele à vítima",
+  "t": "Notícia publicada por O Globo em 15 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Extra",
+    "https://extra.globo.com/rio/casos-de-policia/noticia/2026/11/homem-suspeito-de-agredir-mulher-a-pauladas-e-preso-na-taquara.ghtml"
+   ],
+   [
+    "O Globo",
+    "https://oglobo.globo.com/rio/noticia/2026/11/15/homem-suspeito-de-agredir-mulher-a-pauladas-e-preso-na-taquara.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T21:48:26.360678+00:00"
+ },
+ {
   "id": "a901fe300b",
   "grupo": "901fe300b588",
   "e": "H",
@@ -43,6 +67,52 @@
   "criado_em": "2026-11-15T17:09:49.889354+00:00",
   "uf": [
    "GO"
+  ]
+ },
+ {
+  "id": "a495413c25",
+  "grupo": "495413c25c0d",
+  "e": "A",
+  "img": "r-sul",
+  "iso": "2026-11-15T15:44:19+00:00",
+  "date": "15 nov 2026",
+  "h": "Paraná registra tragédias na estrada; casal, duas crianças e caminhoneiros foram as vítimas",
+  "t": "Notícia publicada por Bem Paraná em 15 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Bem Paraná",
+    "https://www.bemparana.com.br/noticias/parana/parana-registra-tragedias-na-estrada-casal-duas-criancas-e-caminhoneiros-foram-as-vitimas/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T21:48:26.360678+00:00",
+  "uf": [
+   "PR"
+  ]
+ },
+ {
+  "id": "a5c87074bc",
+  "grupo": "5c87074bc088",
+  "e": "A",
+  "img": "creche-sala-atividades",
+  "iso": "2026-11-15T14:14:52+00:00",
+  "date": "15 nov 2026",
+  "h": "Menino de 6 anos é sequestrado pelo ex-companheiro da mãe na saída da escola no ES",
+  "t": "Notícia publicada por g1 em 15 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/11/15/menino-de-6-anos-e-sequestrado-pelo-ex-companheiro-da-mae-na-saida-da-escola-no-es.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T21:48:26.360678+00:00",
+  "uf": [
+   "ES"
   ]
  },
  {
