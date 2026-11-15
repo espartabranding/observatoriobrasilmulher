@@ -1,5 +1,78 @@
 [
  {
+  "id": "a901fe300b",
+  "grupo": "901fe300b588",
+  "e": "H",
+  "img": "f-sirio-libanes",
+  "iso": "2026-11-15T16:20:45+00:00",
+  "date": "15 nov 2026",
+  "h": "'Se esse menino tivesse sumido, eu não sei nem o que eu ia fazer', diz mãe de bebê após tentativa de sequestro em maternidade de BH",
+  "t": "Notícia publicada por g1 em 15 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/se-esse-menino-tivesse-sumido-eu-nao-sei-nem-o-que-eu-ia-fazer-diz-mae-de-bebe-apos-tentativa-de-sequestro-em-maternidade-de-bh.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T17:09:49.889354+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
+  "id": "a5e8d15300",
+  "grupo": "5e8d15300520",
+  "e": "I",
+  "img": "r-co",
+  "iso": "2026-11-15T15:58:54+00:00",
+  "date": "15 nov 2026",
+  "h": "Grupo de 20 pessoas espanca suspeito de estupro em Planaltina de Goiás",
+  "t": "Notícia publicada por Jornal Opção (GO) em 15 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal Opção (GO)",
+    "https://www.jornalopcao.com.br/ultimas-noticias/grupo-de-20-pessoas-espanca-homem-acusado-de-estupro-em-planaltina-de-goias-888959/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T17:09:49.889354+00:00",
+  "uf": [
+   "GO"
+  ]
+ },
+ {
+  "id": "a54c98e95b",
+  "grupo": "54c98e95bb75",
+  "e": "N",
+  "img": "delegacia-geral",
+  "iso": "2026-11-15T12:42:58+00:00",
+  "date": "15 nov 2026",
+  "h": "Mulher tenta sequestrar recém-nascido na Santa Casa",
+  "t": "Notícia publicada por Gazeta de Alagoas em 15 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/minas-gerais/mulher-tenta-sequestrar-recem-nascido-na-santa-casa-de-belo-horizonte"
+   ],
+   [
+    "Gazeta de Alagoas",
+    "https://www.gazetaweb.com/noticias/brasil/mulher-tenta-sequestrar-recem-nascido-na-santa-casa-949468"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T17:09:49.889354+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
   "id": "a36d0f415b",
   "grupo": "36d0f415b3b0",
   "e": "P",
