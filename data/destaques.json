@@ -1,5 +1,74 @@
 [
  {
+  "id": "a36d0f415b",
+  "grupo": "36d0f415b3b0",
+  "e": "P",
+  "img": "politica",
+  "iso": "2026-11-14T23:47:22+00:00",
+  "date": "14 nov 2026",
+  "h": "Comissão do Senado discute federalização do caso das crianças desaparecidas no MA",
+  "t": "Notícia publicada por g1 em 14 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/ma/maranhao/noticia/2026/11/14/comissao-senado-discute-federalizacao-caso-irmaos-desaparecidos-bacabal-maranhao.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T01:55:52.901964+00:00",
+  "uf": [
+   "MA"
+  ]
+ },
+ {
+  "id": "aa24032547",
+  "grupo": "a24032547f25",
+  "e": "A",
+  "img": "r-sul",
+  "iso": "2026-11-14T23:02:22+00:00",
+  "date": "14 nov 2026",
+  "h": "Pai é condenado a 20 anos de prisão por estupro de criança no Noroeste gaúcho",
+  "t": "Notícia publicada por O Sul em 14 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Sul",
+    "https://www.osul.com.br/pai-e-condenado-a-20-anos-de-prisao-por-estupro-de-crianca-no-noroeste-gaucho/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T01:55:52.901964+00:00",
+  "uf": [
+   "RS"
+  ]
+ },
+ {
+  "id": "a3e65a6dfe",
+  "grupo": "3e65a6dfeb80",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-11-14T22:38:16+00:00",
+  "date": "14 nov 2026",
+  "h": "MP do Ceará leva para Arena Castelão, em Fortaleza, campanha de conscientização e prevenção à violência doméstica e ao feminicídio",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 14 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/mp-do-ceara-leva-para-arena-castelao-em-fortaleza-campanha-de-conscientizacao-e-prevencao-a-violencia-domestica-e-ao-feminicidio/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-15T01:55:52.901964+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "a151599130",
   "grupo": "15159913085a",
   "e": "N",
