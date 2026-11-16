@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-15T21:49:43.660052+00:00",
+"gerado_em": "2026-11-16T02:06:52.100338+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -29829,13 +29829,13 @@
 "principal": [
 204539
 ],
-"lido_em": "2026-11-08"
+"lido_em": "2026-11-16"
 },
 "2647523": {
 "sigla": "PL 5552/2026",
 "ementa": "Altera a Lei nº 5.768, de 20 de dezembro de 1971, para proibir a utilização de animais vivos como prêmio em rifas, sorteios, concursos, promoções e operações assemelhadas, inclusive em ambientes digitais, e estabelece medidas de fiscalização e sanções.",
 "apresentacao": "2026-10-13",
-"situacao": "",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
 "data_situacao": "2026-10-13",
 "orgao": "MESA",
 "lei": false,
@@ -29846,7 +29846,7 @@
 "principal": [
 220703
 ],
-"lido_em": "2026-11-08"
+"lido_em": "2026-11-16"
 },
 "2647588": {
 "sigla": "PL 5558/2026",

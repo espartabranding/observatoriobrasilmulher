@@ -1,5 +1,53 @@
 [
  {
+  "id": "a50929f1e3",
+  "grupo": "50929f1e3651",
+  "e": "A",
+  "img": "creche-refeitorio",
+  "iso": "2026-11-15T22:55:03+00:00",
+  "date": "15 nov 2026",
+  "h": "Menina de 5 anos é baleada na cabeça dentro de casa em São Gonçalo",
+  "t": "Notícia publicada por g1 em 15 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Dia (RJ)",
+    "https://odia.ig.com.br/rio-de-janeiro/2026/11/7322727-menina-de-5-anos-e-baleada-na-cabeca-em-sao-goncalo.html"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/menina-de-5-anos-e-baleada-na-cabeca-dentro-de-casa-em-sao-goncalo.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-16T02:05:29.586982+00:00"
+ },
+ {
+  "id": "ac0bcc7c80",
+  "grupo": "c0bcc7c80892",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-11-15T21:03:30+00:00",
+  "date": "15 nov 2026",
+  "h": "Mulher é morta a facadas em Santa Maria; companheiro é preso",
+  "t": "Notícia publicada por Metrópoles em 15 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal de Brasília",
+    "https://jornaldebrasilia.com.br/brasilia/mulher-e-morta-com-tres-facadas-nas-costas-em-santa-maria-companheiro-e-preso/"
+   ],
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/distrito-federal/na-mira/mulher-e-morta-a-facadas-em-santa-maria-companheiro-e-suspeito"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-16T02:05:29.586982+00:00"
+ },
+ {
   "id": "a6221a59df",
   "grupo": "6221a59df4f4",
   "e": "N",
@@ -45,6 +93,26 @@
   "uf": [
    "MG"
   ]
+ },
+ {
+  "id": "a1f50acb1f",
+  "grupo": "1f50acb1f5f7",
+  "e": "S",
+  "img": "sociedade",
+  "iso": "2026-11-15T16:00:05+00:00",
+  "date": "15 nov 2026",
+  "h": "16 Dias de Ativismo: entenda a campanha da ONU contra a violência de gênero",
+  "t": "Notícia publicada por Capricho em 15 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Capricho",
+    "https://capricho.abril.com.br/sociedade/16-dias-de-ativismo-entenda-a-campanha-da-onu-contra-a-violencia-de-genero/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-16T02:05:29.586982+00:00"
  },
  {
   "id": "a5e8d15300",
