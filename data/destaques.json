@@ -1,5 +1,74 @@
 [
  {
+  "id": "a54919638e",
+  "grupo": "54919638e3cf",
+  "e": "L",
+  "img": "r-nordeste",
+  "iso": "2026-11-16T19:29:57+00:00",
+  "date": "16 nov 2026",
+  "h": "Homem é condenado a 42 anos de prisão por feminicídio da companheira no Crato",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 16 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/homem-e-condenado-a-42-anos-de-prisao-por-feminicidio-da-companheira-no-crato/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-16T20:29:21.459178+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "a679bfe4d1",
+  "grupo": "679bfe4d1425",
+  "e": "E",
+  "img": "r-co",
+  "iso": "2026-11-16T19:01:50+00:00",
+  "date": "16 nov 2026",
+  "h": "MPDFT garante ações para regularizar vagas de acolhimento para crianças e adolescentes",
+  "t": "Notícia publicada por MPDFT – Ministério Público Distrito Federal em 16 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPDFT – Ministério Público Distrito Federal",
+    "https://www.mpdft.mp.br/portal/index.php/comunicacao-menu/sala-de-imprensa/noticias/noticias-2026/18359-mpdft-garante-acoes-para-regularizar-vagas-de-acolhimento-para-criancas-e-adolescentes"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-16T20:29:21.459178+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "a5086f5972",
+  "grupo": "5086f59722f2",
+  "e": "L",
+  "img": "f-tjsp",
+  "iso": "2026-11-16T15:22:38+00:00",
+  "date": "16 nov 2026",
+  "h": "Aprimoramento do Depoimento Especial é foco do Encontro de Entrevistadores Forenses promovido pelo TJCE",
+  "t": "Notícia publicada por TJCE – Tribunal de Justiça do Ceará em 16 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJCE – Tribunal de Justiça do Ceará",
+    "https://www.tjce.jus.br/noticias/aprimoramento-do-depoimento-especial-e-foco-do-encontro-de-entrevistadores-forenses-promovido-pelo-tjce/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-16T20:29:21.459178+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "a50929f1e3",
   "grupo": "50929f1e3651",
   "e": "A",
