@@ -1,5 +1,79 @@
 [
  {
+  "id": "a606e2b3cf",
+  "grupo": "606e2b3cf050",
+  "e": "A",
+  "img": "creche-brinquedos",
+  "iso": "2026-11-17T17:48:57+00:00",
+  "date": "17 nov 2026",
+  "h": "Judiciário fortalece articulação com programas de proteção a crianças e adolescentes em situação de risco",
+  "t": "Notícia publicada por TJCE – Tribunal de Justiça do Ceará em 17 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJCE – Tribunal de Justiça do Ceará",
+    "https://www.tjce.jus.br/noticias/judiciario-fortalece-articulacao-com-programas-de-protecao-a-criancas-e-adolescentes-em-situacao-de-risco/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-17T19:11:50.855804+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
+  "id": "a1440f735b",
+  "grupo": "1440f735b36f",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-11-17T16:51:21+00:00",
+  "date": "17 nov 2026",
+  "h": "Professor e ator é espancado após tentar defender mulher de agressão no Rio",
+  "t": "Notícia publicada por TNH1 em 17 nov 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agora RN",
+    "https://agorarn.com.br/policia/professor-andre-luiz-espancado-grupo-rio-defender-mulher/"
+   ],
+   [
+    "Tribuna do Norte (RN)",
+    "https://tribunadonorte.com.br/policia/professor-espancado-apos-defender/"
+   ],
+   [
+    "TNH1",
+    "https://www.tnh1.com.br/noticia/nid/professor-e-ator-e-espancado-apos-tentar-defender-mulher-de-agressao-no-rio/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-17T19:11:50.855804+00:00"
+ },
+ {
+  "id": "a81c4f7795",
+  "grupo": "81c4f7795f42",
+  "e": "I",
+  "img": "r-sul",
+  "iso": "2026-11-17T14:09:40+00:00",
+  "date": "17 nov 2026",
+  "h": "Defensoria lança cartilha com normativas para atendimento de mulheres indígenas em situação de violência",
+  "t": "Notícia publicada por Defensoria Pública – Paraná em 17 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Defensoria Pública – Paraná",
+    "https://www.defensoriapublica.pr.def.br/Noticia/Defensoria-lanca-cartilha-com-normativas-para-atendimento-de-mulheres-indigenas-em-situacao"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-17T19:11:50.855804+00:00",
+  "uf": [
+   "PR"
+  ]
+ },
+ {
   "id": "a8e0620887",
   "grupo": "8e06208874b2",
   "e": "S",
