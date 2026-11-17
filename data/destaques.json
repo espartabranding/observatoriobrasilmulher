@@ -1,5 +1,56 @@
 [
  {
+  "id": "a8e0620887",
+  "grupo": "8e06208874b2",
+  "e": "S",
+  "img": "universidade",
+  "iso": "2026-11-16T22:06:00+00:00",
+  "date": "16 nov 2026",
+  "h": "MP Militar faz levantamento para contabilizar casos de assédio a mulheres das Forças Armadas",
+  "t": "Notícia publicada por Folha de Pernambuco em 16 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Dia (RJ)",
+    "https://odia.ig.com.br/brasil/2026/11/7323067-mp-militar-levanta-casos-de-assedio-a-mulheres-das-forcas-armadas.html"
+   ],
+   [
+    "Folha de Pernambuco",
+    "https://www.folhape.com.br/noticias/mp-militar-faz-levantamento-para-contabilizar-casos-de-assedio-a/524603/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-17T03:53:04.641882+00:00"
+ },
+ {
+  "id": "a93edee599",
+  "grupo": "93edee59937d",
+  "e": "L",
+  "img": "f-palacio-justica",
+  "iso": "2026-11-16T21:15:59+00:00",
+  "date": "16 nov 2026",
+  "h": "TRE-CE forma maioria para manter condenação de Ciro Gomes por violência política de gênero",
+  "t": "Notícia publicada por Jornal do Commercio (PE) em 16 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CNN Brasil",
+    "https://www.cnnbrasil.com.br/politica/tre-ce-tem-maioria-para-manter-condenacao-de-ciro-por-violencia-de-genero/"
+   ],
+   [
+    "Jornal do Commercio (PE)",
+    "https://jc.uol.com.br/politica/2026/11/16/tre-ce-forma-maioria-para-manter-condenacao-de-ciro-gomes-por-violencia-politica-de-genero.html"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-17T03:53:04.641882+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "a54919638e",
   "grupo": "54919638e3cf",
   "e": "L",
@@ -20,6 +71,33 @@
   "criado_em": "2026-11-16T20:29:21.459178+00:00",
   "uf": [
    "CE"
+  ]
+ },
+ {
+  "id": "a04eca6b75",
+  "grupo": "04eca6b75f8d",
+  "e": "N",
+  "img": "deam-viatura-df",
+  "iso": "2026-11-16T19:19:11+00:00",
+  "date": "16 nov 2026",
+  "h": "Vice-prefeito de Taperoá, na PB, suspeito de violência doméstica é solto após audiência de custódia",
+  "t": "Notícia publicada por g1 em 16 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ClickPB",
+    "https://www.clickpb.com.br/policial/vice-prefeito-taperoa-solto.html"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/pb/paraiba/noticia/2026/11/16/vice-prefeito-de-taperoa-na-pb-suspeito-de-violencia-domestica-solto-apos-audiencia.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-17T03:53:04.641882+00:00",
+  "uf": [
+   "PB"
   ]
  },
  {

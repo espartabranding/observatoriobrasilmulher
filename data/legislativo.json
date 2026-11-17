@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T20:30:04.619407+00:00",
+ "gerado_em": "2026-11-17T03:53:52.182343+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -225,6 +225,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2504642",
    "enquete": "https://www.camara.leg.br/enquetes/2504642",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2899160"
+  },
+  {
+   "id": 2603686,
+   "sigla": "PL 628/2026",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para explicitar a natureza absoluta da vulnerabilidade prevista no art. 217-A e a irrelevância de circunstâncias relacionadas à consentimento, vínculo afetivo ou constituição de núcleo familiar.",
+   "apresentacao": "2026-02-20",
+   "situacao": "Pronta para Pauta",
+   "orgao": "CPASF",
+   "data_situacao": "2026-10-20",
+   "andamento": "Parecer da Relatora, Dep. Nely Aquino (PODE-MG), pela aprovação do PL 628/26, e dos PLs 638/26, 643/26, 644/26, 645/26, 667/26, 668/26, 669/26, 670/26, 671/26, 711/26, 768/26, e 966/26, apensados, com substitutivo.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Pronto para votação na comissão",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603686",
+   "enquete": "https://www.camara.leg.br/enquetes/2603686",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3085784"
   },
   {
    "id": 2213286,
@@ -4305,6 +4321,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641436",
    "enquete": "https://www.camara.leg.br/enquetes/2641436",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165362"
+  },
+  {
+   "id": 2648420,
+   "sigla": "PL 5613/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prazo para instalação de equipamento de monitoração eletrônica e incentivar ações de policiamento preventivo no enfrentamento à violência doméstica e familiar contra a mulher.",
+   "apresentacao": "2026-10-20",
+   "situacao": "Aguardando Autorização do Despacho",
+   "orgao": "MESA",
+   "data_situacao": "2026-10-20",
+   "andamento": "Apresentação do PL n. 5613/2026 (Projeto de Lei), pelo Deputado Delegado Palumbo (PODE/SP), que \"Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prazo para instalação de equipamento de monitoração eletrônica e incentivar ações de policiamento preventivo no enfre",
+   "regime": ".",
+   "etapa": "Em tramitação",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648420",
+   "enquete": "https://www.camara.leg.br/enquetes/2648420",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3185115"
   },
   {
    "id": 2516021,
