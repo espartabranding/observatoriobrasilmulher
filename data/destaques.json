@@ -1,5 +1,55 @@
 [
  {
+  "id": "af273fd8d3",
+  "grupo": "f273fd8d342a",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-11-17T18:54:33+00:00",
+  "date": "17 nov 2026",
+  "h": "Justiça torna ré delegada esposa do empresário que matou gari em BH",
+  "t": "Notícia publicada por O Globo em 17 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha de S.Paulo",
+    "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/justica-torna-re-delegada-esposa-de-empresario-reu-por-matar-gari-em-bh.shtml"
+   ],
+   [
+    "O Globo",
+    "https://oglobo.globo.com/brasil/noticia/2026/11/17/justica-torna-re-delegada-esposa-do-empresario-que-matou-gari-em-bh.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-18T01:37:31.841088+00:00",
+  "uf": [
+   "MG"
+  ]
+ },
+ {
+  "id": "ae64d75dcb",
+  "grupo": "e64d75dcb633",
+  "e": "L",
+  "img": "r-nordeste",
+  "iso": "2026-11-17T17:51:51+00:00",
+  "date": "17 nov 2026",
+  "h": "MP do Ceará recomenda que Prefeitura de Itapipoca crie estrutura para acolhimento de animais abandonados e vítimas de maus-tratos",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 17 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/mp-do-ceara-recomenda-que-prefeitura-de-itapipoca-crie-estrutura-para-acolhimento-de-animais-abandonados-e-vitimas-de-maus-tratos/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-18T01:37:31.841088+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "a606e2b3cf",
   "grupo": "606e2b3cf050",
   "e": "A",
@@ -49,6 +99,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-17T19:11:50.855804+00:00"
+ },
+ {
+  "id": "ad09fa6d2e",
+  "grupo": "d09fa6d2e889",
+  "e": "L",
+  "img": "f-stf-palacio",
+  "iso": "2026-11-17T14:51:57+00:00",
+  "date": "17 nov 2026",
+  "h": "Decisões favoráveis obtidas pelo MP em Tribunais Superiores reforçam o combate ao tráfico de drogas, à receptação e ao estupro de vulnerável",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 17 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/decisoes-favoraveis-obtidas-pelo-mp-em-tribunais-superiores-reforcam-o-combate-ao-trafico-de-drogas-a-receptacao-e-ao-estupro-de-vulneravel/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-18T01:37:31.841088+00:00",
+  "uf": [
+   "CE"
+  ]
  },
  {
   "id": "a81c4f7795",
