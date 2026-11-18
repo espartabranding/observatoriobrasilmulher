@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-18T01:40:01.283348+00:00",
+"gerado_em": "2026-11-18T18:53:44.563962+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -30247,6 +30247,40 @@
 204372
 ],
 "lido_em": "2026-11-17"
+},
+"2655015": {
+"sigla": "PL 5891/2026",
+"ementa": "Altera a Lei n° 14.717, de 31 de outubro de 2023, para dispor sobre hipótese de requerimento de benefício de pensão especial aos filhos e aos dependentes de mulher vítima de crime de feminicídio pela autoridade policial, Ministério Público, Defensoria Pública e Conselho Tutelar ou por determinação judicial.",
+"apresentacao": "2026-11-17",
+"situacao": "",
+"data_situacao": "2026-11-17",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220645
+],
+"principal": [
+220645
+],
+"lido_em": "2026-11-18"
+},
+"2655025": {
+"sigla": "PL 5893/2026",
+"ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para assegurar a confirmação diagnóstica, o tratamento e o acompanhamento da criança com resultado alterado ou inconclusivo no teste do pezinho, o aconselhamento genético à família e a divulgação de indicadores da triagem neonatal.",
+"apresentacao": "2026-11-18",
+"situacao": "",
+"data_situacao": "2026-11-18",
+"orgao": "MESA",
+"lei": false,
+"tema": "criancas",
+"autores": [
+204534
+],
+"principal": [
+204534
+],
+"lido_em": "2026-11-18"
 }
 },
 "deputados": {

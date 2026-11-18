@@ -1,5 +1,48 @@
 [
  {
+  "id": "aee7d11aae",
+  "grupo": "ee7d11aaed3b",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-11-18T16:19:00+00:00",
+  "date": "18 nov 2026",
+  "h": "Protesto vai cobrar justiça por professor espancado ao defender mulher",
+  "t": "Notícia publicada por Agência Brasil em 18 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/protesto-vai-cobrar-justica-por-professor-espancado-ao-defender-mulher"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-18T18:52:07.018655+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
+  "id": "a5f9d14762",
+  "grupo": "5f9d147628a9",
+  "e": "A",
+  "img": "creche-bercario",
+  "iso": "2026-11-18T14:56:40+00:00",
+  "date": "18 nov 2026",
+  "h": "Dia Nacional do Conselheiro Tutelar destaca atuação na proteção dos direitos de crianças e adolescentes",
+  "t": "Notícia publicada por MDHC – Notícias (Disque 100, crianças e adolescentes) em 18 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MDHC – Notícias (Disque 100, crianças e adolescentes)",
+    "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/dia-nacional-do-conselheiro-tutelar-destaca-atuacao-na-protecao-dos-direitos-de-criancas-e-adolescentes"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-18T18:52:07.018655+00:00"
+ },
+ {
   "id": "af273fd8d3",
   "grupo": "f273fd8d342a",
   "e": "N",
@@ -121,6 +164,29 @@
   "criado_em": "2026-11-18T01:37:31.841088+00:00",
   "uf": [
    "CE"
+  ]
+ },
+ {
+  "id": "a22cdba504",
+  "grupo": "22cdba5043b3",
+  "e": "L",
+  "img": "f-stf-lateral",
+  "iso": "2026-11-17T14:19:01+00:00",
+  "date": "17 nov 2026",
+  "h": "IMPERATRIZ – Homem denunciado pelo MPMA é condenado a 16 anos de reclusão por estupro de vulnerável",
+  "t": "Notícia publicada por MPMA – Ministério Público Maranhão em 17 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPMA – Ministério Público Maranhão",
+    "https://www.mpma.mp.br/imperatriz-homem-denunciado-pelo-mpma-e-condenado-a-16-anos-de-reclusao-por-estupro-de-vulneravel/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-18T18:52:07.018655+00:00",
+  "uf": [
+   "MA"
   ]
  },
  {
