@@ -1,5 +1,78 @@
 [
  {
+  "id": "a6f508d206",
+  "grupo": "6f508d206743",
+  "e": "I",
+  "img": "crm-centro-referencia-mesa",
+  "iso": "2026-11-19T18:08:23+00:00",
+  "date": "19 nov 2026",
+  "h": "Em Pacaraima (RR), MDHC integra “Justiça Itinerante e Inclusão Digital” ampliando o alcance do Disque 100",
+  "t": "Notícia publicada por MDHC – Notícias (Disque 100, crianças e adolescentes) em 19 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MDHC – Notícias (Disque 100, crianças e adolescentes)",
+    "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/em-pacaraima-rr-mdhc-integra-201cjustica-itinerante-e-inclusao-digital201d-ampliando-o-alcance-do-disque-100"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T19:00:05.608449+00:00",
+  "uf": [
+   "RR"
+  ]
+ },
+ {
+  "id": "a11efb6220",
+  "grupo": "11efb6220ec3",
+  "e": "I",
+  "img": "r-nordeste",
+  "iso": "2026-11-19T16:21:23+00:00",
+  "date": "19 nov 2026",
+  "h": "SÃO LUÍS – MPMA discute políticas de enfrentamento à violência contra a mulher",
+  "t": "Notícia publicada por MPMA – Ministério Público Maranhão em 19 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPMA – Ministério Público Maranhão",
+    "https://www.mpma.mp.br/sao-luis-mpma-discute-politicas-de-enfrentamento-a-violencia-contra-a-mulher/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T19:00:05.608449+00:00",
+  "uf": [
+   "MA"
+  ]
+ },
+ {
+  "id": "a22fc0befe",
+  "grupo": "22fc0befe376",
+  "e": "L",
+  "img": "r-norte",
+  "iso": "2026-11-19T14:57:00+00:00",
+  "date": "19 nov 2026",
+  "h": "Justiça dá 90 dias para Governo apresentar plano de reestruturação da Delegacia da Mulher em Porto Velho",
+  "t": "Notícia publicada por Rondoniagora em 19 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/ro/rondonia/noticia/2026/11/19/governo-de-ro-tem-90-dias-para-apresentar-plano-de-reestruturacao-de-delegacia-da-mulher-na-capital.ghtml"
+   ],
+   [
+    "Rondoniagora",
+    "https://www.rondoniagora.com/geral/justica-da-90-dias-para-governo-apresentar-plano-de-reestruturacao-da-delegacia-da-mulher-em-porto-velho"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T19:00:05.608449+00:00",
+  "uf": [
+   "RO"
+  ]
+ },
+ {
   "id": "a968efdb19",
   "grupo": "968efdb1989a",
   "e": "A",
