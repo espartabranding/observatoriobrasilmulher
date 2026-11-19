@@ -1,5 +1,45 @@
 [
  {
+  "id": "a968efdb19",
+  "grupo": "968efdb1989a",
+  "e": "A",
+  "img": "cmb-brinquedoteca",
+  "iso": "2026-11-19T01:54:38+00:00",
+  "date": "18 nov 2026",
+  "h": "Brasil reforça compromisso com o fim da violência contra crianças durante abertura da conferência global nas Filipinas",
+  "t": "Notícia publicada por MDHC – Notícias (Disque 100, crianças e adolescentes) em 18 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MDHC – Notícias (Disque 100, crianças e adolescentes)",
+    "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/brasil-reforca-compromisso-com-o-fim-da-violencia-contra-criancas-durante-abertura-da-conferencia-global-nas-filipinas"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T08:48:56.602727+00:00"
+ },
+ {
+  "id": "af5634e086",
+  "grupo": "f5634e086655",
+  "e": "L",
+  "img": "leis",
+  "iso": "2026-11-18T23:38:41+00:00",
+  "date": "18 nov 2026",
+  "h": "Vai à sanção campanha anual pelo fim da violência e do racismo contra mulheres",
+  "t": "Notícia publicada por Agência Senado em 18 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/18/vai-a-sancao-campanha-anual-pelo-fim-da-violencia-e-do-racismo-contra-mulheres"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T08:48:56.602727+00:00"
+ },
+ {
   "id": "a79a55c35e",
   "grupo": "79a55c35e381",
   "e": "G",
@@ -134,6 +174,33 @@
   "criado_em": "2026-11-18T01:37:31.841088+00:00",
   "uf": [
    "MG"
+  ]
+ },
+ {
+  "id": "a9056f1c58",
+  "grupo": "9056f1c5817f",
+  "e": "N",
+  "img": "delegacia-geral",
+  "iso": "2026-11-17T18:31:35+00:00",
+  "date": "17 nov 2026",
+  "h": "Homem suspeito de se passar por delegado para estuprar mulher em Barra do Piraí é preso na Via Dutra",
+  "t": "Notícia publicada por g1 em 17 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Extra",
+    "https://extra.globo.com/rio/casos-de-policia/noticia/2026/11/homem-e-preso-na-via-dutra-suspeito-de-fingir-ser-delegado-para-estuprar-mulher-em-barra-do-pirai.ghtml"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/17/homem-suspeito-de-se-passar-por-delegado-para-estuprar-mulher-em-barra-do-pirai-e-preso-na-via-dutra.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T08:48:56.602727+00:00",
+  "uf": [
+   "RJ"
   ]
  },
  {
