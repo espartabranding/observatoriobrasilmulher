@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T18:53:01.717629+00:00",
+ "gerado_em": "2026-11-19T01:14:28.064730+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -739,11 +739,27 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2359433"
   },
   {
+   "id": 2646318,
+   "sigla": "PL 5333/2026",
+   "ementa": "Institui a Política Nacional de Continuidade da Proteção à Mulher em Situação de Violência Doméstica e Familiar e estabelece diretrizes para a continuidade integrada da proteção e do atendimento.",
+   "apresentacao": "2026-09-10",
+   "situacao": "",
+   "orgao": "CCP",
+   "data_situacao": "2026-11-18",
+   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 19/11/2026.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646318",
+   "enquete": "https://www.camara.leg.br/enquetes/2646318",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3179532"
+  },
+  {
    "id": 2630690,
    "sigla": "PL 2958/2026",
    "ementa": "Acrescenta a alínea “d” ao inciso I-A do art. 1º da Lei nº 8.072, de 25 de julho de 1990, para incluir no rol dos crimes hediondos a lesão corporal dolosa de natureza gravíssima e a lesão corporal seguida de morte praticadas em contexto de violência doméstica e familiar.",
    "apresentacao": "2026-06-09",
-   "situacao": "Aguardando Deliberação",
+   "situacao": "Aguardando Encaminhamento",
    "orgao": "CPASF",
    "data_situacao": "2026-11-18",
    "andamento": "Aprovado o Parecer.",
@@ -755,11 +771,27 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143442"
   },
   {
+   "id": 2641483,
+   "sigla": "PL 4763/2026",
+   "ementa": "Altera os arts. 217-A, 218 e 218-A do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 – Código Penal, para estender os efeitos da norma à vítima com idade igual a 14 (quatorze) anos.",
+   "apresentacao": "2026-07-22",
+   "situacao": "Aguardando Encaminhamento",
+   "orgao": "CCP",
+   "data_situacao": "2026-11-18",
+   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 19/11/2026.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641483",
+   "enquete": "https://www.camara.leg.br/enquetes/2641483",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165569"
+  },
+  {
    "id": 2360347,
    "sigla": "PL 2373/2023",
    "ementa": "Dispõe sobre a Violência Obstétrica e Ginecológica na assistência à saúde da mulher no âmbito dos serviços públicos e privados de saúde.",
    "apresentacao": "2023-05-04",
-   "situacao": "Aguardando Deliberação",
+   "situacao": "Aguardando Encaminhamento",
    "orgao": "CPASF",
    "data_situacao": "2026-11-18",
    "andamento": "Aprovado o Parecer.",
@@ -771,11 +803,27 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2268792"
   },
   {
+   "id": 2644231,
+   "sigla": "PL 5128/2026",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para restringir a exposição de crianças e adolescentes, em eventos esportivos, a marcas de empresas que explorem conteúdo adulto, pornográfico ou serviços de natureza sexual.",
+   "apresentacao": "2026-08-19",
+   "situacao": "Tramitando em Conjunto",
+   "orgao": "CCP",
+   "data_situacao": "2026-11-18",
+   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 19/11/2026.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "criancas",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644231",
+   "enquete": "https://www.camara.leg.br/enquetes/2644231",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3173856"
+  },
+  {
    "id": 2606841,
    "sigla": "PL 928/2026",
    "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre medidas de prevenção e enfrentamento ao bullying e ao cyberbullying.",
    "apresentacao": "2026-03-04",
-   "situacao": "Aguardando Deliberação",
+   "situacao": "Aguardando Encaminhamento",
    "orgao": "CPASF",
    "data_situacao": "2026-11-18",
    "andamento": "Aprovado o Parecer.",
@@ -3224,9 +3272,9 @@
    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima.",
    "apresentacao": "2026-10-13",
    "situacao": "Aguardando Deliberação",
-   "orgao": "MESA",
-   "data_situacao": "2026-11-17",
-   "andamento": "Apresentação do REQ n. 4483/2026 (Requerimento de Apensação), pelo Deputado(a) Lula da Fonte (PP-PE), que: \"Requer a a apensação para tramitação conjunta do PL 1040/2026 ao PL 5542/2026\".",
+   "orgao": "PLEN",
+   "data_situacao": "2026-11-18",
+   "andamento": "Matéria não apreciada em face do encerramento da Sessão.",
    "regime": "Urgência (Art. 155, RICD)",
    "etapa": "Em tramitação",
    "tema": "mulheres",
@@ -3313,22 +3361,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646828",
    "enquete": "https://www.camara.leg.br/enquetes/2646828",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3181360"
-  },
-  {
-   "id": 2646318,
-   "sigla": "PL 5333/2026",
-   "ementa": "Institui a Política Nacional de Continuidade da Proteção à Mulher em Situação de Violência Doméstica e Familiar e estabelece diretrizes para a continuidade integrada da proteção e do atendimento.",
-   "apresentacao": "2026-09-10",
-   "situacao": "",
-   "orgao": "MESA",
-   "data_situacao": "2026-11-13",
-   "andamento": "Apense-se à(ao) PL 4722/2026.Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em tramitação",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646318",
-   "enquete": "https://www.camara.leg.br/enquetes/2646318",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3179532"
   },
   {
    "id": 2646258,
@@ -3617,22 +3649,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644538",
    "enquete": "https://www.camara.leg.br/enquetes/2644538",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3174821"
-  },
-  {
-   "id": 2644231,
-   "sigla": "PL 5128/2026",
-   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para restringir a exposição de crianças e adolescentes, em eventos esportivos, a marcas de empresas que explorem conteúdo adulto, pornográfico ou serviços de natureza sexual.",
-   "apresentacao": "2026-08-19",
-   "situacao": "",
-   "orgao": "MESA",
-   "data_situacao": "2026-11-13",
-   "andamento": "Apense-se à(ao) PL 4733/2026.Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em tramitação",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644231",
-   "enquete": "https://www.camara.leg.br/enquetes/2644231",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3173856"
   },
   {
    "id": 2596425,
@@ -4163,22 +4179,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167363"
   },
   {
-   "id": 2641483,
-   "sigla": "PL 4763/2026",
-   "ementa": "Altera os arts. 217-A, 218 e 218-A do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 – Código Penal, para estender os efeitos da norma à vítima com idade igual a 14 (quatorze) anos.",
-   "apresentacao": "2026-07-22",
-   "situacao": "",
-   "orgao": "MESA",
-   "data_situacao": "2026-10-26",
-   "andamento": "Apense-se à(ao) PL 5203/2023.Proposição Sujeita à Apreciação do Plenário.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em tramitação",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641483",
-   "enquete": "https://www.camara.leg.br/enquetes/2641483",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165569"
-  },
-  {
    "id": 2641708,
    "sigla": "PL 4824/2026",
    "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para instituir a comunicação obrigatória ao Ministério Público de denúncias de ameaça ou violação de direitos de crianças e adolescentes registradas perante o Conselho Tutelar, criar o Sistema Nacional de Registro e Acompanhamento de Denúncias e dar outras providências.",
@@ -4195,20 +4195,20 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167086"
   },
   {
-   "id": 2641441,
-   "sigla": "PL 4739/2026",
-   "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), a Lei nº 8.987, de 13 de fevereiro de 1995 (Lei de Concessões e Permissões de Serviços Públicos), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para estabelecer normas de proteção à infância e à adolescência mediante a vedação da publicidade de plataformas de conteúdo adulto e de serviços de natureza sexual em bens públicos e em espaços cuja exploração econômica dependa de delegação, incentivo ou benefício fiscal do Poder Público, e dá outras providências.",
-   "apresentacao": "2026-07-21",
-   "situacao": "",
+   "id": 2648715,
+   "sigla": "PL 5646/2026",
+   "ementa": "Institui o Programa Nacional da Segunda Oportunidade – PRONASO e estabelece diretrizes para a reinserção social e produtiva de pessoas em situação de vulnerabilidade decorrente de eventos críticos da vida.",
+   "apresentacao": "2026-10-22",
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
    "orgao": "MESA",
-   "data_situacao": "2026-10-26",
-   "andamento": "Às Comissões deComunicação;Defesa do Consumidor;Previdência, Assistência Social, Infância, Adolescência e Família;Finanças e Tributação (Mérito e Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tr",
-   "regime": "Ordinário (Art. 151, III, RICD)",
+   "data_situacao": "2026-10-22",
+   "andamento": "Apresentação do PL n. 5646/2026 (Projeto de Lei), pelo Deputado Hercílio Coelho Diniz (MDB/MG), que \"Institui o Programa Nacional da Segunda Oportunidade – PRONASO e estabelece diretrizes para a reinserção social e produtiva de pessoas em situação de vulnerabilidade decorrente de eventos críticos da",
+   "regime": ".",
    "etapa": "Em tramitação",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641441",
-   "enquete": "https://www.camara.leg.br/enquetes/2641441",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165367"
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648715",
+   "enquete": "https://www.camara.leg.br/enquetes/2648715",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3185623"
   },
   {
    "id": 2648420,

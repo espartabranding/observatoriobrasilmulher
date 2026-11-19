@@ -1,5 +1,72 @@
 [
  {
+  "id": "a79a55c35e",
+  "grupo": "79a55c35e381",
+  "e": "G",
+  "img": "f-amazonia-rio",
+  "iso": "2026-11-18T23:24:00+00:00",
+  "date": "18 nov 2026",
+  "h": "Audiência aponta abandono e negligência como principais violências contra mulheres idosas no Brasil",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 18 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1320884-audiencia-aponta-abandono-e-negligencia-como-principais-violencias-contra-mulheres-idosas-no-brasil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T01:13:39.513596+00:00"
+ },
+ {
+  "id": "a91d2de071",
+  "grupo": "91d2de071d21",
+  "e": "P",
+  "img": "congresso-noite",
+  "iso": "2026-11-18T20:48:00+00:00",
+  "date": "18 nov 2026",
+  "h": "Comissão aprova projeto que proíbe homenagens a condenados por violência contra mulheres",
+  "t": "Notícia publicada por Agência Câmara de Notícias em 18 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Câmara de Notícias",
+    "https://www.camara.leg.br/noticias/1320630-comissao-aprova-projeto-que-proibe-homenagens-a-condenados-por-violencia-contra-mulheres"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T01:13:39.513596+00:00"
+ },
+ {
+  "id": "a8c86b1351",
+  "grupo": "8c86b13513a9",
+  "e": "N",
+  "img": "r-norte",
+  "iso": "2026-11-18T20:18:14+00:00",
+  "date": "18 nov 2026",
+  "h": "Homem é preso suspeito de invadir casa da ex e ameaçar adolescentes com arma e punhal em Rio Branco",
+  "t": "Notícia publicada por A Gazeta do Acre em 18 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "ac24horas",
+    "https://ac24horas.com/2026/11/18/homem-e-preso-suspeito-de-invadir-casa-da-ex-e-ameacar-adolescentes-com-arma/"
+   ],
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/11/noticias/policia/homem-e-preso-suspeito-de-invadir-casa-da-ex-e-ameacar-adolescentes-com-arma-e-punhal-em-rio-branco/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-19T01:13:39.513596+00:00",
+  "uf": [
+   "AC"
+  ]
+ },
+ {
   "id": "aee7d11aae",
   "grupo": "ee7d11aaed3b",
   "e": "N",
