@@ -1,5 +1,51 @@
 [
  {
+  "id": "a41be68d10",
+  "grupo": "41be68d10f51",
+  "e": "I",
+  "img": "cmb-fachada-df",
+  "iso": "2026-11-20T01:16:31.240249+00:00",
+  "date": "19 nov 2026",
+  "h": "Projeto ‘Cuidar de Quem Cuida’ da Secretaria de Políticas para Mulheres da Bahia ( SPM - BA) leva bem-estar e acolhimento às trabalhadoras da Micareta de Feira de Santana 2026",
+  "t": "Notícia publicada por Secretaria de Políticas para as Mulheres – BA em 19 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secretaria de Políticas para as Mulheres – BA",
+    "http://www.ba.gov.br/mulheres/noticias/2026-11/7756/projeto-cuidar-de-quem-cuida-da-secretaria-de-politicas-para-mulheres-da"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T01:16:32.532362+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "a70b94a632",
+  "grupo": "70b94a6324f6",
+  "e": "N",
+  "img": "r-co",
+  "iso": "2026-11-19T21:57:43+00:00",
+  "date": "19 nov 2026",
+  "h": "MPDFT denuncia policial que atirou contra pessoas em posto e matou uma mulher",
+  "t": "Notícia publicada por MPDFT – Ministério Público Distrito Federal em 19 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPDFT – Ministério Público Distrito Federal",
+    "https://www.mpdft.mp.br/portal/index.php/comunicacao-menu/sala-de-imprensa/noticias/noticias-2026/18370-mpdft-denuncia-policial-que-atirou-contra-pessoas-em-posto-e-matou-uma-mulher"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T01:16:32.532362+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
   "id": "a6f508d206",
   "grupo": "6f508d206743",
   "e": "I",
@@ -43,6 +89,29 @@
   "criado_em": "2026-11-19T19:00:05.608449+00:00",
   "uf": [
    "MA"
+  ]
+ },
+ {
+  "id": "a9cea255b4",
+  "grupo": "9cea255b4166",
+  "e": "L",
+  "img": "stf",
+  "iso": "2026-11-19T15:33:48+00:00",
+  "date": "19 nov 2026",
+  "h": "Após recurso do MPSE, STJ restabelece condenação por importunação sexual contra idosa",
+  "t": "Notícia publicada por MPSE – Ministério Público Sergipe em 19 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPSE – Ministério Público Sergipe",
+    "https://www.mpse.mp.br/apos-recurso-do-mpse-stj-restabelece-condenacao-por-importunacao-sexual-contra-idosa/?utm_source=rss&utm_medium=rss&utm_campaign=apos-recurso-do-mpse-stj-restabelece-condenacao-por-importunacao-sexual-contra-idosa"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T01:16:32.532362+00:00",
+  "uf": [
+   "SE"
   ]
  },
  {
