@@ -1,5 +1,51 @@
 [
  {
+  "id": "a24f2e44c2",
+  "grupo": "24f2e44c2bc1",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-11-20T08:00:00+00:00",
+  "date": "20 nov 2026",
+  "h": "Advogado preso por suspeita de torturar atriz em SP é citado em casos de violência contra outras duas mulheres, diz polícia",
+  "t": "Notícia publicada por g1 em 20 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/advogado-preso-por-suspeita-de-torturar-atriz-em-sp-e-citado-em-casos-de-violencia-contra-outras-duas-mulheres-diz-policia.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T08:37:29.114890+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
+  "id": "af466fd784",
+  "grupo": "f466fd7844d1",
+  "e": "H",
+  "img": "f-sarah-fortaleza",
+  "iso": "2026-11-20T08:00:00+00:00",
+  "date": "20 nov 2026",
+  "h": "Bebê de 4 meses morre após cirurgia em hospital de MS, e família denuncia suposta negligência médica",
+  "t": "Notícia publicada por g1 em 20 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/20/bebe-de-4-meses-morre-apos-cirurgia-em-hospital-de-ms-e-familia-denuncia-suposta-negligencia-medica.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T08:37:29.114890+00:00",
+  "uf": [
+   "MS"
+  ]
+ },
+ {
   "id": "a41be68d10",
   "grupo": "41be68d10f51",
   "e": "I",
@@ -44,6 +90,30 @@
   "uf": [
    "DF"
   ]
+ },
+ {
+  "id": "ae30a9795f",
+  "grupo": "e30a9795ff5b",
+  "e": "T",
+  "img": "f-servidores-rack",
+  "iso": "2026-11-19T19:58:24+00:00",
+  "date": "19 nov 2026",
+  "h": "Governo lança campanha para combater violência digital contra mulheres",
+  "t": "Notícia publicada por Metrópoles em 19 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Valor Econômico",
+    "https://valor.globo.com/brasil/noticia/2026/11/19/governo-lanca-campanha-de-combate-ao-racismo-e-a-violencia-digital-contra-mulheres.ghtml"
+   ],
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/brasil/governo-lanca-campanha-para-combater-violencia-digital-contra-mulheres"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T08:37:29.114890+00:00"
  },
  {
   "id": "a6f508d206",
