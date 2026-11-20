@@ -1,5 +1,28 @@
 [
  {
+  "id": "aab8fa886e",
+  "grupo": "ab8fa886eff4",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-11-20T16:25:34+00:00",
+  "date": "20 nov 2026",
+  "h": "MPAM investiga atuação de condenado por feminicídio em delegacia de Humaitá (AM)",
+  "t": "Notícia publicada por Amazonas Atual em 20 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Amazonas Atual",
+    "https://amazonasatual.com.br/mpam-investiga-atuacao-de-condenado-por-feminicidio-em-delegacia-de-humaita-am/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T18:37:52.684127+00:00",
+  "uf": [
+   "AM"
+  ]
+ },
+ {
   "id": "a24f2e44c2",
   "grupo": "24f2e44c2bc1",
   "e": "N",
@@ -114,6 +137,30 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-20T08:37:29.114890+00:00"
+ },
+ {
+  "id": "a1a23ea073",
+  "grupo": "1a23ea07349f",
+  "e": "L",
+  "img": "cmb-sala-audiencias",
+  "iso": "2026-11-19T19:49:25+00:00",
+  "date": "19 nov 2026",
+  "h": "Youtuber que obrigou namorada a raspar o cabelo é indiciado por estupro",
+  "t": "Notícia publicada por Gazeta de Alagoas em 19 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "BNews",
+    "https://www.bnews.com.br/noticias/mundo/youtuber-que-forcou-namorada-a-raspar-o-cabelo-e-indiciado-por-estupro.html"
+   ],
+   [
+    "Gazeta de Alagoas",
+    "https://www.gazetaweb.com/noticias/diversao-variedades/tv-e-celebridades/youtuber-que-obrigou-namorada-a-raspar-o-cabelo-e-indiciado-por-estupro-950416"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T18:37:52.684127+00:00"
  },
  {
   "id": "a6f508d206",
@@ -316,6 +363,33 @@
   "criado_em": "2026-11-19T01:13:39.513596+00:00",
   "uf": [
    "AC"
+  ]
+ },
+ {
+  "id": "aa3abd296c",
+  "grupo": "a3abd296cb8a",
+  "e": "G",
+  "img": "r-norte",
+  "iso": "2026-11-18T19:13:35+00:00",
+  "date": "18 nov 2026",
+  "h": "Mulheres negras são maioria das vítimas de violência doméstica",
+  "t": "Notícia publicada por Amazonas Atual em 18 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Poder360",
+    "https://www.poder360.com.br/poder-seguranca-publica/mulheres-negras-sao-as-maiores-vitimas-de-violencia-domestica/"
+   ],
+   [
+    "Amazonas Atual",
+    "https://amazonasatual.com.br/mulheres-negras-sao-maioria-das-vitimas-de-violencia-domestica/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-20T18:37:52.684127+00:00",
+  "uf": [
+   "AM"
   ]
  },
  {
