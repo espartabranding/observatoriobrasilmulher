@@ -1,5 +1,28 @@
 [
  {
+  "id": "a33ae681c9",
+  "grupo": "33ae681c941e",
+  "e": "N",
+  "img": "deam-viatura-df",
+  "iso": "2026-11-21T00:50:48+00:00",
+  "date": "20 nov 2026",
+  "h": "Suspeito de agredir, ameaçar e impedir companheira de sair de casa é preso na Bahia",
+  "t": "Notícia publicada por A Tarde em 20 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Tarde",
+    "https://atarde.com.br/policia/suspeito-de-agredir-ameacar-e-impedir-companheira-de-sair-de-casa-e-preso-na-bahia-1410185"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T08:17:15.850175+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
   "id": "acfd24ad81",
   "grupo": "cfd24ad81f54",
   "e": "S",
@@ -138,6 +161,29 @@
   ]
  },
  {
+  "id": "a41d09efe2",
+  "grupo": "41d09efe26a4",
+  "e": "I",
+  "img": "cmb-copa",
+  "iso": "2026-11-20T01:16:31.240249+00:00",
+  "date": "19 nov 2026",
+  "h": "SPM-BA leva ações de acolhimento, proteção e cuidado às mulheres durante a Micareta de Feira de Santana",
+  "t": "Notícia publicada por Secretaria de Políticas para as Mulheres – BA em 19 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secretaria de Políticas para as Mulheres – BA",
+    "http://www.ba.gov.br/mulheres/noticias/2026-11/7757/spm-ba-leva-acoes-de-acolhimento-protecao-e-cuidado-mulheres-durante-micareta"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T08:17:15.850175+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
   "id": "a70b94a632",
   "grupo": "70b94a6324f6",
   "e": "N",
@@ -252,6 +298,29 @@
   "criado_em": "2026-11-19T19:00:05.608449+00:00",
   "uf": [
    "RR"
+  ]
+ },
+ {
+  "id": "a26efdeb69",
+  "grupo": "26efdeb69e4d",
+  "e": "L",
+  "img": "r-nordeste",
+  "iso": "2026-11-19T18:04:21+00:00",
+  "date": "19 nov 2026",
+  "h": "TJCE adere à campanha 21 Dias de Ativismo pelo Fim da Violência contra a Mulher",
+  "t": "Notícia publicada por TJCE – Tribunal de Justiça do Ceará em 19 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJCE – Tribunal de Justiça do Ceará",
+    "https://www.tjce.jus.br/noticias/tjce-adere-a-campanha-21-dias-de-ativismo-pelo-fim-da-violencia-contra-a-mulher/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T08:17:15.850175+00:00",
+  "uf": [
+   "CE"
   ]
  },
  {
