@@ -23,6 +23,30 @@
   ]
  },
  {
+  "id": "a34b817b62",
+  "grupo": "34b817b62b53",
+  "e": "P",
+  "img": "f-esplanada-aerea",
+  "iso": "2026-11-21T15:19:00+00:00",
+  "date": "21 nov 2026",
+  "h": "Governo terá novas ações para combater casamento infantil",
+  "t": "Notícia publicada por Agência Brasil em 21 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/governo-tera-novas-acoes-para-combater-casamento-infantil"
+   ],
+   [
+    "O Sul",
+    "https://www.osul.com.br/governo-federal-tera-novas-acoes-para-combater-o-casamento-infantil/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T23:15:30.001654+00:00"
+ },
+ {
   "id": "aa80d6ab31",
   "grupo": "a80d6ab31a7f",
   "e": "N",
@@ -72,6 +96,60 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-21T17:31:07.530395+00:00"
+ },
+ {
+  "id": "a09ef3953b",
+  "grupo": "09ef3953b399",
+  "e": "A",
+  "img": "r-norte",
+  "iso": "2026-11-21T12:57:08+00:00",
+  "date": "21 nov 2026",
+  "h": "Mulher sequestra recém-nascida e foge de maternidade com bebê em sacola",
+  "t": "Notícia publicada por Gazeta de Alagoas em 21 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Jornal Opção (GO)",
+    "https://www.jornalopcao.com.br/ultimas-noticias/mulher-sequestra-recem-nascida-em-maternidade-e-foge-com-bebe-dentro-de-sacola-898858/"
+   ],
+   [
+    "Gazeta de Alagoas",
+    "https://www.gazetaweb.com/noticias/brasil/mulher-sequestra-recem-nascida-e-foge-de-maternidade-com-bebe-em-sacola-950811"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T23:15:30.001654+00:00",
+  "uf": [
+   "PA"
+  ]
+ },
+ {
+  "id": "aa917b8fe1",
+  "grupo": "a917b8fe10f5",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-11-21T09:21:41+00:00",
+  "date": "21 nov 2026",
+  "h": "Mulher pula do primeiro andar para escapar de agressões do marido no Clima Bom",
+  "t": "Notícia publicada por Gazeta de Alagoas em 21 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TNH1",
+    "https://www.tnh1.com.br/noticia/nid/mulher-pula-do-1-andar-de-predio-para-fugir-de-agressoes-do-marido-no-clima-bom/"
+   ],
+   [
+    "Gazeta de Alagoas",
+    "https://www.gazetaweb.com/noticias/policia/mulher-pula-do-primeiro-andar-para-escapar-de-agressoes-do-marido-no-clima-bom-950782"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T23:15:30.001654+00:00",
+  "uf": [
+   "AL"
+  ]
  },
  {
   "id": "a33ae681c9",
