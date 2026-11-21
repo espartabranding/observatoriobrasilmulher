@@ -1,5 +1,79 @@
 [
  {
+  "id": "ae30fb5793",
+  "grupo": "e30fb5793e6e",
+  "e": "A",
+  "img": "r-nordeste",
+  "iso": "2026-11-21T15:30:08+00:00",
+  "date": "21 nov 2026",
+  "h": "Criança de oito anos denuncia ter sido estuprada por amigo do pai durante passeio de moto",
+  "t": "Notícia publicada por Portal Correio em 21 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Portal Correio",
+    "https://portalcorreio.com.br/crianca-de-oito-anos-denuncia-ter-sido-estuprada-por-amigo-do-pai-durante-passeio-de-moto/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T17:31:07.530395+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
+  "id": "aa80d6ab31",
+  "grupo": "a80d6ab31a7f",
+  "e": "N",
+  "img": "r-sul",
+  "iso": "2026-11-21T15:18:22+00:00",
+  "date": "21 nov 2026",
+  "h": "Mulher é morta com golpes de facão na frente do filho de 4 anos e companheiro é preso em SC",
+  "t": "Notícia publicada por g1 em 21 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/brasil/mulher-e-morta-a-golpes-de-facao-na-frente-do-filho-companheiro-e-preso"
+   ],
+   [
+    "g1",
+    "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/21/mulher-morta-facao-preso-chapeco.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T17:31:07.530395+00:00",
+  "uf": [
+   "SC"
+  ]
+ },
+ {
+  "id": "a5d86fc278",
+  "grupo": "5d86fc278289",
+  "e": "A",
+  "img": "conselho-tutelar-casarao",
+  "iso": "2026-11-21T13:49:40+00:00",
+  "date": "21 nov 2026",
+  "h": "Homem é preso suspeito de estuprar adolescente durante passeio de jet ski em Vitória",
+  "t": "Notícia publicada por A Gazeta (ES) em 21 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/es/espirito-santo/noticia/2026/11/21/homem-e-preso-suspeito-de-estuprar-adolescente-de-15-anos-durante-passeio-de-jet-ski-em-vitoria.ghtml"
+   ],
+   [
+    "A Gazeta (ES)",
+    "https://www.agazeta.com.br/es/policia/homem-e-preso-suspeito-de-estuprar-adolescente-durante-passeio-de-jet-ski-em-vitoria-1126"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T17:31:07.530395+00:00"
+ },
+ {
   "id": "a33ae681c9",
   "grupo": "33ae681c941e",
   "e": "N",
