@@ -1,5 +1,28 @@
 [
  {
+  "id": "acfd24ad81",
+  "grupo": "cfd24ad81f54",
+  "e": "S",
+  "img": "r-norte",
+  "iso": "2026-11-20T20:41:08+00:00",
+  "date": "20 nov 2026",
+  "h": "MP lança campanha “Luto por Elas” para lembrar vítimas de violência contra a mulher no Acre",
+  "t": "Notícia publicada por A Gazeta do Acre em 20 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Gazeta do Acre",
+    "https://agazetadoacre.com/2026/11/noticias/geral/mp-lanca-campanha-luto-por-elas-para-lembrar-vitimas-de-violencia-contra-a-mulher-no-acre/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T00:48:47.746255+00:00",
+  "uf": [
+   "AC"
+  ]
+ },
+ {
   "id": "aab8fa886e",
   "grupo": "ab8fa886eff4",
   "e": "N",
@@ -20,6 +43,29 @@
   "criado_em": "2026-11-20T18:37:52.684127+00:00",
   "uf": [
    "AM"
+  ]
+ },
+ {
+  "id": "a2258308e8",
+  "grupo": "2258308e83d6",
+  "e": "I",
+  "img": "cmb-recepcao",
+  "iso": "2026-11-20T13:10:00+00:00",
+  "date": "20 nov 2026",
+  "h": "Auxílio-aluguel: Governo de SP beneficia 10,6 mil mulheres em situação de violência doméstica no estado",
+  "t": "Notícia publicada por Agência SP em 20 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/politicas-para-mulheres/auxilio-aluguel-beneficiou-10-mil-mulheres/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T00:48:47.746255+00:00",
+  "uf": [
+   "SP"
   ]
  },
  {
@@ -161,6 +207,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-20T18:37:52.684127+00:00"
+ },
+ {
+  "id": "a8a597c769",
+  "grupo": "8a597c7699f9",
+  "e": "L",
+  "img": "r-nordeste",
+  "iso": "2026-11-19T18:18:34+00:00",
+  "date": "19 nov 2026",
+  "h": "RIACHÃO – Homem é condenado a mais de 52 anos de prisão por feminicídio",
+  "t": "Notícia publicada por MPMA – Ministério Público Maranhão em 19 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPMA – Ministério Público Maranhão",
+    "https://www.mpma.mp.br/riachao-homem-e-condenado-a-mais-de-52-anos-de-prisao-por-feminicidio/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-21T00:48:47.746255+00:00",
+  "uf": [
+   "MA"
+  ]
  },
  {
   "id": "a6f508d206",
