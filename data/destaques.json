@@ -1,5 +1,77 @@
 [
  {
+  "id": "a2c535c647",
+  "grupo": "2c535c647734",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-11-22T15:03:38+00:00",
+  "date": "22 nov 2026",
+  "h": "Jovem é morto e adolescente fica ferido em ataque a tiros em frente a bar na Serra",
+  "t": "Notícia publicada por A Gazeta (ES) em 22 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/es/espirito-santo/noticia/2026/11/22/jovem-e-morto-e-adolescente-fica-ferido-em-ataque-a-tiros-na-serra.ghtml"
+   ],
+   [
+    "A Gazeta (ES)",
+    "https://www.agazeta.com.br/es/policia/jovem-e-morto-e-adolescente-fica-ferido-em-ataque-a-tiros-em-frente-a-bar-na-serra-1126"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T17:49:52.125558+00:00"
+ },
+ {
+  "id": "a8ea327abe",
+  "grupo": "8ea327abecbe",
+  "e": "A",
+  "img": "conselho-tutelar-sede",
+  "iso": "2026-11-22T14:34:45+00:00",
+  "date": "22 nov 2026",
+  "h": "Tiroteio em chá de bebê deixa três mortos e uma mulher ferida nos Estados Unidos",
+  "t": "Notícia publicada por O Globo em 22 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "BNews",
+    "https://www.bnews.com.br/noticias/mundo/tiroteio-em-cha-de-bebe-deixa-tres-mortos-e-uma-mulher-ferida.html"
+   ],
+   [
+    "O Globo",
+    "https://oglobo.globo.com/mundo/noticia/2026/11/22/tiroteio-em-cha-de-bebe-deixa-tres-mortos-e-uma-mulher-ferida-nos-estados-unidos.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T17:49:52.125558+00:00"
+ },
+ {
+  "id": "aeb9dcf6c0",
+  "grupo": "eb9dcf6c0fca",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-11-22T06:30:00+00:00",
+  "date": "22 nov 2026",
+  "h": "PF assume investigação do duplo feminicídio no Cefet, e famílias preparam ato no campus do Maracanã",
+  "t": "Notícia publicada por Extra em 22 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Globo",
+    "https://oglobo.globo.com/rio/noticia/2026/11/22/duplo-feminicidio-no-cefet-pf-assume-investigacao-e-familias-preparam-ato-em-memoria-das-vitimas.ghtml"
+   ],
+   [
+    "Extra",
+    "https://extra.globo.com/rio/noticia/2026/11/pf-assume-investigacao-do-duplo-feminicidio-no-cefet-e-familias-preparam-ato-no-campus-do-maracana.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T17:49:52.125558+00:00"
+ },
+ {
   "id": "a683e53711",
   "grupo": "683e53711783",
   "e": "I",
@@ -8052,36 +8124,5 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-10-18T13:42:44.811002+00:00"
- },
- {
-  "id": "ae9f9914b0",
-  "grupo": "e9f9914b00d4",
-  "e": "P",
-  "img": "congresso-noite",
-  "iso": "2026-10-08T17:39:32+00:00",
-  "date": "8 out 2026",
-  "h": "Ana Elisa, deputada do PT mais jovem eleita, denuncia ameaças de morte e estupro",
-  "t": "Notícia publicada por Jornal de Brasília em 8 out 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
-  "w": "",
-  "s": [
-   [
-    "CFEMEA – Centro Feminista de Estudos e Assessoria",
-    "https://www.cfemea.org.br/pt/%3Fview%3Darticle%26amp%3Bid%3D11781%3Aana-elisa%2C-mais-jovem-deputada-eleita-em-mg%2C-denuncia-amea%C3%A7as-de-morte-e-estupro-de-autor-que-se-diz-supremacista-branco%26amp%3Bcatid%3D595"
-   ],
-   [
-    "Agora RN",
-    "https://agorarn.com.br/politica/deputada-eleita-ana-elisa-denuncia-ameacas/"
-   ],
-   [
-    "Jornal de Brasília",
-    "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ana-elisa-deputada-do-pt-mais-jovem-eleita-denuncia-ameacas-de-morte-e-estupro/"
-   ]
-  ],
-  "auto": 1,
-  "ia": 0,
-  "criado_em": "2026-10-18T13:42:44.811002+00:00",
-  "uf": [
-   "MG"
-  ]
  }
 ]
