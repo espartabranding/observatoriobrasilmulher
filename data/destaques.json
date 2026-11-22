@@ -1,5 +1,51 @@
 [
  {
+  "id": "a683e53711",
+  "grupo": "683e53711783",
+  "e": "I",
+  "img": "cmb-alojamento",
+  "iso": "2026-11-22T03:13:04.090743+00:00",
+  "date": "22 nov 2026",
+  "h": "Governo da Bahia fortalece assistência social, proteção às mulheres e segurança alimentar na Micareta de Feira",
+  "t": "Notícia publicada por Secom Bahia em 22 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Secom Bahia",
+    "http://www.ba.gov.br/comunicacao/noticias/2026-11/385790/governo-da-bahia-fortalece-assistencia-social-protecao-mulheres-e-seguranca"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T03:13:05.464285+00:00",
+  "uf": [
+   "BA"
+  ]
+ },
+ {
+  "id": "a0d4aff6e9",
+  "grupo": "0d4aff6e9286",
+  "e": "P",
+  "img": "f-esplanada-cc0",
+  "iso": "2026-11-21T21:59:00+00:00",
+  "date": "21 nov 2026",
+  "h": "Deputada Talíria Petrone é ameaçada de morte e violência sexual",
+  "t": "Notícia publicada por Agência Brasil em 21 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T03:13:05.464285+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
   "id": "ae30fb5793",
   "grupo": "e30fb5793e6e",
   "e": "A",
@@ -96,6 +142,29 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-21T17:31:07.530395+00:00"
+ },
+ {
+  "id": "af636b66a8",
+  "grupo": "f636b66a8f55",
+  "e": "L",
+  "img": "r-norte",
+  "iso": "2026-11-21T13:27:00+00:00",
+  "date": "21 nov 2026",
+  "h": "Decisão da Justiça sobre Delegacia da Mulher reforça cobrança do Sinpol-RO por mais policiais civis",
+  "t": "Notícia publicada por Rondoniagora em 21 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Rondoniagora",
+    "https://www.rondoniagora.com/geral/decisao-da-justica-sobre-delegacia-da-mulher-reforca-cobranca-do-sinpol-ro-por-mais-policiais-civis"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T03:13:05.464285+00:00",
+  "uf": [
+   "RO"
+  ]
  },
  {
   "id": "a09ef3953b",
