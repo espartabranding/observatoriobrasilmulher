@@ -1,5 +1,74 @@
 [
  {
+  "id": "aa75b81220",
+  "grupo": "a75b81220344",
+  "e": "L",
+  "img": "r-co",
+  "iso": "2026-11-22T19:29:08+00:00",
+  "date": "22 nov 2026",
+  "h": "Mulher é absolvida por matar agressor, e discurso de advogado durante o júri emociona: 'Se fosse minha mãe, eu tinha feito muito pior'",
+  "t": "Notícia publicada por g1 em 22 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/go/goias/noticia/2026/11/22/mulher-e-absolvida-por-matar-agressor-e-discurso-de-advogado-durante-o-juri-emociona-se-fosse-minha-mae-eu-tinha-feito-muito-pior.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T23:36:48.173471+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
+  "id": "a892283e62",
+  "grupo": "892283e6280e",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-11-22T19:18:02+00:00",
+  "date": "22 nov 2026",
+  "h": "Grávida de 17 anos é morta a tiros e adolescente de 16 é baleado, em Chaval",
+  "t": "Notícia publicada por g1 em 22 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/ce/ceara/noticia/2026/11/22/gravida-de-17-anos-morta-tiros-adolescente-16-anos-baleado.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T23:36:48.173471+00:00",
+  "uf": [
+   "PI"
+  ]
+ },
+ {
+  "id": "a6a2e2ba59",
+  "grupo": "6a2e2ba594c1",
+  "e": "G",
+  "img": "r-norte",
+  "iso": "2026-11-22T18:53:07+00:00",
+  "date": "22 nov 2026",
+  "h": "Mulher é investigada por fala racista no Dia da Consciência Negra",
+  "t": "Notícia publicada por A Tarde em 22 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Tarde",
+    "https://atarde.com.br/brasil/mulher-e-investigada-por-fala-racista-no-dia-da-consciencia-negra-1410338"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-22T23:36:48.173471+00:00",
+  "uf": [
+   "TO"
+  ]
+ },
+ {
   "id": "a2c535c647",
   "grupo": "2c535c647734",
   "e": "N",
