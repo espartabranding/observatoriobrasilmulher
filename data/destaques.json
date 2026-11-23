@@ -1,5 +1,28 @@
 [
  {
+  "id": "aa82b6058c",
+  "grupo": "a82b6058c978",
+  "e": "A",
+  "img": "parquinho-praca",
+  "iso": "2026-11-23T05:00:02+00:00",
+  "date": "23 nov 2026",
+  "h": "Servidoras da Educação no DF denunciam assédio moral e pedem medida protetiva contra diretor",
+  "t": "Notícia publicada por g1 em 23 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/servidoras-da-educacao-no-df-denunciam-assedio-moral-e-pedem-medida-protetiva-contra-diretor.ghtml"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-23T07:35:55.641471+00:00",
+  "uf": [
+   "DF"
+  ]
+ },
+ {
   "id": "aa75b81220",
   "grupo": "a75b81220344",
   "e": "L",
@@ -66,6 +89,52 @@
   "criado_em": "2026-11-22T23:36:48.173471+00:00",
   "uf": [
    "TO"
+  ]
+ },
+ {
+  "id": "abc086d9b9",
+  "grupo": "bc086d9b97ce",
+  "e": "P",
+  "img": "congresso-noite",
+  "iso": "2026-11-22T18:05:52+00:00",
+  "date": "22 nov 2026",
+  "h": "Deputada do PSOL relata ameaças de estupro e morte: “Não vou recuar”",
+  "t": "Notícia publicada por A Tarde em 22 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "A Tarde",
+    "https://atarde.com.br/politica/deputada-do-psol-relata-ameacas-de-estupro-e-morte-nao-vou-recuar-1410334"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-23T07:35:55.641471+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
+  "id": "a3c26c1f3f",
+  "grupo": "3c26c1f3f934",
+  "e": "A",
+  "img": "balanco-ninho",
+  "iso": "2026-11-22T15:17:48+00:00",
+  "date": "22 nov 2026",
+  "h": "Homem ameaça criança com faca e espanca companheira e enteado no Entorno",
+  "t": "Notícia publicada por Metrópoles em 22 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Metrópoles",
+    "https://www.metropoles.com/distrito-federal/na-mira/homem-ameaca-crianca-com-faca-e-espanca-companheira-e-enteado-no-entorno"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-23T07:35:55.641471+00:00",
+  "uf": [
+   "GO"
   ]
  },
  {
