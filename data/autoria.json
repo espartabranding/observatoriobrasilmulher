@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-23T07:45:53.216208+00:00",
+"gerado_em": "2026-11-23T22:05:09.923641+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -30315,6 +30315,57 @@
 178887
 ],
 "lido_em": "2026-11-20"
+},
+"2655454": {
+"sigla": "PL 5901/2026",
+"ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estender a aplicação das medidas protetivas de urgência a toda forma de violência contra a mulher baseada na condição de mulher e dá outras providências.",
+"apresentacao": "2026-11-18",
+"situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+"data_situacao": "2026-11-18",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220569
+],
+"principal": [
+220569
+],
+"lido_em": "2026-11-23"
+},
+"2658850": {
+"sigla": "PL 5929/2026",
+"ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para assegurar atenção integral à saúde de crianças e adolescentes com prejuízos decorrentes do uso problemático de dispositivos digitais.",
+"apresentacao": "2026-11-23",
+"situacao": "",
+"data_situacao": "2026-11-23",
+"orgao": "MESA",
+"lei": false,
+"tema": "criancas",
+"autores": [
+220653
+],
+"principal": [
+220653
+],
+"lido_em": "2026-11-23"
+},
+"2658842": {
+"sigla": "PL 5927/2026",
+"ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para aumentar as penas dos crimes relacionados à pornografia infantil.",
+"apresentacao": "2026-11-23",
+"situacao": "",
+"data_situacao": "2026-11-23",
+"orgao": "MESA",
+"lei": false,
+"tema": "criancas",
+"autores": [
+204404
+],
+"principal": [
+204404
+],
+"lido_em": "2026-11-23"
 }
 },
 "deputados": {
