@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-24T06:03:26.433896+00:00",
+"gerado_em": "2026-11-24T20:41:46.791179+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -30366,6 +30366,40 @@
 204404
 ],
 "lido_em": "2026-11-23"
+},
+"2658972": {
+"sigla": "PL 5938/2026",
+"ementa": "Altera as Leis nº 8.069, de 13 de julho de 1990, nº 9.250, de 26 de dezembro de 1995, nº 9.532, de 10 de dezembro de 1997, e nº 12.213, de 20 de janeiro de 2010, para simplificar e ampliar a destinação de parcela do Imposto sobre a Renda da Pessoa Física aos Fundos dos Direitos da Criança e do Adolescente e aos Fundos dos Direitos da Pessoa Idosa.",
+"apresentacao": "2026-11-23",
+"situacao": "",
+"data_situacao": "2026-11-23",
+"orgao": "MESA",
+"lei": false,
+"tema": "criancas",
+"autores": [
+220529
+],
+"principal": [
+220529
+],
+"lido_em": "2026-11-24"
+},
+"2658923": {
+"sigla": "PL 5931/2026",
+"ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 6.015, de 31 de dezembro de 1973, para estabelecer procedimentos de identificação biométrica digital de recém-nascidos e de suas mães e sua vinculação ao registro civil de nascimento.",
+"apresentacao": "2026-11-23",
+"situacao": "",
+"data_situacao": "2026-11-23",
+"orgao": "MESA",
+"lei": false,
+"tema": "criancas",
+"autores": [
+220574
+],
+"principal": [
+220574
+],
+"lido_em": "2026-11-24"
 }
 },
 "deputados": {

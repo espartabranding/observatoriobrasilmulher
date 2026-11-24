@@ -1,5 +1,80 @@
 [
  {
+  "id": "a67cb245da",
+  "grupo": "67cb245dae5f",
+  "e": "E",
+  "img": "f-paulista-edificio",
+  "iso": "2026-11-24T19:21:25+00:00",
+  "date": "24 nov 2026",
+  "h": "SC tem menor desigualdade salarial entre pretos e brancos, aponta Esperidião Amin",
+  "t": "Notícia publicada por Agência Senado em 24 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/24/sc-tem-menor-desigualdade-salarial-entre-pretos-e-brancos-aponta-esperidiao-amin"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-24T20:40:27.246335+00:00",
+  "uf": [
+   "SC"
+  ]
+ },
+ {
+  "id": "afeac6cbed",
+  "grupo": "feac6cbed1c7",
+  "e": "G",
+  "img": "f-floresta-alagada",
+  "iso": "2026-11-24T17:13:11+00:00",
+  "date": "24 nov 2026",
+  "h": "Sempi lança campanha pelo fim da violência e do racismo contra mulheres nesta quarta-feira (25)",
+  "t": "Notícia publicada por Governo do Piauí – Notícias em 24 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo do Piauí – Notícias",
+    "https://www.pi.gov.br/sempi-lanca-campanha-pelo-fim-da-violencia-e-do-racismo-contra-mulheres-nesta-quarta-feira-25/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-24T20:40:27.246335+00:00",
+  "uf": [
+   "AC",
+   "PI"
+  ]
+ },
+ {
+  "id": "a6d670677c",
+  "grupo": "6d670677c18b",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-11-24T10:12:13+00:00",
+  "date": "24 nov 2026",
+  "h": "Violência familiar matou cinco mulheres por hora em 2025, afirma ONU",
+  "t": "Notícia publicada por CartaCapital em 24 nov 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Patrícia Galvão",
+    "https://agenciapatriciagalvao.org.br/violencia/feminicidio/violencia-domestica-matou-cinco-mulheres-por-hora-em-2025-afirma-onu/"
+   ],
+   [
+    "CNN Brasil",
+    "https://www.cnnbrasil.com.br/internacional/violencia-domestica-matou-cinco-mulheres-por-hora-em-2025-diz-onu/"
+   ],
+   [
+    "CartaCapital",
+    "https://www.cartacapital.com.br/mundo/violencia-familiar-matou-cinco-mulheres-por-hora-em-2025-afirma-onu/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-24T20:40:27.246335+00:00"
+ },
+ {
   "id": "a4da3bbca6",
   "grupo": "4da3bbca61cf",
   "e": "S",
@@ -8374,33 +8449,5 @@
   "uf": [
    "PB"
   ]
- },
- {
-  "id": "ada41e0de1",
-  "grupo": "da41e0de12a9",
-  "e": "I",
-  "img": "f-paulista-edificio",
-  "iso": "2026-10-10T17:42:23+00:00",
-  "date": "10 out 2026",
-  "h": "Novo benefício do INSS paga até R$ 8 mil para mulheres afastadas do trabalho por violência doméstica",
-  "t": "Notícia publicada por NSC Total (SC) em 10 out 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
-  "w": "",
-  "s": [
-   [
-    "Roraima em Tempo",
-    "https://roraimaemtempo.com.br/seguranca/inss-vai-pagar-beneficio-a-mulheres-afastadas-por-violencia-domestica/"
-   ],
-   [
-    "ac24horas",
-    "https://ac24horas.com/2026/10/11/inss-garante-novo-beneficio-a-mulheres-afastadas-do-trabalho-por-violencia-domestica/"
-   ],
-   [
-    "NSC Total (SC)",
-    "https://www.nsctotal.com.br/economia/novo-beneficio-do-inss-paga-ate-r-8-mil-para-mulheres-afastadas-do-trabalho-por-violencia-domestica"
-   ]
-  ],
-  "auto": 1,
-  "ia": 0,
-  "criado_em": "2026-10-18T13:42:44.811002+00:00"
  }
 ]
