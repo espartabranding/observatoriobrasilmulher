@@ -23,6 +23,29 @@
   ]
  },
  {
+  "id": "aefbcbd280",
+  "grupo": "efbcbd2801f5",
+  "e": "S",
+  "img": "f-biblioteca-nacional",
+  "iso": "2026-11-23T20:08:00+00:00",
+  "date": "23 nov 2026",
+  "h": "Negra, mãe e vítima de agressão: estudo traça perfil de detentas no RJ",
+  "t": "Notícia publicada por Agência Brasil em 23 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/negra-mae-e-vitima-de-agressao-estudo-traca-perfil-de-detentas-no-rj"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-24T06:01:21.647845+00:00",
+  "uf": [
+   "RJ"
+  ]
+ },
+ {
   "id": "a179fcb564",
   "grupo": "179fcb5641b7",
   "e": "A",
@@ -44,6 +67,29 @@
   "uf": [
    "CE",
    "RN"
+  ]
+ },
+ {
+  "id": "a942c52247",
+  "grupo": "942c52247dd1",
+  "e": "N",
+  "img": "r-nordeste",
+  "iso": "2026-11-23T17:13:08+00:00",
+  "date": "23 nov 2026",
+  "h": "Piauí reduz feminicídios em 50% e tem a 5ª menor taxa do Brasil em 2026",
+  "t": "Notícia publicada por Governo do Piauí – Notícias em 23 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Governo do Piauí – Notícias",
+    "https://www.pi.gov.br/piaui-reduz-feminicidios-em-50-e-tem-a-5a-menor-taxa-do-brasil-em-2026/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-24T06:01:21.647845+00:00",
+  "uf": [
+   "PI"
   ]
  },
  {
@@ -72,6 +118,26 @@
   "uf": [
    "DF"
   ]
+ },
+ {
+  "id": "a54485e0a1",
+  "grupo": "54485e0a1280",
+  "e": "I",
+  "img": "crm-centro-referencia-mesa",
+  "iso": "2026-11-23T15:55:20+00:00",
+  "date": "23 nov 2026",
+  "h": "Casa da Mulher Brasileira",
+  "t": "Notícia publicada por MPSE – Ministério Público Sergipe em 23 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPSE – Ministério Público Sergipe",
+    "https://www.mpse.mp.br/casa-da-mulher-brasileira/?utm_source=rss&utm_medium=rss&utm_campaign=casa-da-mulher-brasileira"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-24T06:01:21.647845+00:00"
  },
  {
   "id": "aa82b6058c",
