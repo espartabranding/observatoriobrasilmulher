@@ -1,5 +1,5 @@
 {
-"gerado_em": "2026-11-25T04:13:22.791719+00:00",
+"gerado_em": "2026-11-25T19:58:33.241891+00:00",
 "desde": "2023-02-01",
 "fonte": "Câmara dos Deputados, API de Dados Abertos",
 "projetos": {
@@ -30400,6 +30400,23 @@
 220574
 ],
 "lido_em": "2026-11-24"
+},
+"2659462": {
+"sigla": "PL 5961/2026",
+"ementa": "Altera a Lei nº 15.516, de 22 de setembro de 2026, para assegurar, nas unidades de saúde, acolhimento em sala reservada e informação sobre direitos às vítimas de violência psicológica, moral, patrimonial e de outras formas de violência diversas do estupro e da violência física.",
+"apresentacao": "2026-11-25",
+"situacao": "",
+"data_situacao": "2026-11-25",
+"orgao": "MESA",
+"lei": false,
+"tema": "mulheres",
+"autores": [
+220622
+],
+"principal": [
+220622
+],
+"lido_em": "2026-11-25"
 }
 },
 "deputados": {
