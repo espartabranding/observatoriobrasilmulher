@@ -1,5 +1,45 @@
 [
  {
+  "id": "aa7348a34e",
+  "grupo": "a7348a34e1fa",
+  "e": "L",
+  "img": "forum-fachada-letreiro",
+  "iso": "2026-11-24T22:02:02+00:00",
+  "date": "24 nov 2026",
+  "h": "Cadastro de condenados por violência contra mulher pode ser ampliado",
+  "t": "Notícia publicada por Agência Senado em 24 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/24/cadastro-de-condenados-por-violencia-contra-mulher-pode-ser-ampliado"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-25T04:11:53.129884+00:00"
+ },
+ {
+  "id": "a2cdb6cf60",
+  "grupo": "2cdb6cf60ca3",
+  "e": "L",
+  "img": "forum-sao-carlos",
+  "iso": "2026-11-24T21:57:00+00:00",
+  "date": "24 nov 2026",
+  "h": "No segundo dia da Caravana do MP em Quixadá, Conselho Superior do Ministério Público aprova permuta e vitaliciamento de membros",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 24 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/no-segundo-dia-da-caravana-do-mp-em-quixada-conselho-superior-do-ministerio-publico-aprova-permuta-e-vitaliciamento-de-membros/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-25T04:11:53.129884+00:00"
+ },
+ {
   "id": "a67cb245da",
   "grupo": "67cb245dae5f",
   "e": "E",
@@ -73,6 +113,33 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-24T20:40:27.246335+00:00"
+ },
+ {
+  "id": "a2047cb159",
+  "grupo": "2047cb159464",
+  "e": "N",
+  "img": "f-metro-vila-mariana",
+  "iso": "2026-11-24T09:08:00+00:00",
+  "date": "24 nov 2026",
+  "h": "Mulher é morta a facadas 3 dias após pedir medida protetiva em SP",
+  "t": "Notícia publicada por Cidade Verde (PI) em 24 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Folha de S.Paulo",
+    "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/mulher-e-morta-a-facadas-pelo-ex-namorado-em-sp-apos-pedir-medida-protetiva.shtml"
+   ],
+   [
+    "Cidade Verde (PI)",
+    "https://cidadeverde.com/geral/466894/mulher-e-morta-a-facadas-3-dias-apos-pedir-medida-protetiva-em-sp"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-25T04:11:53.129884+00:00",
+  "uf": [
+   "SP"
+  ]
  },
  {
   "id": "a4da3bbca6",
