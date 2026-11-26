@@ -1,5 +1,74 @@
 [
  {
+  "id": "a682f8288f",
+  "grupo": "682f8288fd66",
+  "e": "N",
+  "img": "delegacia-predio",
+  "iso": "2026-11-26T17:51:58+00:00",
+  "date": "26 nov 2026",
+  "h": "TJBA adere à campanha UNA-SE e mobiliza população pelo fim da violência de mulheres e meninas",
+  "t": "Notícia publicada por TJBA – Tribunal de Justiça do Bahia em 26 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "TJBA – Tribunal de Justiça do Bahia",
+    "https://www.tjba.jus.br/portal/tjba-adere-a-campanha-una-se-e-mobiliza-populacao-pelo-fim-da-violencia-de-mulheres-e-meninas/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-26T19:37:56.721015+00:00",
+  "uf": [
+   "SE"
+  ]
+ },
+ {
+  "id": "a55bcf8793",
+  "grupo": "55bcf8793332",
+  "e": "I",
+  "img": "cmb-fachada-df",
+  "iso": "2026-11-26T16:39:30+00:00",
+  "date": "26 nov 2026",
+  "h": "NEVID/MPES atua para fortalecer a rede de proteção às mulheres em Montanha",
+  "t": "Notícia publicada por MPES – Ministério Público Espírito Santo em 26 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPES – Ministério Público Espírito Santo",
+    "https://mpes.mp.br/noticias/2026/11/26/nevid-mpes-atua-para-fortalecer-a-rede-de-protecao-as-mulheres-em-montanha/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-26T19:37:56.721015+00:00",
+  "uf": [
+   "ES"
+  ]
+ },
+ {
+  "id": "acd954ee55",
+  "grupo": "cd954ee5560f",
+  "e": "I",
+  "img": "cmb-recepcao",
+  "iso": "2026-11-26T15:05:51+00:00",
+  "date": "26 nov 2026",
+  "h": "Santo André passa a contar com Delegacia de Defesa da Mulher 24 horas",
+  "t": "Notícia publicada por Agência SP em 26 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência SP",
+    "https://www.agenciasp.sp.gov.br/seguranca-publica/santo-andre-delegacia-mulher/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-26T19:37:56.721015+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "ae0a08e4fa",
   "grupo": "e0a08e4fac27",
   "e": "P",
