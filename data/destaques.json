@@ -1,5 +1,32 @@
 [
  {
+  "id": "ae0a08e4fa",
+  "grupo": "e0a08e4fac27",
+  "e": "P",
+  "img": "f-ministerios-fachadas",
+  "iso": "2026-11-25T19:55:32+00:00",
+  "date": "25 nov 2026",
+  "h": "Operação fiscaliza mais de 15 denúncias de maus-tratos e resgata três animais em Campina Grande",
+  "t": "Notícia publicada por Jornal da Paraíba em 25 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/pb/paraiba/noticia/2026/11/25/operacao-fiscaliza-mais-de-15-denuncias-de-maus-tratos-a-animais-e-resgata-tres-na-pb.ghtml"
+   ],
+   [
+    "Jornal da Paraíba",
+    "https://jornaldaparaiba.com.br/cotidiano/operacao-fiscaliza-mais-de-15-denuncias-de-maus-tratos-e-resgata-tres-animais-em-campina-grande"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-26T02:52:18.723775+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
   "id": "aadbaf7e19",
   "grupo": "adbaf7e19f3b",
   "e": "H",
@@ -46,6 +73,29 @@
   ]
  },
  {
+  "id": "af0d1b986f",
+  "grupo": "f0d1b986fdad",
+  "e": "E",
+  "img": "economia",
+  "iso": "2026-11-25T17:11:09+00:00",
+  "date": "25 nov 2026",
+  "h": "Liminar proíbe Unidas de explorar trabalho adolescente na lavagem de veículos em todo o Brasil",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 25 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/liminar-proibe-unidas-de-explorar-trabalho-adolescente-na-lavagem-de-veiculos-em-todo-o-brasil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-26T02:52:18.723775+00:00",
+  "uf": [
+   "SP"
+  ]
+ },
+ {
   "id": "a599139e4a",
   "grupo": "599139e4a2f7",
   "e": "N",
@@ -68,6 +118,33 @@
   "auto": 1,
   "ia": 0,
   "criado_em": "2026-11-25T19:57:17.790644+00:00"
+ },
+ {
+  "id": "a0658070d0",
+  "grupo": "0658070d06f9",
+  "e": "N",
+  "img": "viaturas-policia-civil",
+  "iso": "2026-11-25T13:49:11+00:00",
+  "date": "25 nov 2026",
+  "h": "Mulher que ganhou R$ 1 milhão em sorteio é morta a tiros em Pernambuco",
+  "t": "Notícia publicada por Diário do Pará em 25 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "NSC Total (SC)",
+    "https://www.nsctotal.com.br/cotidiano/mulher-que-ganhou-r-1-milhao-em-sorteio-e-morta-a-tiros-em-frente-de-casa-em-pernambuco"
+   ],
+   [
+    "Diário do Pará",
+    "https://dol.com.br/noticias/brasil/969387/mulher-que-ganhou-r-1-milhao-em-sorteio-e-morta-a-tiros-em-pernambuco"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-26T02:52:18.723775+00:00",
+  "uf": [
+   "PE"
+  ]
  },
  {
   "id": "aa7348a34e",
