@@ -1,5 +1,28 @@
 [
  {
+  "id": "a2c7e293f6",
+  "grupo": "2c7e293f62c5",
+  "e": "A",
+  "img": "r-nordeste",
+  "iso": "2026-11-26T19:53:05+00:00",
+  "date": "26 nov 2026",
+  "h": "MPT-RN sedia 2ª reunião ordinária da Comissão Estadual de Erradicação do Trabalho Infantil",
+  "t": "Notícia publicada por MPT – Ministério Público do Trabalho em 26 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPT – Ministério Público do Trabalho",
+    "https://mpt.mp.br/pgt/noticias/mpt-rn-sedia-2a-reuniao-ordinaria-da-comissao-estadual-de-erradicacao-do-trabalho-infantil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-27T02:52:00.423346+00:00",
+  "uf": [
+   "RN"
+  ]
+ },
+ {
   "id": "a682f8288f",
   "grupo": "682f8288fd66",
   "e": "N",
@@ -21,6 +44,34 @@
   "uf": [
    "SE"
   ]
+ },
+ {
+  "id": "a084326b55",
+  "grupo": "084326b557ca",
+  "e": "N",
+  "img": "delegacia-viatura",
+  "iso": "2026-11-26T17:46:43+00:00",
+  "date": "26 nov 2026",
+  "h": "Câmara aprova projeto que prevê alertas sonoros e luminosos em tornozeleiras de agressores de mulher",
+  "t": "Notícia publicada por Estadão em 26 nov 2026 e repercutida por mais 2 veículos. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "O Sul",
+    "https://www.osul.com.br/camara-dos-deputados-aprova-projeto-que-preve-alertas-sonoros-e-luminosos-em-tornozeleiras-de-agressores-de-mulher/"
+   ],
+   [
+    "Diário do Grande ABC",
+    "https://www.dgabc.com.br/Noticia/4370936/camara-aprova-projeto-que-preve-alertas-sonoros-em-tornozeleiras-de-agressores-de-mulher"
+   ],
+   [
+    "Estadão",
+    "https://www.estadao.com.br/brasil/camara-aprova-projeto-que-preve-alertas-sonoros-e-luminosos-em-tornozeleiras-de-agressores-de-mulher-npr/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-27T02:52:00.423346+00:00"
  },
  {
   "id": "a55bcf8793",
@@ -140,6 +191,30 @@
   "uf": [
    "CE"
   ]
+ },
+ {
+  "id": "ab323e184c",
+  "grupo": "b323e184c7c6",
+  "e": "L",
+  "img": "tjpr-sede",
+  "iso": "2026-11-25T18:42:00+00:00",
+  "date": "25 nov 2026",
+  "h": "Violência contra mulher atingiu nível de atrocidade, diz Cármen Lúcia",
+  "t": "Notícia publicada por Agência Brasil – Justiça em 25 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil – Justiça",
+    "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/violencia-contra-mulher-atingiu-nivel-de-atrocidade-diz-carmen-lucia"
+   ],
+   [
+    "O Sul",
+    "https://www.osul.com.br/violencia-contra-a-mulher-atingiu-nivel-de-atrocidade-diz-a-ministra-do-supremo-carmen-lucia/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-27T02:52:00.423346+00:00"
  },
  {
   "id": "af0d1b986f",
