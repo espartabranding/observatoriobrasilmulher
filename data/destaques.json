@@ -1,5 +1,75 @@
 [
  {
+  "id": "aa0284b8de",
+  "grupo": "a0284b8decfd",
+  "e": "L",
+  "img": "mpba-sede",
+  "iso": "2026-11-27T17:39:11+00:00",
+  "date": "27 nov 2026",
+  "h": "Autores de violência doméstica de menor gravidade em CG prestam serviços comunitários em equipamentos de proteção às vítimas",
+  "t": "Notícia publicada por MPPB – Ministério Público Paraíba em 27 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPPB – Ministério Público Paraíba",
+    "http://www.mppb.mp.br/index.php?view=article&id=27986"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-27T19:28:40.095863+00:00",
+  "uf": [
+   "PB"
+  ]
+ },
+ {
+  "id": "a58ce958f2",
+  "grupo": "58ce958f283e",
+  "e": "P",
+  "img": "f-planalto-2020",
+  "iso": "2026-11-27T17:21:00+00:00",
+  "date": "27 nov 2026",
+  "h": "Selo Não é Não – Mulheres Seguras é lançado hoje em bares brasileiros",
+  "t": "Notícia publicada por Agência Brasil em 27 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Brasil",
+    "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/selo-nao-e-nao-mulheres-seguras-e-lancado-hoje-em-bares-brasileiros"
+   ],
+   [
+    "Conexão Tocantins",
+    "https://conexaoto.com.br/2026/11/27/selo-nao-e-nao-mulheres-seguras-lancado-em-bares-de-palmas"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-27T19:28:40.095863+00:00"
+ },
+ {
+  "id": "a21c49002f",
+  "grupo": "21c49002fadc",
+  "e": "N",
+  "img": "delegacia-geral",
+  "iso": "2026-11-27T12:54:10+00:00",
+  "date": "27 nov 2026",
+  "h": "MP do Ceará dá parecer favorável e investigado por feminicídio é preso em Itarema",
+  "t": "Notícia publicada por MPCE – Ministério Público Ceará em 27 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "MPCE – Ministério Público Ceará",
+    "https://mpce.mp.br/mp-do-ceara-da-parecer-favoravel-e-investigado-por-feminicidio-e-preso-em-itarema/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-27T19:28:40.095863+00:00",
+  "uf": [
+   "CE"
+  ]
+ },
+ {
   "id": "a2c7e293f6",
   "grupo": "2c7e293f62c5",
   "e": "A",
@@ -8760,52 +8830,6 @@
   "criado_em": "2026-10-18T13:42:44.811002+00:00",
   "uf": [
    "CE"
-  ]
- },
- {
-  "id": "a6a762a195",
-  "grupo": "6a762a195876",
-  "e": "A",
-  "img": "parquinho-praca",
-  "iso": "2026-10-13T16:28:49+00:00",
-  "date": "13 out 2026",
-  "h": "Projeto Natal Solidário 2026: MPSE inicia arrecadação de presentes para crianças e adolescentes acolhidos em Sergipe",
-  "t": "Notícia publicada por MPSE – Ministério Público Sergipe em 13 out 2026. Leia a matéria completa na fonte.",
-  "w": "",
-  "s": [
-   [
-    "MPSE – Ministério Público Sergipe",
-    "https://www.mpse.mp.br/index.php/2026/10/13/projeto-natal-solidario-2026-mpse-inicia-arrecadacao-de-presentes-para-criancas-e-adolescentes-acolhidos-em-sergipe/?utm_source=rss&utm_medium=rss&utm_campaign=projeto-natal-solidario-2026-mpse-inicia-arrecadacao-de-presentes-para-criancas-e-adolescentes-acolhidos-em-sergipe"
-   ]
-  ],
-  "auto": 1,
-  "ia": 0,
-  "criado_em": "2026-10-18T13:42:44.811002+00:00",
-  "uf": [
-   "SE"
-  ]
- },
- {
-  "id": "a89b925230",
-  "grupo": "89b9252303fa",
-  "e": "S",
-  "img": "sociedade",
-  "iso": "2026-10-13T15:41:21+00:00",
-  "date": "13 out 2026",
-  "h": "22% das paraibanas já sofreram violência doméstica; leis de Camila Toscano fortalecem a proteção às mulheres",
-  "t": "Notícia publicada por Portal Correio em 13 out 2026. Leia a matéria completa na fonte.",
-  "w": "",
-  "s": [
-   [
-    "Portal Correio",
-    "https://portalcorreio.com.br/22-das-paraibanas-ja-sofreram-violencia-domestica-leis-de-camila-toscano-fortalecem-a-protecao-as-mulheres/"
-   ]
-  ],
-  "auto": 1,
-  "ia": 0,
-  "criado_em": "2026-10-18T13:42:44.811002+00:00",
-  "uf": [
-   "PB"
   ]
  }
 ]
