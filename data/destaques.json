@@ -1,5 +1,72 @@
 [
  {
+  "id": "a09cc923dc",
+  "grupo": "09cc923dcfd1",
+  "e": "A",
+  "img": "parquinho-praca",
+  "iso": "2026-11-27T23:49:02+00:00",
+  "date": "27 nov 2026",
+  "h": "CNMP une esforços com o CNPG e com o Ministério Público brasileiro e outras instituições para combater o casamento infantil",
+  "t": "Notícia publicada por CNMP – Conselho Nacional do Ministério Público em 27 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "CNMP – Conselho Nacional do Ministério Público",
+    "https://www.cnmp.mp.br/portal/todas-as-noticias/19914-cnmp-une-esforcos-com-o-cnpg-e-com-o-ministerio-publico-brasileiro-e-outras-instituicoes-para-combater-o-casamento-infantil"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-28T02:41:24.792471+00:00"
+ },
+ {
+  "id": "a59529e0c5",
+  "grupo": "59529e0c5ecc",
+  "e": "N",
+  "img": "f-paulista-noite",
+  "iso": "2026-11-27T22:19:56+00:00",
+  "date": "27 nov 2026",
+  "h": "Polícia prende suspeito de feminicídio de adolescente em Barra do Corda",
+  "t": "Notícia publicada por O Imparcial em 27 nov 2026 e repercutida por mais 1 veículo. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "g1",
+    "https://g1.globo.com/ma/maranhao/noticia/2026/11/27/policia-prende-suspeito-de-feminicidio-de-adolescente-de-16-anos-em-barra-do-corda-no-ma.ghtml"
+   ],
+   [
+    "O Imparcial",
+    "https://oimparcial.com.br/barra-do-corda/cidades/2026/11/policia-prende-suspeito-de-feminicidio-de-adolescente-em-barra-do-corda/"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-28T02:41:24.792471+00:00"
+ },
+ {
+  "id": "a8ff60cc15",
+  "grupo": "8ff60cc15fff",
+  "e": "P",
+  "img": "r-sul",
+  "iso": "2026-11-27T19:36:11+00:00",
+  "date": "27 nov 2026",
+  "h": "Pesquisa do Senado sobre violência contra a mulher ganha prêmio de design",
+  "t": "Notícia publicada por Agência Senado em 27 nov 2026. Leia a matéria completa na fonte.",
+  "w": "",
+  "s": [
+   [
+    "Agência Senado",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/27/pesquisa-do-senado-sobre-violencia-contra-a-mulher-ganha-premio-de-design"
+   ]
+  ],
+  "auto": 1,
+  "ia": 0,
+  "criado_em": "2026-11-28T02:41:24.792471+00:00",
+  "uf": [
+   "PR"
+  ]
+ },
+ {
   "id": "aa0284b8de",
   "grupo": "a0284b8decfd",
   "e": "L",

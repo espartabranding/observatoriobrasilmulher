@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-27T19:29:35.815930+00:00",
+ "gerado_em": "2026-11-28T02:42:16.773047+00:00",
  "fonte": "Câmara dos Deputados, API de Dados Abertos",
  "projetos": [
   {
@@ -129,22 +129,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615027",
    "enquete": "https://www.camara.leg.br/enquetes/2615027",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3111390"
-  },
-  {
-   "id": 2611305,
-   "sigla": "PL 1336/2026",
-   "ementa": "Dispõe sobre o enfrentamento do feminicídio como política pública de Estado e positiva, em lei, a existência, as competências, a composição, o funcionamento e a manutenção em caráter permanente do Comitê Interinstitucional de Gestão do Pacto Brasil entre os Três Poderes para Enfrentamento do Feminicídio, instituído pelo Decreto Federal nº 12.839, de 4 de fevereiro de 2026.",
-   "apresentacao": "2026-03-23",
-   "situacao": "Pronta para Pauta",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-11-16",
-   "andamento": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Pronto para votação na comissão",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611305",
-   "enquete": "https://www.camara.leg.br/enquetes/2611305",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3102840"
   },
   {
    "id": 466907,
@@ -355,20 +339,20 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2064623"
   },
   {
-   "id": 2485880,
-   "sigla": "PL 747/2025",
-   "ementa": "Altera a Lei nº 14.344, de 24 de maio de 2022, para aprimorar a possibilidade de concessão de medidas protetivas de urgência pelo delegado de polícia e pelo policial, e para ampliar o âmbito de tutela do tipo penal de descumprimento de medidas protetivas de urgência.",
-   "apresentacao": "2025-03-06",
+   "id": 2400869,
+   "sigla": "PL 5295/2023",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para prever o sigilo dos dados e informações da mulher vítima de violência familiar ou doméstica e de seus dependentes nos diversos cadastros mantidos pelo poder público em que seja inscrita.",
+   "apresentacao": "2023-11-01",
    "situacao": "Pronta para Pauta",
-   "orgao": "MESA",
+   "orgao": "CCJC",
    "data_situacao": "2026-09-02",
-   "andamento": "Apresentação do REQ n. 4176/2026 (Requerimento de Redistribuição), pelo Deputado Nikolas Ferreira (PL/MG), que \"Solicita revisão do despacho do PL 747/2025 para incluir a análise de mérito da Comissão de Constituição, Justiça e de Cidadania\".",
+   "andamento": "Parecer do Relator, Dep. Alencar Santana (PT-SP), pela constitucionalidade, juridicidade e técnica legislativa do PL 5295/23, do PL 5472/2023, apensado, e do Substitutivo da Comissão de Administração e Serviço Público, com subemenda substitutiva.",
    "regime": "Ordinário (Art. 151, III, RICD)",
    "etapa": "Pronto para votação na comissão",
    "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485880",
-   "enquete": "https://www.camara.leg.br/enquetes/2485880",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2863087"
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400869",
+   "enquete": "https://www.camara.leg.br/enquetes/2400869",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2354293"
   },
   {
    "id": 2356369,
@@ -579,6 +563,22 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2850318"
   },
   {
+   "id": 2601683,
+   "sigla": "PL 399/2026",
+   "ementa": "Altera a Lei Brasileira de Inclusão da Pessoa com Deficiência, Lei nº 13.146, de 6 de julho de 2015, para incluir prioridade reforçada em caso de violência contra mulher com deficiência.",
+   "apresentacao": "2026-02-09",
+   "situacao": "Pronta para Pauta",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-08-13",
+   "andamento": "Parecer da Relatora, Dep. Clarissa Tércio (PP-PE), pela aprovação.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Pronto para votação na comissão",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601683",
+   "enquete": "https://www.camara.leg.br/enquetes/2601683",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3080382"
+  },
+  {
    "id": 2495166,
    "sigla": "PL 1535/2025",
    "ementa": "Altera as Leis nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente; 8.072, de 25 de julho de 1990 - Lei de Crimes Hediondos; e 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para tornar mais rígido o tratamento dos crimes previstos nos arts. 240 a 241-D, 244-A e 244-B, da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).",
@@ -691,6 +691,70 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2359433"
   },
   {
+   "id": 2640754,
+   "sigla": "PL 4078/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para explicitar que o dano moral decorrente da violência doméstica e familiar contra a mulher é presumido e independe de prova específica do sofrimento experimentado pela vítima.",
+   "apresentacao": "2026-07-17",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-30",
+   "andamento": "Prazo para Emendas ao Projeto (5 sessões a partir de 01/12/2026)",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640754",
+   "enquete": "https://www.camara.leg.br/enquetes/2640754",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164508"
+  },
+  {
+   "id": 2636061,
+   "sigla": "PL 3391/2026",
+   "ementa": "Dispõe sobre medidas de verificação e proteção da livre manifestação de vontade em atos processuais e notariais que envolvam indícios de violência doméstica, familiar ou patrimonial; estabelece preferência por atos presenciais, procedimento reservado e documentado de verificação prévia quando realizados virtualmente, protocolo de sinalização discreta para acionamento da rede de proteção, obrigação de orientação sobre canais de apoio, capacitação periódica de operadores e sanções administrativas para o descumprimento; altera normas correlatas e dá outras providências.",
+   "apresentacao": "2026-07-01",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-30",
+   "andamento": "Prazo para Emendas ao Projeto (5 sessões a partir de 01/12/2026)",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636061",
+   "enquete": "https://www.camara.leg.br/enquetes/2636061",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154795"
+  },
+  {
+   "id": 2624867,
+   "sigla": "PL 2404/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha)  para incluir como forma de violência vicária a prática de maus-tratos, mutilação ou morte de animal de estimação com a finalidade de atingir emocionalmente a mulher",
+   "apresentacao": "2026-05-14",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-30",
+   "andamento": "Prazo para Emendas ao Projeto (5 sessões a partir de 01/12/2026)",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624867",
+   "enquete": "https://www.camara.leg.br/enquetes/2624867",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3130316"
+  },
+  {
+   "id": 2611195,
+   "sigla": "PL 1322/2026",
+   "ementa": "Dispõe sobre a criação de plataforma tecnológica para notificação em tempo real às vítimas de violência doméstica e familiar acerca da aproximação de agressores submetidos a medidas protetivas de urgência e monitoramento eletrônico.",
+   "apresentacao": "2026-03-23",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-30",
+   "andamento": "Prazo para Emendas ao Projeto (5 sessões a partir de 01/12/2026)",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611195",
+   "enquete": "https://www.camara.leg.br/enquetes/2611195",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3102607"
+  },
+  {
    "id": 2608924,
    "sigla": "PL 1161/2026",
    "ementa": "Dispõe sobre a vedação de homenagens públicas a pessoas condenadas por crimes violentos contra a mulher e estabelece diretrizes para revisão de denominações e honrarias incompatíveis com esta Lei.",
@@ -705,6 +769,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608924",
    "enquete": "https://www.camara.leg.br/enquetes/2608924",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3097593"
+  },
+  {
+   "id": 2562604,
+   "sigla": "PL 4684/2025",
+   "ementa": "Altera a Lei 14.133, de 1º de abril de 2021, a Lei de Licitações e Contratos Administrativos, para instituir percentual mínimo de reserva de vagas para mulheres nas contratações de serviços contínuos com regime de dedicação exclusiva de  mão de obra, priorizando a contratação de vítimas de violência doméstica e familiar.",
+   "apresentacao": "2025-09-19",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-30",
+   "andamento": "Prazo para Emendas ao Projeto (5 sessões a partir de 01/12/2026)",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562604",
+   "enquete": "https://www.camara.leg.br/enquetes/2562604",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3003339"
   },
   {
    "id": 2642458,
@@ -787,6 +867,22 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3168672"
   },
   {
+   "id": 2640650,
+   "sigla": "PL 3975/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para instituir diretrizes de atendimento interseccional e de fomento à capilaridade da rede de proteção em municípios de pequeno porte, e dá outras providências.",
+   "apresentacao": "2026-07-17",
+   "situacao": "Tramitando em Conjunto",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-27",
+   "andamento": "Designada Relatora, Dep. Talíria Petrone (PSOL-RJ), para o PL 6654/2025, ao qual esta proposição está apensada.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640650",
+   "enquete": "https://www.camara.leg.br/enquetes/2640650",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164404"
+  },
+  {
    "id": 2610541,
    "sigla": "PL 1270/2026",
    "ementa": "Acrescenta o art. 165-E e o inciso V ao art. 263 da Lei n.º 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e o inciso VIII ao art. 22 da Lei n.º 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer infração gravíssima de trânsito, cassação da Carteira Nacional de Habilitação e medida protetiva de suspensão do direito de dirigir aplicáveis ao agressor que utilizar veículo automotor como instrumento de violência doméstica e familiar contra a mulher.",
@@ -801,6 +897,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610541",
    "enquete": "https://www.camara.leg.br/enquetes/2610541",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3100758"
+  },
+  {
+   "id": 2599031,
+   "sigla": "PL 6654/2025",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incorporar a perspectiva da equidade racial no combate à violência contra a mulher.",
+   "apresentacao": "2025-12-22",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-27",
+   "andamento": "Designada Relatora, Dep. Talíria Petrone (PSOL-RJ).",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599031",
+   "enquete": "https://www.camara.leg.br/enquetes/2599031",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071679"
   },
   {
    "id": 2593228,
@@ -819,6 +931,22 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3061799"
   },
   {
+   "id": 2636544,
+   "sigla": "PL 3429/2026",
+   "ementa": "Altera a Lei nº 11.340 de 7 de agosto de 2006 – Lei Maria da Penha, para reconhecer como forma de violência doméstica e familiar a violência vicária contra animais de estimação",
+   "apresentacao": "2026-07-01",
+   "situacao": "Tramitando em Conjunto",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-27",
+   "andamento": "Designada Relatora, Dep. Sâmia Bomfim (PSOL-SP), para o PL 2404/2026, ao qual esta proposição está apensada.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636544",
+   "enquete": "https://www.camara.leg.br/enquetes/2636544",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155566"
+  },
+  {
    "id": 2642131,
    "sigla": "PL 4913/2026",
    "ementa": "Institui a Política de Fomento, Incentivo e Promoção do Empreendedorismo das Mulheres.",
@@ -833,6 +961,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642131",
    "enquete": "https://www.camara.leg.br/enquetes/2642131",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3168995"
+  },
+  {
+   "id": 2640668,
+   "sigla": "PL 3993/2026",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para incluir como circunstância agravante a prática de crime contra a mulher por motivação fundada em sentimento de posse, dominação, controle ou ciúme, em contexto de violência de gênero.",
+   "apresentacao": "2026-07-17",
+   "situacao": "Aguardando Parecer",
+   "orgao": "CMULHER",
+   "data_situacao": "2026-11-27",
+   "andamento": "Designada Relatora, Dep. Socorro Neri (PP-AC).",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640668",
+   "enquete": "https://www.camara.leg.br/enquetes/2640668",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164422"
   },
   {
    "id": 2641918,
@@ -1171,22 +1315,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3181356"
   },
   {
-   "id": 2642871,
-   "sigla": "PL 5017/2026",
-   "ementa": "Institui a Política Nacional de Cuidados para Mulheres Lésbicas, Bissexuais, Travestis e Transexuais (LBT) e estabelece diretrizes para a elaboração e a implementação do Plano Nacional de Cuidados para Mulheres LBT",
-   "apresentacao": "2026-08-12",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-11-25",
-   "andamento": "Recebimento pelo(a) CMULHER.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642871",
-   "enquete": "https://www.camara.leg.br/enquetes/2642871",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3170817"
-  },
-  {
    "id": 2641734,
    "sigla": "PL 4832/2026",
    "ementa": "Institui o Benefício Emergencial de Amparo à Mulher em Situação de Violência Doméstica e Familiar (BEAV), destinado a custear, com recursos públicos, o afastamento do trabalho da mulher para comparecimento a atos processuais, exames periciais e mudança de residência decorrentes de situação de violência doméstica, sem ônus ao empregador, e dá outras providências.",
@@ -1377,22 +1505,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2467664",
    "enquete": "https://www.camara.leg.br/enquetes/2467664",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2817836"
-  },
-  {
-   "id": 2646920,
-   "sigla": "PL 5439/2026",
-   "ementa": "Institui o Dia Nacional de Enfrentamento à Violência Sexual contra Crianças e Adolescentes no Ambiente Digital.",
-   "apresentacao": "2026-09-22",
-   "situacao": "Aguardando Encaminhamento",
-   "orgao": "CCP",
-   "data_situacao": "2026-11-25",
-   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 26/11/2026.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646920",
-   "enquete": "https://www.camara.leg.br/enquetes/2646920",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3181594"
   },
   {
    "id": 2644384,
@@ -2067,22 +2179,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164699"
   },
   {
-   "id": 2640996,
-   "sigla": "PL 4313/2026",
-   "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), a Lei nº 8.036, de 11 de maio de 1990, e a Lei nº 5.478, de 25 de julho de 1968, para aperfeiçoar os mecanismos de efetividade da execução de obrigação alimentar.",
-   "apresentacao": "2026-07-17",
-   "situacao": "Aguardando Encaminhamento",
-   "orgao": "CCP",
-   "data_situacao": "2026-11-16",
-   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 17/11/2026.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640996",
-   "enquete": "https://www.camara.leg.br/enquetes/2640996",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164763"
-  },
-  {
    "id": 2640898,
    "sigla": "PL 4218/2026",
    "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir diretrizes de articulação entre família, escola e sociedade na prevenção de práticas discriminatórias de gênero e da violência contra a mulher.",
@@ -2177,6 +2273,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599335",
    "enquete": "https://www.camara.leg.br/enquetes/2599335",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072246"
+  },
+  {
+   "id": 2595798,
+   "sigla": "PL 6348/2025",
+   "ementa": "Altera a Lei Maria da Penha para prever que mulheres vítimas de violência doméstica podem ser incluídas no Programa Federal de Assistência a Vítimas ameaçadas",
+   "apresentacao": "2025-12-10",
+   "situacao": "Aguardando Parecer",
+   "orgao": "MESA",
+   "data_situacao": "2026-11-13",
+   "andamento": "Apensação da proposição PL 4894/2026 à proposição PL 3601/2026.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2595798",
+   "enquete": "https://www.camara.leg.br/enquetes/2595798",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3065801"
   },
   {
    "id": 2418344,
@@ -2291,20 +2403,36 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164735"
   },
   {
-   "id": 2594593,
-   "sigla": "PL 6304/2025",
-   "ementa": "Altera o Código Civil e o Código de Processo Civil para dispor sobre o acesso a dados fiscais e financeiros do alimentante com o fim de apuração da real capacidade econômica para fixação e revisão de alimentos.",
-   "apresentacao": "2025-12-09",
-   "situacao": "Tramitando em Conjunto",
-   "orgao": "CPASF",
-   "data_situacao": "2026-11-13",
-   "andamento": "Apensação do PL 4287/2026 a esta proposição.",
+   "id": 2641733,
+   "sigla": "PL 4831/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o monitoramento e o rastreamento não consentido de pessoa, por meio de aplicativo, programa ou dispositivo instalado em equipamento de sua titularidade ou uso, como forma de violência doméstica e familiar contra a mulher; para estabelecer obrigações a provedores de aplicação e a prestadoras de serviço de telecomunicações para a prevenção e coibição dessas condutas; e dá outras providências.",
+   "apresentacao": "2026-07-30",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "orgao": "CCOM",
+   "data_situacao": "2026-11-12",
+   "andamento": "Recebimento pelo(a) CCOM, com a proposição PL-4863/2026 apensada.",
    "regime": "Ordinário (Art. 151, III, RICD)",
    "etapa": "Em análise nas comissões",
    "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2594593",
-   "enquete": "https://www.camara.leg.br/enquetes/2594593",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3064019"
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641733",
+   "enquete": "https://www.camara.leg.br/enquetes/2641733",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167350"
+  },
+  {
+   "id": 2640924,
+   "sigla": "PL 4244/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer diretrizes de atendimento prioritário e especializado às mulheres vítimas de violência doméstica para a regularização de documentos pessoais.",
+   "apresentacao": "2026-07-17",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "orgao": "CCP",
+   "data_situacao": "2026-11-12",
+   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 13/11/2026.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640924",
+   "enquete": "https://www.camara.leg.br/enquetes/2640924",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164691"
   },
   {
    "id": 2640580,
@@ -2337,22 +2465,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640531",
    "enquete": "https://www.camara.leg.br/enquetes/2640531",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164285"
-  },
-  {
-   "id": 2611195,
-   "sigla": "PL 1322/2026",
-   "ementa": "Dispõe sobre a criação de plataforma tecnológica para notificação em tempo real às vítimas de violência doméstica e familiar acerca da aproximação de agressores submetidos a medidas protetivas de urgência e monitoramento eletrônico.",
-   "apresentacao": "2026-03-23",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-11-12",
-   "andamento": "Recebimento pelo(a) CMULHER.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611195",
-   "enquete": "https://www.camara.leg.br/enquetes/2611195",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3102607"
   },
   {
    "id": 2607443,
@@ -2449,6 +2561,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640917",
    "enquete": "https://www.camara.leg.br/enquetes/2640917",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164684"
+  },
+  {
+   "id": 2641755,
+   "sigla": "PL 4845/2026",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, e a Lei nº 12.965, de 23 de abril de 2014 - Marco Civil da Internet, para majorar penas quando o crime contra a honra for cometido contra criança e adolescente com o fim específico de obter engajamento, viralização ou vantagem econômica, e para estabelecer medidas de proteção à imagem, à honra e à privacidade de criança e adolescente em ambiente digital, bem como dever de disponibilização de canal de notificação pelos provedores de aplicação.",
+   "apresentacao": "2026-07-31",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "orgao": "CCOM",
+   "data_situacao": "2026-11-12",
+   "andamento": "Recebimento pelo(a) CCOM.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "criancas",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641755",
+   "enquete": "https://www.camara.leg.br/enquetes/2641755",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167664"
   },
   {
    "id": 2640899,
@@ -2835,20 +2963,20 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164543"
   },
   {
-   "id": 2640754,
-   "sigla": "PL 4078/2026",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para explicitar que o dano moral decorrente da violência doméstica e familiar contra a mulher é presumido e independe de prova específica do sofrimento experimentado pela vítima.",
+   "id": 2640787,
+   "sigla": "PL 4109/2026",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para instituir diretrizes de busca ativa integrada voltadas à identificação civil e à garantia do acesso e permanência na educação básica de crianças e adolescentes em territórios de difícil acesso.",
    "apresentacao": "2026-07-17",
-   "situacao": "Aguardando Encaminhamento",
-   "orgao": "CCP",
-   "data_situacao": "2026-11-09",
-   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 10/11/2026.",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "orgao": "CPASF",
+   "data_situacao": "2026-11-10",
+   "andamento": "Recebimento pelo(a) CPASF, com a proposição PL-4169/2026 apensada.",
    "regime": "Ordinário (Art. 151, III, RICD)",
    "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640754",
-   "enquete": "https://www.camara.leg.br/enquetes/2640754",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164508"
+   "tema": "criancas",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640787",
+   "enquete": "https://www.camara.leg.br/enquetes/2640787",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164542"
   },
   {
    "id": 2640753,
@@ -2979,22 +3107,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2849858"
   },
   {
-   "id": 2640668,
-   "sigla": "PL 3993/2026",
-   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para incluir como circunstância agravante a prática de crime contra a mulher por motivação fundada em sentimento de posse, dominação, controle ou ciúme, em contexto de violência de gênero.",
-   "apresentacao": "2026-07-17",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-11-06",
-   "andamento": "Recebimento pelo(a) CMULHER.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640668",
-   "enquete": "https://www.camara.leg.br/enquetes/2640668",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164422"
-  },
-  {
    "id": 2640475,
    "sigla": "PL 3802/2026",
    "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a fim de estabelecer causa de aumento de pena para os crimes de lesão corporal, maus-tratos e de exposição a perigo quando praticados contra pessoa idosa no âmbito doméstico, familiar ou por quem detenha a obrigação de cuidado, guarda ou vigilância.",
@@ -3057,6 +3169,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640685",
    "enquete": "https://www.camara.leg.br/enquetes/2640685",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164439"
+  },
+  {
+   "id": 2482876,
+   "sigla": "PL 256/2025",
+   "ementa": "Dispõe sobre a tipificação do estupro no contexto de relações conjugais e de afeto.",
+   "apresentacao": "2025-02-04",
+   "situacao": "Tramitando em Conjunto",
+   "orgao": "CCJC",
+   "data_situacao": "2026-11-06",
+   "andamento": "Apensação do PL 4025/2026 a esta proposição.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482876",
+   "enquete": "https://www.camara.leg.br/enquetes/2482876",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2850991"
   },
   {
    "id": 2640703,
@@ -3139,22 +3267,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164414"
   },
   {
-   "id": 2640650,
-   "sigla": "PL 3975/2026",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para instituir diretrizes de atendimento interseccional e de fomento à capilaridade da rede de proteção em municípios de pequeno porte, e dá outras providências.",
-   "apresentacao": "2026-07-17",
-   "situacao": "Aguardando Encaminhamento",
-   "orgao": "CCP",
-   "data_situacao": "2026-11-05",
-   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 06/11/2026.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640650",
-   "enquete": "https://www.camara.leg.br/enquetes/2640650",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164404"
-  },
-  {
    "id": 2640612,
    "sigla": "PL 3937/2026",
    "ementa": "Altera a Lei nº 13.718, de 24 de setembro de 2018, para estabelecer diretrizes nacionais para a criação de protocolos de prevenção e combate à importunação sexual em pontos turísticos e locais de alta frequentação pública, e dá outras providências.",
@@ -3171,22 +3283,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164366"
   },
   {
-   "id": 2640587,
-   "sigla": "PL 3912/2026",
-   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para instituir ações pedagógicas de prevenção à violência doméstica, ao feminicídio e ao abuso infantil na educação básica.",
-   "apresentacao": "2026-07-17",
-   "situacao": "Aguardando Apensação",
-   "orgao": "CCJC",
-   "data_situacao": "2026-11-05",
-   "andamento": "Recebimento pelo(a) CCJC.",
-   "regime": "Urgência (Art. 155, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640587",
-   "enquete": "https://www.camara.leg.br/enquetes/2640587",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164341"
-  },
-  {
    "id": 2640542,
    "sigla": "PL 3867/2026",
    "ementa": "Institui a Política Nacional de Atenção Integral à Saúde Bucal de Mulheres Vítimas de Violência Doméstica com Traumas Maxilofaciais, assegurando tratamento odontológico restaurador, reabilitador e protético no âmbito do Sistema Único de Saúde – SUS.",
@@ -3201,38 +3297,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640542",
    "enquete": "https://www.camara.leg.br/enquetes/2640542",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164296"
-  },
-  {
-   "id": 2599031,
-   "sigla": "PL 6654/2025",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incorporar a perspectiva da equidade racial no combate à violência contra a mulher.",
-   "apresentacao": "2025-12-22",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-11-05",
-   "andamento": "Apensação do PL 3975/2026 a esta proposição.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599031",
-   "enquete": "https://www.camara.leg.br/enquetes/2599031",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071679"
-  },
-  {
-   "id": 2640666,
-   "sigla": "PL 3991/2026",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para explicitar hipóteses de descumprimento de medida protetiva de urgência relacionadas à monitoração eletrônica regularmente imposta ao agressor.",
-   "apresentacao": "2026-07-17",
-   "situacao": "Aguardando Encaminhamento",
-   "orgao": "CCP",
-   "data_situacao": "2026-11-05",
-   "andamento": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 06/11/2026.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640666",
-   "enquete": "https://www.camara.leg.br/enquetes/2640666",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164420"
   },
   {
    "id": 2640517,
@@ -3377,22 +3441,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640569",
    "enquete": "https://www.camara.leg.br/enquetes/2640569",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164323"
-  },
-  {
-   "id": 2640567,
-   "sigla": "PL 3892/2026",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para assegurar acompanhamento psicológico especializado e continuado às mulheres vítimas de violência doméstica e familiar durante período mínimo de tratamento.",
-   "apresentacao": "2026-07-17",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CSAUDE",
-   "data_situacao": "2026-11-04",
-   "andamento": "Recebimento pelo(a) CSAUDE.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640567",
-   "enquete": "https://www.camara.leg.br/enquetes/2640567",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164321"
   },
   {
    "id": 2640560,
@@ -3763,22 +3811,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157419"
   },
   {
-   "id": 2624867,
-   "sigla": "PL 2404/2026",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha)  para incluir como forma de violência vicária a prática de maus-tratos, mutilação ou morte de animal de estimação com a finalidade de atingir emocionalmente a mulher",
-   "apresentacao": "2026-05-14",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-10-29",
-   "andamento": "Apensação do PL 3429/2026 a esta proposição.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624867",
-   "enquete": "https://www.camara.leg.br/enquetes/2624867",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3130316"
-  },
-  {
    "id": 2618125,
    "sigla": "PL 1952/2026",
    "ementa": "Dispõe sobre o Programa de Promoção da Autonomia Econômica das Mulheres (PPAEM) em situação de violência doméstica e familiar.",
@@ -3809,22 +3841,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604749",
    "enquete": "https://www.camara.leg.br/enquetes/2604749",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3088116"
-  },
-  {
-   "id": 2636544,
-   "sigla": "PL 3429/2026",
-   "ementa": "Altera a Lei nº 11.340 de 7 de agosto de 2006 – Lei Maria da Penha, para reconhecer como forma de violência doméstica e familiar a violência vicária contra animais de estimação",
-   "apresentacao": "2026-07-01",
-   "situacao": "Tramitando em Conjunto",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-10-29",
-   "andamento": "Apensação desta proposição ao PL 2404/2026.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636544",
-   "enquete": "https://www.camara.leg.br/enquetes/2636544",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155566"
   },
   {
    "id": 2494638,
@@ -3939,6 +3955,22 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147051"
   },
   {
+   "id": 2486460,
+   "sigla": "PL 891/2025",
+   "ementa": "Altera a Lei nº 11.340/2016 (Lei Maria da Penha) para incluir a previsão de que a lei abrange as relações afetivo-familiares de casais homoafetivos, inclusive do sexo masculino, ou que envolvam travestis e mulheres transexuais",
+   "apresentacao": "2025-03-11",
+   "situacao": "Aguardando Encaminhamento",
+   "orgao": "CDHMIR",
+   "data_situacao": "2026-10-28",
+   "andamento": "Aprovado o Parecer.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2486460",
+   "enquete": "https://www.camara.leg.br/enquetes/2486460",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2865056"
+  },
+  {
    "id": 2617240,
    "sigla": "PL 1889/2026",
    "ementa": "Institui a Política Nacional de Prevenção, Proteção e Reparação Integral do Feminicídio; cria o Sistema Nacional de Prevenção ao Feminicídio (SINAPFEM) e a Central Nacional de Monitoramento e Resposta ao Feminicídio (CENAREFEM); institui o \tObservatório Nacional Independente do Feminicídio (ONAFEM); cria o Programa Nacional de Reabilitação de Agressores (PRONARA); estabelece protocolo obrigatório de revisão de óbitos por feminicídio; incorpora a violência digital como fator de risco; tipifica o crime de omissão protetora institucional; e dá outras providências.",
@@ -4017,6 +4049,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633130",
    "enquete": "https://www.camara.leg.br/enquetes/2633130",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148440"
+  },
+  {
+   "id": 2491063,
+   "sigla": "PL 1318/2025",
+   "ementa": "Institui o Estatuto da Pessoa Intersexo (Lei Jacob Cristopher) e dá outras providências.",
+   "apresentacao": "2025-03-31",
+   "situacao": "Aguardando Encaminhamento",
+   "orgao": "CDHMIR",
+   "data_situacao": "2026-10-28",
+   "andamento": "Aprovado o Parecer.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em análise nas comissões",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491063",
+   "enquete": "https://www.camara.leg.br/enquetes/2491063",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2875300"
   },
   {
    "id": 2397055,
@@ -4193,22 +4241,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637144",
    "enquete": "https://www.camara.leg.br/enquetes/2637144",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157148"
-  },
-  {
-   "id": 2636061,
-   "sigla": "PL 3391/2026",
-   "ementa": "Dispõe sobre medidas de verificação e proteção da livre manifestação de vontade em atos processuais e notariais que envolvam indícios de violência doméstica, familiar ou patrimonial; estabelece preferência por atos presenciais, procedimento reservado e documentado de verificação prévia quando realizados virtualmente, protocolo de sinalização discreta para acionamento da rede de proteção, obrigação de orientação sobre canais de apoio, capacitação periódica de operadores e sanções administrativas para o descumprimento; altera normas correlatas e dá outras providências.",
-   "apresentacao": "2026-07-01",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-09-10",
-   "andamento": "Recebimento pelo(a) CMULHER.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636061",
-   "enquete": "https://www.camara.leg.br/enquetes/2636061",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154795"
   },
   {
    "id": 2462013,
@@ -4851,22 +4883,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3097645"
   },
   {
-   "id": 2607597,
-   "sigla": "PL 1045/2026",
-   "ementa": "Altera a Lei Maria da Penha para instituir mecanismos de monitoramento urbano integrado destinados à prevenção e repressão da violência doméstica e familiar contra a mulher.",
-   "apresentacao": "2026-03-09",
-   "situacao": "Aguardando Parecer",
-   "orgao": "CMULHER",
-   "data_situacao": "2026-09-01",
-   "andamento": "Encerrado o prazo de 5 sessões para apresentação de emendas ao projeto (de 20/07/2026 a 01/09/2026). Não foram apresentadas emendas.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607597",
-   "enquete": "https://www.camara.leg.br/enquetes/2607597",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3094353"
-  },
-  {
    "id": 2605537,
    "sigla": "PL 836/2026",
    "ementa": "Dispõe sobre a obrigatoriedade da afixação de cartazes em locais públicos e privados de grande aglomeração de pessoas, visando à proteção das mulheres.",
@@ -5203,22 +5219,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3002302"
   },
   {
-   "id": 2610970,
-   "sigla": "PL 1302/2026",
-   "ementa": "Institui o Programa Novas Masculinidades para Igualdade nas escolas públicas de educação básica, destinado à promoção de ações educativas voltadas à prevenção da violência contra mulheres e meninas, à formação cidadã dos estudantes e ao fortalecimento de relações baseadas no respeito, igualdade e convivência democrática.",
-   "apresentacao": "2026-03-19",
-   "situacao": "Aguardando Designação de Relator(a)",
-   "orgao": "CE",
-   "data_situacao": "2026-08-25",
-   "andamento": "Devolvida pelo Relator sem Manifestação.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em análise nas comissões",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610970",
-   "enquete": "https://www.camara.leg.br/enquetes/2610970",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3102080"
-  },
-  {
    "id": 2632589,
    "sigla": "PL 3129/2026",
    "ementa": "Dispõe sobre a proibição da fabricação, comercialização, armazenamento, transporte e uso de linhas produzidas a partir da mistura de cola com vidro moído ou materiais com substancias abrasivas ou similares aptas a lesionar a integridade física de outrem; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente); e dá outras providências.",
@@ -5443,20 +5443,20 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2187080"
   },
   {
-   "id": 2326046,
-   "sigla": "PL 1492/2022",
-   "ementa": "Dispõe sobre a proibição da produção, da importação, da comercialização e da publicidade de Dispositivos Eletrônicos para Fumar, bem como dos acessórios e refis desses produtos, altera a Lei nº 9.294, de 15 de julho de 1996, para reforçar a proibição uso desses produtos em recintos coletivos fechados, privados ou públicos, e altera a Lei nº 8.069, de 13 de julho de 1990, para dispor sobre a punição daquele que fornecer esses produtos a crianças ou a adolescentes.",
-   "apresentacao": "2022-06-06",
-   "situacao": "",
-   "orgao": "CICS",
-   "data_situacao": "2026-08-11",
-   "andamento": "Designado Relator, Dep. Heitor Schuch (PSD-RS), para o PL 6387/2019 (Nº Anterior: PLS 769/2015), ao qual esta proposição está apensada.",
+   "id": 2075458,
+   "sigla": "PL 4074/2015",
+   "ementa": "Altera o art. 2º  da Lei nº 9.294, de 15 de julho de 1996, e o art. 243 da Lei nº  8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para vedar o uso de produto fumígeno derivado do tabaco em veículos automotores, públicos ou privados, quando neles esteja gestante, criança ou adolescente, e tipificar tal conduta como crime.",
+   "apresentacao": "2015-12-16",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "orgao": "CCJC",
+   "data_situacao": "2026-08-06",
+   "andamento": "O Relator, Dep. Sérgio Turra, deixou de ser membro da Comissão",
    "regime": "Prioridade (Art. 151, II, RICD)",
    "etapa": "Em análise nas comissões",
    "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2326046",
-   "enquete": "https://www.camara.leg.br/enquetes/2326046",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2181409"
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2075458",
+   "enquete": "https://www.camara.leg.br/enquetes/2075458",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1425167"
   },
   {
    "id": 2627634,
@@ -5539,22 +5539,6 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183470"
   },
   {
-   "id": 2394518,
-   "sigla": "PL 4887/2023",
-   "ementa": "Cria o Protocolo de Acolhimento  e Atendimento às vítimas de discriminação racial e condutas análogas nos estabelecimentos de ensino do país, altera as Leis nº 13.431, de 4 de abril de 2017, e nº 8.069, de 13 de julho de 1990, e dá outras providências.",
-   "apresentacao": "2023-10-09",
-   "situacao": "Aguardando Autógrafos na Mesa",
-   "orgao": "MESA",
-   "data_situacao": "2026-11-25",
-   "andamento": "Desapensação dos Projetos de Lei nºs 4.898, de 2023, e 1.445, de 2024, apensados, em face da aprovação, em Plenário, do Substitutivo ao Projeto de Lei nº 4.887, de 2023, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. (Sessão Deliberativa Extra",
-   "regime": "Urgência (Art. 155, RICD)",
-   "etapa": "Em tramitação",
-   "tema": "criancas",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2394518",
-   "enquete": "https://www.camara.leg.br/enquetes/2394518",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2341913"
-  },
-  {
    "id": 2649652,
    "sigla": "PL 5711/2026",
    "ementa": "Altera a Lei nº 12.845, de 1º de agosto de 2013, para dispor sobre a padronização, a preservação, o prazo de processamento e a inserção em bancos de perfis genéticos dos vestígios biológicos coletados no atendimento às pessoas em situação de violência sexual.",
@@ -5569,6 +5553,22 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649652",
    "enquete": "https://www.camara.leg.br/enquetes/2649652",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187867"
+  },
+  {
+   "id": 2649650,
+   "sigla": "PL 5709/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para determinar a busca e apreensão de armas do agressor, inclusive as de fabricação artesanal, na concessão de medidas protetivas de urgência, dispor sobre a comunicação imediata da decisão aos órgãos de segurança pública e aumentar a pena do descumprimento de medida protetiva praticado com emprego de arma.",
+   "apresentacao": "2026-10-30",
+   "situacao": "",
+   "orgao": "MESA",
+   "data_situacao": "2026-11-19",
+   "andamento": "Às Comissões deSegurança Pública e Combate ao Crime Organizado;Defesa dos Direitos da Mulher eConstituição e Justiça e de Cidadania (Mérito e Art. 54, RICD).Proposição Sujeita à Apreciação do Plenário.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em tramitação",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649650",
+   "enquete": "https://www.camara.leg.br/enquetes/2649650",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187865"
   },
   {
    "id": 2649524,
@@ -5603,36 +5603,20 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187476"
   },
   {
-   "id": 2648942,
-   "sigla": "PL 5666/2026",
-   "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, que institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, para dispor sobre a atenção às especificidades de meninas e mulheres com Transtorno do Espectro Autista.",
-   "apresentacao": "2026-10-27",
+   "id": 2647650,
+   "sigla": "PL 5562/2026",
+   "ementa": "Altera a Lei nº 12.845, de 1º de agosto de 2013, para assegurar atendimento integral em saúde mental às pessoas em situação de violência sexual, garantindo prioridade no atendimento psicológico e psiquiátrico, acesso aos medicamentos padronizados pelo Sistema Único de Saúde e utilização da rede complementar quando necessário.",
+   "apresentacao": "2026-10-14",
    "situacao": "",
    "orgao": "MESA",
    "data_situacao": "2026-11-19",
-   "andamento": "Às Comissões deSaúde;Defesa dos Direitos das Pessoas com Deficiência;Defesa dos Direitos da Mulher;Finanças e Tributação (Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art",
+   "andamento": "Às Comissões deSaúde eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
    "regime": "Ordinário (Art. 151, III, RICD)",
    "etapa": "Em tramitação",
    "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648942",
-   "enquete": "https://www.camara.leg.br/enquetes/2648942",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3186212"
-  },
-  {
-   "id": 2648420,
-   "sigla": "PL 5613/2026",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prazo para instalação de equipamento de monitoração eletrônica e incentivar ações de policiamento preventivo no enfrentamento à violência doméstica e familiar contra a mulher.",
-   "apresentacao": "2026-10-20",
-   "situacao": "",
-   "orgao": "MESA",
-   "data_situacao": "2026-11-19",
-   "andamento": "Às Comissões deSegurança Pública e Combate ao Crime Organizado;Defesa dos Direitos da Mulher eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em tramitação",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648420",
-   "enquete": "https://www.camara.leg.br/enquetes/2648420",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3185115"
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647650",
+   "enquete": "https://www.camara.leg.br/enquetes/2647650",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183907"
   },
   {
    "id": 2647320,
@@ -5729,22 +5713,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428597",
    "enquete": "https://www.camara.leg.br/enquetes/2428597",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2411530"
-  },
-  {
-   "id": 2323797,
-   "sigla": "PL 1299/2022",
-   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, que cria mecanismos para coibir a violência doméstica e familiar contra a mulher, nos termos do § 8º do art. 226 da Constituição Federal, da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres; e dá outras providências, acrescentando § ao art.9º",
-   "apresentacao": "2022-05-18",
-   "situacao": "Aguardando Apreciação pelo Senado Federal",
-   "orgao": "MESA",
-   "data_situacao": "2026-11-16",
-   "andamento": "Remessa ao Senado Federal por meio do Of. nº 755/2026/PS-GSE",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em tramitação",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2323797",
-   "enquete": "https://www.camara.leg.br/enquetes/2323797",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2172491"
   },
   {
    "id": 2504604,
@@ -5891,6 +5859,22 @@
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3102105"
   },
   {
+   "id": 2605370,
+   "sigla": "PL 812/2026",
+   "ementa": "Institui o Sistema Nacional de Monitoramento Eletrônico Preventivo com Alerta de Proximidade em Situações de Violência Doméstica e Familiar contra a Mulher – SINAMEP, estabelece normas gerais para a imposição, execução, fiscalização, governança, interoperabilidade e financiamento do monitoramento eletrônico preventivo, com vinculação obrigatória aos sistemas de segurança pública e mecanismo de alerta à vítima, e dá outras providências.",
+   "apresentacao": "2026-02-27",
+   "situacao": "Tramitando em Conjunto",
+   "orgao": "MESA",
+   "data_situacao": "2026-11-13",
+   "andamento": "Apensação da proposição PL 5090/2026 à proposição PL 3152/2026.",
+   "regime": "Ordinário (Art. 151, III, RICD)",
+   "etapa": "Em tramitação",
+   "tema": "mulheres",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605370",
+   "enquete": "https://www.camara.leg.br/enquetes/2605370",
+   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3089707"
+  },
+  {
    "id": 2645057,
    "sigla": "PL 5240/2026",
    "ementa": "Institui a Política Nacional \"Rede Recomeço\", voltada ao incentivo da autonomia financeira, empregabilidade, qualificação profissional e suporte socioeconômico para mulheres vítimas de violência doméstica e familiar; e altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha).",
@@ -6017,22 +6001,6 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649521",
    "enquete": "https://www.camara.leg.br/enquetes/2649521",
    "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187474"
-  },
-  {
-   "id": 2333978,
-   "sigla": "PL 2268/2022",
-   "ementa": "Aumenta a pena de violência política de gênero.",
-   "apresentacao": "2022-08-11",
-   "situacao": "Tramitando em Conjunto",
-   "orgao": "MESA",
-   "data_situacao": "2026-10-29",
-   "andamento": "Apensação da proposição PL 4252/2026 à proposição PL 2565/2024.",
-   "regime": "Ordinário (Art. 151, III, RICD)",
-   "etapa": "Em tramitação",
-   "tema": "mulheres",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2333978",
-   "enquete": "https://www.camara.leg.br/enquetes/2333978",
-   "teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2202755"
   },
   {
    "id": 2450072,
